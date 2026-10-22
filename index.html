@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Veille quotidienne des innovations de paiement et de la monétique : Bénin, UEMOA, Afrique et monde.">
+<meta name="theme-color" content="#0A6B5C">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230A6B5C'/%3E%3Crect x='6' y='10' width='20' height='13' rx='2' fill='none' stroke='white' stroke-width='2'/%3E%3Crect x='9' y='14' width='5' height='4' fill='%23E2B456'/%3E%3C/svg%3E">
+<style>html{color-scheme:light}body{margin:0}img{max-width:100%}[hidden]{display:none!important}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style>
+<title>Veille Monétique UEMOA</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: briefing first (point de la semaine, à la une, échéances), then two views: radar of payment technologies / feed of new services. */
+:root{
+  --bg:#F3F5F4; --surface:#FFFFFF; --fg:#14211D; --muted:#5B6A65; --line:#D7DFDB;
+  --accent:#0A6B5C; --accent-soft:#DDEFEA; --gold:#8F6210; --gold-soft:#F6ECD6; --gold-line:#E2C27F;
+  --s-ici:#0A6B5C; --s-ici-bg:#DDEFEA; --s-em:#8F6210; --s-em-bg:#F6ECD6; --s-mon:#5A4FA8; --s-mon-bg:#E9E6F7;
+  --hot:#B3361F;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0F1614; --surface:#16201D; --fg:#E6EEEB; --muted:#93A39E; --line:#283632;
+  --accent:#4FC7B0; --accent-soft:#163631; --gold:#E2B456; --gold-soft:#2E2617; --gold-line:#6B5424;
+  --s-ici:#4FC7B0; --s-ici-bg:#163631; --s-em:#E2B456; --s-em-bg:#33291A; --s-mon:#AFA5F0; --s-mon-bg:#262245; --hot:#F08A72; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0F1614; --surface:#16201D; --fg:#E6EEEB; --muted:#93A39E; --line:#283632;
+  --accent:#4FC7B0; --accent-soft:#163631; --gold:#E2B456; --gold-soft:#2E2617; --gold-line:#6B5424;
+  --s-ici:#4FC7B0; --s-ici-bg:#163631; --s-em:#E2B456; --s-em-bg:#33291A; --s-mon:#AFA5F0; --s-mon-bg:#262245; --hot:#F08A72; color-scheme:dark}
+
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.55}
+.wrap{max-width:800px;margin:0 auto;padding-block:28px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:24px}
+header{display:flex;flex-direction:column;gap:10px}
+.stamp{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 14px}
+.stamp b{color:var(--accent);font-weight:500}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,7vw,46px);line-height:1.02;margin:0;text-wrap:balance;letter-spacing:-.01em}
+h1 span{color:var(--accent)}
+.lede{margin:0;color:var(--muted);max-width:62ch}
+.sec-h{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px;font-weight:500;display:flex;align-items:center;gap:8px}
+.sec-h::after{content:"";flex:1;height:1px;background:var(--line)}
+
+/* Point de la semaine */
+.brief{background:var(--fg);color:var(--bg);border-radius:14px;padding:20px 22px;display:flex;flex-direction:column;gap:10px}
+.brief .k{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;opacity:.75}
+.brief h2{font-family:var(--display);font-weight:500;font-size:22px;line-height:1.2;margin:0;text-wrap:balance}
+.brief p{margin:0;opacity:.92}
+.brief ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
+
+/* À la une */
+.une{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.hl{background:var(--gold-soft);border:1px solid var(--gold-line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.hl .meta{color:var(--muted)}
+.hl h3{font-family:var(--display);font-weight:500;font-size:18px;line-height:1.25;margin:0;text-wrap:balance}
+.hl p{margin:0;font-size:14px}
+.hl .why{font-size:14px}
+.hl .why b{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);display:block;margin-bottom:2px}
+.flag{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold);font-weight:500}
+
+/* Échéances */
+.deadlines{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:12px;background:var(--surface);overflow:hidden}
+.dl{display:grid;grid-template-columns:118px 1fr;gap:12px;padding:12px 16px;border-top:1px solid var(--line)}
+.dl:first-child{border-top:0}
+.dl .when{font-family:var(--mono);font-size:13px;font-variant-numeric:tabular-nums}
+.dl .when small{display:block;color:var(--muted);font-size:11px}
+.dl .when.soon{color:var(--hot)}
+.dl .what{min-width:0}
+.dl .what strong{font-weight:600}
+.dl .what p{margin:2px 0 0;font-size:14px;color:var(--muted)}
+.dl a{color:var(--accent);font-size:13px;text-decoration:none;font-weight:500}
+
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);overflow-x:auto}
+.tab{font:500 15px var(--body);background:none;border:0;color:var(--muted);padding:10px 12px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
+.tab[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
+.tab:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.tab .n{font-family:var(--mono);font-size:12px;color:var(--muted);margin-left:4px}
+
+.tools{display:flex;flex-direction:column;gap:10px}
+.search{width:100%;box-sizing:border-box;font:inherit;padding:11px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--fg)}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font-family:var(--mono);font-size:12px;padding:6px 11px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+.chip .n{color:var(--muted)}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.chip[aria-pressed="true"] .n{color:inherit;opacity:.75}
+.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chips.zone .chip[aria-pressed="true"]{background:var(--fg);border-color:var(--fg)}
+
+.status{font-family:var(--mono);font-size:11px;letter-spacing:.04em;text-transform:uppercase;padding:3px 8px;border-radius:5px;white-space:nowrap}
+.st-ici{color:var(--s-ici);background:var(--s-ici-bg)}
+.st-em{color:var(--s-em);background:var(--s-em-bg)}
+.st-mon{color:var(--s-mon);background:var(--s-mon-bg)}
+.badges{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+
+.list{display:flex;flex-direction:column;gap:12px}
+details.tech{background:var(--surface);border:1px solid var(--line);border-radius:12px}
+details.tech.prio{border-color:var(--gold-line)}
+details.tech summary{list-style:none;cursor:pointer;padding:16px 18px;display:flex;flex-direction:column;gap:6px}
+details.tech summary::-webkit-details-marker{display:none}
+details.tech summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:12px}
+.sumtop{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.tech h2{font-family:var(--display);font-weight:500;font-size:20px;line-height:1.2;margin:0;text-wrap:balance}
+.pitch{margin:0;color:var(--muted);font-size:14.5px}
+.more{font-size:13px;color:var(--accent);font-weight:500}
+details[open] .more{display:none}
+.body{padding:14px 18px 18px;display:grid;gap:14px;border-top:1px dashed var(--line)}
+.body h3{font-family:var(--mono);font-size:11px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:0 0 4px;font-weight:500}
+.body p{margin:0}
+.opp{background:var(--gold-soft);border-radius:8px;padding:10px 12px}
+.opp h3{color:var(--gold)}
+.ex{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px}
+.ex li{font-size:14px;padding-left:12px;border-left:2px solid var(--line)}
+.ex .src{display:block;font-size:12px;color:var(--muted)}
+a{color:var(--accent)}
+.ex a,.item a,.hl a{color:var(--accent);font-weight:500;text-decoration:none}
+.ex a:hover,.item a:hover,.hl a:hover,a:focus-visible{text-decoration:underline}
+.terms{display:flex;flex-wrap:wrap;gap:6px}
+.term{font-family:var(--mono);font-size:12px;border:1px solid var(--line);border-radius:5px;padding:2px 7px}
+.linkbtn{background:none;border:0;padding:0;font:500 14px var(--body);color:var(--accent);cursor:pointer;text-align:left;width:fit-content}
+.linkbtn:hover{text-decoration:underline}
+
+.item{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px;display:grid;grid-template-columns:62px 1fr;gap:4px 16px}
+.item.ess{border-color:var(--gold-line);background:linear-gradient(var(--gold-soft),var(--gold-soft)) top/100% 4px no-repeat,var(--surface)}
+.date{font-family:var(--mono);color:var(--muted);font-size:12px;line-height:1.3;border-right:1px dashed var(--line);padding-right:10px}
+.date strong{display:block;font-size:22px;color:var(--fg);font-weight:500}
+.content{min-width:0;display:flex;flex-direction:column;gap:7px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:12px;color:var(--muted)}
+.tag{font-family:var(--mono);font-size:11px;letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:5px;background:var(--accent-soft);color:var(--accent)}
+.item h2{font-family:var(--display);font-weight:500;font-size:19px;line-height:1.25;margin:0;text-wrap:balance}
+.item p{margin:0}
+.retenir{font-size:14px;background:var(--gold-soft);border-radius:8px;padding:8px 11px}
+.retenir b{color:var(--gold);font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;margin-right:6px}
+.new{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--hot);border:1px solid var(--hot);border-radius:4px;padding:1px 5px}
+.empty{border:1px dashed var(--line);border-radius:12px;padding:28px 20px;text-align:center;color:var(--muted)}
+.empty h2{font-family:var(--display);font-weight:500;color:var(--fg);margin:0 0 6px;font-size:20px}
+footer{border-top:1px solid var(--line);padding-top:18px;font-size:13px;color:var(--muted)}
+@media (max-width:480px){.item{grid-template-columns:1fr}.date{border-right:0;border-bottom:1px dashed var(--line);padding:0 0 6px;display:flex;gap:6px;align-items:baseline}.date strong{display:inline;font-size:16px}.sumtop{flex-direction:column;gap:6px}.dl{grid-template-columns:1fr;gap:4px}}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="stamp"><span>UEMOA · Monde</span><span>Innovations de paiement</span><span id="maj">Mise à jour : <b>en attente</b></span></div>
+    <h1>Veille <span>Monétique</span></h1>
+    <p class="lede">Les nouveaux moyens de paiement et les progrès technologiques de la banque, au Bénin, dans l'UEMOA et dans le monde. Ce qui compte le plus est mis en avant en premier.</p>
+  </header>
+
+  <section id="s-brief" hidden><h2 class="sec-h">Le point de la semaine</h2><div class="brief" id="brief"></div></section>
+  <section id="s-une" hidden><h2 class="sec-h">À la une · essentiel pour vous</h2><div class="une" id="une"></div></section>
+  <section id="s-dl" hidden><h2 class="sec-h">Échéances à venir</h2><div class="deadlines" id="dls"></div></section>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab" role="tab" id="t-fil" aria-selected="true" data-v="fil">Nouveautés<span class="n" id="n-fil"></span></button>
+    <button class="tab" role="tab" id="t-radar" aria-selected="false" data-v="radar">Radar des technologies<span class="n" id="n-radar"></span></button>
+  </nav>
+
+  <div class="tools">
+    <input class="search" id="q" type="search" placeholder="Rechercher : tokenisation, PI-SPI, stablecoin, Visa…" aria-label="Rechercher">
+    <div class="chips zone" id="zones" role="group" aria-label="Filtrer par zone"></div>
+    <div class="chips" id="chips" role="group" aria-label="Filtrer par thème"></div>
+  </div>
+
+  <div id="v-fil"><div class="list" id="feed"><div class="empty"><h2>Chargement…</h2><p>Les nouveautés apparaîtront ici.</p></div></div></div>
+  <div id="v-radar" hidden><div class="list" id="radar"><div class="empty"><h2>Chargement du radar…</h2><p>Les fiches des technologies de paiement apparaîtront ici.</p></div></div></div>
+
+  <footer>Sources suivies chaque jour : BCEAO, GIM-UEMOA, banques et fintechs du Bénin et de l'UEMOA, Visa, Mastercard, UnionPay, Swift, BCE, GSMA, Financial Afrik, Agence Ecofin, TechCabal, Finextra, The Paypers, PaymentsJournal. Chaque information renvoie vers sa source.</footer>
+</div>
+
+<script>
+const ST={ici:["st-ici","Déjà dans l'UEMOA"],em:["st-em","Émerge en Afrique"],mon:["st-mon","Dans le monde"]};
+const ZONES=["Bénin","UEMOA","Afrique","International"];
+let techs=[],arts=[],dls=[],brief=null,view="fil",filt="Tous",zone="Toutes",query="",techF=null;
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const okUrl=u=>typeof u==="string"&&/^https?:\/\//.test(u);
+const MOIS=["JANV","FÉVR","MARS","AVR","MAI","JUIN","JUIL","AOÛT","SEPT","OCT","NOV","DÉC"];
+const D=d=>new Date(String(d)+"T12:00:00");
+const fmt=d=>{const x=D(d);return isNaN(x)?esc(d):x.toLocaleDateString("fr-FR",{day:"numeric",month:"short",year:"numeric"})};
+const has=(o,q)=>!q||JSON.stringify(o).toLowerCase().includes(q);
+const today=()=>{const t=new Date();t.setHours(0,0,0,0);return t};
+const isNew=a=>a.ajoute&&new Date(a.ajoute).getTime()>Date.now()-2*864e5;
+
+function setView(v){view=v;filt="Tous";techF=null;
+  $("#t-radar").setAttribute("aria-selected",v==="radar");$("#t-fil").setAttribute("aria-selected",v==="fil");
+  $("#v-radar").hidden=v!=="radar";$("#v-fil").hidden=v!=="fil";$("#zones").hidden=v!=="fil";render()}
+
+function renderBrief(){
+  const ok=brief&&brief.texte;$("#s-brief").hidden=!ok;if(!ok)return;
+  $("#brief").innerHTML=`<span class="k">${esc(brief.periode||"Cette semaine")}</span><h2>${esc(brief.titre||"Ce qu'il faut retenir")}</h2><p>${esc(brief.texte)}</p>${brief.points?.length?`<ul>${brief.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`:""}`;
+}
+function renderUne(){
+  const list=arts.filter(a=>a.essentiel).slice(0,4);$("#s-une").hidden=!list.length;if(!list.length)return;
+  $("#une").innerHTML=list.map(a=>`<article class="hl"><div class="meta"><span class="flag">Essentiel</span><span>${fmt(a.date)}</span><span>· ${esc(a.zone||"")}</span>${isNew(a)?`<span class="new">Nouveau</span>`:""}</div>
+    <h3>${esc(a.titre)}</h3><p>${esc(a.resume)}</p>${a.pourquoi?`<p class="why"><b>Pourquoi c'est important pour vous</b>${esc(a.pourquoi)}</p>`:""}
+    ${okUrl(a.url)?`<a href="${esc(a.url)}" target="_blank" rel="noopener">Lire la source →</a>`:""}</article>`).join("");
+}
+function renderDl(){
+  const t=today();const list=dls.filter(d=>D(d.date)>=t).sort((a,b)=>String(a.date).localeCompare(String(b.date))).slice(0,8);
+  $("#s-dl").hidden=!list.length;if(!list.length)return;
+  $("#dls").innerHTML=list.map(d=>{const days=Math.round((D(d.date)-t)/864e5);
+    return `<div class="dl"><div class="when${days<=30?" soon":""}">${fmt(d.date)}<small>${days===0?"aujourd'hui":days===1?"demain":"dans "+days+" jours"}</small></div>
+    <div class="what"><strong>${esc(d.titre)}</strong>${d.detail?`<p>${esc(d.detail)}</p>`:""}${okUrl(d.url)?`<a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.source||"Source")} →</a>`:""}</div></div>`}).join("");
+}
+
+function chips(){
+  if(view==="fil"){
+    const zc={};arts.forEach(a=>zc[a.zone]=(zc[a.zone]||0)+1);
+    $("#zones").innerHTML=["Toutes",...ZONES.filter(z=>zc[z])].map(z=>`<button class="chip" type="button" aria-pressed="${z===zone}" data-z="${esc(z)}">${esc(z)} <span class="n">${z==="Toutes"?arts.length:zc[z]}</span></button>`).join("");
+    if(techF){const t=techs.find(x=>x.id===techF);$("#chips").innerHTML=`<button class="chip" type="button" aria-pressed="true" data-k="Tous">${esc(t?t.nom:techF)} ✕</button>`;return}
+    const pool=arts.filter(a=>zone==="Toutes"||a.zone===zone);const c={};pool.forEach(a=>c[a.theme]=(c[a.theme]||0)+1);
+    const list=["Tous","Essentiel",...Object.keys(c).sort()];const cnt=k=>k==="Tous"?pool.length:k==="Essentiel"?pool.filter(a=>a.essentiel).length:c[k];
+    $("#chips").innerHTML=list.filter(k=>cnt(k)).map(k=>`<button class="chip" type="button" aria-pressed="${k===filt}" data-k="${esc(k)}">${esc(k)} <span class="n">${cnt(k)}</span></button>`).join("");
+  }else{
+    const cnt=k=>k==="Tous"?techs.length:k==="prio"?techs.filter(t=>t.prioritaire).length:techs.filter(t=>t.statut===k).length;
+    $("#chips").innerHTML=["Tous","prio","ici","em","mon"].filter(k=>cnt(k)).map(k=>`<button class="chip" type="button" aria-pressed="${k===filt}" data-k="${k}">${k==="Tous"?"Toutes":k==="prio"?"Prioritaires":ST[k][1]} <span class="n">${cnt(k)}</span></button>`).join("");
+  }
+}
+
+function renderRadar(){
+  const q=query.trim().toLowerCase();
+  const rows=techs.filter(t=>(filt==="Tous"||(filt==="prio"?t.prioritaire:t.statut===filt))&&has(t,q)).sort((a,b)=>(b.prioritaire?1:0)-(a.prioritaire?1:0)||(a.ordre??99)-(b.ordre??99));
+  if(!techs.length){$("#radar").innerHTML=`<div class="empty"><h2>Radar vide pour l'instant</h2><p>Les fiches arrivent avec la prochaine mise à jour.</p></div>`;return}
+  if(!rows.length){$("#radar").innerHTML=`<div class="empty"><h2>Aucune fiche ne correspond</h2><p>Essayez un autre mot-clé ou le filtre « Toutes ».</p></div>`;return}
+  $("#radar").innerHTML=rows.map(t=>{
+    const s=ST[t.statut]||ST.mon;const n=arts.filter(a=>a.techno===t.id).length;
+    const ex=(t.exemples||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+    return `<details class="tech${t.prioritaire?" prio":""}" id="tech-${esc(t.id)}"><summary>
+      <div class="sumtop"><h2>${esc(t.nom)}</h2><div class="badges">${t.prioritaire?`<span class="flag">Prioritaire</span>`:""}<span class="status ${s[0]}">${s[1]}</span></div></div>
+      <p class="pitch">${esc(t.client)}</p><span class="more">Voir la fiche →</span></summary>
+      <div class="body">
+        <div><h3>Comment ça marche</h3><p>${esc(t.fonctionnement)}</p></div>
+        <div><h3>Où en est-on</h3><p>${esc(t.situation)}</p></div>
+        ${ex.length?`<div><h3>Exemples de lancements</h3><ul class="ex">${ex.map(e=>`<li>${esc(e.texte)}<span class="src">${e.date?fmt(e.date)+" · ":""}${okUrl(e.url)?`<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.source||"Source")}</a>`:esc(e.source)}</span></li>`).join("")}</ul></div>`:""}
+        <div class="opp"><h3>Opportunité pour une banque</h3><p>${esc(t.opportunite)}</p></div>
+        ${t.termes?.length?`<div><h3>Termes à maîtriser</h3><div class="terms">${t.termes.map(x=>`<span class="term">${esc(x)}</span>`).join("")}</div></div>`:""}
+        ${n?`<button class="linkbtn" type="button" data-tech="${esc(t.id)}">Voir les ${n} nouveauté${n>1?"s":""} liée${n>1?"s":""} →</button>`:""}
+      </div></details>`}).join("");
+}
+
+function renderFeed(){
+  const q=query.trim().toLowerCase();
+  const rows=arts.filter(a=>(zone==="Toutes"||a.zone===zone)&&(techF?a.techno===techF:(filt==="Tous"||(filt==="Essentiel"?a.essentiel:a.theme===filt)))&&has(a,q));
+  if(!arts.length){$("#feed").innerHTML=`<div class="empty"><h2>Aucune nouveauté pour l'instant</h2><p>Elles arrivent avec la prochaine mise à jour du matin.</p></div>`;return}
+  if(!rows.length){$("#feed").innerHTML=`<div class="empty"><h2>Rien ne correspond</h2><p>Essayez un autre mot-clé ou retirez un filtre.</p></div>`;return}
+  $("#feed").innerHTML=rows.map(a=>{
+    const d=D(a.date),ok=!isNaN(d);const t=techs.find(x=>x.id===a.techno);
+    return `<article class="item${a.essentiel?" ess":""}"><div class="date">${ok?`<strong>${String(d.getDate()).padStart(2,"0")}</strong>${MOIS[d.getMonth()]} ${d.getFullYear()}`:esc(a.date)}</div>
+      <div class="content"><div class="meta">${a.essentiel?`<span class="flag">Essentiel</span>`:""}<span class="tag">${esc(a.theme)}</span><span>${esc(a.source)}</span>${a.zone?`<span>· ${esc(a.zone)}</span>`:""}${isNew(a)?`<span class="new">Nouveau</span>`:""}</div>
+      <h2>${esc(a.titre)}</h2><p>${esc(a.resume)}</p>
+      ${a.retenir?`<p class="retenir"><b>À retenir</b>${esc(a.retenir)}</p>`:""}
+      <div class="meta">${okUrl(a.url)?`<a href="${esc(a.url)}" target="_blank" rel="noopener">Lire la source →</a>`:""}${t?`<button class="linkbtn" type="button" data-open="${esc(t.id)}">Fiche : ${esc(t.nom)}</button>`:""}</div>
+      </div></article>`}).join("");
+}
+function render(){chips();renderBrief();renderUne();renderDl();$("#n-radar").textContent=techs.length||"";$("#n-fil").textContent=arts.length||"";view==="radar"?renderRadar():renderFeed()}
+
+$(".tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b)setView(b.dataset.v)});
+$("#chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;filt=b.dataset.k;techF=null;render()});
+$("#zones").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;zone=b.dataset.z;filt="Tous";techF=null;render()});
+document.addEventListener("click",e=>{
+  const f=e.target.closest("[data-tech]");if(f){$("#q").value=query="";zone="Toutes";setView("fil");techF=f.dataset.tech;render();$(".tabs").scrollIntoView({block:"start"});return}
+  const o=e.target.closest("[data-open]");if(o){setView("radar");const el=document.getElementById("tech-"+o.dataset.open);if(el){el.open=true;el.scrollIntoView({block:"start"})}}
+});
+let tm;$("#q").addEventListener("input",e=>{clearTimeout(tm);tm=setTimeout(()=>{query=e.target.value;render()},120)});
+if(location.hash==="#radar")setView("radar");else render();
+
+(async()=>{
+  try{
+    const r=await fetch("data.json?v="+Date.now(),{cache:"no-store"});
+    const d=await r.json();
+    techs=d.technologies||[];arts=(d.articles||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+    dls=d.echeances||[];brief=d.synthese||null;
+    const m=new Date(d.derniereMaj);
+    if(!isNaN(m))$("#maj").innerHTML=`Mise à jour : <b>${m.toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})}</b>`;
+    render();
+  }catch(e){$("#feed").innerHTML=`<div class="empty"><h2>Veille indisponible</h2><p>Rechargez la page dans quelques instants.</p></div>`}
+})();
+</script>
+
+</body>
+</html>
