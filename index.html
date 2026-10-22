@@ -86,6 +86,16 @@ h1,h2{font-family:var(--serif);font-weight:400;letter-spacing:-.01em;margin:0;te
 .sh h2{font-size:clamp(36px,5vw,54px);line-height:1}
 .sh p{margin:0;color:var(--muted);max-width:50ch}
 
+/* Human strip */
+.human{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:36px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:28px;padding:28px 36px;margin-bottom:64px}
+.illus{width:100%;height:auto;display:block}
+.tip-k{margin:0 0 8px;font-size:14.5px;font-weight:600;color:var(--peach)}
+.tip{margin:0;font:400 clamp(24px,2.8vw,32px)/1.25 var(--serif);text-wrap:pretty;max-width:38ch}
+.tip-s{margin:12px 0 0;font-size:14.5px;color:var(--muted)}
+.tip-s button{background:none;border:0;padding:0;font:inherit;font-weight:600;color:var(--teal);cursor:pointer}
+.tip-s button:hover{text-decoration:underline}
+@media (max-width:760px){.human{grid-template-columns:1fr;padding:24px;gap:18px}.illus{max-width:280px}}
+
 /* Innovations grid */
 .seg{display:inline-flex;flex-wrap:wrap;gap:8px;margin-bottom:26px}
 .seg button,.chip{font:500 14px var(--sans);border:1px solid var(--line);background:#fff;color:var(--ink);padding:8px 15px;border-radius:999px;cursor:pointer;display:inline-flex;gap:7px;align-items:center}
@@ -214,7 +224,7 @@ footer strong{display:block;color:var(--ink);font:400 24px var(--serif);margin-b
       <div>
         <p class="kicker" id="kicker">Bénin, UEMOA et monde</p>
         <h1>Les avancées du paiement, <em>expliquées</em> chaque jour.</h1>
-        <p class="lede">Portefeuilles mobiles, paiement instantané, cartes virtuelles, biométrie, paiements par IA… Chaque innovation proposée aux clients, comment elle fonctionne, où elle en est et ce qu'elle peut apporter à votre banque.</p>
+        <p class="lede">Votre rendez-vous quotidien avec les nouveaux moyens de paiement. Ce qu'ils changent pour vos clients, comment ils fonctionnent, et comment votre banque peut s'en saisir. Expliqué simplement, en deux minutes par innovation.</p>
         <div class="btns"><a class="btn btn-main" href="#innovations">Découvrir les innovations</a><a class="btn btn-soft" href="#lancements">Derniers lancements</a></div>
         <div class="stats" id="stats"></div>
       </div>
@@ -224,7 +234,40 @@ footer strong{display:block;color:var(--ink);font:400 24px var(--serif);margin-b
 
   <section class="block" id="innovations">
     <div class="wrap">
-      <div class="sh"><h2>Les nouveaux moyens de paiement</h2><p>Une fiche par innovation : ce qu'elle change pour le client, son fonctionnement, des exemples réels et l'opportunité pour une banque.</p></div>
+      <div class="human">
+        <svg class="illus" viewBox="0 0 320 240" role="img" aria-label="Une cliente paie avec son téléphone chez une commerçante">
+          <ellipse cx="160" cy="214" rx="140" ry="14" fill="#E3F2EE"/>
+          <!-- stall -->
+          <rect x="196" y="112" width="104" height="96" rx="10" fill="#FCEEE5"/>
+          <path d="M188 112h120l-8-26H196z" fill="#E08A5C"/>
+          <path d="M196 86h24l-4 26h-24zM244 86h24l4 26h-24z" fill="#F3B48F"/>
+          <!-- vendor -->
+          <circle cx="252" cy="140" r="15" fill="#7A4A32"/>
+          <path d="M236 132c4-14 28-16 32 0" fill="#1F7A6C"/>
+          <path d="M228 208c0-28 10-44 24-44s24 16 24 44z" fill="#8FA9D6"/>
+          <!-- QR on stall -->
+          <rect x="206" y="160" width="26" height="26" rx="4" fill="#fff"/>
+          <path d="M210 164h7v7h-7zM221 164h7v7h-7zM210 175h7v7h-7zM222 176h3v3h-3zM226 180h2v2h-2z" fill="#1B2B28"/>
+          <!-- customer -->
+          <circle cx="96" cy="88" r="20" fill="#8C5A3C"/>
+          <path d="M74 84c0-22 44-26 46-2-6-6-16-8-24-4-8-6-16-2-22 6z" fill="#1B2B28"/>
+          <path d="M60 208c0-62 14-92 36-92s36 30 36 92z" fill="#1F7A6C"/>
+          <path d="M80 130c10 12 22 12 32 0" stroke="#E3F2EE" stroke-width="3" fill="none"/>
+          <!-- arm + phone -->
+          <path d="M118 140c14 6 26 12 40 10" stroke="#8C5A3C" stroke-width="12" stroke-linecap="round" fill="none"/>
+          <rect x="152" y="128" width="20" height="34" rx="4" fill="#1B2B28"/>
+          <rect x="155" y="132" width="14" height="24" rx="2" fill="#E3F2EE"/>
+          <path d="M158 144l3 3 6-7" stroke="#1F7A6C" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+          <!-- waves -->
+          <path d="M180 132a14 14 0 0 1 0 22M187 126a24 24 0 0 1 0 34" stroke="#E08A5C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div>
+          <p class="tip-k">Une idée à partager en réunion</p>
+          <p class="tip" id="tip">Chaque innovation a son « opportunité pour une banque » : de quoi proposer des idées concrètes à votre équipe.</p>
+          <p class="tip-s" id="tip-s"></p>
+        </div>
+      </div>
+      <div class="sh"><h2>Les nouveaux moyens de paiement</h2><p>Touchez une carte pour tout comprendre : ce que l'innovation change pour le client, son fonctionnement, des exemples réels et ce qu'elle peut apporter à votre banque.</p></div>
       <div class="seg" id="seg" role="group" aria-label="Filtrer les innovations"></div>
       <div class="grid" id="grid"><div class="empty"><strong>Chargement des innovations</strong>Un instant.</div></div>
     </div>
@@ -250,7 +293,7 @@ footer strong{display:block;color:var(--ink);font:400 24px var(--serif);margin-b
 
   <section class="block" id="lancements">
     <div class="wrap">
-      <div class="sh"><h2>Derniers lancements</h2><p id="sub">Les nouveaux services de paiement lancés par les banques, fintechs et réseaux, au Bénin et ailleurs.</p></div>
+      <div class="sh"><h2>Derniers lancements</h2><p id="sub">Ce que les banques, les fintechs et les réseaux viennent de proposer à leurs clients, au Bénin comme ailleurs.</p></div>
       <div class="filters">
         <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="Rechercher une banque, une innovation, un pays…" aria-label="Rechercher dans les lancements"></label>
         <div class="chips" id="zones" role="group" aria-label="Zone"></div>
@@ -271,8 +314,8 @@ footer strong{display:block;color:var(--ink);font:400 24px var(--serif);margin-b
 
 <footer>
   <div class="wrap">
-    <div><strong>Veille Monétique UEMOA</strong>Mise à jour automatiquement chaque matin et chaque soir, avec un contrôle complet le dimanche. Chaque information renvoie vers sa source.</div>
-    <div>Sources suivies : BCEAO, GIM-UEMOA, banques et fintechs du Bénin, Visa, Mastercard, Swift, BCE, GSMA, Financial Afrik, Agence Ecofin, TechCabal, Finextra, The Paypers.</div>
+    <div><strong>Veille Monétique UEMOA</strong>Préparée pour vous chaque matin et chaque soir, avec une relecture complète le dimanche. Chaque information est vérifiée et renvoie vers sa source.</div>
+    <div>Ce que nous suivons : BCEAO, GIM-UEMOA, les banques et opérateurs du Bénin, Visa, Mastercard, UnionPay, Swift, BCE, GSMA, les publications LinkedIn des banques, fintechs et experts du paiement, Financial Afrik, Agence Ecofin, TechCabal, Finextra, The Paypers, Payments Cards &amp; Mobile, et les grands salons (Money20/20, Seamless Africa, Africa Fintech Forum, Trustech).</div>
   </div>
 </footer>
 
@@ -318,8 +361,8 @@ const techs=()=>data.technologies.slice().sort((a,b)=>(b.prioritaire?1:0)-(a.pri
 const lastEx=t=>(t.exemples||[]).slice().sort((a,b)=>String(b.date||"").localeCompare(String(a.date||"")))[0];
 
 function hero(){
-  const m=new Date(data.derniereMaj);
-  if(!isNaN(m))$("#kicker").textContent="Bénin, UEMOA et monde · mis à jour le "+m.toLocaleDateString("fr-FR",{day:"numeric",month:"long"});
+  const now=new Date(),h=now.getHours();
+  $("#kicker").textContent=(h>=18||h<4?"Bonsoir":"Bonjour")+", nous sommes le "+now.toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"})+".";
   const ici=data.technologies.filter(t=>t.statut==="ici").length;
   const wk=data.articles.filter(a=>D(a.date)>=new Date(T0-7*864e5)).length;
   $("#stats").innerHTML=`<div><b>${data.technologies.length}</b>innovations suivies</div><div><b>${ici}</b>déjà dans l'UEMOA</div><div><b>${wk}</b>lancements cette semaine</div>`;
@@ -333,6 +376,9 @@ function hero(){
     <h2>${esc(t.nom)}</h2><p>${esc(t.client)}</p>
     ${e?`<div class="ex">${esc(e.texte)}<small>${e.date?fmt(e.date):""}${e.source?" – "+esc(e.source):""}</small></div>`:""}
     <button class="btn btn-main" type="button" data-open="${esc(t.id)}">Lire la fiche complète</button>`;
+  if(t.opportunite){$("#tip").textContent=t.opportunite;$("#tip-s").innerHTML=`À propos de : <button type="button" data-open="${esc(t.id)}">${esc(t.nom)}</button>`}
+  const m=new Date(data.derniereMaj);
+  if(!isNaN(m))$("#kicker").textContent+=" Veille mise à jour le "+m.toLocaleDateString("fr-FR",{day:"numeric",month:"long"})+".";
 }
 
 function grid(){
