@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-23T00:10:00Z",
+ "derniereMaj": "2026-10-23T05:50:00Z",
  "synthese": {
   "maj": "2026-10-23T00:10:00Z",
   "periode": "Semaine du 19 octobre 2026",
@@ -14,7 +14,45 @@
  },
  "articles": [
   {
-   "id": "2026-10-20-visa-b2b-agents",
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-22",
+   "resume": "Relancé en juin, le wallet Paze détenu par sept grandes banques américaines compte environ 220 millions de cartes enregistrées. Il veut maintenant conquérir les plus grands commerçants du pays d'ici trois ans.",
+   "retenir": "Des banques peuvent s'unir pour opposer leur propre wallet aux géants de la tech : une piste à garder en tête pour un marché régional.",
+   "source": "Payments Dive",
+   "techno": "tokenisation",
+   "theme": "Wallets & tokenisation",
+   "titre": "Paze, le wallet des banques américaines, vise les 100 plus grands marchands",
+   "url": "https://www.paymentsdive.com/news/paze-sets-big-targets-after-revamp/833721/",
+   "zone": "International",
+   "id": "2026-10-22-paze-revamp"
+  },
+  {
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-20",
+   "resume": "Après des pilotes avec Cloudflare, Coinbase, Base et d'autres, Mastercard ouvre un accès anticipé à « Agent Pay for Machines » avec API, boîte à outils et environnement de test. Un agent IA y a réalisé neuf paiements chez deux marchands lors d'une démonstration.",
+   "retenir": "Les réseaux fixent dès maintenant les règles des paiements faits par des IA : les banques émettrices devront savoir les autoriser et les contrôler.",
+   "source": "The Block",
+   "techno": "commerce-agentique",
+   "theme": "IA & commerce",
+   "titre": "Mastercard ouvre aux développeurs les paiements par agents IA",
+   "url": "https://theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
+   "zone": "International",
+   "id": "2026-10-20-mastercard-agent-pay-machines"
+  },
+  {
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-20",
+   "resume": "La Banque centrale sud-africaine veut ouvrir son système de paiement aux acteurs non bancaires et publiera leur cadre d'ici fin novembre. Elle prépare aussi un QR code standard, avec un pilote prévu au premier trimestre 2027, pour éviter aux marchands des équipements coûteux.",
+   "retenir": "Même logique que la BCEAO avec PI-SPI : plus d'acteurs connectés en direct, donc plus de concurrence sur les paiements du quotidien.",
+   "source": "EWN",
+   "techno": "qr-marchand",
+   "theme": "Régulation",
+   "titre": "Afrique du Sud : le système de paiement s'ouvre aux non-banques",
+   "url": "https://www.ewn.co.za/2026/10/20/sarb-pushes-for-cheaper-more-inclusive-digital-payments-system",
+   "zone": "Afrique",
+   "id": "2026-10-20-sarb-non-banques"
+  },
+  {
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-10-20",
    "resume": "Avec BILL et Billtrust, des agents IA autorisés règlent des factures fournisseurs déjà approuvées, sans connexion manuelle aux portails. Le protocole de Visa permet aux fournisseurs d'identifier et d'authentifier ces agents.",
@@ -24,10 +62,10 @@
    "theme": "IA & commerce",
    "titre": "Premiers paiements réels de factures par agents IA chez Visa",
    "url": "https://fintechnize.substack.com/p/visas-first-live-b2b-agent-payments",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-10-20-visa-b2b-agents"
   },
   {
-   "id": "2026-10-19-amex-intention",
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-10-19",
    "resume": "Le cadre proposé capture et vérifie ce que le client veut acheter avant qu'un agent IA ne finalise la transaction, et garde cette intention comme contrôle tout au long du paiement.",
@@ -37,10 +75,23 @@
    "theme": "IA & commerce",
    "titre": "American Express définit comment vérifier l'intention d'achat avant un paiement par IA",
    "url": "https://www.crowdfundinsider.com/2026/10/319204-amex-marqeta-visa-paypal-among-giants-announcing-fintech-products-and-partnerships-last-week/",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-10-19-amex-intention"
   },
   {
-   "id": "2026-10-19-mastercard-stablecoin-security",
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-19",
+   "resume": "Accord de cinq ans pour que MoovnPay propose cartes prépayées virtuelles et physiques, tokenisation, paiement en ligne, transferts entre particuliers et envois internationaux, intégrés dans ses plateformes de mobilité et de commerce. Le Kenya et la Tanzanie sont les premiers marchés.",
+   "retenir": "Les plateformes non bancaires deviennent émettrices de cartes avec l'appui des réseaux : un modèle de partenariat qu'une banque peut aussi proposer.",
+   "source": "Mastercard",
+   "techno": "carte-virtuelle",
+   "theme": "Cartes",
+   "titre": "Mastercard et Moovn : cartes prépayées et wallets en Afrique de l'Est",
+   "url": "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/october/mastercard-and-moovn-join-forces-to-scale-digital-payments-across-east-africa/",
+   "zone": "Afrique",
+   "id": "2026-10-19-mastercard-moovn"
+  },
+  {
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-10-19",
    "resume": "Annoncé à Money20/20, il croise les données de paiement et les données de la blockchain pour détecter fraude, arnaques et risques de sanctions. Lancement en Amérique du Nord, plus largement en 2027.",
@@ -50,10 +101,23 @@
    "theme": "Crypto & stablecoins",
    "titre": "Mastercard lance un outil anti-fraude pour les stablecoins",
    "url": "https://fintechnize.substack.com/p/visas-first-live-b2b-agent-payments",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-10-19-mastercard-stablecoin-security"
   },
   {
-   "id": "2026-10-19-visa-direct-stablecoins",
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-19",
+   "resume": "Checkout.com devient partenaire mondial de Samsung pour ses ventes en ligne et ajoute Samsung Pay comme option de paiement pour tous ses marchands utilisant son module Flow. Le lancement côté marchands est prévu le 31 octobre.",
+   "retenir": "Les wallets se multiplient au paiement en ligne : vos cartes doivent être tokenisables dans tous les grands wallets, pas seulement un.",
+   "source": "Checkout.com",
+   "techno": "tokenisation",
+   "theme": "Wallets & tokenisation",
+   "titre": "Samsung Pay arrive sur la caisse en ligne de Checkout.com",
+   "url": "https://www.checkout.com/newsroom/samsung-electronics-and-checkout-partner-on-digital-payments-and-samsung-pay",
+   "zone": "International",
+   "id": "2026-10-19-samsung-checkout"
+  },
+  {
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-10-19",
    "resume": "Les capacités stablecoin de Visa Direct sortent de la phase pilote. Dans la même semaine, Mastercard et BVNK lancent des comptes multi-devises en monnaie classique et stablecoins, et Marqeta et Coinbase une carte adossée aux stablecoins.",
@@ -63,10 +127,23 @@
    "theme": "Crypto & stablecoins",
    "titre": "Stablecoins : Visa Direct passe en exploitation commerciale",
    "url": "https://www.crowdfundinsider.com/2026/10/319204-amex-marqeta-visa-paypal-among-giants-announcing-fintech-products-and-partnerships-last-week/",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-10-19-visa-direct-stablecoins"
   },
   {
-   "id": "2026-10-18-mastercard-hors-ligne",
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-19",
+   "resume": "Grâce à un identifiant Visa créé en coulisses, les utilisateurs de wallets crypto partenaires pourront payer en magasin et en ligne chez plus de 175 millions de commerçants. Mesh convertit les avoirs au moment du paiement, sans carte dédiée.",
+   "retenir": "La frontière entre wallet crypto et moyen de paiement classique s'efface : la concurrence pour le porte-monnaie du client s'élargit.",
+   "source": "The Block",
+   "techno": "stablecoins",
+   "theme": "Crypto & stablecoins",
+   "titre": "Visa et Mesh : payer en crypto partout où Visa est accepté",
+   "url": "https://theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
+   "zone": "International",
+   "id": "2026-10-19-visa-mesh"
+  },
+  {
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-10-18",
    "resume": "Dès février 2027, les nouvelles cartes Mastercard émises en Europe fonctionneront hors ligne grâce à la puce et au code, jusqu'à 200 euros par opération. La transaction est traitée au retour de la connexion.",
@@ -76,10 +153,51 @@
    "theme": "Cartes",
    "titre": "Mastercard : payer et retirer même sans réseau",
    "url": "https://news.carte-electronique.net/les-cartes-mastercard-revolutionnent-payez-et-retirez-de-largent-meme-hors-reseau/",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-10-18-mastercard-hors-ligne"
   },
   {
-   "id": "2026-10-12-mobile-money-plafonds",
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-16",
+   "resume": "PAX ajoute la reconnaissance faciale et de la paume de Wink à ses logiciels de caisse : le client s'enrôle une fois en ligne, puis paie au comptoir en étant reconnu. La transaction passe ensuite par l'acquéreur habituel du marchand.",
+   "retenir": "Le paiement biométrique arrive sur des TPE du marché grand public, sans changer la chaîne d'acquisition de la banque.",
+   "source": "Biometric Update",
+   "techno": "biometrie",
+   "theme": "Sécurité & fraude",
+   "titre": "PAX intègre le paiement par visage et paume dans ses terminaux",
+   "url": "https://www.biometricupdate.com/202610/pax-gives-retailers-control-over-face-and-palm-biometric-checkout",
+   "zone": "International",
+   "id": "2026-10-16-pax-biometrie"
+  },
+  {
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-15",
+   "essentiel": true,
+   "pourquoi": "Ecobank est présente au Bénin : ce modèle pourrait y arriver vite. Votre banque pourrait proposer la même chose à ses commerçants, en s'appuyant sur PI-SPI.",
+   "resume": "À Kinshasa, Ecobank permet aux clients de payer chez les commerçants équipés de ses terminaux directement depuis leur wallet Airtel Money, Orange Money, M-Pesa ou Afri Money. Le client valide sur son téléphone, sans QR code, et le marchand reçoit la confirmation sur le TPE.",
+   "retenir": "Un parc de TPE bancaires peut devenir un point d'acceptation du mobile money, ce qui rentabilise les terminaux et capte les flux des wallets.",
+   "source": "Actualite.cd",
+   "techno": "passerelles-banque-wallet",
+   "theme": "Mobile money",
+   "titre": "Ecobank RDC accepte le mobile money sur ses TPE",
+   "url": "https://actualite.cd/2026/10/15/kinshasa-ecobank-lance-momo-un-service-de-paiement-les-portefeuilles-mobile-money",
+   "zone": "Afrique",
+   "id": "2026-10-15-ecobank-momo-tpe"
+  },
+  {
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-15",
+   "resume": "Avec une seule API, banques et fintechs peuvent proposer sous leur marque des comptes multidevises (monnaies classiques et stablecoins), la conversion instantanée, des cartes liées aux stablecoins et des virements locaux. Nuvei et Marqeta font partie des premiers intégrateurs.",
+   "retenir": "Les stablecoins deviennent un produit « clé en main » qu'une banque peut intégrer sans construire l'infrastructure elle-même.",
+   "source": "Mastercard",
+   "techno": "stablecoins",
+   "theme": "Crypto & stablecoins",
+   "titre": "Mastercard et BVNK lancent une plateforme monnaie classique + stablecoins",
+   "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/october/mastercard-and-bvnk-launch-global-money-platform-to-power-a-mult.html",
+   "zone": "International",
+   "id": "2026-10-15-mastercard-bvnk"
+  },
+  {
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-10-12",
    "essentiel": true,
@@ -91,10 +209,10 @@
    "theme": "Mobile money",
    "titre": "Mobile money : la BCEAO double le plafond des comptes",
    "url": "https://www.togofirst.com/fr/finance/1210-20307-uemoa-la-bceao-double-le-plafond-des-comptes-mobile-money-a-l-heure-de-pi-spi",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-10-12-mobile-money-plafonds"
   },
   {
-   "id": "2026-10-12-tresor-ci-pispi",
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-10-12",
    "resume": "Premier Trésor de l'Union à utiliser régulièrement le paiement instantané pour ses paiements de masse : salaires publics, bourses, subventions et transferts sociaux. Les sept autres Trésors suivront progressivement.",
@@ -104,10 +222,49 @@
    "theme": "Paiement instantané",
    "titre": "Le Trésor ivoirien paie salaires et bourses via PI-SPI",
    "url": "https://www.capmad.com/article/finances-publiques-la-cote-divoire-adopte-les-paiements-instantanes-de-la-bceao",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-10-12-tresor-ci-pispi"
   },
   {
-   "id": "2026-10-05-pispi-obligatoire",
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-12",
+   "resume": "La fintech indienne Viyona annonce son application Tap & Pay, qui transforme un smartphone Android en terminal sans contact, au Zimbabwe, premier marché africain visé. Le lancement commercial attend encore certifications et autorisations.",
+   "retenir": "Les fournisseurs de SoftPOS ciblent l'Afrique : la concurrence sur l'acceptation à bas coût va s'intensifier.",
+   "source": "IndianWeb2",
+   "techno": "softpos",
+   "theme": "Cartes",
+   "titre": "Viyona prépare le SoftPOS au Zimbabwe",
+   "url": "https://www.indianweb2.com/2026/10/viyona-fintech-enters-african-expansion.html",
+   "zone": "Afrique",
+   "id": "2026-10-12-viyona-softpos"
+  },
+  {
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-09",
+   "resume": "Ecobank a signé un accord pour rejoindre CIPS, le réseau de paiements transfrontaliers en yuan. Le groupe prévoit une plateforme de conversion directe des monnaies africaines vers le yuan pour les entreprises qui commercent avec la Chine.",
+   "retenir": "Les importateurs pourraient payer leurs fournisseurs chinois sans passer par le dollar : une offre de transfert à surveiller pour la clientèle entreprises.",
+   "source": "PaymentsJournal",
+   "techno": "transferts-internationaux",
+   "theme": "Régulation",
+   "titre": "Ecobank va se connecter au système de paiement chinois CIPS",
+   "url": "https://www.paymentsjournal.com/africas-ecobank-agrees-to-join-chinas-cross-border-payments-system/",
+   "zone": "Afrique",
+   "id": "2026-10-09-ecobank-cips"
+  },
+  {
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-07",
+   "resume": "Une responsable de Diamond Trust Bank a montré un paiement sans contact via Google Wallet avec une carte de la banque, provisionnée en pilote avec Mastercard. Le déploiement reste progressif : chaque banque décide quelles cartes peuvent être ajoutées.",
+   "retenir": "Google Wallet s'ouvre aux banques africaines une par une : être prête techniquement (tokenisation) permet d'être parmi les premières.",
+   "source": "Android Kenya",
+   "techno": "tokenisation",
+   "theme": "Wallets & tokenisation",
+   "titre": "Premiers paiements Google Wallet avec une carte kényane",
+   "url": "https://androidkenya.com/2026/10/google-pay-is-finally-working-in-kenya-but-there-is-a-catch/",
+   "zone": "Afrique",
+   "id": "2026-10-07-google-wallet-kenya"
+  },
+  {
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-10-05",
    "essentiel": true,
@@ -119,10 +276,38 @@
    "theme": "Paiement instantané",
    "titre": "PI-SPI devient obligatoire le 2 novembre 2026",
    "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-10-05-pispi-obligatoire"
   },
   {
-   "id": "2026-09-30-finsecure-fraude",
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-05",
+   "resume": "Stripe prévoit d'étendre ses cartes adossées aux stablecoins, construites avec Bridge, à plus de 100 pays d'ici la fin de l'année, dont des pays d'Afrique. Le service fonctionne quel que soit le stablecoin ou la blockchain.",
+   "retenir": "Des cartes alimentées en dollars numériques pourraient bientôt être proposées à vos clients par des acteurs non bancaires.",
+   "source": "PYMNTS",
+   "techno": "stablecoins",
+   "theme": "Crypto & stablecoins",
+   "titre": "Stripe veut ses cartes stablecoin dans plus de 100 pays d'ici fin 2026",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/stripe-to-extend-stablecoin-cards-to-100-countries-by-year-end/",
+   "zone": "International",
+   "id": "2026-10-05-stripe-cartes-stablecoin"
+  },
+  {
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-10-02",
+   "essentiel": true,
+   "pourquoi": "Wave était le grand absent de PI-SPI : avec lui, l'interopérabilité devient réelle. C'est le moment de rendre vos virements instantanés vers wallets visibles et simples dans votre application.",
+   "resume": "Wave figure désormais parmi les participants autorisés à PI-SPI, la plateforme de paiement instantané de la BCEAO. Avec cette arrivée, 175 institutions de l'UEMOA peuvent échanger des fonds en quelques secondes entre banques et wallets.",
+   "retenir": "Le leader du mobile money devient joignable par virement instantané depuis n'importe quel compte bancaire : vos clients pourront l'alimenter ou en recevoir de l'argent directement.",
+   "source": "Daba Finance",
+   "techno": "pi-spi",
+   "theme": "Paiement instantané",
+   "titre": "Wave rejoint PI-SPI en Côte d'Ivoire et au Sénégal",
+   "url": "https://dabafinance.com/fr/nouvelles/wave-rejoint-le-reseau-de-paiement-instantane-pi-spi-de-la-bceao-2026-10-02",
+   "zone": "UEMOA",
+   "id": "2026-10-02-wave-pispi"
+  },
+  {
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-09-30",
    "resume": "La fintech nigériane propose un outil d'apprentissage automatique pour les paiements numériques en Afrique subsaharienne, où la fraude électronique a augmenté de 15 % en 2025.",
@@ -132,10 +317,23 @@
    "theme": "Sécurité & fraude",
    "titre": "FinSecure lance une détection de fraude en temps réel par IA",
    "url": "https://af.net/realtime/nigerias-finsecure-unveils-ai-powered-anti-fraud-tool-for-digital-payments/",
-   "zone": "Afrique"
+   "zone": "Afrique",
+   "id": "2026-09-30-finsecure-fraude"
   },
   {
-   "id": "2026-07-08-visa-fraude-ia",
+   "ajoute": "2026-10-23T05:45:00Z",
+   "date": "2026-07-17",
+   "resume": "Les clients UBA Bénin peuvent transférer instantanément de l'argent entre leur compte bancaire et leur wallet Celtiis Cash, via l'application ou le code *889#, sans passer en agence. Les frais démarrent à 50 FCFA.",
+   "retenir": "Un concurrent direct relie déjà ses comptes au troisième opérateur béninois : la passerelle banque–wallet devient un service attendu.",
+   "source": "Bénin Web TV",
+   "techno": "passerelles-banque-wallet",
+   "theme": "Mobile money",
+   "titre": "Celtiis Cash et UBA Bénin lancent le Bank to Wallet",
+   "url": "https://beninwebtv.bj/celtiis-cash-et-uba-benin-lancent-bank-to-wallet-un-nouveau-pas-vers-linclusion-financiere/",
+   "zone": "Bénin",
+   "id": "2026-07-17-celtiis-uba-bank-to-wallet"
+  },
+  {
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-07-08",
    "resume": "Au Visa Payments Forum de Paris, le réseau a indiqué que les attaques assistées par machine avaient explosé en 2025 et a lancé une plateforme de renseignement sur les menaces pour les institutions financières.",
@@ -145,10 +343,10 @@
    "theme": "Sécurité & fraude",
    "titre": "Visa riposte à la fraude dopée à l'IA",
    "url": "https://osiris.sn/fraude-dopee-a-l-ia-comment-visa-arme-sa-defense.html",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-07-08-visa-fraude-ia"
   },
   {
-   "id": "2026-07-06-visa-mpesa-stablecoin",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-07-06",
    "resume": "Le pilote règle en arrière-plan des paiements mobiles transfrontaliers via des stablecoins adossés au dollar. Les utilisateurs gardent leur wallet habituel.",
@@ -158,10 +356,10 @@
    "theme": "Crypto & stablecoins",
    "titre": "RDC : Visa, M-Pesa et Onafriq testent le règlement en stablecoins",
    "url": "https://capmad.com/article/en-rdc-visa-mpesa-et-onafriq-basculent-un-pilote-de-paiements-transfrontaliers-sur-stablecoins",
-   "zone": "Afrique"
+   "zone": "Afrique",
+   "id": "2026-07-06-visa-mpesa-stablecoin"
   },
   {
-   "id": "2026-07-02-visa-passkey-inde",
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-07-02",
    "resume": "Avec IDFC First Bank, les porteurs valident leurs paiements en ligne par empreinte, visage ou code du téléphone. La fonction est aussi disponible chez plusieurs grands marchands.",
@@ -171,10 +369,10 @@
    "theme": "Sécurité & fraude",
    "titre": "Inde : Visa remplace le code SMS par la biométrie du téléphone",
    "url": "https://www.businesstoday.in/personal-finance/news/story/waiting-for-otp-to-make-a-card-payment-visa-will-now-allow-payment-authentication-via-passkey-540500-2026-07-02",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-07-02-visa-passkey-inde"
   },
   {
-   "id": "2026-06-25-pispi-delai",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-06-25",
    "resume": "La BCEAO accorde trois mois de plus aux banques, émetteurs de monnaie électronique et établissements de paiement pour se connecter. Les institutions de microfinance ont jusqu'au 30 juin 2027.",
@@ -184,10 +382,10 @@
    "theme": "Paiement instantané",
    "titre": "PI-SPI : date limite de raccordement repoussée au 30 septembre 2026",
    "url": "https://www.ecofinagency.com/news-finances/2506-56829-bceao-extends-pi-spi-instant-payment-platform-connection-deadline-to-september-30",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-06-25-pispi-delai"
   },
   {
-   "id": "2026-05-15-ozow-bnpl",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-05-15",
    "resume": "La fintech sud-africaine s'associe à Happy Pay : le client paie en deux échéances sans intérêts s'il est à jour, et le commerçant reçoit la totalité chaque semaine.",
@@ -197,13 +395,13 @@
    "theme": "Crédit & BNPL",
    "titre": "Ozow ajoute le paiement en deux fois pour ses commerçants",
    "url": "https://techafricanews.com/2026/05/15/ozow-and-happy-pay-partner-to-introduce-buy-now-pay-later-for-south-african-merchants/",
-   "zone": "Afrique"
+   "zone": "Afrique",
+   "id": "2026-05-15-ozow-bnpl"
   },
   {
-   "id": "2026-05-13-amana-carte-virtuelle",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-05-13",
-   "essentiel": true,
+   "essentiel": false,
    "pourquoi": "Une fintech de l'UEMOA émet des cartes virtuelles en quelques minutes : la demande pour les achats en ligne et les abonnements internationaux est forte au Bénin aussi.",
    "resume": "La carte se crée directement depuis le smartphone et se recharge depuis l'application. Elle sert aux achats en ligne, aux abonnements et aux paiements internationaux.",
    "retenir": "Une fintech de l'UEMOA occupe le terrain de la carte virtuelle : les banques de la zone doivent proposer une offre comparable.",
@@ -212,10 +410,10 @@
    "theme": "Cartes",
    "titre": "Niger : Amana et Visa lancent la première carte virtuelle du pays",
    "url": "https://osiris.sn/le-niger-lance-sa-premiere-carte-virtuelle-pour-accelerer-son-inclusion.html",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-05-13-amana-carte-virtuelle"
   },
   {
-   "id": "2026-05-11-ecommerce-regional",
    "ajoute": "2026-10-22T23:00:00Z",
    "date": "2026-05-11",
    "resume": "Le GIM-UEMOA a annoncé à Dakar que huit banques ont réussi les essais pilotes de traitement régional des paiements en ligne, dans le cadre de la mise en conformité à la Décision n°31.",
@@ -224,10 +422,10 @@
    "theme": "Cartes",
    "titre": "Décision n°31 : premières transactions e-commerce traitées au niveau régional",
    "url": "https://www.financialafrik.com/2026/05/11/mise-en-conformite-a-la-decision-n31-huit-banques-de-luemoa-reussissent-les-premieres-operations-e-commerce-regionales/",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-05-11-ecommerce-regional"
   },
   {
-   "id": "2026-04-09-visa-agentique",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-04-09",
    "resume": "Intelligent Commerce Connect permet aux marchands et développeurs d'accepter les paiements initiés par des assistants IA, sur plusieurs protocoles et sur cartes Visa ou non. Le service est en pilote avant un déploiement plus large en 2026.",
@@ -237,10 +435,10 @@
    "theme": "IA & commerce",
    "titre": "Visa ouvre une intégration unique pour les paiements par agents IA",
    "url": "https://techinformed.com/visa-opens-one-integration-for-ai-agent-payments/",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-04-09-visa-agentique"
   },
   {
-   "id": "2026-03-30-feexpay-business",
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-03-30",
    "resume": "La fintech ivoirienne propose FeexPay Business aux commerçants pour accepter les paiements numériques sans TPE. Elle est présente dans plusieurs pays de l'UEMOA et au Congo.",
@@ -250,10 +448,10 @@
    "theme": "Mobile money",
    "titre": "FeexPay lance une application gratuite qui remplace le terminal de paiement",
    "url": "https://www.financialafrik.com/2026/03/30/la-fintech-ivoirienne-feexpay-consolide-sa-presence-en-afrique-avec-une-alternative-aux-terminaux-de-paiement/",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-03-30-feexpay-business"
   },
   {
-   "id": "2026-03-26-bceao-finance-numerique",
    "ajoute": "2026-10-22T23:00:00Z",
    "date": "2026-03-26",
    "resume": "Un rapport de la BCEAO souligne que le mobile money est devenu le principal moteur de l'inclusion financière, donnant accès à des services à des millions de personnes sans compte bancaire.",
@@ -262,10 +460,10 @@
    "theme": "Mobile money",
    "titre": "BCEAO : la finance numérique progresse vite dans l'UEMOA",
    "url": "https://fr.allafrica.com/stories/202603260327.html",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-03-26-bceao-finance-numerique"
   },
   {
-   "id": "2026-03-24-gsma-1432",
    "ajoute": "2026-10-22T23:00:00Z",
    "date": "2026-03-24",
    "resume": "Selon la GSMA, la valeur des transactions a progressé d'environ 27 % sur un an. L'Afrique pèse environ deux tiers de la valeur mondiale et près de 1,2 milliard de comptes, avec l'essor de l'épargne, du crédit et de l'assurance sur mobile.",
@@ -274,10 +472,10 @@
    "theme": "Mobile money",
    "titre": "Mobile money : 1 432 milliards de dollars traités en Afrique en 2025",
    "url": "https://www.osiris.sn/en-afrique-1432-milliards-ont-transite-par-mobile-money-en-2025.html",
-   "zone": "Afrique"
+   "zone": "Afrique",
+   "id": "2026-03-24-gsma-1432"
   },
   {
-   "id": "2026-03-24-kenya-rwanda-passeport",
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-03-24",
    "resume": "Un prestataire agréé dans un pays pourra opérer dans l'autre sans refaire toute la procédure d'agrément.",
@@ -286,10 +484,10 @@
    "theme": "Régulation",
    "titre": "Kenya et Rwanda créent un passeport unique pour les prestataires de paiement",
    "url": "https://afriqueitnews.com/fintech/expansion-fintech-kenya-rwanda-creent-passeport-unique-pour-paiements/",
-   "zone": "Afrique"
+   "zone": "Afrique",
+   "id": "2026-03-24-kenya-rwanda-passeport"
   },
   {
-   "id": "2026-03-05-pispi-liste",
    "ajoute": "2026-10-22T23:00:00Z",
    "date": "2026-03-05",
    "resume": "La BCEAO poursuit le déploiement de son système de paiements instantanés interopérables et publie depuis le 24 février 2026 la liste à jour des établissements habilités à offrir ces services au public.",
@@ -299,10 +497,10 @@
    "theme": "Paiement instantané",
    "titre": "PI-SPI : la BCEAO actualise la liste des établissements autorisés",
    "url": "https://www.financialafrik.com/2026/03/05/paiements-instantanes-pi-spi-dans-luemoa-liste-actualisee-des-etablissements-autorises-par-la-bceao/",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-03-05-pispi-liste"
   },
   {
-   "id": "2026-03-04-verve-tokenisation",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-03-04",
    "resume": "Le réseau de cartes d'Interswitch remplace les données de carte par des tokens liés à l'appareil, avec un cryptogramme par transaction. La solution couvre les paiements mobiles, l'enrôlement dans les wallets et les cartes enregistrées chez les marchands.",
@@ -312,10 +510,10 @@
    "theme": "Wallets & tokenisation",
    "titre": "Verve dévoile une nouvelle solution de tokenisation au Nigeria",
    "url": "https://allafrica.com/stories/202603050699.html",
-   "zone": "Afrique"
+   "zone": "Afrique",
+   "id": "2026-03-04-verve-tokenisation"
   },
   {
-   "id": "2026-03-04-visa-bridge",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-03-04",
    "resume": "La carte liée aux stablecoins, disponible dans 18 pays, doit passer à plus de 100 pays d'ici fin 2026. Visa étudie aussi l'usage d'actifs émis par Bridge pour ses règlements.",
@@ -325,13 +523,13 @@
    "theme": "Crypto & stablecoins",
    "titre": "Visa et Bridge veulent étendre leur carte stablecoin à 100 pays",
    "url": "https://yellow.com/fr/news/visa-et-bridge-%C3%A9tendront-les-cartes-en-stablecoins-%C3%A0-plus-de-100-pays-d%E2%80%99ici-fin-2026",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-03-04-visa-bridge"
   },
   {
-   "id": "2026-02-25-uba-benin-tokenisation",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-02-25",
-   "essentiel": true,
+   "essentiel": false,
    "pourquoi": "C'est un concurrent direct au Bénin : le paiement par téléphone y existe déjà, et c'est un argument concret pour lancer une offre équivalente dans votre banque.",
    "resume": "UBA Bénin est le premier émetteur de cartes prépayées du pays à permettre l'ajout de ses cartes Visa dans les wallets mobiles. En deux semaines de pilote, environ 1 % des porteurs ont tokenisé leur carte.",
    "retenir": "Un concurrent direct au Bénin propose déjà le paiement par téléphone : un argument fort pour lancer une offre équivalente.",
@@ -340,10 +538,10 @@
    "theme": "Wallets & tokenisation",
    "titre": "UBA Bénin lance le paiement Visa sans contact par téléphone",
    "url": "https://onafriq.com/article/weve-enabled-visa-digital-wallet-tokenisation-for-card-issuers-across-cemea",
-   "zone": "Bénin"
+   "zone": "Bénin",
+   "id": "2026-02-25-uba-benin-tokenisation"
   },
   {
-   "id": "2026-02-18-bnpl-marche",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2026-02-18",
    "resume": "Selon Research and Markets, le marché passerait de 5,2 à 16,8 milliards de dollars entre 2025 et 2031. Des règles d'agrément plus strictes devraient favoriser les acteurs les mieux capitalisés.",
@@ -353,10 +551,10 @@
    "theme": "Crédit & BNPL",
    "titre": "Le paiement fractionné africain devrait tripler d'ici 2031",
    "url": "https://www.ecofinagency.com/news/1802-52998-africa-s-buy-now-pay-later-market-to-triple-to-16-8-billion-by-2031-report-says",
-   "zone": "Afrique"
+   "zone": "Afrique",
+   "id": "2026-02-18-bnpl-marche"
   },
   {
-   "id": "2026-02-12-pix-depasse-cartes",
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2026-02-12",
    "resume": "En 2025, Pix a capté 42 % de la valeur des achats en ligne contre 41 % pour les cartes ; il pourrait atteindre 50 % en 2028. En Inde, UPI pèse 75 % du e-commerce.",
@@ -366,10 +564,10 @@
    "theme": "Paiement instantané",
    "titre": "Brésil : Pix dépasse la carte dans le commerce en ligne",
    "url": "https://www.aap.com.au/aapreleases/cision20260211ae85574",
-   "zone": "International"
+   "zone": "International",
+   "id": "2026-02-12-pix-depasse-cartes"
   },
   {
-   "id": "2026-01-29-decision-31",
    "ajoute": "2026-10-22T23:00:00Z",
    "date": "2026-01-29",
    "resume": "Proposée par le GIM-UEMOA, validée par la BCEAO et adoptée par le Conseil des ministres de l'UEMOA, la décision s'impose aux réseaux de cartes internationaux à compter du 31 mars 2026.",
@@ -378,10 +576,10 @@
    "theme": "Régulation",
    "titre": "Visa, Mastercard et UnionPay doivent se conformer à la Décision n°31",
    "url": "https://www.financialafrik.com/2026/01/29/uemoa-les-cartes-visa-et-mastercard-ont-90-jours-pour-se-conformer/",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2026-01-29-decision-31"
   },
   {
-   "id": "2025-12-19-mastercard-acceptation",
    "ajoute": "2026-10-22T23:00:00Z",
    "date": "2025-12-19",
    "resume": "Le réseau a ouvert des bureaux au Ghana, en Ouganda et à Maurice, renforcé ses équipes sur le continent et lancé une quinzaine de programmes pour les PME.",
@@ -390,10 +588,10 @@
    "theme": "Cartes",
    "titre": "Mastercard étend son réseau d'acceptation de 45 % en Afrique",
    "url": "https://fr.hespress.com/454811-454811.html",
-   "zone": "Afrique"
+   "zone": "Afrique",
+   "id": "2025-12-19-mastercard-acceptation"
   },
   {
-   "id": "2025-11-21-swift-iso20022",
    "ajoute": "2026-10-23T00:10:00Z",
    "date": "2025-11-21",
    "resume": "Depuis le 22 novembre 2025, les paiements transfrontaliers passent uniquement en ISO 20022. Les adresses non structurées ne seront plus acceptées après novembre 2026.",
@@ -403,10 +601,10 @@
    "theme": "Régulation",
    "titre": "Swift abandonne les messages MT au profit d'ISO 20022",
    "url": "https://paymentexpert.com/2025/11/21/swifts-iso-20022-cutover-the-end-of-mt-and-a-20-year-promise/",
-   "zone": "International"
+   "zone": "International",
+   "id": "2025-11-21-swift-iso20022"
   },
   {
-   "id": "2025-10-01-pispi-lancement",
    "ajoute": "2026-10-22T23:00:00Z",
    "date": "2025-10-01",
    "resume": "La BCEAO a lancé à Dakar sa plateforme de paiements instantanés. Certaines grandes banques n'étaient pas raccordées au démarrage, la BCEAO évoquant des contraintes techniques et de sécurité, d'autres observateurs la crainte de perdre des revenus de virements.",
@@ -416,10 +614,10 @@
    "theme": "Paiement instantané",
    "titre": "Lancement de PI-SPI : 45 institutions connectées sur 86 annoncées",
    "url": "https://www.mfw4a.org/news/waemus-instant-payment-system-launches-key-banks-stay-sidelines",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2025-10-01-pispi-lancement"
   },
   {
-   "id": "2025-08-18-bms-baraka",
    "ajoute": "2026-10-22T23:30:00Z",
    "date": "2025-08-18",
    "resume": "La Banque Malienne de Solidarité et SATGURU Travel lancent deux cartes prépayées, Classic et Platinum, destinées aux clients de l'agence de voyage.",
@@ -429,14 +627,20 @@
    "theme": "Cartes",
    "titre": "Mali : cartes prépayées GIM-Mastercard co-brandées pour les voyageurs",
    "url": "https://www.financialafrik.com/2025/08/18/la-banque-malienne-de-solidarite-bms-s-a-et-satguru-travel-lancent-des-cartes-prepayees-baraka-gim-mastercard-co-brandees-pour-faciliter-les-paiements-pour-les-voyageurs",
-   "zone": "UEMOA"
+   "zone": "UEMOA",
+   "id": "2025-08-18-bms-baraka"
   }
  ],
  "technologies": [
   {
-   "id": "biometrie",
    "client": "Le client valide un paiement avec son empreinte digitale ou son visage, sans code ni carte.",
    "exemples": [
+    {
+     "date": "2026-10-16",
+     "source": "Biometric Update",
+     "texte": "PAX ajoute la reconnaissance faciale et de la paume de Wink à ses logiciels de caisse : le client s'enrôle une fois en ligne, puis paie au comptoir en étant reconnu.",
+     "url": "https://www.biometricupdate.com/202610/pax-gives-retailers-control-over-face-and-palm-biometric-checkout"
+    },
     {
      "date": "2023-01-26",
      "source": "Team France Export",
@@ -448,17 +652,17 @@
    "nom": "Paiement biométrique",
    "opportunite": "Une piste pour les clients peu à l'aise avec les codes secrets ou peu alphabétisés, et pour réduire la fraude en agence et aux guichets.",
    "ordre": 8,
-   "situation": "Déployé dans quelques pays (Golfe, Maroc, Nigeria), encore marginal dans l'UEMOA.",
+   "situation": "Déployé dans quelques pays (Golfe, Maroc, Nigeria) et désormais intégré aux terminaux PAX très répandus ; encore marginal dans l'UEMOA.",
    "statut": "mon",
    "termes": [
     "Authentification forte",
     "Carte biométrique",
     "Match-on-card",
     "Reconnaissance faciale"
-   ]
+   ],
+   "id": "biometrie"
   },
   {
-   "id": "bnpl",
    "client": "Le client achète maintenant et paie en plusieurs fois, souvent sans intérêts s'il rembourse à temps.",
    "exemples": [
     {
@@ -485,12 +689,18 @@
     "Scoring",
     "Point de vente",
     "Recouvrement"
-   ]
+   ],
+   "id": "bnpl"
   },
   {
-   "id": "carte-virtuelle",
    "client": "Le client obtient une carte en quelques minutes depuis son téléphone, sans support plastique, pour payer en ligne, régler des abonnements ou acheter à l'international.",
    "exemples": [
+    {
+     "date": "2026-10-19",
+     "source": "Mastercard",
+     "texte": "Accord de cinq ans pour que MoovnPay propose cartes prépayées virtuelles et physiques, tokenisation, paiement en ligne, transferts entre particuliers et envois internationaux, intégrés dans ses plateformes de mobilité et de commerce.",
+     "url": "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/october/mastercard-and-moovn-join-forces-to-scale-digital-payments-across-east-africa/"
+    },
     {
      "date": "2026-05-13",
      "source": "Osiris / CIO Mag",
@@ -510,10 +720,10 @@
     "Carte à usage unique",
     "Plafond",
     "Contrôles par le client"
-   ]
+   ],
+   "id": "carte-virtuelle"
   },
   {
-   "id": "cbdc",
    "client": "Une monnaie émise directement par la banque centrale, utilisable sur téléphone comme des espèces numériques.",
    "exemples": [
     {
@@ -534,10 +744,10 @@
     "Euro numérique",
     "eNaira",
     "Monnaie de détail"
-   ]
+   ],
+   "id": "cbdc"
   },
   {
-   "id": "commerce-agentique",
    "client": "Un assistant IA trouve un produit, le commande et le paie pour le client, selon des règles et des plafonds que le client a fixés.",
    "exemples": [
     {
@@ -545,6 +755,12 @@
      "source": "Fintechnize",
      "texte": "Visa, BILL et Billtrust lancent un pilote réel où des agents IA autorisés paient des factures fournisseurs approuvées.",
      "url": "https://fintechnize.substack.com/p/visas-first-live-b2b-agent-payments"
+    },
+    {
+     "date": "2026-10-20",
+     "source": "The Block",
+     "texte": "Après des pilotes avec Cloudflare, Coinbase, Base et d'autres, Mastercard ouvre un accès anticipé à « Agent Pay for Machines » avec API, boîte à outils et environnement de test.",
+     "url": "https://theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406"
     },
     {
      "date": "2026-10-19",
@@ -571,10 +787,10 @@
     "Consentement",
     "Visa Intelligent Commerce",
     "Mastercard Agent Pay"
-   ]
+   ],
+   "id": "commerce-agentique"
   },
   {
-   "id": "fraude-ia",
    "client": "Le client est mieux protégé : une transaction suspecte est bloquée ou vérifiée en temps réel, sans gêner les paiements normaux.",
    "exemples": [
     {
@@ -604,10 +820,10 @@
     "3-D Secure",
     "Ingénierie sociale",
     "APP fraud"
-   ]
+   ],
+   "id": "fraude-ia"
   },
   {
-   "id": "instantane-monde",
    "client": "Au Brésil et en Inde, payer par QR code ou alias depuis son compte est devenu plus courant que la carte.",
    "exemples": [
     {
@@ -629,10 +845,10 @@
     "Alias",
     "QR standard",
     "Gratuité"
-   ]
+   ],
+   "id": "instantane-monde"
   },
   {
-   "id": "iso20022",
    "client": "Des virements internationaux plus fiables et mieux traçables, avec moins de rejets et de demandes d'informations.",
    "exemples": [
     {
@@ -654,10 +870,10 @@
     "CBPR+",
     "pacs.008",
     "Adresse structurée"
-   ]
+   ],
+   "id": "iso20022"
   },
   {
-   "id": "open-banking",
    "client": "Avec son accord, le client relie son compte bancaire à d'autres applications : agrégation de comptes, paiement direct depuis le compte, crédit plus rapide.",
    "exemples": [
     {
@@ -678,10 +894,10 @@
     "Initiation de paiement",
     "Agrégation",
     "BaaS"
-   ]
+   ],
+   "id": "open-banking"
   },
   {
-   "id": "paiement-hors-ligne",
    "client": "Le client peut payer ou retirer de l'argent même quand le réseau télécom ou bancaire est en panne.",
    "exemples": [
     {
@@ -702,10 +918,42 @@
     "Plafond hors ligne",
     "EMV",
     "Autorisation différée"
-   ]
+   ],
+   "id": "paiement-hors-ligne"
   },
   {
-   "id": "passkeys",
+   "client": "Le client fait passer son argent de son compte bancaire à son wallet (et inversement) en quelques secondes depuis son téléphone, et peut payer chez un commerçant équipé d'un TPE bancaire avec son mobile money.",
+   "exemples": [
+    {
+     "date": "2026-10-15",
+     "source": "Actualite.cd",
+     "texte": "À Kinshasa, Ecobank permet aux clients de payer chez les commerçants équipés de ses terminaux directement depuis leur wallet Airtel Money, Orange Money, M-Pesa ou Afri Money.",
+     "url": "https://actualite.cd/2026/10/15/kinshasa-ecobank-lance-momo-un-service-de-paiement-les-portefeuilles-mobile-money"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "Bénin Web TV",
+     "texte": "Les clients UBA Bénin peuvent transférer instantanément de l'argent entre leur compte bancaire et leur wallet Celtiis Cash, via l'application ou le code *889#, sans passer en agence.",
+     "url": "https://beninwebtv.bj/celtiis-cash-et-uba-benin-lancent-bank-to-wallet-un-nouveau-pas-vers-linclusion-financiere/"
+    }
+   ],
+   "fonctionnement": "La banque relie son système à celui de l'opérateur de mobile money, en direct ou via PI-SPI. Le client associe une fois son compte à son numéro de téléphone, puis initie les transferts par application ou USSD ; côté marchand, le TPE déclenche une demande de paiement que le client valide sur son wallet.",
+   "nom": "Passerelles banque ↔ mobile money",
+   "opportunite": "Proposer en réunion un pack « compte + wallet » : transferts instantanés gratuits entre le compte et tous les wallets du Bénin, et acceptation du mobile money sur les TPE de la banque pour fidéliser les commerçants.",
+   "ordre": 18,
+   "prioritaire": true,
+   "situation": "Au Bénin, UBA et Celtiis Cash proposent le Bank to Wallet depuis juillet 2026. En RDC, Ecobank accepte depuis octobre 2026 les principaux wallets sur ses TPE. Avec PI-SPI obligatoire au 2 novembre 2026, ces passerelles deviennent interopérables dans toute l'UEMOA.",
+   "statut": "ici",
+   "termes": [
+    "Bank to Wallet",
+    "Wallet to Bank",
+    "USSD",
+    "Interopérabilité",
+    "Acceptation marchand"
+   ],
+   "id": "passerelles-banque-wallet"
+  },
+  {
    "client": "Le client valide un achat en ligne avec l'empreinte ou le visage de son téléphone, au lieu d'attendre un code SMS.",
    "exemples": [
     {
@@ -727,18 +975,12 @@
     "OTP",
     "3-D Secure",
     "Authentification forte"
-   ]
+   ],
+   "id": "passkeys"
   },
   {
-   "id": "pi-spi",
    "client": "Le client envoie de l'argent en quelques secondes, 24h/24, d'un compte bancaire vers un wallet mobile money ou une autre banque, avec un simple alias comme le numéro de téléphone.",
    "exemples": [
-    {
-     "date": "2026-10-05",
-     "source": "Togo First",
-     "texte": "La BCEAO rend PI-SPI obligatoire à partir du 2 novembre 2026 et révise ses tarifs.",
-     "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
-    },
     {
      "date": "2026-10-12",
      "source": "Capmad",
@@ -746,16 +988,22 @@
      "url": "https://www.capmad.com/article/finances-publiques-la-cote-divoire-adopte-les-paiements-instantanes-de-la-bceao"
     },
     {
+     "date": "2026-10-05",
+     "source": "Togo First",
+     "texte": "La BCEAO rend PI-SPI obligatoire à partir du 2 novembre 2026 et révise ses tarifs.",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
+    },
+    {
+     "date": "2026-10-02",
+     "source": "Daba Finance",
+     "texte": "Wave figure désormais parmi les participants autorisés à PI-SPI, la plateforme de paiement instantané de la BCEAO.",
+     "url": "https://dabafinance.com/fr/nouvelles/wave-rejoint-le-reseau-de-paiement-instantane-pi-spi-de-la-bceao-2026-10-02"
+    },
+    {
      "date": "2026-06-25",
      "source": "Agence Ecofin",
      "texte": "La BCEAO repousse au 30 septembre 2026 la date limite de raccordement des banques et émetteurs de monnaie électronique.",
      "url": "https://www.ecofinagency.com/news-finances/2506-56829-bceao-extends-pi-spi-instant-payment-platform-connection-deadline-to-september-30"
-    },
-    {
-     "date": "2025-10-01",
-     "source": "MFW4A / Agence Ecofin",
-     "texte": "Au lancement, 45 des 86 institutions annoncées étaient raccordées.",
-     "url": "https://www.mfw4a.org/news/waemus-instant-payment-system-launches-key-banks-stay-sidelines"
     }
    ],
    "fonctionnement": "La BCEAO exploite une plateforme centrale qui relie banques, émetteurs de monnaie électronique et établissements de paiement. Les fonds sont transférés et réglés en temps réel, et un QR code commun permet aussi de payer chez les marchands.",
@@ -763,7 +1011,7 @@
    "opportunite": "Construire de nouveaux services au-dessus de PI-SPI : virement instantané dans l'application, paiement marchand par QR, demande de paiement entre particuliers. C'est aussi une réponse directe à la concurrence du mobile money.",
    "ordre": 2,
    "prioritaire": true,
-   "situation": "Lancé en septembre 2025. La BCEAO rend PI-SPI obligatoire à partir du 2 novembre 2026 pour les transferts interopérables entre particuliers, gratuits jusqu'à 8 000 FCFA cumulés par jour au niveau national. Les institutions de microfinance ont jusqu'au 30 juin 2027, et les transferts entre pays de l'UEMOA auront le même tarif que les transferts nationaux au 1er juin 2027.",
+   "situation": "Lancé en septembre 2025. Wave a rejoint la plateforme fin septembre 2026 (175 participants dans l'UEMOA). PI-SPI devient obligatoire le 2 novembre 2026 pour les transferts interopérables entre particuliers, gratuits jusqu'à 8 000 FCFA cumulés par jour au niveau national. Les microfinances ont jusqu'au 30 juin 2027, et les transferts entre pays de l'UEMOA auront le tarif national au 1er juin 2027.",
    "statut": "ici",
    "termes": [
     "Alias",
@@ -771,10 +1019,10 @@
     "Règlement en temps réel",
     "Request to Pay",
     "ISO 20022"
-   ]
+   ],
+   "id": "pi-spi"
   },
   {
-   "id": "prepayee-ciblee",
    "client": "Le client dispose d'une carte adaptée à un usage précis (voyage, études, salaires, partenaire commercial), sans compte bancaire classique.",
    "exemples": [
     {
@@ -795,12 +1043,18 @@
     "Carte prépayée",
     "Chargement",
     "Programme partenaire"
-   ]
+   ],
+   "id": "prepayee-ciblee"
   },
   {
-   "id": "qr-marchand",
    "client": "Le client scanne un QR code chez le commerçant avec l'application de sa banque ou de son mobile money et paie sans carte ni espèces.",
    "exemples": [
+    {
+     "date": "2026-10-20",
+     "source": "EWN",
+     "texte": "La Banque centrale sud-africaine veut ouvrir son système de paiement aux acteurs non bancaires et publiera leur cadre d'ici fin novembre.",
+     "url": "https://www.ewn.co.za/2026/10/20/sarb-pushes-for-cheaper-more-inclusive-digital-payments-system"
+    },
     {
      "date": "2024-07-23",
      "source": "Droit Médias Finance",
@@ -819,12 +1073,18 @@
     "QR dynamique",
     "Paiement compte à compte",
     "Acquisition marchand"
-   ]
+   ],
+   "id": "qr-marchand"
   },
   {
-   "id": "softpos",
    "client": "Le commerçant accepte les cartes sans contact directement sur son smartphone Android, sans acheter de terminal.",
    "exemples": [
+    {
+     "date": "2026-10-12",
+     "source": "IndianWeb2",
+     "texte": "La fintech indienne Viyona annonce son application Tap & Pay, qui transforme un smartphone Android en terminal sans contact, au Zimbabwe, premier marché africain visé.",
+     "url": "https://www.indianweb2.com/2026/10/viyona-fintech-enters-african-expansion.html"
+    },
     {
      "date": "2026-03-30",
      "source": "Financial Afrik",
@@ -850,10 +1110,10 @@
     "Tap to Phone",
     "Acquéreur",
     "PCI MPoC"
-   ]
+   ],
+   "id": "softpos"
   },
   {
-   "id": "stablecoins",
    "client": "Des transferts internationaux plus rapides et moins chers, sans changer d'application : le client garde son wallet ou sa carte habituels.",
    "exemples": [
     {
@@ -869,40 +1129,52 @@
      "url": "https://fintechnize.substack.com/p/visas-first-live-b2b-agent-payments"
     },
     {
-     "date": "2026-07-06",
-     "source": "Capmad",
-     "texte": "Visa, M-Pesa Africa et Onafriq lancent en RDC un pilote de paiements mobiles transfrontaliers réglés en stablecoins.",
-     "url": "https://capmad.com/article/en-rdc-visa-mpesa-et-onafriq-basculent-un-pilote-de-paiements-transfrontaliers-sur-stablecoins"
+     "date": "2026-10-19",
+     "source": "The Block",
+     "texte": "Grâce à un identifiant Visa créé en coulisses, les utilisateurs de wallets crypto partenaires pourront payer en magasin et en ligne chez plus de 175 millions de commerçants.",
+     "url": "https://theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058"
     },
     {
-     "date": "2026-03-04",
-     "source": "Yellow",
-     "texte": "Visa et Bridge (Stripe) prévoient d'étendre leur carte liée aux stablecoins de 18 à plus de 100 pays d'ici fin 2026.",
-     "url": "https://yellow.com/fr/news/visa-et-bridge-%C3%A9tendront-les-cartes-en-stablecoins-%C3%A0-plus-de-100-pays-d%E2%80%99ici-fin-2026"
+     "date": "2026-10-15",
+     "source": "Mastercard",
+     "texte": "Avec une seule API, banques et fintechs peuvent proposer sous leur marque des comptes multidevises (monnaies classiques et stablecoins), la conversion instantanée, des cartes liées aux stablecoins et des virements locaux.",
+     "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/october/mastercard-and-bvnk-launch-global-money-platform-to-power-a-mult.html"
     }
    ],
    "fonctionnement": "Un stablecoin est une cryptomonnaie adossée à une devise (souvent le dollar). Les réseaux s'en servent en arrière-plan pour régler les transactions entre pays en quelques minutes, au lieu de passer par plusieurs banques correspondantes.",
    "nom": "Stablecoins et règlement en monnaie numérique",
    "opportunite": "À surveiller pour les transferts de la diaspora et le commerce régional : comprendre le sujet permet d'anticiper les futures offres des réseaux et des concurrents.",
    "ordre": 9,
-   "situation": "Les grands réseaux passent des pilotes à l'exploitation commerciale (Visa Direct, Mastercard), y compris en Afrique. Le cadre réglementaire de l'UEMOA sur ces actifs reste à suivre de près.",
+   "situation": "Les grands réseaux passent des pilotes à l'exploitation commerciale : Visa Direct, plateforme Mastercard–BVNK clé en main pour les banques, cartes stablecoin de Stripe visant plus de 100 pays fin 2026, y compris en Afrique. Le cadre réglementaire de l'UEMOA sur ces actifs reste à suivre de près.",
    "statut": "mon",
    "termes": [
     "Stablecoin",
     "Règlement",
     "Blockchain",
     "Corridor de transfert"
-   ]
+   ],
+   "id": "stablecoins"
   },
   {
-   "id": "tokenisation",
    "client": "Le client paie en approchant son téléphone ou sa montre du terminal, sans sortir sa carte, et achète en ligne sans saisir son numéro de carte.",
    "exemples": [
     {
-     "date": "2026-02-25",
-     "source": "Onafriq",
-     "texte": "UBA Bénin devient le premier émetteur de cartes prépayées au Bénin à offrir le paiement Visa sans contact par wallet ; environ 1 % des porteurs ont tokenisé leur carte dans les deux premières semaines.",
-     "url": "https://onafriq.com/article/weve-enabled-visa-digital-wallet-tokenisation-for-card-issuers-across-cemea"
+     "date": "2026-10-22",
+     "source": "Payments Dive",
+     "texte": "Relancé en juin, le wallet Paze détenu par sept grandes banques américaines compte environ 220 millions de cartes enregistrées.",
+     "url": "https://www.paymentsdive.com/news/paze-sets-big-targets-after-revamp/833721/"
+    },
+    {
+     "date": "2026-10-19",
+     "source": "Checkout.com",
+     "texte": "Checkout.com devient partenaire mondial de Samsung pour ses ventes en ligne et ajoute Samsung Pay comme option de paiement pour tous ses marchands utilisant son module Flow.",
+     "url": "https://www.checkout.com/newsroom/samsung-electronics-and-checkout-partner-on-digital-payments-and-samsung-pay"
+    },
+    {
+     "date": "2026-10-07",
+     "source": "Android Kenya",
+     "texte": "Une responsable de Diamond Trust Bank a montré un paiement sans contact via Google Wallet avec une carte de la banque, provisionnée en pilote avec Mastercard.",
+     "url": "https://androidkenya.com/2026/10/google-pay-is-finally-working-in-kenya-but-there-is-a-catch/"
     },
     {
      "date": "2026-03-04",
@@ -916,7 +1188,7 @@
    "opportunite": "Proposer l'ajout des cartes de la banque dans les wallets mobiles et la tokenisation pour l'e-commerce : expérience client moderne, moins de fraude, et image de banque innovante face à la concurrence.",
    "ordre": 1,
    "prioritaire": true,
-   "situation": "Déjà présent au Bénin : UBA Bénin propose le paiement Visa sans contact par téléphone via un processeur de cartes prépayées. Ailleurs en Afrique, les schémas domestiques adoptent aussi la tokenisation.",
+   "situation": "Déjà présent au Bénin : UBA Bénin propose depuis février 2026 le paiement Visa sans contact par téléphone pour ses cartes prépayées. Google Wallet commence à accepter des cartes de banques kényanes, et les wallets (Samsung Pay, Paze) se multiplient au paiement en ligne.",
    "statut": "ici",
    "termes": [
     "Token",
@@ -925,41 +1197,92 @@
     "Card-on-file",
     "HCE",
     "NFC"
-   ]
+   ],
+   "id": "tokenisation"
+  },
+  {
+   "client": "Le client envoie ou reçoit de l'argent d'un autre pays plus vite et moins cher, parfois sans passer par le dollar, directement vers un compte ou un wallet.",
+   "exemples": [
+    {
+     "date": "2026-10-09",
+     "source": "PaymentsJournal",
+     "texte": "Ecobank a signé un accord pour rejoindre CIPS, le réseau de paiements transfrontaliers en yuan.",
+     "url": "https://www.paymentsjournal.com/africas-ecobank-agrees-to-join-chinas-cross-border-payments-system/"
+    }
+   ],
+   "fonctionnement": "Les banques se branchent sur de nouveaux réseaux (CIPS chinois, PAPSS africain, rails de Visa/Mastercard ou stablecoins) qui convertissent directement une monnaie locale vers une autre et règlent l'opération en quelques secondes ou heures.",
+   "nom": "Transferts internationaux nouvelle génération",
+   "opportunite": "Proposer aux importateurs clients un service de paiement fournisseurs en Chine sans dollar, et aux particuliers des transferts instantanés intra-UEMOA via PI-SPI.",
+   "ordre": 19,
+   "prioritaire": false,
+   "situation": "Ecobank a signé en octobre 2026 pour rejoindre CIPS et convertir les monnaies africaines directement en yuan. La BCEAO prépare le passage au tarif national des transferts PI-SPI entre pays de l'UEMOA en juin 2027.",
+   "statut": "em",
+   "termes": [
+    "CIPS",
+    "PAPSS",
+    "Corridor",
+    "Correspondant bancaire",
+    "Mastercard Move"
+   ],
+   "id": "transferts-internationaux"
   }
  ],
  "echeances": [
   {
-   "id": "2026-11-02-pispi-obligatoire",
+   "date": "2026-10-31",
+   "detail": "Samsung Pay devient une option de paiement en ligne et in-app pour les marchands de Checkout.com.",
+   "source": "Checkout.com",
+   "titre": "Samsung Pay disponible sur Checkout.com Flow",
+   "url": "https://www.checkout.com/newsroom/samsung-electronics-and-checkout-partner-on-digital-payments-and-samsung-pay",
+   "id": "2026-10-31-samsung-pay-flow"
+  },
+  {
+   "date": "2026-11-01",
+   "detail": "Publication prévue d'ici fin novembre 2026 du cadre ouvrant le système de paiement sud-africain aux non-banques.",
+   "source": "EWN",
+   "titre": "Afrique du Sud : cadre pour les acteurs de paiement non bancaires",
+   "url": "https://www.ewn.co.za/2026/10/20/sarb-pushes-for-cheaper-more-inclusive-digital-payments-system",
+   "id": "2026-11-01-sarb-cadre-non-banques"
+  },
+  {
    "date": "2026-11-02",
    "detail": "Transferts interopérables entre particuliers via PI-SPI, gratuits jusqu'à 8 000 FCFA par jour au niveau national ; plafond des wallets porté à 4 millions FCFA.",
    "source": "Togo First",
    "titre": "PI-SPI obligatoire et nouveaux plafonds mobile money",
-   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
+   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026",
+   "id": "2026-11-02-pispi-obligatoire"
   },
   {
-   "id": "2027-02-01-mastercard-hors-ligne",
+   "date": "2027-01-01",
+   "detail": "Pilote attendu au premier trimestre 2027 (date précise non annoncée).",
+   "source": "EWN",
+   "titre": "Afrique du Sud : pilote du QR code standard",
+   "url": "https://www.ewn.co.za/2026/10/20/sarb-pushes-for-cheaper-more-inclusive-digital-payments-system",
+   "id": "2027-01-01-sarb-qr-pilote"
+  },
+  {
    "date": "2027-02-01",
    "detail": "À partir de février 2027, les nouvelles cartes émises en Europe permettent paiements et retraits sans réseau.",
    "source": "Carte-electronique.net",
    "titre": "Cartes Mastercard hors ligne en Europe",
-   "url": "https://news.carte-electronique.net/les-cartes-mastercard-revolutionnent-payez-et-retirez-de-largent-meme-hors-reseau/"
+   "url": "https://news.carte-electronique.net/les-cartes-mastercard-revolutionnent-payez-et-retirez-de-largent-meme-hors-reseau/",
+   "id": "2027-02-01-mastercard-hors-ligne"
   },
   {
-   "id": "2027-06-01-pispi-transfrontalier",
    "date": "2027-06-01",
    "detail": "Les transferts PI-SPI entre pays de l'Union suivront les mêmes conditions tarifaires que les transferts nationaux.",
    "source": "Togo First",
    "titre": "Transferts entre pays de l'UEMOA au tarif national",
-   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
+   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026",
+   "id": "2027-06-01-pispi-transfrontalier"
   },
   {
-   "id": "2027-06-30-pispi-microfinance",
    "date": "2027-06-30",
    "detail": "Date limite pour les institutions de microfinance de l'UEMOA.",
    "source": "Agence Ecofin",
    "titre": "Raccordement des microfinances à PI-SPI",
-   "url": "https://www.ecofinagency.com/news-finances/2506-56829-bceao-extends-pi-spi-instant-payment-platform-connection-deadline-to-september-30"
+   "url": "https://www.ecofinagency.com/news-finances/2506-56829-bceao-extends-pi-spi-instant-payment-platform-connection-deadline-to-september-30",
+   "id": "2027-06-30-pispi-microfinance"
   }
  ]
 }
