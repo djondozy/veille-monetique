@@ -493,7 +493,7 @@ function hero(){
   $("#stats").innerHTML=`<div><b>${data.technologies.length}</b>innovations suivies</div><div><b>${ici}</b>déjà dans l'UEMOA</div><div><b>${wk}</b>lancements cette semaine</div>`;
   // Feature: one priority innovation, changing every day
   const pr=data.technologies.filter(t=>t.prioritaire);const pool=pr.length?pr:data.technologies;if(!pool.length)return;
-  const t=pool.slice().sort((a,b)=>(a.ordre??99)-(b.ordre??99))[Math.floor(T0/864e5)%pool.length];
+  const t=pool.slice().sort((a,b)=>(a.ordre??99)-(b.ordre??99))[Math.floor(T0/864e5)%pool.length];window._feat=t;
   const e=lastEx(t);
   $("#feature").hidden=false;
   $("#feature").innerHTML=`<div class="lab"><span>L'innovation du jour</span>${pill(t)}</div>
@@ -627,12 +627,19 @@ function setupListen(){
     const sc=x=>{const n=x.name.toLowerCase();let s=0;const i=FEM.findIndex(f=>n.includes(f));if(i>=0)s+=100-i;if(MASC.test(n))s-=200;if(/natural|neural|premium|enhanced|amélioré|online/i.test(n))s+=40;if(/^fr(-|_)FR/i.test(x.lang))s+=10;return s};
     picked=v.slice().sort((a,b)=>sc(b)-sc(a))[0];return picked};
   if(speechSynthesis.onvoiceschanged!==undefined)speechSynthesis.onvoiceschanged=()=>{picked=null};
-  const clean=t=>t.replace(/FCFA/g,"francs CFA").replace(/PI-SPI/gi,"pi S P I").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/GIM-UEMOA/g,"GIM U E M O A").replace(/BNPL/g,"B N P L").replace(/NFC/g,"N F C");
-  function parts(){const now=new Date(),h=now.getHours();const p=[`${h>=18||h<4?"Bonsoir":"Bonjour"}, voici votre veille des paiements.`];
-    const s=data.synthese;if(s&&s.texte){p.push(`La semaine en bref. ${s.titre}.`,s.texte);(s.points||[]).forEach(x=>p.push("§"+x))}
-    const es=data.articles.filter(a=>a.essentiel).slice(0,3);if(es.length){p.push("À ne pas manquer.");es.forEach(a=>p.push("§"+`${a.titre}. ${a.resume}`))}
-    const t=document.querySelector("#feature h2");if(t)p.push(`L'innovation du jour : ${t.textContent}. ${document.querySelector("#feature p")?.textContent||""}`);
-    p.push("Bonne lecture, et à très vite.");return p}
+  const clean=t=>t.replace(/FCFA/g,"francs CFA").replace(/PI-SPI/gi,"pi S P I").replace(/GIM-UEMOA/g,"guim U E M O A").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/BNPL/g,"B N P L").replace(/NFC/g,"N F C").replace(/\bQR\b/g,"Q R").replace(/agents IA/g,"agents d’intelligence artificielle").replace(/par IA/g,"par l’intelligence artificielle").replace(/\bIA\b/g,"intelligence artificielle").replace(/\bGSMA\b/g,"G S M A").replace(/\bRDC\b/g,"R D C").replace(/Money20\/20/g,"Money twenty twenty").replace(/(millions|milliards) (FCFA|francs CFA)/g,"$1 de francs CFA").replace(/SoftPOS/gi,"soft P O S");
+  // Ordre de lecture : l'innovation du jour, ce qu'il ne faut pas manquer, puis la semaine en bref
+  const zone=x=>x.replace(/^UEMOA\s*:\s*/i,"Dans l'UEMOA, ").replace(/^Bénin\s*:\s*/i,"Au Bénin, ").replace(/^Afrique\s*:\s*/i,"En Afrique, ").replace(/^Monde\s*:\s*/i,"Dans le monde, ");
+  function parts(){const now=new Date(),h=now.getHours();const m=new Date(data.derniereMaj);
+    const p=[`${h>=18||h<4?"Bonsoir":"Bonjour"}, voici votre veille des paiements${isNaN(m)?"":", mise à jour le "+m.toLocaleDateString("fr-FR",{day:"numeric",month:"long"})}.`];
+    const f=window._feat;
+    if(f){p.push(`Pour commencer, l'innovation du jour : ${f.nom}.`,f.client);if(f.opportunite)p.push(`Pour votre banque : ${f.opportunite}`)}
+    const es=data.articles.filter(a=>a.essentiel).slice(0,3);
+    if(es.length){p.push(es.length>1?`Ensuite, ${es.length} informations à ne pas manquer.`:"Ensuite, une information à ne pas manquer.");
+      es.forEach((a,i)=>p.push("§"+`${["Premièrement","Deuxièmement","Troisièmement"][i]} : ${a.titre}. ${a.resume}`))}
+    const s=data.synthese;
+    if(s&&s.texte){p.push(`Enfin, la semaine en bref. ${s.titre}.`,s.texte);(s.points||[]).forEach(x=>p.push("§"+zone(x)))}
+    p.push("C'est tout pour aujourd'hui. Bonne lecture, et à très vite.");return p}
   let speaking=false,queue=[],idx=0,started=false,watch=null;
   const stop=()=>{gen++;speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter la veille"};
   let gen=0;
@@ -644,7 +651,7 @@ function setupListen(){
     u.onstart=()=>{started=true;$("#listen-help").hidden=true};u.onend=fin;u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")return;fin()};speechSynthesis.speak(u)}
   btn.addEventListener("click",()=>{if(speaking){stop();return}
     if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel();
-    queue=[];parts().forEach(p=>{const list=p.startsWith("§");const ss=clean(p.replace(/^§/,"")).split(/(?<=[.!?:])\s+/).filter(x=>x.trim());
+    queue=[];parts().forEach(p=>{const list=p.startsWith("§");const ss=clean(p.replace(/^§/,"")).split(/(?<=[.!?])\s+/).filter(x=>x.trim());
       ss.forEach((t,j)=>queue.push({t,rate:list?0.86:0.94,gap:j===ss.length-1?(list?750:450):(list?320:220)}))});
     speaking=true;idx=0;started=false;btn.classList.add("on");lbl.innerHTML='<span class="wave"><i></i><i></i><i></i></span> Arrêter la lecture';
     next();clearTimeout(watch);watch=setTimeout(()=>{if(speaking&&!started)$("#listen-help").hidden=false},2500)});
