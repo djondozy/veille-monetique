@@ -629,18 +629,23 @@ function setupListen(){
   if(speechSynthesis.onvoiceschanged!==undefined)speechSynthesis.onvoiceschanged=()=>{picked=null};
   const clean=t=>t.replace(/FCFA/g,"francs CFA").replace(/PI-SPI/gi,"pi S P I").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/GIM-UEMOA/g,"GIM U E M O A").replace(/BNPL/g,"B N P L").replace(/NFC/g,"N F C");
   function parts(){const now=new Date(),h=now.getHours();const p=[`${h>=18||h<4?"Bonsoir":"Bonjour"}, voici votre veille des paiements.`];
-    const s=data.synthese;if(s&&s.texte){p.push(`La semaine en bref. ${s.titre}.`,s.texte);(s.points||[]).forEach(x=>p.push(x))}
-    const es=data.articles.filter(a=>a.essentiel).slice(0,3);if(es.length){p.push("À ne pas manquer.");es.forEach(a=>p.push(`${a.titre}. ${a.resume}`))}
+    const s=data.synthese;if(s&&s.texte){p.push(`La semaine en bref. ${s.titre}.`,s.texte);(s.points||[]).forEach(x=>p.push("§"+x))}
+    const es=data.articles.filter(a=>a.essentiel).slice(0,3);if(es.length){p.push("À ne pas manquer.");es.forEach(a=>p.push("§"+`${a.titre}. ${a.resume}`))}
     const t=document.querySelector("#feature h2");if(t)p.push(`L'innovation du jour : ${t.textContent}. ${document.querySelector("#feature p")?.textContent||""}`);
     p.push("Bonne lecture, et à très vite.");return p}
   let speaking=false,queue=[],idx=0,started=false,watch=null;
-  const stop=()=>{speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter la veille"};
+  const stop=()=>{gen++;speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter la veille"};
+  let gen=0;
   function next(){if(!speaking)return;if(idx>=queue.length){stop();return}
-    const u=new SpeechSynthesisUtterance(queue[idx++]);const v=voice();u.lang=(v&&v.lang)||"fr-FR";if(v)u.voice=v;u.rate=1;u.volume=1;
-    u.onstart=()=>{started=true;$("#listen-help").hidden=true};u.onend=()=>next();u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")return;next()};speechSynthesis.speak(u)}
+    if(speechSynthesis.speaking||speechSynthesis.pending){setTimeout(next,150);return}   // jamais deux phrases en même temps
+    const it=queue[idx++],my=gen;let done=false;
+    const u=new SpeechSynthesisUtterance(it.t);const v=voice();u.lang=(v&&v.lang)||"fr-FR";if(v)u.voice=v;u.rate=it.rate;u.volume=1;
+    const fin=()=>{if(done||my!==gen)return;done=true;setTimeout(next,it.gap)};
+    u.onstart=()=>{started=true;$("#listen-help").hidden=true};u.onend=fin;u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")return;fin()};speechSynthesis.speak(u)}
   btn.addEventListener("click",()=>{if(speaking){stop();return}
     if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel();
-    queue=[].concat(...parts().map(p=>clean(p).split(/(?<=[.!?:])\s+/))).filter(x=>x.trim());
+    queue=[];parts().forEach(p=>{const list=p.startsWith("§");const ss=clean(p.replace(/^§/,"")).split(/(?<=[.!?:])\s+/).filter(x=>x.trim());
+      ss.forEach((t,j)=>queue.push({t,rate:list?0.86:0.94,gap:j===ss.length-1?(list?750:450):(list?320:220)}))});
     speaking=true;idx=0;started=false;btn.classList.add("on");lbl.innerHTML='<span class="wave"><i></i><i></i><i></i></span> Arrêter la lecture';
     next();clearTimeout(watch);watch=setTimeout(()=>{if(speaking&&!started)$("#listen-help").hidden=false},2500)});
   addEventListener("pagehide",()=>speechSynthesis.cancel());
