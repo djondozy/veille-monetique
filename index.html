@@ -6,6 +6,11 @@
 <title>Veille Monétique UEMOA</title>
 <meta name="description" content="Les nouveaux moyens de paiement et les avancées technologiques de la banque, expliqués simplement et mis à jour chaque jour.">
 <meta name="theme-color" content="#F5F8F7">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Veille Paiements">
 <meta property="og:title" content="Veille Monétique UEMOA">
 <meta property="og:description" content="Les avancées du paiement, expliquées chaque jour.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%23E3F2EE'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='%231F7A6C' stroke-width='1.8'/%3E%3Ccircle cx='16' cy='16' r='4.5' fill='none' stroke='%231F7A6C' stroke-width='1.8'/%3E%3Ccircle cx='21' cy='11' r='2.6' fill='%23E08A5C'/%3E%3C/svg%3E">
@@ -43,7 +48,7 @@ h1,h2{font-family:var(--serif);font-weight:400;letter-spacing:-.01em;margin:0;te
 .nav::-webkit-scrollbar{display:none}
 .nav a{text-decoration:none;font-size:14.5px;font-weight:500;color:var(--muted);padding:8px 12px;border-radius:999px;white-space:nowrap}
 .nav a:hover{color:var(--teal);background:var(--teal-soft)}
-@media (max-width:640px){.brand span{display:none}.nav{margin-left:0}}
+@media (max-width:640px){.nav{margin-left:0}}
 
 /* Hero */
 .hero{position:relative;overflow:hidden;background:
@@ -199,40 +204,106 @@ footer{margin-top:80px;border-top:1px solid var(--line);background:#fff;padding-
 footer .wrap{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:28px}
 footer strong{display:block;color:var(--ink);font:400 24px var(--serif);margin-bottom:6px}
 @media (max-width:720px){footer .wrap{grid-template-columns:1fr}}
+
+/* App views */
+[data-v]{display:none}
+body[data-view="accueil"] [data-v="accueil"],body[data-view="innovations"] [data-v="innovations"],body[data-view="lancements"] [data-v="lancements"],body[data-view="agenda"] [data-v="agenda"]{display:block}
+body[data-view="accueil"] section.hero[data-v="accueil"]{display:block}
+[data-v][hidden]{display:none!important}
+section.block.off{display:none!important}
+.tabsv a[aria-current="page"]{color:var(--teal);background:var(--teal-soft);font-weight:600}
+.vhead{background:radial-gradient(500px 260px at 90% 0%,var(--peach-soft),transparent 70%),radial-gradient(600px 300px at 0% 100%,var(--teal-soft),transparent 70%),#fff;border-bottom:1px solid var(--line)}
+.vhead .wrap{padding-block:30px 24px}
+.vhead h1{font-size:clamp(40px,6vw,60px);line-height:1;margin:8px 0 8px}
+.vhead p{margin:0;color:var(--muted);max-width:60ch}
+.back{background:none;border:0;padding:0;font:500 14px var(--sans);color:var(--muted);cursor:pointer}
+.subnav{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.subnav a{font-size:14px;text-decoration:none;border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 14px;color:var(--ink)}
+.subnav a[aria-current]{background:var(--teal);border-color:var(--teal);color:#fff}
+body:not([data-view="accueil"]) .block{padding-block:36px 0}
+.count{color:var(--muted);font-size:14px;margin:0 0 14px}
+.bottom{display:none}
+@media (max-width:760px){
+  .top .nav{display:none}
+  .bottom{display:grid;grid-template-columns:repeat(4,1fr);position:fixed;left:0;right:0;bottom:0;z-index:20;background:rgba(255,255,255,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding:6px max(6px,env(safe-area-inset-right,0px)) calc(6px + env(safe-area-inset-bottom,0px)) max(6px,env(safe-area-inset-left,0px))}
+  .bottom a{position:relative;display:flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;color:var(--muted);font-size:11.5px;padding:6px 2px;border-radius:12px}
+  .bottom svg{width:22px;height:22px}
+  .bottom a[aria-current="page"]{color:var(--teal);background:var(--teal-soft)}
+  body{padding-bottom:78px}
+  footer{margin-top:48px}
+}
+/* Buttons in hero */
+.btns .btn svg{flex:none}
+.btn.on{background:var(--peach)}
+.tipline{font-size:14px;color:var(--muted);margin:14px 0 0}
+.tipline.warn{color:#8A4A28;background:var(--peach-soft);border-radius:12px;padding:10px 12px}
+.wave{display:inline-flex;gap:2px;align-items:flex-end;height:14px}
+.wave i{width:3px;background:currentColor;border-radius:2px;animation:wv 1s ease-in-out infinite}
+.wave i:nth-child(2){animation-delay:.15s}.wave i:nth-child(3){animation-delay:.3s}
+@keyframes wv{0%,100%{height:4px}50%{height:14px}}
+/* New, share, calendar, glossary, alert */
+.nb{display:inline-block;font:600 11px var(--sans);color:#fff;background:var(--rose);border-radius:999px;padding:2px 8px;margin-right:8px;vertical-align:middle}
+.tabbadge{display:inline-grid;place-items:center;min-width:17px;height:17px;padding:0 4px;border-radius:999px;background:var(--rose);color:#fff;font:600 10.5px var(--sans);margin-left:5px}
+.bottom .tabbadge{position:absolute;top:2px;right:calc(50% - 22px);margin:0}
+.shr,.cal{display:inline-flex;align-items:center;gap:6px;font:600 13px var(--sans);color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:6px 11px;cursor:pointer}
+.shr svg,.cal svg{width:15px;height:15px}
+.cal{margin-top:10px;background:var(--teal-soft);border-color:transparent;color:var(--teal)}
+.lx{all:unset;cursor:help;border-bottom:1.5px dotted var(--peach);color:inherit}
+.lx:focus-visible{outline:2px solid var(--peach);outline-offset:2px}
+.terms button.lx{border:0;font-size:13.5px;background:var(--sky-soft);color:#3E5A8E;border-radius:8px;padding:4px 10px}
+.lexpop{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(92px + env(safe-area-inset-bottom,0px));z-index:1000;width:min(520px,calc(100% - 28px));background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:18px;padding:16px 18px;box-shadow:0 20px 50px rgba(27,43,40,.25)}
+.lexpop b{font:400 24px var(--serif);color:var(--teal);display:block;margin-bottom:4px}
+.lexpop p{margin:0 0 10px;font-size:15px;line-height:1.5}
+.lexpop button{font:600 13px var(--sans);background:var(--teal-soft);color:var(--teal);border:0;border-radius:999px;padding:6px 12px;cursor:pointer}
+.alert{display:flex;gap:12px;align-items:flex-start;background:#FBE8EC;border:1px solid #F1C3CD;color:#7A2335;border-radius:14px;padding:12px 16px;margin-bottom:18px;font-size:15px}
+.alert a{color:inherit;font-weight:600}
+.alert .dot{width:10px;height:10px;border-radius:50%;background:var(--rose);margin-top:6px;flex:none;animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){.alert .dot,.wave i{animation:none}}
+#semaine .panel{max-width:860px}
 </style>
 </head>
-<body>
+<body data-view="accueil">
 
 <header class="top">
   <div class="wrap">
-    <a class="brand" href="#">
+    <a class="brand" href="#accueil">
       <svg width="32" height="32" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#E3F2EE"/><circle cx="16" cy="16" r="9" fill="none" stroke="#1F7A6C" stroke-width="1.8"/><circle cx="16" cy="16" r="4.5" fill="none" stroke="#1F7A6C" stroke-width="1.8"/><circle cx="21" cy="11" r="2.6" fill="#E08A5C"/></svg>
       <span>Veille Monétique</span>
     </a>
-    <nav class="nav" aria-label="Sections">
-      <a href="#innovations">Innovations</a>
-      <a href="#radar">Radar</a>
-      <a href="#lancements">Lancements</a>
-      <a href="#agenda">Échéances</a>
-    </nav>
+    <nav class="nav tabsv" aria-label="Rubriques"><a href="#accueil" data-tab="accueil">Accueil</a><a href="#innovations" data-tab="innovations">Innovations</a><a href="#lancements" data-tab="lancements">Lancements</a><a href="#agenda" data-tab="agenda">Agenda</a></nav>
   </div>
 </header>
 
 <main>
-  <section class="hero">
+  <section class="hero" data-v="accueil">
     <div class="wrap">
       <div>
+        <div class="alert" id="alert" hidden></div>
         <p class="kicker" id="kicker">Bénin, UEMOA et monde</p>
         <h1>Les avancées du paiement, <em>expliquées</em> chaque jour.</h1>
-        <p class="lede">Votre rendez-vous quotidien avec les nouveaux moyens de paiement. Ce qu'ils changent pour vos clients, comment ils fonctionnent, et comment votre banque peut s'en saisir. Expliqué simplement, en deux minutes par innovation.</p>
-        <div class="btns"><a class="btn btn-main" href="#innovations">Découvrir les innovations</a><a class="btn btn-soft" href="#lancements">Derniers lancements</a></div>
+        <p class="lede">Votre rendez-vous avec les nouveaux moyens de paiement : ce qu'ils changent pour vos clients, comment ils fonctionnent, et comment votre banque peut s'en saisir.</p>
+        <div class="btns">
+          <button class="btn btn-main" type="button" id="listen" hidden><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 14v-2a8 8 0 0 1 16 0v2"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg><span>Écouter la veille</span></button>
+          <a class="btn btn-soft" href="#innovations">Découvrir les innovations</a>
+          <button class="btn btn-soft" type="button" id="install" hidden>Installer l'application</button>
+        </div>
+        <p class="tipline warn" id="listen-help" hidden>Pas de son ? Vérifiez que le téléphone n'est pas en <b>mode silencieux</b>, montez le volume, et ouvrez le lien dans <b>Safari ou Chrome</b> plutôt que dans WhatsApp.</p>
+        <p class="tipline" id="ios-tip" hidden>Pour l'installer sur iPhone : touchez <b>Partager</b>, puis <b>Sur l'écran d'accueil</b>.</p>
         <div class="stats" id="stats"></div>
       </div>
       <article class="feature" id="feature" hidden></article>
     </div>
   </section>
 
-  <section class="block" id="innovations">
+  <section class="block" data-v="accueil" id="essentiel" hidden>
+    <div class="wrap">
+      <div class="sh"><h2>À ne pas manquer</h2><p>Les lancements qui comptent le plus pour vous cette semaine.</p></div>
+      <div class="list" id="ess"></div>
+    </div>
+  </section>
+
+  <section class="block" data-v="accueil" id="idee">
     <div class="wrap">
       <div class="human">
         <svg class="illus" viewBox="0 0 320 240" role="img" aria-label="Une cliente paie avec son téléphone chez une commerçante">
@@ -267,14 +338,24 @@ footer strong{display:block;color:var(--ink);font:400 24px var(--serif);margin-b
           <p class="tip-s" id="tip-s"></p>
         </div>
       </div>
-      <div class="sh"><h2>Les nouveaux moyens de paiement</h2><p>Touchez une carte pour tout comprendre : ce que l'innovation change pour le client, son fonctionnement, des exemples réels et ce qu'elle peut apporter à votre banque.</p></div>
+    </div>
+  </section>
+
+  <section class="block" data-v="accueil" id="semaine" hidden>
+    <div class="wrap"><div class="panel wk"><h2>La semaine en bref</h2><div id="wk"></div></div></div>
+  </section>
+
+  <div class="vhead" data-v="innovations"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>Les innovations</h1><p>Chaque nouveau moyen de paiement expliqué simplement, et où il en est.</p><div class="subnav" id="sub-innovations"></div></div></div>
+  <section class="block" data-v="innovations" id="catalogue">
+    <div class="wrap">
+      <div class="sh"><h2>Toutes les fiches</h2><p>Touchez une carte pour tout comprendre : ce que l'innovation change pour le client, son fonctionnement, des exemples réels et ce qu'elle peut apporter à votre banque.</p></div>
       <div class="seg" id="seg" role="group" aria-label="Filtrer les innovations"></div>
       <div class="grid" id="grid"><div class="empty"><strong>Chargement des innovations</strong>Un instant.</div></div>
     </div>
   </section>
-
-  <section class="block" id="radar">
+  <section class="block" data-v="innovations" id="radar">
     <div class="wrap">
+      <div class="sh"><h2>Le radar</h2><p>Où en est chaque innovation, en un coup d'œil.</p></div>
       <div class="overview">
         <div>
           <h3>Où en est chaque innovation ?</h3>
@@ -291,34 +372,36 @@ footer strong{display:block;color:var(--ink);font:400 24px var(--serif);margin-b
     </div>
   </section>
 
-  <section class="block" id="lancements">
+  <div class="vhead" data-v="lancements"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>Les lancements</h1><p>Ce que les banques, les fintechs et les réseaux viennent de proposer à leurs clients, au Bénin comme ailleurs.</p></div></div>
+  <section class="block" data-v="lancements" id="lancements">
     <div class="wrap">
-      <div class="sh"><h2>Derniers lancements</h2><p id="sub">Ce que les banques, les fintechs et les réseaux viennent de proposer à leurs clients, au Bénin comme ailleurs.</p></div>
       <div class="filters">
         <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="Rechercher une banque, une innovation, un pays…" aria-label="Rechercher dans les lancements"></label>
         <div class="chips" id="zones" role="group" aria-label="Zone"></div>
         <div class="chips" id="themes" role="group" aria-label="Thème"></div>
       </div>
+      <p class="count" id="sub"></p>
       <div class="list" id="feed"></div>
       <div id="more-wrap"></div>
     </div>
   </section>
 
-  <section class="block" id="agenda">
-    <div class="wrap two">
-      <div class="panel" id="dl-panel" hidden><h2>Échéances à venir</h2><ol class="dl" id="dl"></ol></div>
-      <div class="panel wk" id="wk-panel" hidden><h2>La semaine en bref</h2><div id="wk"></div></div>
-    </div>
+  <div class="vhead" data-v="agenda"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>L'agenda</h1><p>Les dates qui comptent pour les paiements, à ajouter à votre calendrier.</p></div></div>
+  <section class="block" data-v="agenda" id="echeances">
+    <div class="wrap"><div class="panel"><ol class="dl" id="dl"></ol><p class="empty" id="dl-empty" hidden>Aucune échéance à venir pour l'instant.</p></div></div>
   </section>
 </main>
 
+<nav class="bottom" aria-label="Rubriques"><a href="#accueil" data-tab="accueil"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11 12 4l9 7"/><path d="M5 10v10h14V10"/></svg><span>Accueil</span></a><a href="#innovations" data-tab="innovations"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="6" width="18" height="12" rx="2"/><path d="M3 10h18M7 15h4"/></svg><span>Innovations</span></a><a href="#lancements" data-tab="lancements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 13 13 4h7v7l-9 9z"/><circle cx="16" cy="8" r="1.5"/></svg><span>Lancements</span></a><a href="#agenda" data-tab="agenda"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><span>Agenda</span></a></nav>
+
 <footer>
   <div class="wrap">
-    <div><strong>Veille Monétique UEMOA</strong>Préparée pour vous chaque matin et chaque soir, avec une relecture complète le dimanche. Chaque information est vérifiée et renvoie vers sa source.</div>
+    <div><strong>Veille Monétique UEMOA</strong>Préparée pour vous tous les deux jours, avec une relecture complète le dimanche. Chaque information est vérifiée et renvoie vers sa source.</div>
     <div>Ce que nous suivons : BCEAO, GIM-UEMOA, les banques et opérateurs du Bénin, Visa, Mastercard, UnionPay, Swift, BCE, GSMA, les publications LinkedIn des banques, fintechs et experts du paiement, Financial Afrik, Agence Ecofin, TechCabal, Finextra, The Paypers, Payments Cards &amp; Mobile, et les grands salons (Money20/20, Seamless Africa, Africa Fintech Forum, Trustech).</div>
   </div>
 </footer>
 
+<div class="lexpop" id="lexpop" hidden role="dialog" aria-label="Définition"><b id="lexk"></b><p id="lexv"></p><button type="button" id="lexx">Fermer</button></div>
 <dialog id="dlg" aria-labelledby="dlg-t"><div class="dlg" id="dlg-c"></div></dialog>
 
 <script>
@@ -354,6 +437,48 @@ const P={
 const TECHI={tokenisation:"tap","pi-spi":"bolt","qr-marchand":"qr","carte-virtuelle":"card","prepayee-ciblee":"gift",softpos:"phone",bnpl:"split",biometrie:"finger",stablecoins:"coin","commerce-agentique":"spark","fraude-ia":"shield",passkeys:"key","open-banking":"plug","instantane-monde":"globe",cbdc:"bank",iso20022:"doc","paiement-hors-ligne":"off"};
 const THI={"Wallets & tokenisation":"wallet","Paiement instantané":"bolt","Cartes":"card","Mobile money":"phone","Crédit & BNPL":"split","Crypto & stablecoins":"coin","IA & commerce":"spark","Sécurité & fraude":"shield","Open banking":"plug","Régulation":"law"};
 const svg=(k,s=24)=>`<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${P[k]||P.card}</svg>`;
+
+/* Dernière visite */
+const LAST=(()=>{try{return localStorage.getItem("veille-last-visit")}catch(_){return null}})();
+const isNw=x=>!!(LAST&&x&&x.date&&String(x.date)>LAST);
+const NEWB=x=>isNw(x)?'<span class="nb">Nouveau</span>':"";
+setTimeout(()=>{try{localStorage.setItem("veille-last-visit",new Date().toISOString().slice(0,10))}catch(_){}},4000);
+/* Lexique */
+const LX={
+ "PI-SPI":"Plateforme de paiement instantané de la BCEAO : virements en quelques secondes, 24h/24, entre banques, wallets et établissements de paiement de l'UEMOA.",
+ "tokenisation":"Remplacement du numéro de carte par un code de substitution lié à un téléphone ou à un marchand ; c'est ce qui permet de payer avec son smartphone en toute sécurité.",
+ "token":"Code de substitution qui remplace le vrai numéro de carte lors d'un paiement.",
+ "wallet":"Portefeuille électronique sur téléphone : mobile money, Apple Pay, Google Pay…",
+ "wallets":"Portefeuilles électroniques sur téléphone : mobile money, Apple Pay, Google Pay…",
+ "mobile money":"Compte de monnaie électronique sur téléphone, proposé par les opérateurs (MTN, Moov…) et certaines banques.",
+ "SoftPOS":"Application qui transforme un smartphone Android en terminal de paiement par carte sans contact.",
+ "NFC":"Technologie sans contact à très courte portée utilisée pour payer en approchant une carte ou un téléphone.",
+ "QR code":"Code à scanner avec l'appareil photo du téléphone pour déclencher un paiement.",
+ "BNPL":"« Buy now, pay later » : achat payé en plusieurs fois, souvent sans intérêts s'il est remboursé à temps.",
+ "stablecoins":"Cryptomonnaies adossées à une devise comme le dollar, utilisées pour des transferts rapides.",
+ "stablecoin":"Cryptomonnaie adossée à une devise comme le dollar, utilisée pour des transferts rapides.",
+ "ISO 20022":"Norme internationale des messages de paiement, plus riche en informations que les anciens formats.",
+ "passkey":"Clé numérique stockée sur le téléphone et déverrouillée par la biométrie, qui remplace le code reçu par SMS.",
+ "passkeys":"Clés numériques stockées sur le téléphone et déverrouillées par la biométrie, qui remplacent les codes reçus par SMS.",
+ "open banking":"Ouverture sécurisée des données et services bancaires à des applications tierces, avec l'accord du client.",
+ "BCEAO":"Banque centrale des États de l'Afrique de l'Ouest : elle émet le franc CFA et supervise les systèmes de paiement de l'UEMOA.",
+ "GIM-UEMOA":"Groupement interbancaire monétique de l'UEMOA : il gère le réseau régional de cartes et le traitement des paiements par carte.",
+ "UEMOA":"Union économique et monétaire ouest-africaine : huit pays, dont le Bénin, qui partagent le franc CFA.",
+ "EMV":"Norme internationale des cartes à puce, qui sécurise les paiements par carte.",
+ "3-D Secure":"Étape de vérification lors d'un paiement en ligne par carte (code SMS, validation dans l'application ou biométrie).",
+ "HCE":"Technique qui permet à un téléphone d'imiter une carte sans contact, sans puce sécurisée dédiée.",
+ "TSP":"Prestataire qui crée et gère les tokens de cartes (Visa, Mastercard…).",
+ "cryptogramme":"Code unique généré pour chaque paiement, qui empêche de réutiliser les données d'une transaction.",
+ "interopérabilité":"Capacité de systèmes différents (banques, wallets) à échanger des paiements entre eux.",
+ "MNBC":"Monnaie numérique de banque centrale : version numérique de la monnaie émise directement par la banque centrale.",
+ "commerce agentique":"Achats réalisés par un assistant d'intelligence artificielle au nom du client, selon ses règles.",
+ "Décision n°31":"Texte de l'UEMOA qui impose de traiter dans la zone les paiements domestiques faits avec des cartes Visa, Mastercard ou UnionPay."
+};
+const LXRE=(()=>{const ks=Object.keys(LX).sort((a,b)=>b.length-a.length).map(k=>k.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"));return new RegExp(`(?<![\\wÀ-ÿ-])(${ks.join("|")})(?![\\wÀ-ÿ-])`,"gi")})();
+const L=t=>esc(t).replace(LXRE,m=>`<button type="button" class="lx" data-lx="${esc(Object.keys(LX).find(k=>k.toLowerCase()===m.toLowerCase())||m)}">${m}</button>`);
+/* Partage */
+const SHARES=[];
+const SH=(titre,texte,hash)=>{SHARES.push({titre,texte,hash});return `<button type="button" class="shr" data-share="${SHARES.length-1}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Partager</button>`};
 const pill=t=>{const s=ST[t.statut]||ST.mon;return `<span class="pill ${s.cls}"><i></i>${s.l}</span>`};
 
 let data={articles:[],technologies:[],echeances:[]},filt="Toutes",zone="Toutes",theme="Tous",query="",techF=null,limit=12;
@@ -389,7 +514,7 @@ function grid(){
   if(!data.technologies.length){$("#grid").innerHTML=`<div class="empty"><strong>Aucune innovation pour l'instant</strong>Les fiches arrivent avec la prochaine mise à jour.</div>`;return}
   $("#grid").innerHTML=l.map(t=>{const e=lastEx(t);return `<button class="inno${t.prioritaire?" prio":""}" type="button" data-open="${esc(t.id)}">
     <div class="row"><div class="tic">${svg(TECHI[t.id])}</div><div class="pills">${t.prioritaire?'<span class="pill p-pr">Prioritaire</span>':""}${pill(t)}</div></div>
-    <h3>${esc(t.nom)}</h3><p>${esc(t.client)}</p>
+    <h3>${e&&isNw(e)?'<span class="nb">Nouveau</span>':""}${esc(t.nom)}</h3><p>${esc(t.client)}</p>
     ${e?`<div class="last"><b>Dernier lancement :</b> ${esc(e.texte.length>110?e.texte.slice(0,108)+"…":e.texte)}</div>`:""}
   </button>`}).join("");
 }
@@ -420,20 +545,29 @@ function feed(){
   if(!rows.length){$("#feed").innerHTML=`<div class="empty"><strong>Aucun lancement ne correspond</strong>Essayez un autre mot, ou revenez à « Toutes » et « Tous les thèmes ».</div>`;return}
   $("#feed").innerHTML=rows.slice(0,limit).map(a=>{const t=data.technologies.find(x=>x.id===a.techno);
     return `<article class="news${a.essentiel?" ess":""}"><div class="m"><span>${fmt(a.date,{day:"numeric",month:"short",year:"numeric"})}</span><span>${esc(a.zone)}</span><span>${esc(a.source)}</span>${isNew(a)?'<span class="new">Nouveau</span>':""}</div>
-    <h3>${esc(a.titre)}</h3><p>${esc(a.resume)}</p>${a.retenir?`<div class="ret">${esc(a.retenir)}</div>`:""}
-    <div class="acts">${t?`<button type="button" data-open="${esc(t.id)}">Comprendre : ${esc(t.nom)}</button>`:""}${okUrl(a.url)?`<a href="${esc(a.url)}" target="_blank" rel="noopener">Source</a>`:""}</div></article>`}).join("");
+    <h3>${NEWB(a)}${esc(a.titre)}</h3><p>${L(a.resume)}</p>${a.retenir?`<div class="ret">${L(a.retenir)}</div>`:""}
+    <div class="acts">${t?`<button type="button" data-open="${esc(t.id)}">Comprendre : ${esc(t.nom)}</button>`:""}${okUrl(a.url)?`<a href="${esc(a.url)}" target="_blank" rel="noopener">Source</a>`:""}${SH(a.titre,a.resume+(a.retenir?" À retenir : "+a.retenir:""),"lancements")}</div></article>`}).join("");
+  $("#sub").textContent=`${rows.length} lancement${rows.length>1?"s":""}${zone!=="Toutes"?" · "+zone:""}`;
   if(rows.length>limit)$("#more-wrap").innerHTML=`<button class="more" type="button" id="more">Voir ${Math.min(12,rows.length-limit)} lancements de plus</button>`;
 }
 
 function agenda(){
-  const l=data.echeances.filter(d=>D(d.date)>=T0).sort((a,b)=>String(a.date).localeCompare(String(b.date))).slice(0,6);
-  if(l.length){$("#dl-panel").hidden=false;$("#dl").innerHTML=l.map(d=>{const n=Math.round((D(d.date)-T0)/864e5);
-    return `<li class="${n<=30?"soon":""}"><div class="w">${fmt(d.date)} · <b>${n===0?"aujourd'hui":n===1?"demain":"dans "+n+" jours"}</b></div><h4>${esc(d.titre)}</h4>${d.detail?`<p>${esc(d.detail)}</p>`:""}</li>`}).join("")}
+  const l=data.echeances.filter(d=>D(d.date)>=T0).sort((a,b)=>String(a.date).localeCompare(String(b.date)));
+  $("#dl-empty").hidden=!!l.length;
+  $("#dl").innerHTML=l.map(d=>{const n=Math.round((D(d.date)-T0)/864e5);
+    return `<li class="${n<=30?"soon":""}"><div class="w">${fmt(d.date)} · <b>${n===0?"aujourd'hui":n===1?"demain":"dans "+n+" jours"}</b></div><h4>${NEWB(d)}${esc(d.titre)}</h4>${d.detail?`<p>${L(d.detail)}</p>`:""}<button type="button" class="cal" data-ics="${esc(JSON.stringify({date:d.date,titre:d.titre,detail:d.detail||"",url:d.url||""}))}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg>Ajouter à mon agenda</button></li>`}).join("");
   const s=data.synthese;
-  if(s&&s.texte){$("#wk-panel").hidden=false;$("#wk").innerHTML=`<p class="per">${esc(s.periode||"")}</p><h3>${esc(s.titre||"")}</h3><p>${esc(s.texte)}</p><ul>${(s.points||[]).map(p=>`<li class="${/^(UEMOA|Bénin)/i.test(p)?"loc":""}"><i></i><span>${esc(p)}</span></li>`).join("")}</ul>`}
-  if($("#dl-panel").hidden&&$("#wk-panel").hidden)$("#agenda").hidden=true;
+  if(s&&s.texte){$("#semaine").hidden=false;$("#wk").innerHTML=`<p class="per">${esc(s.periode||"")}</p><h3>${esc(s.titre||"")}</h3><p>${L(s.texte)}</p><ul>${(s.points||[]).map(p=>`<li class="${/^(UEMOA|Bénin)/i.test(p)?"loc":""}"><i></i><span>${L(p)}</span></li>`).join("")}</ul>`}
 }
-
+function ess(){
+  const l=data.articles.filter(a=>a.essentiel).slice(0,3);if(!l.length)return;$("#essentiel").hidden=false;
+  $("#ess").innerHTML=l.map(a=>{const t=data.technologies.find(x=>x.id===a.techno);
+    return `<article class="news ess"><div class="m"><span>${fmt(a.date,{day:"numeric",month:"short",year:"numeric"})}</span><span>${esc(a.zone)}</span><span>${esc(a.source)}</span></div><h3>${NEWB(a)}${esc(a.titre)}</h3><p>${L(a.resume)}</p>${a.pourquoi?`<div class="ret">${L(a.pourquoi)}</div>`:""}<div class="acts">${t?`<button type="button" data-open="${esc(t.id)}">Comprendre : ${esc(t.nom)}</button>`:""}${okUrl(a.url)?`<a href="${esc(a.url)}" target="_blank" rel="noopener">Source</a>`:""}${SH(a.titre,a.resume,"accueil")}</div></article>`}).join("");
+}
+function setAlert(){
+  const e=data.echeances.filter(x=>!x.dateApprox).map(x=>({...x,n:Math.round((D(x.date)-T0)/864e5)})).filter(x=>x.n>=0&&x.n<=7).sort((x,y)=>x.n-y.n)[0];
+  if(e){$("#alert").innerHTML=`<span class="dot"></span><div><b>${e.n===0?"Aujourd'hui":e.n===1?"Demain":"Dans "+e.n+" jours"} :</b> ${esc(e.titre)}. <a href="#agenda">Voir l'agenda</a></div>`;$("#alert").hidden=false}
+}
 function openTech(id){
   const t=data.technologies.find(x=>x.id===id);if(!t)return;
   const n=data.articles.filter(a=>a.techno===id).length;
@@ -441,12 +575,13 @@ function openTech(id){
   $("#dlg-c").innerHTML=`<header><div class="tic">${svg(TECHI[t.id])}</div><button class="x" type="button" data-close aria-label="Fermer">×</button></header>
   <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:16px">${t.prioritaire?'<span class="pill p-pr">Prioritaire</span>':""}${pill(t)}</div>
   <h2 id="dlg-t">${esc(t.nom)}</h2>
-  <p class="lead">${esc(t.client)}</p>
-  <h4>Comment ça marche</h4><p>${esc(t.fonctionnement)}</p>
-  <h4>Où en est-on</h4><p>${esc(t.situation)}</p>
+  <p class="lead">${L(t.client)}</p>
+  <h4>Comment ça marche</h4><p>${L(t.fonctionnement)}</p>
+  <h4>Où en est-on</h4><p>${L(t.situation)}</p>
   ${ex.length?`<h4>Exemples de lancements</h4><ul class="exs">${ex.map(e=>`<li>${esc(e.texte)}<small>${e.date?fmt(e.date)+" – ":""}${okUrl(e.url)?`<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.source||"source")}</a>`:esc(e.source)}</small></li>`).join("")}</ul>`:""}
-  <div class="opp"><h4>Opportunité pour une banque</h4><p>${esc(t.opportunite)}</p></div>
-  ${t.termes?.length?`<h4>Termes à maîtriser</h4><div class="terms">${t.termes.map(x=>`<span>${esc(x)}</span>`).join("")}</div>`:""}
+  <div class="opp"><h4>Opportunité pour une banque</h4><p>${L(t.opportunite)}</p></div>
+  ${t.termes?.length?`<h4>Termes à maîtriser</h4><div class="terms">${t.termes.map(x=>{const k=Object.keys(LX).find(k=>k.toLowerCase()===String(x).toLowerCase());return k?`<button type="button" class="lx" data-lx="${esc(k)}">${esc(x)}</button>`:`<span>${esc(x)}</span>`}).join("")}</div>`:""}
+  <div style="margin-top:18px">${SH(t.nom,t.client+" "+(t.opportunite||""),"innovations")}</div>
   ${n?`<button class="btn btn-main go" type="button" data-tech="${esc(id)}">Voir les ${n} lancement${n>1?"s":""} liés</button>`:""}`;
   const d=$("#dlg");if(d.showModal)d.showModal();else d.setAttribute("open","");
 }
@@ -454,7 +589,7 @@ function openTech(id){
 document.addEventListener("click",e=>{
   const o=e.target.closest("[data-open]");if(o){openTech(o.dataset.open);return}
   if(e.target.closest("[data-close]")||e.target===$("#dlg")){$("#dlg").close();return}
-  const tf=e.target.closest("[data-tech]");if(tf){$("#dlg").close();techF=tf.dataset.tech;zone="Toutes";theme="Tous";limit=100;feed();document.getElementById("lancements").scrollIntoView();return}
+  const tf=e.target.closest("[data-tech]");if(tf){$("#dlg").close();techF=tf.dataset.tech;zone="Toutes";theme="Tous";limit=100;feed();location.hash="#lancements";return}
   const f=e.target.closest("[data-f]");if(f){filt=f.dataset.f;grid();return}
   const z=e.target.closest("[data-z]");if(z){zone=z.dataset.z;theme="Tous";techF=null;limit=12;feed();return}
   const th=e.target.closest("[data-t]");if(th){theme=th.dataset.t;techF=null;limit=12;feed();return}
@@ -463,12 +598,81 @@ document.addEventListener("click",e=>{
 document.addEventListener("keydown",e=>{const d=e.target.closest&&e.target.closest(".dot");if(d&&(e.key==="Enter"||e.key===" ")){e.preventDefault();openTech(d.dataset.open)}});
 let tm;$("#q").addEventListener("input",e=>{clearTimeout(tm);tm=setTimeout(()=>{query=e.target.value;limit=30;feed()},150)});
 
+
+/* ---------- Navigation par rubriques ---------- */
+const VIEWS=["accueil","innovations","lancements","agenda"];
+function subnavs(){const box=$("#sub-innovations");box.innerHTML=[...document.querySelectorAll('section[data-v="innovations"]')].map(x=>`<a href="#${x.id}">${esc(x.querySelector(".sh h2").textContent)}</a>`).join("")}
+function route(){
+  const h=decodeURIComponent(location.hash.slice(1))||"accueil";
+  let v=VIEWS.includes(h)?h:null,el=null;
+  if(!v){el=document.getElementById(h);v=el?.closest("[data-v]")?.dataset.v||"accueil"}
+  const changed=document.body.dataset.view!==v;document.body.dataset.view=v;
+  document.querySelectorAll("[data-tab]").forEach(a=>{if(a.dataset.tab===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")});
+  if(v==="innovations"){const secs=[...document.querySelectorAll('section[data-v="innovations"]')];const pick=el&&secs.includes(el)?el:(secs.find(x=>x.id===window._lastI)||secs[0]);
+    secs.forEach(x=>x.classList.toggle("off",x!==pick));window._lastI=pick.id;
+    document.querySelectorAll("#sub-innovations a").forEach(a=>{if(a.getAttribute("href")==="#"+pick.id)a.setAttribute("aria-current","true");else a.removeAttribute("aria-current")})}
+  if(changed||v==="innovations")window.scrollTo({top:0});
+}
+addEventListener("hashchange",route);
+document.addEventListener("click",e=>{const g=e.target.closest("[data-go]");if(g)location.hash=g.dataset.go});
+/* ---------- Compteurs de nouveautés ---------- */
+function badges(){if(!LAST)return;VIEWS.forEach(v=>{const n=document.querySelectorAll(`[data-v="${v}"] .nb`).length;
+  document.querySelectorAll(`[data-tab="${v}"]`).forEach(a=>{a.querySelectorAll(".tabbadge").forEach(x=>x.remove());if(n){const b=document.createElement("span");b.className="tabbadge";b.textContent=n;a.appendChild(b)}})})}
+/* ---------- Écouter la veille (voix féminine) ---------- */
+function setupListen(){
+  const btn=$("#listen");if(!("speechSynthesis" in window))return;btn.hidden=false;const lbl=btn.querySelector("span");
+  const FEM=["denise","vivienne","eloise","audrey","aurélie","aurelie","amélie","amelie","marie","céline","celine","léa","lea","chantal","julie","hortense","sylvie","virginie","google français","google francais"];
+  const MASC=/thomas|henri|paul|nicolas|daniel|remy|rémy|claude|antoine|jacques|jean|male|homme|guillaume|yannick|fabrice/i;
+  let picked=null;const voice=()=>{if(picked)return picked;const v=speechSynthesis.getVoices().filter(x=>/^fr/i.test(x.lang));if(!v.length)return null;
+    const sc=x=>{const n=x.name.toLowerCase();let s=0;const i=FEM.findIndex(f=>n.includes(f));if(i>=0)s+=100-i;if(MASC.test(n))s-=200;if(/natural|neural|premium|enhanced|amélioré|online/i.test(n))s+=40;if(/^fr(-|_)FR/i.test(x.lang))s+=10;return s};
+    picked=v.slice().sort((a,b)=>sc(b)-sc(a))[0];return picked};
+  if(speechSynthesis.onvoiceschanged!==undefined)speechSynthesis.onvoiceschanged=()=>{picked=null};
+  const clean=t=>t.replace(/FCFA/g,"francs CFA").replace(/PI-SPI/gi,"pi S P I").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/GIM-UEMOA/g,"GIM U E M O A").replace(/BNPL/g,"B N P L").replace(/NFC/g,"N F C");
+  function parts(){const now=new Date(),h=now.getHours();const p=[`${h>=18||h<4?"Bonsoir":"Bonjour"}, voici votre veille des paiements.`];
+    const s=data.synthese;if(s&&s.texte){p.push(`La semaine en bref. ${s.titre}.`,s.texte);(s.points||[]).forEach(x=>p.push(x))}
+    const es=data.articles.filter(a=>a.essentiel).slice(0,3);if(es.length){p.push("À ne pas manquer.");es.forEach(a=>p.push(`${a.titre}. ${a.resume}`))}
+    const t=document.querySelector("#feature h2");if(t)p.push(`L'innovation du jour : ${t.textContent}. ${document.querySelector("#feature p")?.textContent||""}`);
+    p.push("Bonne lecture, et à très vite.");return p}
+  let speaking=false,queue=[],idx=0,started=false,watch=null;
+  const stop=()=>{speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter la veille"};
+  function next(){if(!speaking)return;if(idx>=queue.length){stop();return}
+    const u=new SpeechSynthesisUtterance(queue[idx++]);const v=voice();u.lang=(v&&v.lang)||"fr-FR";if(v)u.voice=v;u.rate=1;u.volume=1;
+    u.onstart=()=>{started=true;$("#listen-help").hidden=true};u.onend=()=>next();u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")return;next()};speechSynthesis.speak(u)}
+  btn.addEventListener("click",()=>{if(speaking){stop();return}
+    if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel();
+    queue=[].concat(...parts().map(p=>clean(p).split(/(?<=[.!?:])\s+/))).filter(x=>x.trim());
+    speaking=true;idx=0;started=false;btn.classList.add("on");lbl.innerHTML='<span class="wave"><i></i><i></i><i></i></span> Arrêter la lecture';
+    next();clearTimeout(watch);watch=setTimeout(()=>{if(speaking&&!started)$("#listen-help").hidden=false},2500)});
+  addEventListener("pagehide",()=>speechSynthesis.cancel());
+}
+/* ---------- Application installable ---------- */
+(function(){if("serviceWorker" in navigator&&location.protocol==="https:")navigator.serviceWorker.register("sw.js").catch(()=>{});
+  if(matchMedia("(display-mode: standalone)").matches||navigator.standalone)return;
+  let ev=null;addEventListener("beforeinstallprompt",e=>{e.preventDefault();ev=e;$("#install").hidden=false});
+  $("#install").addEventListener("click",async()=>{if(!ev)return;ev.prompt();await ev.userChoice.catch(()=>{});ev=null;$("#install").hidden=true});
+  if(/iphone|ipad|ipod/i.test(navigator.userAgent))$("#ios-tip").hidden=false})();
+/* ---------- Partage, agenda, lexique ---------- */
+const SITE="https://djondozy.github.io/veille-monetique/";
+document.addEventListener("click",async e=>{
+  const sh=e.target.closest("[data-share]");
+  if(sh){const p=SHARES[+sh.dataset.share];const url=SITE+(p.hash?"#"+p.hash:"");const text=`${p.titre}\n\n${p.texte}\n\n`;
+    if(navigator.share){try{await navigator.share({title:p.titre,text,url});return}catch(err){if(err&&err.name==="AbortError")return}}
+    window.open("https://wa.me/?text="+encodeURIComponent(text+url),"_blank","noopener");return}
+  const c=e.target.closest("[data-ics]");
+  if(c){const x=JSON.parse(c.dataset.ics);const dt=x.date.replace(/-/g,"");const n=new Date(D(x.date).getTime()+864e5).toISOString().slice(0,10).replace(/-/g,"");
+    const escI=t=>String(t).replace(/\\/g,"\\\\").replace(/;/g,"\;").replace(/,/g,"\\,").replace(/\n/g,"\\n");
+    const ics=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Veille Monetique//FR","CALSCALE:GREGORIAN","BEGIN:VEVENT",`UID:${dt}-${Math.random().toString(36).slice(2)}@veille`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,"").slice(0,15)}Z`,`DTSTART;VALUE=DATE:${dt}`,`DTEND;VALUE=DATE:${n}`,`SUMMARY:${escI(x.titre)}`,`DESCRIPTION:${escI(x.detail+(x.url?" "+x.url:""))}`,"BEGIN:VALARM","ACTION:DISPLAY",`DESCRIPTION:${escI(x.titre)}`,"TRIGGER:-P7D","END:VALARM","BEGIN:VALARM","ACTION:DISPLAY",`DESCRIPTION:${escI(x.titre)}`,"TRIGGER:-PT15H","END:VALARM","END:VEVENT","END:VCALENDAR"].join("\r\n");
+    const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([ics],{type:"text/calendar;charset=utf-8"}));a.download=`echeance-${dt}.ics`;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1500);return}
+  const lx=e.target.closest("[data-lx]");
+  if(lx){e.preventDefault();e.stopPropagation();const pop=$("#lexpop"),host=$("#dlg").open?$("#dlg"):document.body;if(pop.parentNode!==host)host.appendChild(pop);const k=lx.dataset.lx;$("#lexk").textContent=k;$("#lexv").textContent=LX[k]||"";$("#lexpop").hidden=false;return}
+  if(e.target.id==="lexx"||(!$("#lexpop").hidden&&!e.target.closest("#lexpop")))$("#lexpop").hidden=true;
+},true);
 (async()=>{
   try{
     const r=await fetch("data.json?v="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;
     const d=await r.json();
     data={...d,articles:(d.articles||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date))),technologies:d.technologies||[],echeances:d.echeances||[]};
-    hero();grid();radar();feed();agenda();
+    hero();grid();radar();feed();agenda();ess();setAlert();setupListen();subnavs();route();badges();
   }catch(_){$("#grid").innerHTML=`<div class="empty"><strong>La veille ne s'est pas chargée</strong>Vérifiez votre connexion puis rechargez la page.</div>`}
 })();
 </script>
