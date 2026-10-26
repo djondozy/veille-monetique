@@ -1,0 +1,459 @@
+{
+ "derniereMaj": "2026-10-26T07:43:09Z",
+ "btp": {
+  "synthese": "Le Bénin multiplie les chantiers routiers (corridor côtier, Bohicon-Dassa, pistes rurales) et énergétiques à Glo-Djigbé ; dans la région, le solaire et l'électrification tirent la demande, et les grands groupes mondiaux misent sur l'énergie.",
+  "actus": [
+   {
+    "date": "2026-10-25",
+    "zone": "Afrique",
+    "titre": "Côte d'Ivoire : première pierre d'une centrale solaire de 50 MWc à Binguébougou",
+    "resume": "Portée par le groupe émirati AMEA Power et financée entièrement par le privé, la centrale doit alimenter plus de 300 000 personnes dans la région du Poro.",
+    "retenir": "Les chantiers solaires se multiplient dans la région : génie civil, pose de structures et raccordement offrent du travail aux entreprises locales.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/10/25/cote-divoire/environement/cote-divoire-binguebougou-sangafowa-lance-les-travaux-de-construction-dune-centrale-solaire-de-50-mwc-au-service-de-plus-de-300-000-personnes-dans-le-poro_201964.html"
+   },
+   {
+    "date": "2026-10-23",
+    "zone": "Afrique",
+    "titre": "Burkina Faso : plus de 2 800 milliards FCFA pour l'électricité pour tous d'ici 2030",
+    "resume": "Le programme Faso Wa-Fulu prévoit de raccorder 6 700 localités et de construire environ 30 000 km de lignes haute et basse tension sur dix ans.",
+    "retenir": "Un énorme besoin de lignes, de postes et de génie civil dans un pays voisin, avec des marchés ouverts aux entreprises de la sous-région.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/10/23/burkina-faso/politique/burkina-faso-le-gouvernement-lance-lelectrification-pour-tous-dici-2030_201912.html"
+   },
+   {
+    "date": "2026-10-23",
+    "zone": "Bénin",
+    "titre": "Cimenterie de Sèmè-Podji : 33,2 milliards FCFA mobilisés avec la BOA-Bénin et la BOAD",
+    "resume": "La banque et la Banque ouest-africaine de développement soutiennent l'extension d'une usine de ciment à Sèmè-Podji, près de Cotonou.",
+    "retenir": "Plus de ciment produit localement peut aider à stabiliser l'approvisionnement des chantiers béninois.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/la-boa-benin-et-la-boad-mobilisent-332-milliards-fcfa-pour-une-usine-de-ciment-a-seme-podji/"
+   },
+   {
+    "date": "2026-10-23",
+    "zone": "Afrique",
+    "titre": "Togo : deux nouvelles démarches d'urbanisme accessibles en ligne",
+    "resume": "Deux procédures d'urbanisme supplémentaires peuvent désormais être faites sur la plateforme nationale en ligne du Togo.",
+    "retenir": "La dématérialisation des permis et autorisations raccourcit les délais avant l'ouverture d'un chantier.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/btp/2310-20432-togo-deux-nouvelles-demarches-d-urbanisme-accessibles-en-ligne"
+   },
+   {
+    "date": "2026-10-23",
+    "zone": "Bénin",
+    "titre": "Audit électrique de 14 sites administratifs, dont le nouveau siège du Parlement",
+    "resume": "Quatorze bâtiments publics béninois, dont le nouveau siège de l'Assemblée nationale, sont concernés par un vaste audit de leurs installations électriques.",
+    "retenir": "Des travaux de mise en conformité électrique pourraient suivre dans les bâtiments publics.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/10/23/benin-14-sites-administratifs-dont-le-nouveau-siege-du-parlement-concernes-par-un-vaste-audit-electrique/"
+   },
+   {
+    "date": "2026-10-22",
+    "zone": "Monde",
+    "titre": "Vinci : chiffre d'affaires et commandes en hausse sur neuf mois",
+    "resume": "Le géant français du BTP affiche 56 milliards d'euros de chiffre d'affaires (+3,1 %) et un carnet de commandes record de 75,4 milliards (+7 %), porté par l'énergie et l'international (60 % de l'activité).",
+    "retenir": "Les grands groupes misent sur l'énergie et l'international : ce sont les segments où la demande est la plus forte.",
+    "source": "Vinci (communiqué)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/22/3386691/0/fr/vinci-9m-2026-nouvelles-hausses-du-chiffre-d-affaires-et-des-prises-de-commandes.html"
+   },
+   {
+    "date": "2026-10-22",
+    "zone": "Bénin",
+    "titre": "Cité ministérielle de Cotonou : Londres met en avant sa garantie de 82 millions de livres",
+    "resume": "L'agence britannique UK Export Finance garantit environ 53,7 milliards FCFA pour la Cité ministérielle, déjà en partie occupée ; un campus défense et sécurité de 20 millions de livres est confié à ACC UK Group.",
+    "retenir": "Les garanties export britanniques financent de grands bâtiments publics au Bénin et pourraient en financer d'autres.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/diplomatie-economique-le-royaume-uni-sappuie-sur-la-cite-ministerielle-de-cotonou/"
+   },
+   {
+    "date": "2026-10-21",
+    "zone": "Bénin",
+    "titre": "Glo-Djigbé : plus de 625 MW d'électricité en projet pour la zone industrielle",
+    "resume": "La zone industrielle de Glo-Djigbé (GDIZ) prévoit notamment une centrale thermique de plus de 225 MW et 300 MW de solaire pour accompagner l'arrivée de nouvelles usines.",
+    "retenir": "Centrales, lignes et nouvelles usines : la GDIZ reste le plus gros pôle de chantiers privés du pays.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-la-gdiz-prepare-une-offensive-energetique-de-plus-de-625-mw/"
+   },
+   {
+    "date": "2026-10-14",
+    "zone": "Bénin",
+    "titre": "Route Godomey-Ouidah-Hillacondji : 201 milliards FCFA de la BID",
+    "resume": "Signé à Bangkok, le financement de la Banque islamique de développement couvre deux tronçons de cet axe de 94 km du corridor Abidjan-Lagos ; la BOAD (60 milliards) et la BAD (111,9 milliards) financent les autres sections.",
+    "retenir": "Le corridor côtier vers le Togo sera en chantier sur toute sa longueur : terrassement, ouvrages d'art, matériaux.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-201-milliards-fcfa-pour-la-route-godomey-ouidah-hillacondji-details/"
+   },
+   {
+    "date": "2026-10-11",
+    "zone": "Bénin",
+    "titre": "Échangeur de Vêdoko : le Japon ajoute 10,8 milliards FCFA",
+    "resume": "Le Japon met une nouvelle enveloppe à disposition du Bénin pour la construction de l'échangeur de Vêdoko, à Cotonou.",
+    "retenir": "Un chantier urbain majeur à Cotonou, avec des perturbations de circulation à prévoir.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/economie/article/20261011-construction-de-l-echangeur-de-vedoko-le-japon-met-encore-10-8-milliards-fcfa-a-la-disposition-du-benin"
+   },
+   {
+    "date": "2026-10-09",
+    "zone": "Bénin",
+    "titre": "Nouveaux chantiers routiers : Ouidah-Tori, Djougou-Ouaké et Bohicon-Dassa",
+    "resume": "Le Conseil des ministres du 7 octobre a validé la réhabilitation de Ouidah-Tori (17 km) et Djougou-Ouaké-frontière du Togo (37 km), la mise en 2x2 voies de Bohicon-Dassa (35 km) et la réfection d'environ 18 000 km de pistes rurales en 2026-2027.",
+    "retenir": "Beaucoup de marchés à venir pour les PME de travaux, surtout sur les pistes rurales.",
+    "source": "Agence Ecofin",
+    "url": "https://www.agenceecofin.com/actualites-infrastructures/0910-142285-le-benin-annonce-de-nouveaux-chantiers-pour-renforcer-le-reseau-routier-et-les-grands-corridors"
+   },
+   {
+    "date": "2026-09-09",
+    "zone": "Bénin",
+    "titre": "Route Sètto-Dassa-Zoumè : le chantier de 291 millions de dollars a démarré",
+    "resume": "Les 39,45 km de la RNIE 2 sont reconstruits et élargis par SOGEA-SATOM, avec 202 millions de dollars du Millennium Challenge Corporation américain et 89 millions de l'État béninois.",
+    "retenir": "Un des plus gros chantiers routiers en cours au Bénin, sur le corridor Cotonou-Niamey.",
+    "source": "Nasuba",
+    "url": "https://www.nasuba.info/economie/benin-le-chantier-de-291-millions-de-dollars-de-la-route-setto-dassa-zoume-demarre/"
+   }
+  ]
+ },
+ "presse": [
+  {
+   "date": "2026-10-26",
+   "synthese": "Le week-end a été marqué par l'accord commercial signé avec les Émirats arabes unis, la reprise des travaux de l'Assemblée nationale ce lundi et l'ouverture des inscriptions pour les Vodun Days 2027.",
+   "articles": [
+    {
+     "date": "2026-10-25",
+     "journal": "Bénin Intelligent",
+     "titre": "Le Bénin et les Émirats arabes unis signent un accord de partenariat économique",
+     "resume": "Signé à Abou Dhabi devant les présidents Wadagni et Mohamed bin Zayed, l'accord doit, après ratification, réduire les droits de douane sur la plupart des échanges et faciliter l'investissement.",
+     "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Les 4 Vérités",
+     "titre": "Après Abou Dhabi, le président Wadagni attendu au sommet Russie-Afrique",
+     "resume": "Le chef de l'État doit participer au troisième sommet Russie-Afrique à Moscou les 28 et 29 octobre.",
+     "url": "https://www.les4verites.bj/wadagni-decroche-un-accord-economique-majeur-a-abou-dhabi/"
+    },
+    {
+     "date": "2026-10-25",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Assemblée nationale : le nouveau Code de la route examiné ce lundi",
+     "resume": "Les députés étudient aussi le rapport d'activité de leur président et la ratification de l'accord créant la Facilité africaine de soutien juridique.",
+     "url": "https://lanouvelletribune.info/2026/10/benin-les-deputes-examineront-le-code-de-la-route-et-deux-autres-dossiers-ce-lundi-26-octobre/"
+    },
+    {
+     "date": "2026-10-25",
+     "journal": "Gouvernement du Bénin",
+     "titre": "53 Afro-descendants deviennent citoyens béninois",
+     "resume": "Le gouvernement a remis la nationalité béninoise à 53 Afro-descendants dans le cadre de la loi sur le retour aux sources.",
+     "url": "https://www.gouv.bj/article/3716/retour-sources-afro-descendants-deviennent-citoyens-beninois/"
+    },
+    {
+     "date": "2026-10-24",
+     "journal": "Bénin Web TV",
+     "titre": "Vodun Days 2027 : les demandes de stands ouvertes jusqu'au 16 novembre",
+     "resume": "La 4e édition aura lieu à Ouidah du 2 au 9 janvier 2027 ; artisans, créateurs et commerçants postulent en ligne sur inscriptions.vodundays.bj.",
+     "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
+    },
+    {
+     "date": "2026-10-24",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Le gouvernement s'explique sur les expropriations à Togbin Daho",
+     "resume": "Le porte-parole du gouvernement a apporté des explications sur les expropriations menées dans ce quartier de la route des pêches.",
+     "url": "https://lanouvelletribune.info/2026/10/benin-le-gouvernement-sexplique-sur-les-expropriations-a-togbin-daho/"
+    },
+    {
+     "date": "2026-10-24",
+     "journal": "Bénin Web TV",
+     "titre": "Parakou adopte un budget 2027 en hausse de 34 %",
+     "resume": "La mairie de Parakou a voté un budget primitif d'environ 5,3 milliards FCFA pour 2027.",
+     "url": "https://beninwebtv.bj/parakou-un-budget-2027-de-529-milliards-fcfa-en-hausse-de-3424/"
+    },
+    {
+     "date": "2026-10-24",
+     "journal": "24 Heures au Bénin",
+     "titre": "Vitres teintées et couloirs réservés : la police durcit les contrôles",
+     "resume": "La Police républicaine renforce la répression des vitres opaques et du non-respect des couloirs de circulation.",
+     "url": "https://www.24haubenin.info/?Repression-des-vitres-opaques-et-du-non-respect-des-couloirs"
+    },
+    {
+     "date": "2026-10-24",
+     "journal": "La Nation",
+     "titre": "Liberté économique : ce que signifie la 11e place africaine du Bénin",
+     "resume": "Le quotidien revient sur la progression du pays dans le classement 2026 de l'Institut Fraser et sur ce qu'elle implique pour les investisseurs.",
+     "url": "https://www.lanation.bj/actualites/liberte-economique-les-enjeux-de-la-progression-du-benin-a-la-11e-place-africaine"
+    },
+    {
+     "date": "2026-10-24",
+     "journal": "Banouto",
+     "titre": "Des investisseurs africains visitent la zone industrielle de Glo-Djigbé",
+     "resume": "Les participants au forum des zones économiques spéciales ont découvert les usines de la GDIZ et son modèle industriel.",
+     "url": "https://www.banouto.bj/economie/article/20261024-forum-des-zones-economiques-speciales-les-participants-decouvrent-a-la-gdiz-le-modele-industriel-beninois"
+    },
+    {
+     "date": "2026-10-25",
+     "journal": "Premium Times (Nigeria)",
+     "titre": "Ebola au Nigeria : toujours un seul cas confirmé",
+     "resume": "53 contacts sont suivis et aucun n'est malade ; le Bénin reste en phase de préalerte.",
+     "url": "https://www.premiumtimesng.com/health/health-news/920169-ebola-ncdc-warns-misinformation-could-undermine-nigerias-response.html"
+    }
+   ]
+  }
+ ],
+ "conciergerie": {
+  "guide": [
+   {
+    "id": "marche",
+    "titre": "Comprendre le marché à Cotonou",
+    "intro": "Une conciergerie vend du temps et de la tranquillité : elle s'occupe à la place de ses clients de tout ce qu'ils n'ont pas le temps ou la possibilité de faire sur place.",
+    "points": [
+     "Location courte durée : environ 219 logements Airbnb actifs à Cotonou, occupés en moyenne 32 % des nuits, à environ 30 000 FCFA la nuit ; les séjours durent 7,4 nuits en moyenne.",
+     "Clientèle venue de l'étranger : 98 % des voyageurs qui laissent un avis vivent hors du Bénin (43 % en France, 13 % aux États-Unis). Août est le meilleur mois (44 % d'occupation).",
+     "Diaspora et Afro-descendants : la loi sur le retour aux sources (53 nouveaux citoyens le 25 octobre 2026), les Vodun Days (2 au 9 janvier 2027) et le Black Travel Summit 2027 à Cotonou attirent des visiteurs qui ont besoin d'un relais de confiance sur place.",
+     "Concurrence déjà présente : des conciergeries haut de gamme proposent des abonnements (par exemple 150 000 à 500 000 FCFA par mois chez ED Prestige), d'autres sont spécialisées dans la gestion Airbnb. Il faut donc un positionnement clair."
+    ],
+    "sources": [
+     {
+      "nom": "AirROI, données Airbnb Cotonou (12 mois à septembre 2026)",
+      "url": "https://www.airroi.com/airbnb-data/benin/littoral-department/cotonou"
+     },
+     {
+      "nom": "Gouvernement du Bénin, citoyenneté des Afro-descendants",
+      "url": "https://www.gouv.bj/article/3716/retour-sources-afro-descendants-deviennent-citoyens-beninois/"
+     },
+     {
+      "nom": "Bénin Web TV, Vodun Days 2027",
+      "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
+     },
+     {
+      "nom": "La Nouvelle Tribune, Black Travel Summit 2027",
+      "url": "https://lanouvelletribune.info/2026/10/le-benin-decroche-le-black-travel-summit-2027-rendez-vous-des-professionnels-noirs-du-tourisme/"
+     },
+     {
+      "nom": "ED Prestige, conciergerie à Cotonou",
+      "url": "https://ed-prestige.com/"
+     }
+    ]
+   },
+   {
+    "id": "statut",
+    "titre": "Choisir son statut et créer l'agence",
+    "intro": "Au Bénin, la création se fait en ligne sur MonEntreprise.bj (guichet de l'APIEx) : le registre du commerce (RCCM) et l'identifiant fiscal (IFU) sont délivrés le jour même pour un dossier complet.",
+    "points": [
+     "Établissement (entreprise individuelle) : le plus simple et le moins cher (10 000 FCFA de frais APIEx), sans capital minimum, mais le patrimoine personnel répond des dettes.",
+     "SARL ou SUARL (seule) : la responsabilité est limitée aux apports, le capital est fixé librement ; frais APIEx de 22 000 FCFA, statuts possibles sans notaire.",
+     "SAS ou SASU : la plus souple pour accueillir des associés plus tard, mais statuts notariés ; frais APIEx de 37 000 FCFA.",
+     "Délai officiel de traitement : 3 heures ouvrables pour un dossier complet, hors rédaction des statuts et passage chez le notaire.",
+     "Ensuite : ouvrir un compte bancaire professionnel (RCCM et IFU demandés), et s'affilier à la CNSS dès le premier salarié."
+    ],
+    "sources": [
+     {
+      "nom": "MonEntreprise.bj (plateforme officielle de création)",
+      "url": "https://monentreprise.bj/"
+     },
+     {
+      "nom": "Yoon, créer une entreprise au Bénin en 2026",
+      "url": "https://www.yoon.africa/guide-pratique/creer-une-entreprise-au-benin-guide-complet"
+     }
+    ]
+   },
+   {
+    "id": "impots",
+    "titre": "Impôts, cotisations et contrats",
+    "intro": "Le choix du statut décide aussi du régime fiscal : c'est un point à valider avec un comptable avant de se lancer.",
+    "points": [
+     "Taxe professionnelle synthétique (TPS) : réservée aux entreprises individuelles dont le chiffre d'affaires reste sous 50 millions FCFA ; 5 % des recettes, minimum 10 000 FCFA plus une redevance de 4 000 FCFA.",
+     "Société (SARL, SAS) : impôt sur les sociétés de 30 %, avec un minimum de 1 % des recettes (au moins 250 000 FCFA par an).",
+     "TVA de 18 % au-delà de 50 millions FCFA de chiffre d'affaires.",
+     "Salariés : cotisations CNSS employeur d'environ 15,4 % plus 1 à 4 % de risques professionnels ; 3,6 % à la charge du salarié.",
+     "Taxe de séjour : depuis la loi de finances 2019, elle est collectée par les hôtels « et assimilés » ; vérifier auprès des impôts (DGI) si les logements gérés y sont soumis.",
+     "Contrats : signer un mandat de gestion écrit avec chaque propriétaire (services, tarifs, clés, responsabilités) et souscrire une assurance responsabilité civile professionnelle."
+    ],
+    "sources": [
+     {
+      "nom": "Yoon, fiscalité des entreprises au Bénin en 2026",
+      "url": "https://www.yoon.africa/guide-pratique/fiscalite-entreprises-benin"
+     },
+     {
+      "nom": "DGI Bénin, guide pratique de la TPS",
+      "url": "https://api.impots.bj/media/619df81851533_PROJET%20DE%20PLAQUETTE%20SUR%20LA%20TPS.pdf"
+     },
+     {
+      "nom": "Différence Info, taxe de séjour (loi de finances 2019)",
+      "url": "https://differenceinfobenin.com/2019/03/15/loi-de-finances-gestion-2019-taxe-de-sejour-desormais-paye-au-benin-par-les-promoteurs-dhotels-et-assimiles/"
+     }
+    ]
+   },
+   {
+    "id": "offre",
+    "titre": "Construire l'offre de services",
+    "intro": "Mieux vaut démarrer avec deux ou trois services bien rodés que promettre tout à tout le monde.",
+    "points": [
+     "Propriétaires de locations courte durée : création et gestion des annonces, accueil et remise des clés, ménage et linge, petites réparations, réponses aux voyageurs.",
+     "Diaspora et particuliers absents : surveillance d'un logement, paiement de factures, démarches administratives, suivi de chantier avec photos (un lien naturel avec le BTP).",
+     "Visiteurs : accueil à l'aéroport, chauffeur, réservation d'hôtels et de sorties, accompagnement pendant les Vodun Days.",
+     "Entreprises : accueil de visiteurs étrangers, organisation de séminaires, transport et logistique d'événements.",
+     "Services à la carte pour les habitants pressés : courses, pressing, prise de rendez-vous."
+    ],
+    "sources": [
+     {
+      "nom": "ED Prestige, conciergerie à Cotonou",
+      "url": "https://ed-prestige.com/"
+     }
+    ]
+   },
+   {
+    "id": "tarifs",
+    "titre": "Fixer ses tarifs",
+    "intro": "Trois modèles coexistent ; on peut les combiner selon le client.",
+    "points": [
+     "Commission sur les loyers encaissés : en France, 15 à 30 % (20 % en moyenne), ménage souvent facturé à part au voyageur.",
+     "Forfait mensuel ou abonnement : utile pour la diaspora et les entreprises ; à Cotonou, des formules affichées vont de 150 000 à 500 000 FCFA par mois.",
+     "Prix à la prestation : accueil, ménage, transfert aéroport, chacun avec un tarif fixe connu d'avance.",
+     "Exemple de calcul : un logement Airbnb moyen à Cotonou rapporte environ 1,7 million FCFA par an ; une commission de 20 % donne environ 340 000 FCFA par an, soit près de 28 500 FCFA par mois et par logement. Il faut donc gérer plusieurs logements pour couvrir les charges.",
+     "Se faire payer facilement : mobile money (MTN, Moov, Celtiis), carte bancaire et virement instantané pour les clients à l'étranger."
+    ],
+    "sources": [
+     {
+      "nom": "Lodgify, tarifs des conciergeries Airbnb en 2026",
+      "url": "https://www.lodgify.com/fr/guides/conciergerie-airbnb/tarifs/"
+     },
+     {
+      "nom": "ED Prestige, conciergerie à Cotonou",
+      "url": "https://ed-prestige.com/"
+     },
+     {
+      "nom": "AirROI, données Airbnb Cotonou (12 mois à septembre 2026)",
+      "url": "https://www.airroi.com/airbnb-data/benin/littoral-department/cotonou"
+     }
+    ]
+   },
+   {
+    "id": "lancement",
+    "titre": "Lancer l'activité",
+    "intro": "La qualité perçue repose sur la fiabilité : chaque intervention doit être faite à l'heure et prouvée.",
+    "points": [
+     "Équipe de départ : une personne pour la relation client, des agents de ménage formés et un technicien ou des artisans partenaires (plomberie, électricité, climatisation).",
+     "Partenaires : blanchisserie, chauffeurs, agences immobilières, hôtels et restaurants pour des recommandations croisées.",
+     "Outils : WhatsApp Business pour les échanges, un calendrier partagé des réservations, des fiches de contrôle avec photos à chaque entrée et sortie.",
+     "Procédures écrites : remise des clés, état des lieux, ménage type, gestion des urgences de nuit.",
+     "Commencer petit : quelques logements ou clients test pendant deux à trois mois pour ajuster les prix et les délais."
+    ],
+    "sources": []
+   },
+   {
+    "id": "marketing",
+    "titre": "Se faire connaître",
+    "intro": "Le bouche-à-oreille et les avis clients sont les premiers moteurs d'une conciergerie.",
+    "points": [
+     "Fiche Google (Google Business Profile) et page Instagram ou TikTok avec des photos avant/après des logements gérés.",
+     "Démarcher les propriétaires d'annonces Airbnb de Cotonou et les agences immobilières qui louent aux expatriés.",
+     "Cibler la diaspora : associations béninoises en France et aux États-Unis, groupes d'Afro-descendants, offres spéciales Vodun Days et Black Travel Summit.",
+     "Demander systématiquement un avis après chaque prestation et le publier.",
+     "Proposer une première prestation d'essai à prix réduit aux entreprises (accueil d'un visiteur, organisation d'une réunion)."
+    ],
+    "sources": [
+     {
+      "nom": "AirROI, données Airbnb Cotonou (12 mois à septembre 2026)",
+      "url": "https://www.airroi.com/airbnb-data/benin/littoral-department/cotonou"
+     },
+     {
+      "nom": "Bénin Web TV, Vodun Days 2027",
+      "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
+     },
+     {
+      "nom": "La Nouvelle Tribune, Black Travel Summit 2027",
+      "url": "https://lanouvelletribune.info/2026/10/le-benin-decroche-le-black-travel-summit-2027-rendez-vous-des-professionnels-noirs-du-tourisme/"
+     }
+    ]
+   },
+   {
+    "id": "budget",
+    "titre": "Préparer le budget de départ",
+    "intro": "Faire chiffrer chaque poste par des devis réels avant de se lancer.",
+    "points": [
+     "Création : frais APIEx (10 000 à 37 000 FCFA selon le statut), et éventuellement notaire ou comptable.",
+     "Équipement : produits et matériel de ménage, stock de linge, petit outillage, téléphone dédié.",
+     "Déplacements : moto ou véhicule, carburant, ou partenariat avec des chauffeurs.",
+     "Communication : logo, photos professionnelles, petite publicité en ligne.",
+     "Assurance responsabilité civile et trésorerie de sécurité pour couvrir au moins trois mois de charges."
+    ],
+    "sources": [
+     {
+      "nom": "Yoon, créer une entreprise au Bénin en 2026",
+      "url": "https://www.yoon.africa/guide-pratique/creer-une-entreprise-au-benin-guide-complet"
+     }
+    ]
+   }
+  ],
+  "checklist": [
+   "Choisir le positionnement (Airbnb, diaspora, entreprises ou haut de gamme)",
+   "Choisir le statut juridique et le régime fiscal avec un comptable",
+   "Créer l'entreprise sur MonEntreprise.bj (RCCM et IFU)",
+   "Ouvrir un compte bancaire professionnel et des moyens de paiement mobile money",
+   "Rédiger le contrat type de mandat de gestion",
+   "Souscrire une assurance responsabilité civile professionnelle",
+   "Fixer la grille de tarifs et la tester sur quelques clients",
+   "Recruter et former l'équipe de ménage et d'accueil",
+   "Signer avec les partenaires (blanchisserie, chauffeurs, artisans)",
+   "Créer la fiche Google, la page Instagram et le compte WhatsApp Business",
+   "Démarcher 20 propriétaires ou clients potentiels",
+   "Préparer une offre spéciale Vodun Days (2 au 9 janvier 2027)"
+  ],
+  "actus": [
+   {
+    "date": "2026-10-25",
+    "titre": "53 Afro-descendants deviennent citoyens béninois",
+    "resume": "Le gouvernement a remis la nationalité béninoise à 53 Afro-descendants dans le cadre de la loi sur le retour aux sources.",
+    "idee": "Ces nouveaux citoyens et leurs proches auront besoin d'aide pour s'installer : logement, démarches, chauffeur, suivi de travaux.",
+    "source": "Gouvernement du Bénin",
+    "url": "https://www.gouv.bj/article/3716/retour-sources-afro-descendants-deviennent-citoyens-beninois/"
+   },
+   {
+    "date": "2026-10-24",
+    "titre": "Vodun Days 2027 à Ouidah du 2 au 9 janvier : stands ouverts jusqu'au 16 novembre",
+    "resume": "La 4e édition dure une semaine ; artisans, créateurs et commerçants postulent en ligne, et le Food Court de la place Maro a son propre calendrier.",
+    "idee": "Préparer dès maintenant des forfaits « séjour Vodun Days » : transfert aéroport, logement, chauffeur et accompagnement à Ouidah.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
+   },
+   {
+    "date": "2026-10-21",
+    "titre": "Airbnb interdit d'imposer des tâches ménagères aux voyageurs au départ",
+    "resume": "Pour les réservations faites à partir du 20 novembre, les hôtes ne pourront plus exiger de refaire les lits, laver la vaisselle, lancer une lessive ou sortir les poubelles ; une partie des hôtes proteste.",
+    "idee": "Le ménage complet entre deux séjours devient indispensable : un argument fort pour vendre un service de ménage aux propriétaires.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
+   },
+   {
+    "date": "2026-10-18",
+    "titre": "Cotonou accueillera le premier Black Travel Summit africain en 2027",
+    "resume": "Ce rendez-vous des professionnels noirs du tourisme réunira des participants d'Afrique, des Amériques, des Caraïbes et d'Europe ; la date n'est pas encore fixée.",
+    "idee": "Se faire référencer auprès des organisateurs comme prestataire d'accueil et de logistique pour les délégations.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/le-benin-decroche-le-black-travel-summit-2027-rendez-vous-des-professionnels-noirs-du-tourisme/"
+   }
+  ]
+ },
+ "echeances": [
+  {
+   "date": "2026-11-16",
+   "titre": "Vodun Days 2027 : date limite des demandes de stands",
+   "detail": "Les artisans, créateurs et commerçants qui veulent un stand aux Vodun Days de Ouidah doivent postuler sur inscriptions.vodundays.bj avant le 16 novembre.",
+   "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-20",
+   "titre": "Airbnb : fin des tâches ménagères imposées aux voyageurs",
+   "detail": "Pour les réservations faites à partir de cette date, les hôtes Airbnb ne peuvent plus demander aux voyageurs de faire la vaisselle, les lits ou la lessive avant leur départ.",
+   "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2027-01-02",
+   "titre": "Vodun Days 2027 à Ouidah (du 2 au 9 janvier)",
+   "detail": "La 4e édition des Vodun Days dure une semaine à Ouidah et attire de nombreux visiteurs de la diaspora : un pic de demande pour l'accueil, le logement et le transport.",
+   "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/",
+   "rubrique": "conciergerie"
+  }
+ ]
+}

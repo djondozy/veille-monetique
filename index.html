@@ -208,7 +208,7 @@ footer strong{display:block;color:var(--ink);font:400 24px var(--serif);margin-b
 
 /* App views */
 [data-v]{display:none}
-body[data-view="accueil"] [data-v="accueil"],body[data-view="innovations"] [data-v="innovations"],body[data-view="lancements"] [data-v="lancements"],body[data-view="agenda"] [data-v="agenda"]{display:block}
+body[data-view="accueil"] [data-v="accueil"],body[data-view="innovations"] [data-v="innovations"],body[data-view="lancements"] [data-v="lancements"],body[data-view="agenda"] [data-v="agenda"],body[data-view="btp"] [data-v="btp"],body[data-view="conciergerie"] [data-v="conciergerie"]{display:block}
 body[data-view="accueil"] section.hero[data-v="accueil"]{display:block}
 [data-v][hidden]{display:none!important}
 section.block.off{display:none!important}
@@ -226,8 +226,9 @@ body:not([data-view="accueil"]) .block{padding-block:36px 0}
 .bottom{display:none}
 @media (max-width:760px){
   .top .nav{display:none}
-  .bottom{display:grid;grid-template-columns:repeat(4,1fr);position:fixed;left:0;right:0;bottom:0;z-index:20;background:rgba(255,255,255,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding:6px max(6px,env(safe-area-inset-right,0px)) calc(6px + env(safe-area-inset-bottom,0px)) max(6px,env(safe-area-inset-left,0px))}
-  .bottom a{position:relative;display:flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;color:var(--muted);font-size:11.5px;padding:6px 2px;border-radius:12px}
+  .bottom{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));position:fixed;left:0;right:0;bottom:0;z-index:20;background:rgba(255,255,255,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding:6px max(6px,env(safe-area-inset-right,0px)) calc(6px + env(safe-area-inset-bottom,0px)) max(6px,env(safe-area-inset-left,0px))}
+  .bottom a{position:relative;display:flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;color:var(--muted);font-size:10px;letter-spacing:-.02em;padding:6px 0;border-radius:12px;min-width:0}
+  .bottom a span{max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .bottom svg{width:22px;height:22px}
   .bottom a[aria-current="page"]{color:var(--teal);background:var(--teal-soft)}
   body{padding-bottom:78px}
@@ -262,6 +263,37 @@ body:not([data-view="accueil"]) .block{padding-block:36px 0}
 @keyframes pulse{50%{opacity:.35}}
 @media (prefers-reduced-motion:reduce){.alert .dot,.wave i{animation:none}}
 #semaine .panel{max-width:860px}
+/* BTP, presse, conciergerie */
+.also{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.also a{display:flex;flex-direction:column;gap:8px;text-decoration:none;background:#fff;border:1px solid var(--line);border-radius:22px;padding:24px;transition:border-color .15s,box-shadow .15s}
+.also a:hover{border-color:var(--teal-mid);box-shadow:0 14px 34px -20px rgba(31,122,108,.45)}
+.also .k{font-size:14px;font-weight:600;color:var(--peach)}
+.also h3{font:400 30px/1.05 var(--serif);margin:0}
+.also p{margin:0;color:var(--muted);font-size:15px}
+.also .go2{margin-top:auto;padding-top:8px;font-weight:600;color:var(--teal);font-size:14.5px}
+.syn{background:#fff;border:1px solid var(--line);border-left:4px solid var(--peach);border-radius:16px;padding:16px 18px;margin:0 0 22px;font-size:15.5px;max-width:80ch}
+.day{margin-bottom:40px}
+.day>h3{font:400 30px/1.1 var(--serif);margin:0 0 12px}
+.steps{display:flex;flex-direction:column;gap:16px;max-width:880px}
+.step{background:#fff;border:1px solid var(--line);border-radius:22px;padding:0;overflow:hidden}
+.step summary{list-style:none;cursor:pointer;display:flex;gap:16px;align-items:center;padding:20px 24px}
+.step summary::-webkit-details-marker{display:none}
+.step .n{flex:none;width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:var(--teal-soft);color:var(--teal);font:400 22px var(--serif)}
+.step summary h3{font:600 18.5px/1.3 var(--sans);margin:0;flex:1}
+.step summary::after{content:"+";font:400 26px/1 var(--sans);color:var(--muted)}
+.step[open] summary::after{content:"–"}
+.step .bd{padding:0 24px 22px 80px}
+.step .bd>p{margin:0 0 12px;color:var(--ink)}
+.step ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:8px;color:var(--muted);font-size:15px}
+.step .src{margin-top:14px;font-size:13.5px;color:var(--muted)}
+.step .src a{color:var(--teal);font-weight:600;text-decoration:none}
+@media (max-width:640px){.step .bd{padding:0 18px 20px 18px}.step summary{padding:18px}}
+.chk{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.chk label{display:flex;gap:12px;align-items:flex-start;cursor:pointer;font-size:15.5px}
+.chk input{width:20px;height:20px;accent-color:var(--teal);flex:none;margin-top:2px}
+.chk input:checked+span{color:var(--muted);text-decoration:line-through}
+.prog{font-size:14px;color:var(--muted);margin:0 0 16px}
+.news .idee{color:var(--ink);background:var(--peach-soft);border-radius:12px;padding:10px 13px;font-size:14.5px}
 </style>
 </head>
 <body data-view="accueil">
@@ -272,7 +304,7 @@ body:not([data-view="accueil"]) .block{padding-block:36px 0}
       <svg width="32" height="32" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#E3F2EE"/><circle cx="16" cy="16" r="9" fill="none" stroke="#1F7A6C" stroke-width="1.8"/><circle cx="16" cy="16" r="4.5" fill="none" stroke="#1F7A6C" stroke-width="1.8"/><circle cx="21" cy="11" r="2.6" fill="#E08A5C"/></svg>
       <span>Veille Monétique</span>
     </a>
-    <nav class="nav tabsv" aria-label="Rubriques"><a href="#accueil" data-tab="accueil">Accueil</a><a href="#innovations" data-tab="innovations">Innovations</a><a href="#lancements" data-tab="lancements">Lancements</a><a href="#agenda" data-tab="agenda">Agenda</a></nav>
+    <nav class="nav tabsv" aria-label="Rubriques"><a href="#accueil" data-tab="accueil">Accueil</a><a href="#innovations" data-tab="innovations">Innovations</a><a href="#lancements" data-tab="lancements">Lancements</a><a href="#agenda" data-tab="agenda">Agenda</a><a href="#btp" data-tab="btp">BTP &amp; presse</a><a href="#conciergerie" data-tab="conciergerie">Conciergerie</a></nav>
   </div>
 </header>
 
@@ -343,6 +375,13 @@ body:not([data-view="accueil"]) .block{padding-block:36px 0}
     </div>
   </section>
 
+  <section class="block" data-v="accueil" id="aussi" hidden>
+    <div class="wrap">
+      <div class="sh"><h2>Aussi pour vous</h2><p>L'actualité du BTP, la revue de presse et votre projet de conciergerie.</p></div>
+      <div class="also" id="also"></div>
+    </div>
+  </section>
+
   <section class="block" data-v="accueil" id="semaine" hidden>
     <div class="wrap"><div class="panel wk"><h2>La semaine en bref</h2><div id="wk"></div></div></div>
   </section>
@@ -388,17 +427,53 @@ body:not([data-view="accueil"]) .block{padding-block:36px 0}
     </div>
   </section>
 
-  <div class="vhead" data-v="agenda"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>L'agenda</h1><p>Les dates qui comptent pour les paiements, à ajouter à votre calendrier.</p></div></div>
+  <div class="vhead" data-v="agenda"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>L'agenda</h1><p>Les dates qui comptent pour les paiements et pour votre projet de conciergerie, à ajouter à votre calendrier.</p></div></div>
   <section class="block" data-v="agenda" id="echeances">
     <div class="wrap"><div class="panel"><ol class="dl" id="dl"></ol><p class="empty" id="dl-empty" hidden>Aucune échéance à venir pour l'instant.</p></div></div>
   </section>
+
+  <div class="vhead" data-v="btp"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>BTP &amp; presse</h1><p>Les chantiers et l'actualité de la construction au Bénin, en Afrique et dans le monde, puis l'essentiel des journaux.</p><div class="subnav" id="sub-btp"></div></div></div>
+  <section class="block" data-v="btp" id="btp-actus">
+    <div class="wrap">
+      <div class="sh"><h2>Actus BTP</h2><p>Routes, bâtiments, énergie, matériaux : ce qui se construit et ce que cela change.</p></div>
+      <p class="syn" id="btp-syn" hidden></p>
+      <div class="chips" id="btp-zones" role="group" aria-label="Zone" style="margin-bottom:20px"></div>
+      <div class="list" id="btp-list"><div class="empty"><strong>Chargement</strong>Un instant.</div></div>
+    </div>
+  </section>
+  <section class="block" data-v="btp" id="presse">
+    <div class="wrap">
+      <div class="sh"><h2>Revue de presse</h2><p>Les informations du jour relevées dans les journaux béninois et de la région.</p></div>
+      <div id="presse-list"></div>
+    </div>
+  </section>
+
+  <div class="vhead" data-v="conciergerie"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>Conciergerie</h1><p>Tout ce qu'il faut savoir et faire pour lancer une agence de conciergerie au Bénin, et l'actualité du secteur.</p><div class="subnav" id="sub-conciergerie"></div></div></div>
+  <section class="block" data-v="conciergerie" id="guide">
+    <div class="wrap">
+      <div class="sh"><h2>Le guide</h2><p>Huit étapes, du marché aux premiers clients. Touchez une étape pour l'ouvrir.</p></div>
+      <div class="steps" id="steps"></div>
+    </div>
+  </section>
+  <section class="block" data-v="conciergerie" id="checklist">
+    <div class="wrap">
+      <div class="sh"><h2>Ma liste de départ</h2><p>Cochez au fur et à mesure : la liste est gardée sur ce téléphone.</p></div>
+      <div class="panel" style="max-width:880px"><p class="prog" id="prog"></p><ul class="chk" id="chk"></ul></div>
+    </div>
+  </section>
+  <section class="block" data-v="conciergerie" id="conc-actus">
+    <div class="wrap">
+      <div class="sh"><h2>Actus du secteur</h2><p>Tourisme, location courte durée, diaspora : les nouvelles qui créent des occasions pour une conciergerie.</p></div>
+      <div class="list" id="conc-list"></div>
+    </div>
+  </section>
 </main>
 
-<nav class="bottom" aria-label="Rubriques"><a href="#accueil" data-tab="accueil"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11 12 4l9 7"/><path d="M5 10v10h14V10"/></svg><span>Accueil</span></a><a href="#innovations" data-tab="innovations"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="6" width="18" height="12" rx="2"/><path d="M3 10h18M7 15h4"/></svg><span>Innovations</span></a><a href="#lancements" data-tab="lancements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 13 13 4h7v7l-9 9z"/><circle cx="16" cy="8" r="1.5"/></svg><span>Lancements</span></a><a href="#agenda" data-tab="agenda"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><span>Agenda</span></a></nav>
+<nav class="bottom" aria-label="Rubriques"><a href="#accueil" data-tab="accueil"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11 12 4l9 7"/><path d="M5 10v10h14V10"/></svg><span>Accueil</span></a><a href="#innovations" data-tab="innovations"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="6" width="18" height="12" rx="2"/><path d="M3 10h18M7 15h4"/></svg><span>Innovations</span></a><a href="#lancements" data-tab="lancements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 13 13 4h7v7l-9 9z"/><circle cx="16" cy="8" r="1.5"/></svg><span>Lancements</span></a><a href="#agenda" data-tab="agenda"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><span>Agenda</span></a><a href="#btp" data-tab="btp"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 21V9l6-4v16M10 21h10V11l-10-6"/><path d="M14 14h2M14 17h2M6 12h2M6 16h2"/></svg><span>BTP</span></a><a href="#conciergerie" data-tab="conciergerie"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 17a8 8 0 0 1 16 0z"/><path d="M2 20h20M12 6V4M10 4h4"/></svg><span>Concierge</span></a></nav>
 
 <footer>
   <div class="wrap">
-    <div><strong>Veille Monétique UEMOA</strong>Préparée pour vous tous les deux jours, avec une relecture complète le dimanche. Chaque information est vérifiée et renvoie vers sa source.</div>
+    <div><strong>Veille Monétique UEMOA</strong>Préparée pour vous tous les deux jours, avec une relecture complète le dimanche. Les rubriques BTP, revue de presse et conciergerie sont mises à jour chaque matin. Chaque information est vérifiée et renvoie vers sa source.</div>
     <div>Ce que nous suivons : BCEAO, GIM-UEMOA, les banques et opérateurs du Bénin, Visa, Mastercard, UnionPay, Swift, BCE, GSMA, les publications LinkedIn des banques, fintechs et experts du paiement, Financial Afrik, Agence Ecofin, TechCabal, Finextra, The Paypers, Payments Cards &amp; Mobile, et les grands salons (Money20/20, Seamless Africa, Africa Fintech Forum, Trustech).</div>
   </div>
 </footer>
@@ -603,18 +678,19 @@ let tm;$("#q").addEventListener("input",e=>{clearTimeout(tm);tm=setTimeout(()=>{
 
 
 /* ---------- Navigation par rubriques ---------- */
-const VIEWS=["accueil","innovations","lancements","agenda"];
-function subnavs(){const box=$("#sub-innovations");box.innerHTML=[...document.querySelectorAll('section[data-v="innovations"]')].map(x=>`<a href="#${x.id}">${esc(x.querySelector(".sh h2").textContent)}</a>`).join("")}
+const VIEWS=["accueil","innovations","lancements","agenda","btp","conciergerie"];
+const MULTI=["innovations","btp","conciergerie"],LASTSUB={};
+function subnavs(){MULTI.forEach(v=>{const box=$("#sub-"+v);if(box)box.innerHTML=[...document.querySelectorAll(`section[data-v="${v}"]`)].map(x=>`<a href="#${x.id}">${esc(x.querySelector(".sh h2").textContent)}</a>`).join("")})}
 function route(){
   const h=decodeURIComponent(location.hash.slice(1))||"accueil";
   let v=VIEWS.includes(h)?h:null,el=null;
   if(!v){el=document.getElementById(h);v=el?.closest("[data-v]")?.dataset.v||"accueil"}
   const changed=document.body.dataset.view!==v;document.body.dataset.view=v;
   document.querySelectorAll("[data-tab]").forEach(a=>{if(a.dataset.tab===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")});
-  if(v==="innovations"){const secs=[...document.querySelectorAll('section[data-v="innovations"]')];const pick=el&&secs.includes(el)?el:(secs.find(x=>x.id===window._lastI)||secs[0]);
-    secs.forEach(x=>x.classList.toggle("off",x!==pick));window._lastI=pick.id;
-    document.querySelectorAll("#sub-innovations a").forEach(a=>{if(a.getAttribute("href")==="#"+pick.id)a.setAttribute("aria-current","true");else a.removeAttribute("aria-current")})}
-  if(changed||v==="innovations")window.scrollTo({top:0});
+  if(MULTI.includes(v)){const secs=[...document.querySelectorAll(`section[data-v="${v}"]`)];const pick=el&&secs.includes(el)?el:(secs.find(x=>x.id===LASTSUB[v])||secs[0]);
+    secs.forEach(x=>x.classList.toggle("off",x!==pick));LASTSUB[v]=pick.id;
+    document.querySelectorAll(`#sub-${v} a`).forEach(a=>{if(a.getAttribute("href")==="#"+pick.id)a.setAttribute("aria-current","true");else a.removeAttribute("aria-current")})}
+  if(changed||MULTI.includes(v))window.scrollTo({top:0});
 }
 addEventListener("hashchange",route);
 document.addEventListener("click",e=>{const g=e.target.closest("[data-go]");if(g)location.hash=g.dataset.go});
@@ -682,13 +758,55 @@ document.addEventListener("click",async e=>{
   if(lx){e.preventDefault();e.stopPropagation();const pop=$("#lexpop"),host=$("#dlg").open?$("#dlg"):document.body;if(pop.parentNode!==host)host.appendChild(pop);const k=lx.dataset.lx;$("#lexk").textContent=k;$("#lexv").textContent=LX[k]||"";$("#lexpop").hidden=false;return}
   if(e.target.id==="lexx"||(!$("#lexpop").hidden&&!e.target.closest("#lexpop")))$("#lexpop").hidden=true;
 },true);
+/* ---------- BTP, revue de presse, conciergerie (fichier btp-conciergerie.json) ---------- */
+let X=null,btpZone="Toutes";
+const byDate=(a,b)=>String(b.date).localeCompare(String(a.date));
+const card=(a,extra)=>`<article class="news"><div class="m"><span>${fmt(a.date,{day:"numeric",month:"short",year:"numeric"})}</span>${a.zone?`<span>${esc(a.zone)}</span>`:""}<span>${esc(a.source||a.journal||"")}</span></div><h3>${NEWB(a)}${esc(a.titre)}</h3><p>${L(a.resume)}</p>${extra||""}<div class="acts">${okUrl(a.url)?`<a href="${esc(a.url)}" target="_blank" rel="noopener">Lire l'article</a>`:""}${SH(a.titre,a.resume,"")}</div></article>`;
+function btp(){
+  const b=X.btp||{},l=(b.actus||[]).slice().sort(byDate);
+  if(b.synthese){$("#btp-syn").hidden=false;$("#btp-syn").textContent=b.synthese}
+  const zc={};l.forEach(a=>zc[a.zone]=(zc[a.zone]||0)+1);
+  $("#btp-zones").innerHTML=["Toutes","Bénin","Afrique","Monde"].filter(z=>z==="Toutes"||zc[z]).map(z=>`<button class="chip" type="button" aria-pressed="${z===btpZone}" data-bz="${esc(z)}">${esc(z)} <span class="c">${z==="Toutes"?l.length:zc[z]}</span></button>`).join("");
+  const rows=l.filter(a=>btpZone==="Toutes"||a.zone===btpZone);
+  $("#btp-list").innerHTML=rows.length?rows.map(a=>card(a,a.retenir?`<div class="ret">${L(a.retenir)}</div>`:"")).join(""):`<div class="empty"><strong>Aucune actualité pour l'instant</strong>Revenez après la prochaine mise à jour.</div>`;
+}
+function presse(){
+  const days=(X.presse||[]).slice().sort(byDate);
+  $("#presse-list").innerHTML=days.length?days.slice(0,7).map(d=>`<div class="day"><h3>${fmt(d.date,{weekday:"long",day:"numeric",month:"long"})}</h3>${d.synthese?`<p class="syn">${L(d.synthese)}</p>`:""}<div class="list">${(d.articles||[]).map(a=>card(a)).join("")}</div></div>`).join(""):`<div class="empty"><strong>Pas encore de revue de presse</strong>Elle arrive avec la prochaine mise à jour.</div>`;
+}
+const CHK="conciergerie-checklist";
+function conc(){
+  const c=X.conciergerie||{};
+  $("#steps").innerHTML=(c.guide||[]).map((s,i)=>`<details class="step"${i===0?" open":""}><summary><span class="n">${i+1}</span><h3>${esc(s.titre)}</h3></summary><div class="bd">${s.intro?`<p>${L(s.intro)}</p>`:""}<ul>${(s.points||[]).map(p=>`<li>${L(p)}</li>`).join("")}</ul>${(s.sources||[]).length?`<p class="src">Sources : ${s.sources.filter(x=>okUrl(x.url)).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.nom)}</a>`).join(" · ")}</p>`:""}</div></details>`).join("");
+  let st={};try{st=JSON.parse(localStorage.getItem(CHK)||"{}")}catch(_){}
+  const items=c.checklist||[];
+  $("#chk").innerHTML=items.map((t,i)=>`<li><label><input type="checkbox" data-chk="${esc(t)}"${st[t]?" checked":""}><span>${esc(t)}</span></label></li>`).join("");
+  const prog=()=>{const n=items.filter(t=>st[t]).length;$("#prog").textContent=`${n} étape${n>1?"s":""} sur ${items.length} cochée${n>1?"s":""}.`};prog();
+  $("#chk").onchange=e=>{const k=e.target.dataset.chk;if(!k)return;st[k]=e.target.checked;try{localStorage.setItem(CHK,JSON.stringify(st))}catch(_){}prog()};
+  const l=(c.actus||[]).slice().sort(byDate);
+  $("#conc-list").innerHTML=l.length?l.map(a=>card(a,a.idee?`<div class="idee"><b>Idée pour l'agence :</b> ${L(a.idee)}</div>`:"")).join(""):`<div class="empty"><strong>Aucune actualité pour l'instant</strong>Revenez après la prochaine mise à jour.</div>`;
+}
+function also(){
+  const b=((X.btp||{}).actus||[]).slice().sort(byDate)[0],p=(X.presse||[]).slice().sort(byDate)[0],c=((X.conciergerie||{}).actus||[]).slice().sort(byDate)[0];
+  const box=[];
+  if(b)box.push(`<a href="#btp-actus"><span class="k">Actus BTP</span><h3>${esc(b.titre)}</h3><p>${esc(b.resume)}</p><span class="go2">Toute l'actualité du BTP →</span></a>`);
+  if(p)box.push(`<a href="#presse"><span class="k">Revue de presse · ${fmt(p.date,{day:"numeric",month:"long"})}</span><h3>${(p.articles||[]).length} informations du jour</h3><p>${esc(p.synthese||"")}</p><span class="go2">Lire la revue de presse →</span></a>`);
+  box.push(`<a href="#guide"><span class="k">Conciergerie</span><h3>Lancer son agence au Bénin</h3><p>${c?esc("Dernière actu : "+c.titre):"Le guide complet en huit étapes, de la création aux premiers clients."}</p><span class="go2">Ouvrir le guide →</span></a>`);
+  $("#also").innerHTML=box.join("");$("#aussi").hidden=false;
+}
+document.addEventListener("click",e=>{const z=e.target.closest("[data-bz]");if(z){btpZone=z.dataset.bz;btp()}});
 (async()=>{
+  const getJ=u=>fetch(u+"?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()});
+  const [rd,rx]=await Promise.allSettled([getJ("data.json"),getJ("btp-conciergerie.json")]);
+  if(rx.status==="fulfilled"){X=rx.value;try{btp();presse();conc();also()}catch(_){}}
+  else{["#btp-list","#presse-list","#conc-list"].forEach(s=>$(s).innerHTML=`<div class="empty"><strong>Cette rubrique ne s'est pas chargée</strong>Vérifiez votre connexion puis rechargez la page.</div>`)}
   try{
-    const r=await fetch("data.json?v="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;
-    const d=await r.json();
-    data={...d,articles:(d.articles||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date))),technologies:d.technologies||[],echeances:d.echeances||[]};
-    hero();grid();radar();feed();agenda();ess();setAlert();setupListen();subnavs();route();badges();
+    if(rd.status!=="fulfilled")throw 0;
+    const d=rd.value;
+    data={...d,articles:(d.articles||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date))),technologies:d.technologies||[],echeances:(d.echeances||[]).concat(X&&X.echeances||[])};
+    hero();grid();radar();feed();agenda();ess();setAlert();setupListen();
   }catch(_){$("#grid").innerHTML=`<div class="empty"><strong>La veille ne s'est pas chargée</strong>Vérifiez votre connexion puis rechargez la page.</div>`}
+  subnavs();route();badges();
 })();
 </script>
 </body>
