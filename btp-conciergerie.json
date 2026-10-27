@@ -1,8 +1,35 @@
 {
- "derniereMaj": "2026-10-26T07:43:09Z",
+ "derniereMaj": "2026-10-27T04:59:14Z",
  "btp": {
-  "synthese": "Le Bénin multiplie les chantiers routiers (corridor côtier, Bohicon-Dassa, pistes rurales) et énergétiques à Glo-Djigbé ; dans la région, le solaire et l'électrification tirent la demande, et les grands groupes mondiaux misent sur l'énergie.",
+  "synthese": "Au Bénin, l'aménagement du littoral Fidjrossè–Ouidah (nouvelle autorité, maisons marquées pour démolition), l'asphaltage de Cotonou et le port ouvert sept jours sur sept dominent ; ailleurs, routes rurales (Togo, Kenya) et dérapages de coûts sur les mégaprojets font l'actualité.",
   "actus": [
+   {
+    "date": "2026-10-26",
+    "zone": "Afrique",
+    "titre": "Togo : 35,54 milliards FCFA pour une deuxième phase de pistes rurales",
+    "resume": "Le Togo a clos la première phase de son programme de pistes rurales (935 km réhabilités pour 23,21 milliards FCFA) et annonce 846 km de plus dans la phase 2, financée avec l'Allemagne (KfW) et l'Agence française de développement (AFD).",
+    "retenir": "Les pistes rurales sont un marché régulier pour les PME de travaux publics de la sous-région, souvent avec des bailleurs européens.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/btp/2610-20453-togo-35-54-milliards-fcfa-prevus-pour-la-deuxieme-phase-du-programme-des-pistes-rurales"
+   },
+   {
+    "date": "2026-10-26",
+    "zone": "Monde",
+    "titre": "Tunnel du Fehmarnbelt : le chantier reprend après une cyberattaque",
+    "resume": "Le groupement qui construit le tunnel sous-marin entre le Danemark et l'Allemagne a été visé par une attaque informatique le 12 octobre ; les travaux ont repris progressivement et une enquête policière est en cours. Le projet a environ deux ans de retard.",
+    "retenir": "Même un chantier de béton dépend de ses systèmes informatiques : sauvegardes et sécurité numérique deviennent un sujet pour toute entreprise de BTP.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/fehmarnbelt-contractor-resumes-work-after-cyber-attack/8134705.article"
+   },
+   {
+    "date": "2026-10-25",
+    "zone": "Bénin",
+    "titre": "Fidjrossè–Ouidah : des maisons marquées pour démolition",
+    "resume": "Des habitations ont été marquées à Cotonou (Akogbato, Fiyégnon, Yèmi Codji), à Ouidah (Adounko) et à Sèmè-Podji (Agblangandan). La Direction du développement urbain parle de constructions sur le domaine de l'État ou en zone non habitable ; des sommations avec délai doivent suivre.",
+    "retenir": "Avant d'acheter ou de construire sur ce littoral, vérifier le statut du terrain auprès des services de l'urbanisme est indispensable.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-des-maisons-marquees-pour-demolition-a-cotonou-ouidah-et-seme-podji/"
+   },
    {
     "date": "2026-10-25",
     "zone": "Afrique",
@@ -11,6 +38,33 @@
     "retenir": "Les chantiers solaires se multiplient dans la région : génie civil, pose de structures et raccordement offrent du travail aux entreprises locales.",
     "source": "Koaci",
     "url": "https://www.koaci.com/article/2026/10/25/cote-divoire/environement/cote-divoire-binguebougou-sangafowa-lance-les-travaux-de-construction-dune-centrale-solaire-de-50-mwc-au-service-de-plus-de-300-000-personnes-dans-le-poro_201964.html"
+   },
+   {
+    "date": "2026-10-24",
+    "zone": "Bénin",
+    "titre": "Une autorité dédiée pour aménager les berges de Fidjrossè à Ouidah",
+    "resume": "Créée en Conseil des ministres le 7 octobre, cette autorité doit libérer les berges occupées, protéger les mangroves, réduire les risques d'inondation et aménager la zone (plan d'eau navigable jusqu'à Ouidah, voies pour vélos, motos et piétons).",
+    "retenir": "Un grand projet d'aménagement se prépare le long de la route des Pêches : études, voirie et génie écologique pourraient suivre.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/societe/article/20261024-amenagement-des-bassins-de-fidjrosse-a-ouidah-les-raisons-de-la-creation-d-une-autorite"
+   },
+   {
+    "date": "2026-10-23",
+    "zone": "Bénin",
+    "titre": "Le Port de Cotonou travaille désormais sept jours sur sept",
+    "resume": "Depuis le samedi 24 octobre, douane, manutention, consignataires, contrôles et banques assurent l'enlèvement des marchandises aussi le week-end et les jours fériés, pour réduire les délais et désengorger le port.",
+    "retenir": "Les importateurs de matériaux (ciment, fer, équipements) peuvent espérer des délais plus courts pour sortir leurs conteneurs.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
+   },
+   {
+    "date": "2026-10-23",
+    "zone": "Monde",
+    "titre": "Australie : le coût du projet hydroélectrique Snowy 2.0 grimpe à 22,2 milliards de dollars australiens",
+    "resume": "Annoncé en 2017 à 2 milliards, ce projet de stockage d'énergie par pompage coûte désormais 22,2 milliards (jusqu'à 25 dans le pire scénario), avec une mise en service repoussée à 2029.",
+    "retenir": "Un rappel que des études incomplètes au départ font exploser les budgets : bien chiffrer avant de signer reste la meilleure protection.",
+    "source": "Construction Briefing",
+    "url": "https://constructionbriefing.com/news/snowy-hydro-20-cost-blowout-could-hit-a25bn/8134663.article"
    },
    {
     "date": "2026-10-23",
@@ -47,6 +101,33 @@
     "retenir": "Des travaux de mise en conformité électrique pourraient suivre dans les bâtiments publics.",
     "source": "La Marina",
     "url": "https://lamarina.bj/2026/10/23/benin-14-sites-administratifs-dont-le-nouveau-siege-du-parlement-concernes-par-un-vaste-audit-electrique/"
+   },
+   {
+    "date": "2026-10-22",
+    "zone": "Bénin",
+    "titre": "Cotonou : deux rues fermées jusqu'au 26 janvier pour le projet Asphaltage",
+    "resume": "Les rues 12 007 et 12 048, près du futur hôtel de ville (entre le boulevard de la Marina et l'avenue Jean-Paul II), sont fermées du 26 octobre 2026 au 26 janvier 2027 pour les travaux du projet Asphaltage 1B conduits par la SIRAT.",
+    "retenir": "Le programme d'asphaltage continue dans Cotonou : prévoir les déviations par Jean-Paul II et la Marina.",
+    "source": "Benin News",
+    "url": "https://benin-news.com/2026/10/22/cotonou-fermeture-deux-rues-asphaltage-1b/"
+   },
+   {
+    "date": "2026-10-22",
+    "zone": "Afrique",
+    "titre": "Kenya : 600 millions de dollars visés pour 536 km de routes rurales",
+    "resume": "L'agence routière kényane prépare un projet de routes rurales dans sept comtés, avec un financement envisagé de la Banque mondiale qui n'est pas encore acquis.",
+    "retenir": "La Banque mondiale reste un grand financeur des routes rurales en Afrique, un modèle que le Bénin utilise aussi.",
+    "source": "Agence Ecofin",
+    "url": "https://www.agenceecofin.com/actualites-infrastructures/2210-142641-le-kenya-envisage-de-mobiliser-600-millions-a-la-banque-mondiale-pour-moderniser-536-km-de-routes-rurales"
+   },
+   {
+    "date": "2026-10-22",
+    "zone": "Monde",
+    "titre": "Pologne : Strabag décroche une tour résidentielle de 200 millions d'euros à Varsovie",
+    "resume": "Le groupe autrichien, avec un partenaire local, construira clé en main la Roma Tower, 170 mètres et 357 appartements, en 50 mois.",
+    "retenir": "Les grands groupes européens misent sur le logement haut de gamme certifié « durable » (labels de santé et d'environnement).",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/strabag-led-consortium-wins-200m-warsaw-tower-contract/8134458.article"
    },
    {
     "date": "2026-10-22",
@@ -114,6 +195,110 @@
   ]
  },
  "presse": [
+  {
+   "date": "2026-10-27",
+   "synthese": "Le vote d'un Code de la route plus sévère, le décès en détention du principal condamné de l'affaire Dangnivo et le recul du niveau scolaire au primaire dominent ; le port de Cotonou fonctionne désormais sept jours sur sept.",
+   "articles": [
+    {
+     "date": "2026-10-26",
+     "journal": "Bénin Web TV",
+     "titre": "Les députés votent un nouveau Code de la route plus sévère",
+     "resume": "Adopté le 26 octobre à Porto-Novo, le texte durcit les sanctions pour excès de vitesse, fait de la conduite sous drogue un crime, fixe le taux d'alcool à 0,8 g/l, impose le casque au passager de moto et la ceinture à l'arrière, et prévoit un permis à points.",
+     "url": "https://beninwebtv.bj/benin-lassemblee-nationale-vote-un-nouveau-code-de-la-route-plus-severe/"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Banouto",
+     "titre": "Affaire Dangnivo : décès en détention de Codjo Alofa",
+     "resume": "Condamné à 30 ans de prison, il est mort le 26 octobre lors de son évacuation vers le CNHU de Cotonou, d'un AVC selon les premiers éléments ; le procureur annonce des procédures pour éclaircir les circonstances.",
+     "url": "https://www.banouto.bj/societe/article/20261026-deces-de-codjo-alofa-les-premieres-informations-sur-la-mort-du-principal-condamne-dans-laffaire-dangnivo"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Banouto",
+     "titre": "École primaire : le niveau recule en français et en maths selon le rapport PASEC",
+     "resume": "D'après cette évaluation régionale publiée le 22 octobre, près de six élèves béninois sur dix en fin de primaire n'atteignent pas le seuil minimal en lecture, et les résultats ont reculé depuis 2019.",
+     "url": "https://www.banouto.bj/societe/article/20261026-enseignement-primaire-au-benin-le-niveau-des-apprenant-recule-en-francais-et-en-mathematiques-rapport-pasec-2024"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Banouto",
+     "titre": "Capital Reach Forum : deux jours à Cotonou pour financer les entreprises",
+     "resume": "Organisé les 26 et 27 octobre par la SGI AGI, ce forum réunit banques, investisseurs, la BAD et le ministre des Finances autour du crédit, des garanties et des obligations pour les entreprises.",
+     "url": "https://www.banouto.bj/economie/article/20261026-capital-reach-forum-2026-a-cotonou-rapprocher-les-capitaux-des-entreprises-dans-le-besoin-en-afrique"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Matin Libre",
+     "titre": "Rappel de lots du médicament CROISCARD-E",
+     "resume": "L'agence béninoise du médicament (ABMed) fait retirer des pharmacies plusieurs lots de ce sirop au calcium et vitamine D3 à cause d'un défaut des bouchons ; en cas de doute, demander conseil à son pharmacien.",
+     "url": "https://matinlibre.com/2026/10/26/alerte-sanitaire-au-benin-rappel-de-plusieurs-lots-du-medicament-croiscard-e-par-labmed/"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Matin Libre",
+     "titre": "Bénin–Union européenne : un dialogue pour de nouveaux projets",
+     "resume": "Ministres béninois et représentants européens ont fait le point le 21 octobre sur leur coopération : électricité, port de Cotonou, eau, financement des PME, tourisme et numérique figurent parmi les priorités.",
+     "url": "https://matinlibre.com/2026/10/26/cooperation-benin-union-europeenne-engagement-renouvele-pour-le-developpement-des-secteurs-strategiques/"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Bénin Web TV",
+     "titre": "Le Sénat ouvre sa session le 28 octobre",
+     "resume": "La chambre haute prévoit 21 jours de travaux, consacrés notamment aux dossiers restés en attente.",
+     "url": "https://beninwebtv.bj/senat-beninois-21-jours-de-travaux-prevus-a-partir-du-28-octobre"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "24 Heures au Bénin",
+     "titre": "La mairie de Cotonou organise des journées portes ouvertes",
+     "resume": "Du mercredi 28 au vendredi 30 octobre, la mairie ouvre ses portes au public pour une première édition consacrée au projet « Cotonou 2033 ».",
+     "url": "https://24haubenin.info/?La-mairie-de-Cotonou-ouvre-ses-portes-aux-usagers-des-ce-mercredi"
+    },
+    {
+     "date": "2026-10-25",
+     "journal": "Bénin Web TV",
+     "titre": "Des maisons marquées pour démolition entre Fidjrossè et Ouidah",
+     "resume": "Cotonou, Ouidah et Sèmè-Podji sont concernés ; l'administration parle de constructions sur le domaine de l'État ou en zone interdite, les habitants disent manquer d'explications.",
+     "url": "https://beninwebtv.bj/benin-des-maisons-marquees-pour-demolition-a-cotonou-ouidah-et-seme-podji/"
+    },
+    {
+     "date": "2026-10-22",
+     "journal": "Koaci",
+     "titre": "Port de Cotonou : enlèvement des marchandises aussi le week-end",
+     "resume": "Annoncée par le directeur des douanes, la mesure en vigueur depuis le 24 octobre vise à désengorger le port ; les importateurs saluent une décision attendue.",
+     "url": "https://www.koaci.com/article/2026/10/22/benin/economie/benin-decongestion-du-port-de-cotonou-les-importateurs-se-sentent-ecoutes_201885.html"
+    },
+    {
+     "date": "2026-10-22",
+     "journal": "SRTB",
+     "titre": "Ebola : contrôles renforcés à l'aéroport de Cotonou",
+     "resume": "Après le cas signalé au Nigeria, le ministre de la Santé a inspecté les caméras thermiques et les salles d'isolement de l'aéroport, et la surveillance sanitaire a été renforcée.",
+     "url": "https://srtb.bj/ebola-le-benin-renforce-la-prevention-a-laeroport-de-cotonou/"
+    },
+    {
+     "date": "2026-10-21",
+     "journal": "Le Matinal",
+     "titre": "Coupures d'électricité : la SBEE promet un retour progressif à la normale",
+     "resume": "La SBEE et la SBPE expliquent les perturbations par une baisse des livraisons d'électricité venant du Ghana et du Nigeria, sans donner de calendrier précis.",
+     "url": "https://lematinal.bj/perturbations-electriques-la-sbpe-et-la-sbee-annoncent-un-retour-progressif-a-la-normale/"
+    },
+    {
+     "date": "2026-10-25",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Niger : l'Algérie autorisée à déployer des soldats sur l'ancienne base française de Madama",
+     "resume": "Le parlement algérien a voté à l'unanimité ce déploiement dans le nord du Niger, une première à l'étranger pour l'armée algérienne depuis 1973.",
+     "url": "https://lanouvelletribune.info/2026/10/niger-larmee-algerienne-autorisee-a-sinstaller-sur-lancienne-base-francaise-de-madama/"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Bénin Web TV",
+     "titre": "Brésil : Lula réélu de justesse",
+     "resume": "Au second tour du 25 octobre, le président sortant l'emporte avec environ 51,7 % des voix face à Flávio Bolsonaro, selon des résultats encore provisoires.",
+     "url": "https://beninwebtv.bj/bresil-lula-reelu-face-a-flavio-bolsonaro-au-second-tour/"
+    }
+   ]
+  },
   {
    "date": "2026-10-26",
    "synthese": "Le week-end a été marqué par l'accord commercial signé avec les Émirats arabes unis, la reprise des travaux de l'Assemblée nationale ce lundi et l'ouverture des inscriptions pour les Vodun Days 2027.",
@@ -400,6 +585,22 @@
   ],
   "actus": [
    {
+    "date": "2026-10-26",
+    "titre": "Nouveau Code de la route : ceinture à l'arrière et casque pour le passager de moto",
+    "resume": "Le texte voté par les députés impose la ceinture à toutes les places, le casque au conducteur et au passager de deux-roues, et prévoit un permis à points et des sanctions plus lourdes.",
+    "idee": "Choisir des chauffeurs partenaires aux véhicules conformes (ceintures arrière) et en faire un argument de sécurité dans l'offre de transferts aéroport.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-lassemblee-nationale-vote-un-nouveau-code-de-la-route-plus-severe/"
+   },
+   {
+    "date": "2026-10-26",
+    "titre": "L'Union européenne ouvre une enquête sur Booking.com et les arnaques",
+    "resume": "La Commission européenne examine si la plateforme lutte assez contre les fausses annonces, l'usurpation d'établissements et l'hameçonnage (faux messages pour voler des données), ainsi que l'affichage des annonces payantes.",
+    "idee": "Rassurer les voyageurs dès la réservation : un seul canal de contact officiel, jamais de paiement demandé hors plateforme, et un message d'accueil qui le rappelle.",
+    "source": "Short Term Rentalz",
+    "url": "https://shorttermrentalz.com/news/eu-booking-com-fraud-investigation"
+   },
+   {
     "date": "2026-10-25",
     "titre": "53 Afro-descendants deviennent citoyens béninois",
     "resume": "Le gouvernement a remis la nationalité béninoise à 53 Afro-descendants dans le cadre de la loi sur le retour aux sources.",
@@ -414,6 +615,22 @@
     "idee": "Préparer dès maintenant des forfaits « séjour Vodun Days » : transfert aéroport, logement, chauffeur et accompagnement à Ouidah.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
+   },
+   {
+    "date": "2026-10-23",
+    "titre": "Africa Tourism Awards : le Bénin nommé dans quatre catégories",
+    "resume": "Le Bénin concourt notamment comme destination de l'année et destination culturelle ; le vote du public reste ouvert jusqu'au 29 octobre et les lauréats seront annoncés à Londres le 1er novembre.",
+    "idee": "Relayer la campagne sur les réseaux de l'agence pour se faire connaître des voyageurs qui s'intéressent déjà à la destination.",
+    "source": "Africanews",
+    "url": "https://www.africanews.com/2026/10/23/benin-earns-four-nominations-at-2026-africa-tourism-awards/"
+   },
+   {
+    "date": "2026-10-22",
+    "titre": "Ebola : le Bénin renforce les contrôles à l'aéroport de Cotonou",
+    "resume": "Après un cas confirmé au Nigeria, caméras thermiques et salles d'isolement ont été inspectées à l'aéroport et la surveillance sanitaire a été renforcée.",
+    "idee": "Préparer une fiche d'information claire pour les voyageurs (formalités à l'arrivée, gestes d'hygiène, contacts utiles) et un protocole de nettoyage renforcé des logements.",
+    "source": "SRTB",
+    "url": "https://srtb.bj/ebola-le-benin-renforce-la-prevention-a-laeroport-de-cotonou/"
    },
    {
     "date": "2026-10-21",
@@ -435,6 +652,27 @@
  },
  "echeances": [
   {
+   "date": "2026-10-29",
+   "titre": "Africa Tourism Awards : fin du vote du public",
+   "detail": "Le Bénin est nommé dans quatre catégories ; le vote du public compte pour 20 % de la note finale.",
+   "url": "https://www.africanews.com/2026/10/23/benin-earns-four-nominations-at-2026-africa-tourism-awards/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-10-31",
+   "titre": "Guides de tourisme : fin du recensement en ligne",
+   "detail": "Les guides en activité ont jusqu'au 31 octobre pour s'inscrire sur recensementguide.bj et obtenir une autorisation provisoire d'exercer.",
+   "url": "https://www.gouv.bj/article/3681/le-benin-lance-recensement-enrolement-digital-guides-tourisme/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-01",
+   "titre": "Africa Tourism Awards : annonce des lauréats à Londres",
+   "detail": "Le Bénin concourt notamment comme destination de l'année et destination culturelle.",
+   "url": "https://www.africanews.com/2026/10/23/benin-earns-four-nominations-at-2026-africa-tourism-awards/",
+   "rubrique": "conciergerie"
+  },
+  {
    "date": "2026-11-16",
    "titre": "Vodun Days 2027 : date limite des demandes de stands",
    "detail": "Les artisans, créateurs et commerçants qui veulent un stand aux Vodun Days de Ouidah doivent postuler sur inscriptions.vodundays.bj avant le 16 novembre.",
@@ -454,6 +692,13 @@
    "detail": "La 4e édition des Vodun Days dure une semaine à Ouidah et attire de nombreux visiteurs de la diaspora : un pic de demande pour l'accueil, le logement et le transport.",
    "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/",
    "rubrique": "conciergerie"
+  },
+  {
+   "date": "2027-01-26",
+   "titre": "Cotonou : réouverture prévue des rues 12 007 et 12 048",
+   "detail": "Fermées depuis le 26 octobre pour le projet Asphaltage 1B près du futur hôtel de ville, ces rues doivent rouvrir à cette date.",
+   "url": "https://benin-news.com/2026/10/22/cotonou-fermeture-deux-rues-asphaltage-1b/",
+   "rubrique": "btp"
   }
  ]
 }
