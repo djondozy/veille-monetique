@@ -1,8 +1,89 @@
 {
- "derniereMaj": "2026-10-27T04:59:14Z",
+ "derniereMaj": "2026-10-28T04:54:27Z",
  "btp": {
-  "synthese": "Au Bénin, l'aménagement du littoral Fidjrossè–Ouidah (nouvelle autorité, maisons marquées pour démolition), l'asphaltage de Cotonou et le port ouvert sept jours sur sept dominent ; ailleurs, routes rurales (Togo, Kenya) et dérapages de coûts sur les mégaprojets font l'actualité.",
+  "synthese": "Le logement et les communes dominent au Bénin : 15 milliards FCFA levés pour le crédit immobilier abordable, lancement de la 6e phase du FADeC, mais un audit pointe des marchés impayés à la mairie de Cotonou. En Afrique, les réseaux électriques et les pistes rurales attirent les bailleurs, et le fer à béton flambe au Ghana.",
   "actus": [
+   {
+    "date": "2026-10-27",
+    "zone": "Bénin",
+    "titre": "Logement abordable : 15 milliards FCFA levés par BSIC Bénin (programme ZAKA)",
+    "resume": "La banque BSIC Bénin a bouclé à Cotonou une titrisation de 15 milliards FCFA : elle cède une partie de ses prêts à un fonds financé par des investisseurs du Bénin, de Côte d'Ivoire, du Togo et du Sénégal, avec l'appui de BOAD Titrisation. L'argent doit servir à des crédits immobiliers sur longue durée pour les ménages à revenus faibles et moyens.",
+    "retenir": "Plus de crédits immobiliers longs pour les ménages, c'est à terme plus de petits chantiers de maisons et de logements à construire.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/zaka-bsic-benin-2026-2033-15-milliards-fcfa-mobilises-pour-soutenir-le-logement-abordable/"
+   },
+   {
+    "date": "2026-10-27",
+    "zone": "Bénin",
+    "titre": "Mairie de Cotonou : 18 marchés publics toujours pas soldés, certains depuis 2012",
+    "resume": "L'audit 2025 du FADeC (Fonds d'appui au développement des communes) relève à Cotonou 18 marchés non soldés fin 2025, avec environ 440 millions FCFA restant à payer, et un taux de paiement des crédits bien en dessous de la norme.",
+    "retenir": "Avant de travailler pour une commune, une entreprise a intérêt à vérifier son rythme de paiement : certains prestataires attendent leur solde depuis des années.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/resultats-de-laudit-fadec-2025-a-cotonou-des-marches-en-suspens-depuis-14-ans/"
+   },
+   {
+    "date": "2026-10-27",
+    "zone": "Bénin",
+    "titre": "Lancement de la 6e phase du FADeC pour les 77 communes",
+    "resume": "Le Fonds d'investissement communal a lancé à Cotonou la phase 6 du FADeC, soutenue par l'Allemagne (KfW), l'Union européenne et la Suisse : un volet investissement pour toutes les communes et un volet « résilience » pour 27 communes du Nord.",
+    "retenir": "Écoles, marchés, centres de santé communaux : ces fonds alimentent des petits et moyens chantiers locaux, accessibles aux PME de BTP des départements.",
+    "source": "Gouvernement du Bénin",
+    "url": "https://www.gouv.bj/article/3720/lancement-fadec-benin-renforce-engagement-developpement-communal-cohesion-sociale/"
+   },
+   {
+    "date": "2026-10-27",
+    "zone": "Bénin",
+    "titre": "Nouveau Code de la route : pistes cyclables et trottoirs prévus dès la conception des routes",
+    "resume": "Le Code de la route voté le 26 octobre impose de prendre en compte piétons, cyclistes et usagers vulnérables dès la conception et la construction des routes, et encadre l'occupation des trottoirs.",
+    "retenir": "Bureaux d'études et entreprises routières devront intégrer pistes cyclables et aménagements piétons dans leurs futurs projets.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-pistes-cyclables-trottoirs-sanctions-les-nouveautes-du-code-de-la-route/"
+   },
+   {
+    "date": "2026-10-27",
+    "zone": "Bénin",
+    "titre": "La BEI envisage 16,4 milliards FCFA pour mieux assurer entreprises et investisseurs au Bénin",
+    "resume": "La Banque européenne d'investissement (BEI) étudie un apport de 25 millions d'euros pour augmenter la part du Bénin dans l'ATIDI, l'assureur africain du commerce et de l'investissement. Le projet est rattaché au partenariat européen Global Gateway (énergie verte, port de Cotonou, transport).",
+    "retenir": "Une meilleure couverture des risques peut faciliter les financements de grands projets et le travail des PME avec des partenaires étrangers.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-la-bei-envisage-164-milliards-fcfa-pour-soutenir-les-entreprises-et-les-investissements/"
+   },
+   {
+    "date": "2026-10-27",
+    "zone": "Afrique",
+    "titre": "Côte d'Ivoire : 322,5 millions de dollars pour moderniser le réseau électrique",
+    "resume": "Les députés ivoiriens ont donné un premier feu vert à un programme régional de cinq ans soutenu par l'agence américaine MCC (Millennium Challenge Corporation) : 300 millions de dollars de don et 22,5 millions apportés par l'État pour le réseau, le stockage d'énergie et les échanges d'électricité en Afrique de l'Ouest.",
+    "retenir": "Les travaux de réseaux électriques restent un gros marché régional pour les entreprises spécialisées et leurs sous-traitants.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/10/27/cote-divoire/environement/cote-divoire-energie-3225-millions-de-dollars-des-usa-pour-moderniser-le-reseau-electrique-les-deputes-donnent-leur-feu-vert_202037.html"
+   },
+   {
+    "date": "2026-10-27",
+    "zone": "Afrique",
+    "titre": "Ghana : le fer à béton a pris 29 % en un an",
+    "resume": "Selon le service statistique du Ghana, le coût de la construction a augmenté de 5,1 % sur un an en septembre. Le ciment et l'acier ont baissé, mais le fer à béton (+29 %), la plomberie et les tôles de toiture ont fortement grimpé.",
+    "retenir": "Chez notre voisin, les prix des matériaux bougent vite : mieux vaut prévoir une marge sur le fer et la toiture dans les devis.",
+    "source": "GhanaWeb",
+    "url": "https://ghanaweb.com/GhanaHomePage/business/Construction-material-prices-drive-building-cost-inflation-to-5-1-GSS-2058654"
+   },
+   {
+    "date": "2026-10-27",
+    "zone": "Monde",
+    "titre": "Les chantiers marquants d'octobre dans le monde",
+    "resume": "Construction Briefing présente sept chantiers du mois, dont un pont ferroviaire sur le Yangtsé à près de 300 m de hauteur en Chine, une tour de 205 m à Francfort, un stade de 50 000 places au Salvador construit par une entreprise chinoise, et le lancement d'une raffinerie soutenue par Aliko Dangote à Lamu, au Kenya.",
+    "retenir": "Les entreprises chinoises et les grands investisseurs africains restent très présents sur les gros ouvrages, y compris en Afrique de l'Est.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/images-6-standout-construction-photos-from-october-2026/8134683.article"
+   },
+   {
+    "date": "2026-10-26",
+    "zone": "Afrique",
+    "titre": "Togo : l'Allemagne ajoute plus de 25 milliards FCFA pour pistes rurales et équipements communaux",
+    "resume": "Après des consultations le 23 octobre, l'Allemagne a annoncé plus de 39 millions d'euros de nouveaux engagements au Togo : pistes rurales, infrastructures de santé, écoles et marchés communaux, et renforcement de la centrale hydro-solaire de Nangbéto.",
+    "retenir": "Les bailleurs allemands financent beaucoup de petits ouvrages ruraux dans la sous-région : un créneau à suivre pour les PME de travaux.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/2610-20449-togo-l-allemagne-annonce-plus-de-25-milliards-fcfa-de-financements-supplementaires"
+   },
    {
     "date": "2026-10-26",
     "zone": "Afrique",
@@ -47,6 +128,15 @@
     "retenir": "Un grand projet d'aménagement se prépare le long de la route des Pêches : études, voirie et génie écologique pourraient suivre.",
     "source": "Banouto",
     "url": "https://www.banouto.bj/societe/article/20261024-amenagement-des-bassins-de-fidjrosse-a-ouidah-les-raisons-de-la-creation-d-une-autorite"
+   },
+   {
+    "date": "2026-10-23",
+    "zone": "Afrique",
+    "titre": "Métro d'Abidjan : la ligne 1 attendue vers 2028-2029",
+    "resume": "Le ministre ivoirien des Infrastructures a fait le point avec le groupe d'ingénierie SETEC, qui assiste l'État sur le projet, et a insisté sur le respect des délais. Le coût est estimé entre 1,3 et 1,7 milliard d'euros.",
+    "retenir": "Le plus grand chantier urbain d'Afrique de l'Ouest francophone continue d'attirer bureaux d'études et sous-traitants.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/10/23/cote-divoire/societe/cote-divoire-ligne-1-du-metro-dabidjan-hien-sie-et-le-groupe-setec-travaillent-sur-le-respect-des-echeances_201930.html"
    },
    {
     "date": "2026-10-23",
@@ -195,6 +285,96 @@
   ]
  },
  "presse": [
+  {
+   "date": "2026-10-28",
+   "synthese": "Le nouveau Code de la route (permis et assurance pour les motos) passe au Sénat, Porto-Novo pleure le roi Toffa IX et un audit révèle des marchés impayés depuis 14 ans à la mairie de Cotonou ; dans la région, le Niger accuse le Tchad d'une frappe de drone.",
+   "articles": [
+    {
+     "date": "2026-10-27",
+     "journal": "La Nation",
+     "titre": "Code de la route : permis et assurance obligatoires pour les motos",
+     "resume": "Le texte voté à l'unanimité le 26 octobre remplace le code de 1956 : permis et assurance pour les motocyclistes, limites de vitesse près des écoles et hôpitaux, pauses obligatoires pour les chauffeurs de longue distance. Il passe maintenant devant le Sénat.",
+     "url": "https://lanation.bj/actualites/assemblee-nationale-le-code-de-la-route-adopte-avec-de-grandes-innovations-permis-de-conduire-et-assurance-moto-obligatoires"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Porto-Novo rend hommage au roi Toffa IX",
+     "resume": "Le roi de Porto-Novo, Toffa IX, est décédé le 21 octobre. Guides touristiques, visiteurs étrangers et personnalités saluent un gardien de la mémoire de la ville.",
+     "url": "https://lanouvelletribune.info/2026/10/benin-apres-le-deces-de-toffa-ix-les-hommages-se-multiplient-a-porto-novo/"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "Banouto",
+     "titre": "Le Niger accuse le Tchad, avec l'appui de la France, d'une frappe de drone",
+     "resume": "Niamey dit qu'une frappe le 24 octobre a tué deux civils, convoque l'ambassadeur du Tchad et saisit l'ONU et l'Union africaine. Seule la version nigérienne est connue pour l'instant.",
+     "url": "https://www.banouto.bj/politique/article/20261027-niger-le-gouvernement-accuse-le-tchad-dune-frappe-de-drone-et-saisit-l-onu"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "Le Matinal",
+     "titre": "Mairie de Cotonou : des marchés impayés depuis 14 ans",
+     "resume": "L'audit du FADeC relève 18 marchés non soldés fin 2025, pour environ 440 millions FCFA, et un faible taux d'exécution des crédits.",
+     "url": "https://lematinal.bj/resultats-de-laudit-fadec-2025-a-cotonou-des-marches-en-suspens-depuis-14-ans/"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "Gouvernement du Bénin",
+     "titre": "Le FADeC entre dans sa 6e phase",
+     "resume": "Lancement à Cotonou d'une nouvelle phase du fonds qui finance les infrastructures de base des 77 communes, avec un volet spécial pour 27 communes du Nord.",
+     "url": "https://www.gouv.bj/article/3720/lancement-fadec-benin-renforce-engagement-developpement-communal-cohesion-sociale/"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "Matin Libre",
+     "titre": "Port de Cotonou ouvert le week-end : la mesure à l'épreuve",
+     "resume": "Depuis le 24 octobre, l'enlèvement des marchandises est possible samedis, dimanches et jours fériés. Des observateurs restent prudents tant que tous les services, douane comprise, ne sont pas réellement présents.",
+     "url": "https://matinlibre.com/2026/10/27/port-de-cotonou-la-fin-des-week-ends-et-jours-feries-a-lepreuve-des-faits/"
+    },
+    {
+     "date": "2026-10-26",
+     "journal": "Bénin Web TV",
+     "titre": "Cyber Africa Forum à Cotonou les 16 et 17 novembre",
+     "resume": "Plus de 1 500 décideurs publics et privés sont attendus au Sofitel de Cotonou autour de la confiance numérique.",
+     "url": "https://beninwebtv.bj/cotonou-le-cyber-africa-forum-prevu-les-16-et-17-novembre/"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "24 Heures au Bénin",
+     "titre": "Le Bénin soutient une Émiratie pour diriger l'ONU",
+     "resume": "Cotonou appuie la candidature de la diplomate émiratie Lana Nusseibeh au poste de Secrétaire général des Nations unies, juste après la visite du président Wadagni aux Émirats.",
+     "url": "https://www.24haubenin.info/?Le-Benin-soutient-la-candidature-de-Lana-Nusseibeh-a-l-ONU"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "Banouto",
+     "titre": "Achats en ligne : les arnaques les plus courantes",
+     "resume": "Produits jamais livrés, prix cachés, articles différents de la photo : l'enquête rappelle ce que la loi exige des vendeurs et conseille de garder toutes les preuves de paiement et d'échange.",
+     "url": "https://www.banouto.bj/societe/article/20261027-commerce-en-ligne-au-benin-entre-opportunites-et-pieges"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "La Nouvelle Tribune",
+     "titre": "La BEI étudie un appui de 16,4 milliards FCFA",
+     "resume": "La Banque européenne d'investissement pourrait renforcer la part du Bénin dans l'assureur africain ATIDI, pour mieux couvrir les risques des PME et des investisseurs.",
+     "url": "https://lanouvelletribune.info/2026/10/benin-la-bei-envisage-164-milliards-fcfa-pour-soutenir-les-entreprises-et-les-investissements/"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "Bénin Web TV",
+     "titre": "15 milliards FCFA pour le crédit au logement abordable",
+     "resume": "BSIC Bénin a réussi une titrisation régionale pour financer des prêts immobiliers longs destinés aux ménages modestes.",
+     "url": "https://beninwebtv.bj/zaka-bsic-benin-2026-2033-15-milliards-fcfa-mobilises-pour-soutenir-le-logement-abordable/"
+    },
+    {
+     "date": "2026-10-27",
+     "journal": "Koaci",
+     "titre": "Côte d'Ivoire : 322,5 millions de dollars américains pour l'électricité",
+     "resume": "Les députés ivoiriens ont validé en commission un programme régional de cinq ans financé surtout par un don américain, à ratifier avant le 12 novembre.",
+     "url": "https://www.koaci.com/article/2026/10/27/cote-divoire/environement/cote-divoire-energie-3225-millions-de-dollars-des-usa-pour-moderniser-le-reseau-electrique-les-deputes-donnent-leur-feu-vert_202037.html"
+    }
+   ]
+  },
   {
    "date": "2026-10-27",
    "synthese": "Le vote d'un Code de la route plus sévère, le décès en détention du principal condamné de l'affaire Dangnivo et le recul du niveau scolaire au primaire dominent ; le port de Cotonou fonctionne désormais sept jours sur sept.",
@@ -585,6 +765,22 @@
   ],
   "actus": [
    {
+    "date": "2026-10-27",
+    "titre": "Ventes en ligne au Bénin : prix cachés et arnaques nuisent à la confiance",
+    "resume": "Banouto décrit des clients payés par Mobile Money sans livraison, des prix donnés seulement en message privé et des produits différents des photos. La loi sur le numérique exige pourtant un vendeur identifiable, des conditions de vente et un prix clair avant l'achat.",
+    "idee": "Afficher sur WhatsApp et Instagram des tarifs publics, ses coordonnées et des conditions de vente écrites : c'est un vrai argument de confiance face aux vendeurs informels.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/societe/article/20261027-commerce-en-ligne-au-benin-entre-opportunites-et-pieges"
+   },
+   {
+    "date": "2026-10-26",
+    "titre": "Cyber Africa Forum : 1 500 décideurs attendus à Cotonou les 16 et 17 novembre",
+    "resume": "Le forum consacré à la confiance numérique se tiendra au Sofitel de Cotonou et réunira des responsables publics et privés venus de plusieurs pays.",
+    "idee": "Proposer aux organisateurs ou aux entreprises participantes un service d'accueil : transfert aéroport, logement meublé, chauffeur et petites courses.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/cotonou-le-cyber-africa-forum-prevu-les-16-et-17-novembre/"
+   },
+   {
     "date": "2026-10-26",
     "titre": "Nouveau Code de la route : ceinture à l'arrière et casque pour le passager de moto",
     "resume": "Le texte voté par les députés impose la ceinture à toutes les places, le casque au conducteur et au passager de deux-roues, et prévoit un permis à points et des sanctions plus lourdes.",
@@ -618,6 +814,14 @@
    },
    {
     "date": "2026-10-23",
+    "titre": "Le Cap et le Pays de Galles imposent l'enregistrement des locations courte durée",
+    "resume": "Le Cap (Afrique du Sud) prépare un numéro d'enregistrement obligatoire sur chaque annonce et des taxes foncières plus élevées pour les logements surtout loués aux voyageurs ; le Pays de Galles a ouvert un registre national obligatoire, à remplir avant le 31 mars 2027.",
+    "idee": "Tenir dès le départ un dossier propre pour chaque logement géré (titre, contrat avec le propriétaire, déclaration) afin d'être prête si le Bénin encadre un jour ces locations.",
+    "source": "Rental Scale-Up",
+    "url": "https://www.rentalscaleup.com/short-term-rental-policies-cape-town-wales/"
+   },
+   {
+    "date": "2026-10-23",
     "titre": "Africa Tourism Awards : le Bénin nommé dans quatre catégories",
     "resume": "Le Bénin concourt notamment comme destination de l'année et destination culturelle ; le vote du public reste ouvert jusqu'au 29 octobre et les lauréats seront annoncés à Londres le 1er novembre.",
     "idee": "Relayer la campagne sur les réseaux de l'agence pour se faire connaître des voyageurs qui s'intéressent déjà à la destination.",
@@ -647,6 +851,14 @@
     "idee": "Se faire référencer auprès des organisateurs comme prestataire d'accueil et de logistique pour les délégations.",
     "source": "La Nouvelle Tribune",
     "url": "https://lanouvelletribune.info/2026/10/le-benin-decroche-le-black-travel-summit-2027-rendez-vous-des-professionnels-noirs-du-tourisme/"
+   },
+   {
+    "date": "2026-10-16",
+    "titre": "40 % des petits loueurs veulent plus de logements, mais manquent de temps",
+    "resume": "Une enquête de PriceLabs auprès de plus de 1 200 hôtes dans 72 pays montre que 77 à 78 % trouvent pénibles le ménage, l'entretien et l'administratif, et que 38 % peinent à trouver des prestataires fiables.",
+    "idee": "Construire une offre « à la carte » : forfait par ménage entre deux séjours, tarif horaire pour les petites réparations et forfait mensuel de suivi, au choix du propriétaire.",
+    "source": "Rental Scale-Up",
+    "url": "https://www.rentalscaleup.com/vacation-rental-owner-acquisition-global-host-report/"
    }
   ]
  },
@@ -677,6 +889,13 @@
    "titre": "Vodun Days 2027 : date limite des demandes de stands",
    "detail": "Les artisans, créateurs et commerçants qui veulent un stand aux Vodun Days de Ouidah doivent postuler sur inscriptions.vodundays.bj avant le 16 novembre.",
    "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-16",
+   "titre": "Cyber Africa Forum à Cotonou (16 et 17 novembre)",
+   "detail": "Plus de 1 500 décideurs attendus au Sofitel de Cotonou : un pic de besoins en accueil, transport et logement pour les visiteurs d'affaires.",
+   "url": "https://beninwebtv.bj/cotonou-le-cyber-africa-forum-prevu-les-16-et-17-novembre/",
    "rubrique": "conciergerie"
   },
   {
