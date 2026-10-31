@@ -1,8 +1,89 @@
 {
- "derniereMaj": "2026-10-28T04:54:27Z",
+ "derniereMaj": "2026-10-31T04:59:23Z",
  "btp": {
-  "synthese": "Le logement et les communes dominent au Bénin : 15 milliards FCFA levés pour le crédit immobilier abordable, lancement de la 6e phase du FADeC, mais un audit pointe des marchés impayés à la mairie de Cotonou. En Afrique, les réseaux électriques et les pistes rurales attirent les bailleurs, et le fer à béton flambe au Ghana.",
+  "synthese": "L'énergie domine cette semaine au Bénin : 30 millions d'euros bouclés pour quatre centrales solaires, un projet de 100 MW signé avec AMEA Power et un premier gros chargement de pétrole à Sèmè, alors que les coupures rappellent la dépendance au Nigeria et au Ghana. En Afrique, la Banque mondiale annonce une croissance urbaine massive.",
   "actus": [
+   {
+    "date": "2026-10-30",
+    "zone": "Bénin",
+    "titre": "Énergie solaire : AMEA Power signe pour une centrale de 100 MW avec batteries",
+    "resume": "Le groupe AMEA Power a signé avec l'État béninois un protocole d'accord pour une centrale solaire de 100 mégawatts couplée à un stockage par batteries. Le montant, le lieu et le calendrier n'ont pas encore été rendus publics.",
+    "retenir": "Un nouveau grand chantier énergétique se profile : à suivre pour les sous-traitants en génie civil, raccordement et clôtures.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/10/30/energie-solaire-amea-power-fait-son-entree-sur-le-marche-beninois-avec-un-projet-de-100-mw/"
+   },
+   {
+    "date": "2026-10-30",
+    "zone": "Bénin",
+    "titre": "Programme BRIC de la Banque mondiale : cinq indicateurs de financement bientôt révisés",
+    "resume": "La Banque mondiale envisage de revoir cinq des sept indicateurs qui déclenchent ses versements pour ce programme de 300 millions de dollars destiné à sept communes. Sur environ 97 milliards FCFA de transferts attendus de l'État entre 2023 et 2025, près de 41 milliards ont été effectivement reçus.",
+    "retenir": "Les communes concernées pourraient accélérer leurs travaux une fois les règles assouplies : un signal pour les entreprises qui visent les marchés communaux.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/10/30/benin-cinq-des-sept-indicateurs-de-financement-du-programme-bric-en-passe-detre-revises/"
+   },
+   {
+    "date": "2026-10-30",
+    "zone": "Bénin",
+    "titre": "Pétrole de Sèmè : 330 000 barils chargés début novembre",
+    "resume": "Environ 330 000 barils de brut du champ en mer de Sèmè doivent être chargés les 1er et 2 novembre sur un pétrolier à destination des Pays-Bas, Shell Trading étant retenu comme acheteur pour trois ans. La production actuelle tourne autour de 3 000 barils par jour.",
+    "retenir": "La relance pétrolière peut générer des besoins en logistique portuaire, maintenance et installations à terre.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-le-chargement-de-330-000-barils-de-seme-prevu-debut-novembre/"
+   },
+   {
+    "date": "2026-10-30",
+    "zone": "Bénin",
+    "titre": "Électricité : le Bénin reste dépendant du Nigeria et du Ghana",
+    "resume": "La SBEE (Société béninoise d'énergie électrique) et la SBPE (Société béninoise de production d'électricité) expliquent les coupures récentes par des restrictions d'approvisionnement venues du Ghana et du Nigeria. Une étude de la BAD citée par l'article indique 688 GWh produits localement en 2024 contre 960 GWh importés.",
+    "retenir": "Sur les chantiers, prévoir groupes électrogènes ou solaire de secours reste prudent tant que les importations pèsent autant.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/electricite-au-benin-dix-ans-de-promesses-de-patrice-talon-et-toujours-le-nigeria-et-le-ghana-a-la-rescousse/"
+   },
+   {
+    "date": "2026-10-30",
+    "zone": "Afrique",
+    "titre": "Sommet des think tanks africains à Cotonou : l'électricité au cœur des débats",
+    "resume": "Réunis à Cotonou du 28 au 30 octobre, chercheurs et décideurs ont plaidé pour des politiques énergétiques tournées vers la production. Selon l'ACBF (Fondation pour le renforcement des capacités en Afrique), près de 600 millions de personnes restent sans électricité en Afrique subsaharienne.",
+    "retenir": "L'énergie reste le premier besoin d'infrastructure du continent, donc un marché durable pour le BTP.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/actualites/12e-sommet-des-think-tanks-dafrique-faire-de-lelectricite-un-levier-de-production-et-de-croissance"
+   },
+   {
+    "date": "2026-10-30",
+    "zone": "Monde",
+    "titre": "Autriche : Porr et Strabag reconstruisent un pont autoroutier de 1,8 km",
+    "resume": "Les deux groupes remplacent le Luegbrücke, sur l'autoroute du Brenner, pour 217 millions d'euros, avec des piles allant jusqu'à 65 mètres de haut. Le premier ouvrage doit être terminé fin 2027 et l'ensemble en 2030.",
+    "retenir": "Un exemple de reconstruction d'ouvrage sans couper le trafic, technique de plus en plus demandée.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/images-the-tricky-reconstruction-of-a-key-alpine-bridge/8135256.article"
+   },
+   {
+    "date": "2026-10-29",
+    "zone": "Bénin",
+    "titre": "Quatre centrales solaires : 30 millions d'euros bouclés pour le projet IPP50",
+    "resume": "AXIAN, la CDC Bénin (Caisse des dépôts), l'IFC (filiale de la Banque mondiale) et Proparco ont signé 30 millions d'euros de financement, sur un coût total de 45 millions, pour des centrales à Natitingou, Djougou, Parakou et Bohicon. Elles totaliseront 62 MWc et doivent entrer en service au premier trimestre 2028.",
+    "retenir": "Premier projet solaire du pays porté par un producteur privé : quatre chantiers en régions, avec des besoins locaux en terrassement et génie civil.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-30-millions-deuros-mobilises-pour-quatre-centrales-solaires/"
+   },
+   {
+    "date": "2026-10-29",
+    "zone": "Afrique",
+    "titre": "Banque mondiale : 748 millions de citadins en plus attendus en Afrique subsaharienne",
+    "resume": "Présenté à Abidjan, un rapport de la Banque mondiale estime que la région comptera 748 millions de citadins supplémentaires en 25 ans et que ses villes devront créer environ 15 millions d'emplois par an. La Côte d'Ivoire veut s'appuyer sur l'urbanisation pour accélérer sa croissance.",
+    "retenir": "La demande en logements, routes urbaines et réseaux va exploser : une tendance de fond pour tout le secteur.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/10/29/cote-divoire/economie/cote-divoire-presentation-a-abidjan-du-rapport-de-la-bm-le-gouvernement-ivoirien-mise-sur-lurbanisation-pour-accelerer-la-croissance-et-creer-des-emplois_202104.html"
+   },
+   {
+    "date": "2026-10-29",
+    "zone": "Monde",
+    "titre": "Pologne : Vinci remporte la 2e phase de la plus grande salle symphonique du pays",
+    "resume": "Warbud, filiale polonaise de Vinci Construction, construira pour la ville de Varsovie une salle de 1 877 places et rénovera deux bâtiments historiques, pour 149 millions d'euros. La livraison est prévue en 2030.",
+    "retenir": "Les grands groupes français continuent de gagner de gros équipements culturels à l'étranger.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/vinci-wins-second-phase-of-polands-largest-symphony-hall/8135151.article"
+   },
    {
     "date": "2026-10-27",
     "zone": "Bénin",
@@ -285,6 +366,117 @@
   ]
  },
  "presse": [
+  {
+   "date": "2026-10-31",
+   "synthese": "Le Sénat a tenu sa première session, la vice-présidente a représenté le Bénin au sommet Russie-Afrique et de nouvelles règles MTN MoMo entrent en vigueur le 2 novembre ; côté énergie, deux projets solaires avancent et 330 000 barils de pétrole partent de Sèmè.",
+   "articles": [
+    {
+     "date": "2026-10-30",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Sommet Russie-Afrique : le Bénin représenté par sa vice-présidente",
+     "resume": "Mariam Chabi Talata a conduit la délégation béninoise au 3e Sommet Russie-Afrique à Moscou les 28 et 29 octobre. Cotonou vise surtout l'agriculture (engrais), l'énergie, la santé, l'éducation et le numérique.",
+     "url": "https://lanouvelletribune.info/2026/10/sommet-russie-afrique-le-benin-cible-plusieurs-secteurs-pour-renforcer-la-cooperation/"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "Banouto",
+     "titre": "Le Sénat ouvre sa toute première session",
+     "resume": "Patrice Talon a ouvert le 28 octobre à Cotonou la première session ordinaire du Sénat, prévue pour 21 jours. En cas de blocage durable entre le président et l'Assemblée, le Sénat sera appelé à arbitrer.",
+     "url": "https://www.banouto.bj/politique/article/20261029-patrice-talon-rappelle-les-principales-missions-du-senat-a-louverture-de-sa-premiere-session-ordinaire"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "La Nation",
+     "titre": "Cour suprême : rentrée judiciaire le jeudi 5 novembre",
+     "resume": "L'audience solennelle se tiendra à Porto-Novo en présence du président Romuald Wadagni, sur le thème du juge électoral et de la démocratie locale. Le texte rappelle que les communales de janvier ont désigné 1 815 conseillers et 77 maires.",
+     "url": "https://lanation.bj/actualites/annee-judiciaire-2026-2027-la-cour-supreme-effectue-sa-rentree-jeudi-5-novembre-prochain"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "Banouto",
+     "titre": "Nouveau Code de la route : ce qu'il faut savoir avant sa promulgation",
+     "resume": "Voté le 26 octobre, le texte fixe la vitesse à 50 km/h en ville (30 km/h près des écoles) et prévoit des amendes de 250 000 à 350 000 FCFA pour certaines infractions. Il doit encore être promulgué pour s'appliquer.",
+     "url": "https://www.banouto.bj/societe/article/20261029-nouveau-code-de-la-route-au-benin-les-premiers-elements-a-savoir-en-attendant-la-promulgation"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "Le Matinal",
+     "titre": "MTN MoMo : nouveaux plafonds et nouveaux frais dès le 2 novembre",
+     "resume": "Les transferts entre opérateurs passeront par la plateforme PI-SPI de la BCEAO (Banque centrale des États de l'Afrique de l'Ouest) : gratuits jusqu'à 8 000 FCFA par jour, puis 0,5 % au-delà. Le solde maximal passe de 2 à 4 millions FCFA.",
+     "url": "https://lematinal.bj/mtn-momo-de-nouvelles-facilites-et-une-revision-des-plafonds-des-le-2-novembre/"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "Bénin Web TV",
+     "titre": "Pétrole : 330 000 barils de Sèmè chargés début novembre",
+     "resume": "Le chargement est prévu les 1er et 2 novembre vers les Pays-Bas, avec Shell Trading comme acheteur pour trois ans. C'est 80 000 barils de plus que les 250 000 annoncés pour octobre.",
+     "url": "https://beninwebtv.bj/benin-le-chargement-de-330-000-barils-de-seme-prevu-debut-novembre/"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "Bénin Web TV",
+     "titre": "L'UPR réunit ses instances le 14 novembre",
+     "resume": "Le parti au pouvoir tiendra son conseil national (environ 500 membres) et son bureau politique (environ 300) le 14 novembre. L'annonce a été faite par son secrétaire général Gérard Gbénonchi.",
+     "url": "https://beninwebtv.bj/benin-lupr-reunira-son-conseil-national-et-son-bureau-politique-le-14-novembre/"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "Banouto",
+     "titre": "Les évêques alertent sur la drogue, le vol et les violences sur mineurs",
+     "resume": "Réunis à Natitingou du 25 au 28 octobre, les évêques catholiques s'inquiètent aussi de la pauvreté, de la mendicité et des menaces terroristes. Ils demandent au gouvernement d'agir.",
+     "url": "https://www.banouto.bj/societe/article/20261030-drogue-vol-abus-violences-sur-mineurs-au-benin-preoccupes-les-eveques-lancent-un-appel-aux-autorites"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "Gouvernement du Bénin",
+     "titre": "Prix national de la simplification administrative : propositions jusqu'au 12 novembre",
+     "resume": "Chacun peut proposer une idée pour simplifier l'administration sur la plateforme prix-simplification.gouv.bj, du 29 octobre au 12 novembre. Le prix a été présenté le 28 octobre par le ministre Rodrigue Chaou.",
+     "url": "https://www.gouv.bj/article/3723/prix-national-simplification-administrative-gouvernement-lance-nouveau-defi/"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "Gouvernement du Bénin",
+     "titre": "8 500 actes de naissance remis à des écoliers",
+     "resume": "L'opération, lancée le 28 octobre à Zagnanado, concerne les élèves de CM1 et CM2 de dix communes. Elle vise à les inscrire au registre national des personnes physiques (RNPP).",
+     "url": "https://www.gouv.bj/article/3725/promotion-droit-identite-enfants-8.500-actes-naissance-delivres-apprenants/"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "Matin Libre",
+     "titre": "Traite des personnes : le Bénin encore loin des normes, selon Washington",
+     "resume": "Le rapport 2026 du Département d'État américain maintient le Bénin au niveau 2. En 2025, 67 trafiquants ont été condamnés et 3 798 victimes recensées.",
+     "url": "https://matinlibre.com/2026/10/29/rapport-2026-lutte-contre-la-traite-des-personnes-benin-encore-loin-des-normes-minimales-malgre-les-efforts/"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Solaire : 30 millions d'euros pour quatre centrales en régions",
+     "resume": "Le projet IPP50 financera des centrales à Natitingou, Djougou, Parakou et Bohicon, pour 62 MWc au total. La mise en service est annoncée pour début 2028.",
+     "url": "https://lanouvelletribune.info/2026/10/benin-30-millions-deuros-mobilises-pour-quatre-centrales-solaires/"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "La Marina",
+     "titre": "AMEA Power s'engage pour 100 MW de solaire au Bénin",
+     "resume": "Un protocole d'accord a été signé pour une centrale solaire avec stockage par batteries. Le montant et le lieu ne sont pas encore connus.",
+     "url": "https://lamarina.bj/2026/10/30/energie-solaire-amea-power-fait-son-entree-sur-le-marche-beninois-avec-un-projet-de-100-mw/"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "La Nation",
+     "titre": "Think tanks africains à Cotonou : faire de l'électricité un moteur de croissance",
+     "resume": "Du 28 au 30 octobre, chercheurs et responsables publics ont plaidé pour une énergie tournée vers la production. Près de 600 millions d'Africains restent sans électricité.",
+     "url": "https://lanation.bj/actualites/12e-sommet-des-think-tanks-dafrique-faire-de-lelectricite-un-levier-de-production-et-de-croissance"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "Koaci",
+     "titre": "Côte d'Ivoire : la Banque mondiale mise sur l'urbanisation",
+     "resume": "Le rapport présenté à Abidjan prévoit 748 millions de citadins supplémentaires en Afrique subsaharienne en 25 ans. Les villes devront créer environ 15 millions d'emplois par an.",
+     "url": "https://www.koaci.com/article/2026/10/29/cote-divoire/economie/cote-divoire-presentation-a-abidjan-du-rapport-de-la-bm-le-gouvernement-ivoirien-mise-sur-lurbanisation-pour-accelerer-la-croissance-et-creer-des-emplois_202104.html"
+    }
+   ]
+  },
   {
    "date": "2026-10-28",
    "synthese": "Le nouveau Code de la route (permis et assurance pour les motos) passe au Sénat, Porto-Novo pleure le roi Toffa IX et un audit révèle des marchés impayés depuis 14 ans à la mairie de Cotonou ; dans la région, le Niger accuse le Tchad d'une frappe de drone.",
@@ -765,6 +957,54 @@
   ],
   "actus": [
    {
+    "date": "2026-10-30",
+    "titre": "MTN MoMo : nouveaux frais et plafonds à partir du 2 novembre",
+    "resume": "Les transferts entre opérateurs passent par la plateforme PI-SPI de la BCEAO : gratuits jusqu'à 8 000 FCFA cumulés par jour, puis 0,5 % du montant. Le solde maximal d'un compte passe de 2 à 4 millions FCFA et le plafond par transfert de 500 000 à 2 millions FCFA.",
+    "idee": "Revoir sa grille de paiement client : intégrer ces frais de 0,5 % dans les tarifs ou demander les gros acomptes par virement bancaire.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/mtn-momo-de-nouvelles-facilites-et-une-revision-des-plafonds-des-le-2-novembre/"
+   },
+   {
+    "date": "2026-10-30",
+    "titre": "Benin Digital & Innovation Week du 16 au 20 novembre à Cotonou",
+    "resume": "La semaine réunira notamment le Cyber Africa Forum et la rencontre annuelle d'AfriLabs, avec un Village de l'Innovation sur l'esplanade du Palais des Congrès du 18 au 20 novembre.",
+    "idee": "Proposer dès maintenant aux propriétaires des forfaits courts séjours pour les délégués, avec accueil, ménage et transport vers le Palais des Congrès.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-le-palais-des-congres-se-transforme-en-ville-intelligente-en-novembre/"
+   },
+   {
+    "date": "2026-10-29",
+    "titre": "Prix national de la simplification administrative : idées attendues jusqu'au 12 novembre",
+    "resume": "Le gouvernement invite chacun à proposer, sur la plateforme prix-simplification.gouv.bj, des idées pour rendre l'administration plus simple ; Banouto évoque 40 millions FCFA de récompenses en jeu.",
+    "idee": "Soumettre une proposition concrète sur les démarches des hébergements meublés (déclaration, taxe de séjour) : utile au secteur et bonne visibilité.",
+    "source": "Gouvernement du Bénin",
+    "url": "https://www.gouv.bj/article/3723/prix-national-simplification-administrative-gouvernement-lance-nouveau-defi/"
+   },
+   {
+    "date": "2026-10-28",
+    "titre": "Règle Airbnb sur les tâches ménagères : plus de 10 000 hôtes pétitionnent",
+    "resume": "Depuis l'annonce d'Airbnb, les hôtes ne pourront plus demander aux voyageurs les tâches d'un agent d'entretien pour les réservations faites à partir du 20 novembre 2026. Une pétition de plus de 10 000 hôtes conteste la mesure et certains menacent d'augmenter leurs frais de ménage.",
+    "idee": "Faire du ménage complet de fin de séjour un service inclus de l'agence : c'est exactement ce que la nouvelle règle rend indispensable aux propriétaires.",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/10/28/airbnb-guests-no-dishes-strip-beds-hosts-boycott-cleaning-fees/"
+   },
+   {
+    "date": "2026-10-28",
+    "titre": "États-Unis : les revenus de la location courte durée en hausse jusqu'à décembre",
+    "resume": "Selon les données KeyData reprises par The Host Report, le revenu par logement disponible devrait progresser de 8 % en octobre, 11 % en novembre et 10 % en décembre par rapport à l'an dernier.",
+    "idee": "Préparer une offre spéciale fêtes de fin d'année et Vodun Days pour la diaspora, période où la demande grimpe aussi au Bénin.",
+    "source": "The Host Report",
+    "url": "https://www.thehostreport.com/news/str-revenue-pacing-ahead-through-december-as-occupancy-picks-up"
+   },
+   {
+    "date": "2026-10-27",
+    "titre": "Airbnb devient le partenaire exclusif d'American Express Travel pour les locations",
+    "resume": "Depuis le 22 octobre, les détenteurs de cartes Amex éligibles aux États-Unis peuvent réserver plus d'un million d'annonces Airbnb via Amex Travel.",
+    "idee": "Soigner ses annonces Airbnb en anglais : une clientèle américaine aisée y accède désormais plus facilement.",
+    "source": "The Host Report",
+    "url": "https://www.thehostreport.com/news/airbnb-becomes-amex-travels-exclusive-vacation-rental-partner"
+   },
+   {
     "date": "2026-10-27",
     "titre": "Ventes en ligne au Bénin : prix cachés et arnaques nuisent à la confiance",
     "resume": "Banouto décrit des clients payés par Mobile Money sans livraison, des prix donnés seulement en message privé et des produits différents des photos. La loi sur le numérique exige pourtant un vendeur identifiable, des conditions de vente et un prix clair avant l'achat.",
@@ -885,6 +1125,20 @@
    "rubrique": "conciergerie"
   },
   {
+   "date": "2026-11-02",
+   "titre": "MTN MoMo : entrée en vigueur des nouveaux frais et plafonds",
+   "detail": "Transferts entre opérateurs gratuits jusqu'à 8 000 FCFA par jour puis 0,5 % ; solde maximal porté à 4 millions FCFA.",
+   "url": "https://lematinal.bj/mtn-momo-de-nouvelles-facilites-et-une-revision-des-plafonds-des-le-2-novembre/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-12",
+   "titre": "Prix national de la simplification administrative : date limite",
+   "detail": "Dernier jour pour déposer une proposition sur prix-simplification.gouv.bj.",
+   "url": "https://www.gouv.bj/article/3723/prix-national-simplification-administrative-gouvernement-lance-nouveau-defi/",
+   "rubrique": "conciergerie"
+  },
+  {
    "date": "2026-11-16",
    "titre": "Vodun Days 2027 : date limite des demandes de stands",
    "detail": "Les artisans, créateurs et commerçants qui veulent un stand aux Vodun Days de Ouidah doivent postuler sur inscriptions.vodundays.bj avant le 16 novembre.",
@@ -896,6 +1150,13 @@
    "titre": "Cyber Africa Forum à Cotonou (16 et 17 novembre)",
    "detail": "Plus de 1 500 décideurs attendus au Sofitel de Cotonou : un pic de besoins en accueil, transport et logement pour les visiteurs d'affaires.",
    "url": "https://beninwebtv.bj/cotonou-le-cyber-africa-forum-prevu-les-16-et-17-novembre/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "Village de l'Innovation au Palais des Congrès (18 au 20 novembre)",
+   "detail": "Temps fort de la Benin Digital & Innovation Week (16 au 20 novembre) à Cotonou, avec de nombreux visiteurs attendus.",
+   "url": "https://lanouvelletribune.info/2026/10/benin-le-palais-des-congres-se-transforme-en-ville-intelligente-en-novembre/",
    "rubrique": "conciergerie"
   },
   {
