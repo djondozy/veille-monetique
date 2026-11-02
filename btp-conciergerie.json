@@ -44,7 +44,7 @@
     "zone": "Monde",
     "titre": "Matériel de chantier : Terex va racheter le belge Keestrack",
     "resume": "Terex a signé un accord définitif pour acquérir ce fabricant de concasseurs et de cribles mobiles, présent dans plus de 65 pays. La conclusion est attendue au dernier trimestre 2026 ; le montant n'est pas communiqué.",
-    "retenir": "Le matériel de concassage se concentre chez de grands groupes : à garder en tête pour le choix des fournisseurs et du service après-vente.",
+    "retenir": "À garder en tête pour le choix des fournisseurs de concasseurs et leur service après-vente.",
     "source": "Construction Briefing",
     "url": "https://www.constructionbriefing.com/news/terex-to-acquire-keestrack/8135299.article"
    },
@@ -152,7 +152,7 @@
     "zone": "Afrique",
     "titre": "Ghana : un groupe chinois signe une centrale solaire de 300 MW",
     "resume": "Sedin Engineering, filiale de China National Chemical Engineering, a signé ce contrat de conception et de construction pour 2,58 milliards de yuans. Le pays comptait 276,7 MW de solaire fin 2025.",
-    "retenir": "Le voisin ghanéen accélère sur le solaire : les entreprises chinoises y fixent des prix serrés qui pèseront aussi sur les appels d'offres de la région.",
+    "retenir": "Le voisin ghanéen accélère sur le solaire : un marché à suivre pour les entreprises de la région.",
     "source": "36Kr",
     "url": "https://eu.36kr.com/en/p/4042912680662912"
    },
@@ -443,13 +443,6 @@
    "synthese": "Le premier gros chargement de pétrole de Sèmè part vers les Pays-Bas, et MTN MoMo applique ses nouveaux frais et plafonds dès aujourd'hui. La loi sur le Code de la route poursuit son parcours et le Code des forêts durcit les sanctions.",
    "articles": [
     {
-     "date": "2026-11-02",
-     "journal": "Bénin Web TV",
-     "titre": "MTN MoMo passe à PI-SPI ce 2 novembre",
-     "resume": "Le système de paiement de la BCEAO s'applique dès aujourd'hui : transferts gratuits jusqu'à 8 000 FCFA cumulés par jour, puis 0,5 %. Le solde maximal passe à 4 millions FCFA.",
-     "url": "https://beninwebtv.bj/benin-mtn-momo-adopte-le-systeme-pi-spi-de-la-bceao-des-le-2-novembre-avec-de-nouveaux-plafonds-et-une-grille-tarifaire-revisee/"
-    },
-    {
      "date": "2026-11-01",
      "journal": "La Nouvelle Tribune",
      "titre": "Pétrole : 330 000 barils vers les Pays-Bas, une première depuis 28 ans",
@@ -511,6 +504,13 @@
      "titre": "Mairie de Cotonou : Pyrros Kiki nouveau secrétaire exécutif",
      "resume": "Il a pris ses fonctions le 30 octobre en présence du maire Luc Gnacadja. Il remplace Anges Paterne Amoussouga.",
      "url": "https://lanation.bj/actualites/mairie-de-cotonou-le-nouveau-secretaire-executif-pyrros-kiki-prend-service"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "Bénin Web TV",
+     "titre": "MTN MoMo passe à PI-SPI ce 2 novembre",
+     "resume": "Le système de paiement de la BCEAO s'applique dès aujourd'hui : transferts gratuits jusqu'à 8 000 FCFA cumulés par jour, puis 0,5 %. Le solde maximal passe à 4 millions FCFA.",
+     "url": "https://beninwebtv.bj/benin-mtn-momo-adopte-le-systeme-pi-spi-de-la-bceao-des-le-2-novembre-avec-de-nouveaux-plafonds-et-une-grille-tarifaire-revisee/"
     },
     {
      "date": "2026-10-30",
@@ -1162,7 +1162,7 @@
    {
     "date": "2026-10-30",
     "titre": "Colloque sur la religion traditionnelle africaine à Cotonou les 19 et 20 novembre",
-    "resume": "La Conférence épiscopale du Bénin l'organise à la salle Saint-Charbel d'Akpakpa. Des participants venus d'ailleurs sont possibles pour ce rendez-vous international.",
+    "resume": "La Conférence épiscopale du Bénin organise ce colloque international à la salle Saint-Charbel d'Akpakpa.",
     "idee": "Préparer une petite offre courts séjours (transfert, logement, chauffeur) pour ce type d'événement, à répéter ensuite aux Vodun Days.",
     "source": "Banouto",
     "url": "https://www.banouto.bj/culture/article/20261030-benin-leglise-catholique-annonce-un-colloque-international-sur-la-religion-traditionnelle-africaine"
