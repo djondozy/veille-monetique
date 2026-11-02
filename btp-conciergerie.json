@@ -1,8 +1,53 @@
 {
- "derniereMaj": "2026-10-31T04:59:23Z",
+ "derniereMaj": "2026-11-02T05:01:35Z",
  "btp": {
-  "synthese": "L'énergie domine cette semaine au Bénin : 30 millions d'euros bouclés pour quatre centrales solaires, un projet de 100 MW signé avec AMEA Power et un premier gros chargement de pétrole à Sèmè, alors que les coupures rappellent la dépendance au Nigeria et au Ghana. En Afrique, la Banque mondiale annonce une croissance urbaine massive.",
+  "synthese": "Le logement et l'énergie restent au premier plan : au Bénin, l'industrie pèse désormais 19 % de l'économie mais paie cher son électricité, et le nouveau Code des forêts durcit les contrôles sur le transport de bois. Dans la région, le Nigeria valide neuf projets routiers et le Ghana signe 300 MW de solaire.",
   "actus": [
+   {
+    "date": "2026-11-01",
+    "zone": "Bénin",
+    "titre": "Bois de chantier : fuir un contrôle forestier coûte plus cher",
+    "resume": "Le nouveau Code des forêts et de la faune (loi du 23 juillet 2026) prévoit jusqu'à 1 an de prison et 200 000 FCFA d'amende pour qui fuit un contrôle des Eaux et Forêts. Les peines doublent si le véhicule transporte des produits forestiers, et le véhicule comme la marchandise peuvent être saisis.",
+    "retenir": "Les entreprises qui achètent ou transportent du bois de construction ont intérêt à vérifier leurs papiers et ceux de leurs fournisseurs.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/actualites/benin-la-fuite-devant-les-controles-forestiers-coute-plus-cher"
+   },
+   {
+    "date": "2026-11-01",
+    "zone": "Monde",
+    "titre": "Journée mondiale des villes : le logement au premier plan",
+    "resume": "La journée du 31 octobre avait pour thème le logement adéquat pour tous. Selon l'ONU, jusqu'à 3,4 milliards de personnes n'ont pas de logement convenable.",
+    "retenir": "Ce besoin mondial appuie l'intérêt des financements vers le logement abordable, un créneau à suivre aussi au Bénin.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/actualites/journee-mondiale-des-villes-le-logement-decent-au-coeur-de-la-transformation-urbaine"
+   },
+   {
+    "date": "2026-10-30",
+    "zone": "Bénin",
+    "titre": "Fonds des communes : l'argent du FADeC peine à être dépensé à temps",
+    "resume": "Un atelier tenu à Cotonou le 29 octobre a examiné le décalage entre l'arrivée de l'argent du Fonds d'appui au développement des communes et son utilisation réelle. Le ministère annonce la régularisation des transferts et un manuel de procédures actualisé.",
+    "retenir": "Pour les PME qui travaillent avec les mairies, des règles plus claires peuvent améliorer le rythme des marchés et des paiements : à surveiller.",
+    "source": "Gouvernement du Bénin",
+    "url": "https://www.gouv.bj/article/3726/gestion-fonds-communaux-fadec-coeur-diagnostic-trace-nouvelles-perspectives/"
+   },
+   {
+    "date": "2026-10-30",
+    "zone": "Bénin",
+    "titre": "Industrie : 19 % de l'économie, mais une électricité chère",
+    "resume": "Selon un diagnostic de la Banque africaine de développement, la part de l'industrie dans le PIB (la richesse produite) est passée de 12 % en 1991 à 19 % en 2024. L'électricité reste pour les industriels environ 20 % plus chère que la moyenne de la zone UEMOA.",
+    "retenir": "Le besoin en usines et en énergie soutient les chantiers, mais le coût de l'électricité pèse sur les matériaux produits sur place.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/actualites/transformation-industrielle-au-benin-un-modele-a-consolider-au-dela-des-progres"
+   },
+   {
+    "date": "2026-10-30",
+    "zone": "Monde",
+    "titre": "Matériel de chantier : Terex va racheter le belge Keestrack",
+    "resume": "Terex a signé un accord définitif pour acquérir ce fabricant de concasseurs et de cribles mobiles, présent dans plus de 65 pays. La conclusion est attendue au dernier trimestre 2026 ; le montant n'est pas communiqué.",
+    "retenir": "Le matériel de concassage se concentre chez de grands groupes : à garder en tête pour le choix des fournisseurs et du service après-vente.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/terex-to-acquire-keestrack/8135299.article"
+   },
    {
     "date": "2026-10-30",
     "zone": "Bénin",
@@ -59,6 +104,24 @@
    },
    {
     "date": "2026-10-29",
+    "zone": "Afrique",
+    "titre": "Nigeria : environ 631 milliards de nairas pour neuf projets routiers",
+    "resume": "Le conseil exécutif fédéral a validé ces travaux, dont 95 km dans l'État de Kogi et 81 km dans celui d'Ekiti. Le financement de l'autoroute Lagos-Abidjan, qui traverse le Bénin, reste aussi discuté.",
+    "retenir": "L'autoroute Lagos-Abidjan concerne directement le Bénin : ses étapes de financement méritent d'être suivies.",
+    "source": "allAfrica / Premium Times",
+    "url": "https://allafrica.com/stories/202610290165.html"
+   },
+   {
+    "date": "2026-10-29",
+    "zone": "Monde",
+    "titre": "San Francisco : Jacobs et PCL sur une station d'épuration à 1 milliard de dollars",
+    "resume": "Les deux groupes, associés, sont retenus pour moderniser une usine qui traite près de 80 % des eaux usées de la ville. Elle doit rester en service pendant le chantier.",
+    "retenir": "Travailler sans arrêter un équipement en service est une compétence recherchée, aussi utile pour les ouvrages d'eau au Bénin.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/jacobs-and-pcl-share-1bn-san-francisco-wastewater-project/8135166.article"
+   },
+   {
+    "date": "2026-10-29",
     "zone": "Bénin",
     "titre": "Quatre centrales solaires : 30 millions d'euros bouclés pour le projet IPP50",
     "resume": "AXIAN, la CDC Bénin (Caisse des dépôts), l'IFC (filiale de la Banque mondiale) et Proparco ont signé 30 millions d'euros de financement, sur un coût total de 45 millions, pour des centrales à Natitingou, Djougou, Parakou et Bohicon. Elles totaliseront 62 MWc et doivent entrer en service au premier trimestre 2028.",
@@ -83,6 +146,15 @@
     "retenir": "Les grands groupes français continuent de gagner de gros équipements culturels à l'étranger.",
     "source": "Construction Briefing",
     "url": "https://www.constructionbriefing.com/news/vinci-wins-second-phase-of-polands-largest-symphony-hall/8135151.article"
+   },
+   {
+    "date": "2026-10-27",
+    "zone": "Afrique",
+    "titre": "Ghana : un groupe chinois signe une centrale solaire de 300 MW",
+    "resume": "Sedin Engineering, filiale de China National Chemical Engineering, a signé ce contrat de conception et de construction pour 2,58 milliards de yuans. Le pays comptait 276,7 MW de solaire fin 2025.",
+    "retenir": "Le voisin ghanéen accélère sur le solaire : les entreprises chinoises y fixent des prix serrés qui pèseront aussi sur les appels d'offres de la région.",
+    "source": "36Kr",
+    "url": "https://eu.36kr.com/en/p/4042912680662912"
    },
    {
     "date": "2026-10-27",
@@ -366,6 +438,117 @@
   ]
  },
  "presse": [
+  {
+   "date": "2026-11-02",
+   "synthese": "Le premier gros chargement de pétrole de Sèmè part vers les Pays-Bas, et MTN MoMo applique ses nouveaux frais et plafonds dès aujourd'hui. La loi sur le Code de la route poursuit son parcours et le Code des forêts durcit les sanctions.",
+   "articles": [
+    {
+     "date": "2026-11-02",
+     "journal": "Bénin Web TV",
+     "titre": "MTN MoMo passe à PI-SPI ce 2 novembre",
+     "resume": "Le système de paiement de la BCEAO s'applique dès aujourd'hui : transferts gratuits jusqu'à 8 000 FCFA cumulés par jour, puis 0,5 %. Le solde maximal passe à 4 millions FCFA.",
+     "url": "https://beninwebtv.bj/benin-mtn-momo-adopte-le-systeme-pi-spi-de-la-bceao-des-le-2-novembre-avec-de-nouveaux-plafonds-et-une-grille-tarifaire-revisee/"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Pétrole : 330 000 barils vers les Pays-Bas, une première depuis 28 ans",
+     "resume": "Le chargement du brut de Sèmè est prévu les 1er et 2 novembre sur le tanker Kriti Jade. Akrake Petroleum détient 76 % du projet, l'État 15 % et Octogone Trading 9 %.",
+     "url": "https://lanouvelletribune.info/2026/11/petrole-le-benin-va-expedier-330-000-barils-vers-les-pays-bas-une-premiere-depuis-28-ans/"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Golfe de Guinée : exercice maritime entre Ouidah et Sèmè-Podji",
+     "resume": "Le Grand African Nemo réunit des marines jusqu'au 6 novembre. Au Bénin, un exercice contre les pollutions a lieu du 2 au 4 novembre, puis un procès fictif le 5.",
+     "url": "https://lanouvelletribune.info/2026/11/securite-maritime-le-benin-mobilise-sa-marine-pour-lexercice-grand-african-nemo-2026/"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "Le Matinal",
+     "titre": "Code de la route : un député explique l'esprit du texte",
+     "resume": "Louis Koukpemedji rappelle que la loi adoptée le 26 octobre remplace un texte de 1956 et protège ceux qui portent secours aux victimes. Elle doit encore passer au Sénat puis être promulguée.",
+     "url": "https://lematinal.bj/louis-koukpemedji-sur-le-nouveau-code-de-la-route-lesprit-de-ce-texte-cest-dabord-la-protection-des-vies-humaines/"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "Le Matinal",
+     "titre": "Santé : des soins d'urgence sans paiement immédiat",
+     "resume": "La ministre conseillère Rosine Dagniho a présenté la réforme : les frais sont réglés après les soins d'urgence. Elle a aussi parlé des pôles de développement territorial.",
+     "url": "https://lematinal.bj/reformes-sanitaires-et-poles-de-developpement-rosine-dagniho-expose-les-perspectives-pour-les-populations/"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "La Nation",
+     "titre": "Eaux et Forêts : des peines lourdes pour qui fuit un contrôle",
+     "resume": "Le Code des forêts prévoit jusqu'à 1 an de prison, et davantage si le véhicule transporte du bois ou d'autres produits forestiers. Le véhicule peut être saisi.",
+     "url": "https://lanation.bj/actualites/benin-la-fuite-devant-les-controles-forestiers-coute-plus-cher"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "24 Heures au Bénin",
+     "titre": "Plus de 300 traverses de chemin de fer interceptées",
+     "resume": "Le commissariat de Dan, à Djidja, a démantelé un réseau présumé de vol de matériel ferroviaire, selon l'annonce du journal.",
+     "url": "https://www.24haubenin.info/?Plus-de-300-traverses-de-l-ex-OCBN-interceptees-des-suspects-arretes"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "Bénin Web TV",
+     "titre": "Burkina : 160 billets du SIAO saisis",
+     "resume": "La police annonce l'arrestation de revendeurs à Ouagadougou. Le salon de l'artisanat, ouvert le 30 octobre, dure jusqu'au 8 novembre.",
+     "url": "https://beninwebtv.bj/siao-2026-la-police-annonce-des-interpellations-et-la-saisie-de-160-billets/"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "Koaci",
+     "titre": "Côte d'Ivoire : prix des carburants inchangés en novembre",
+     "resume": "Le super reste à 905 FCFA le litre et le gasoil à 725 FCFA du 1er au 30 novembre.",
+     "url": "https://www.koaci.com/article/2026/11/01/cote-divoire/societe/cote-divoire-pas-de-changement-a-la-pompe-des-prix-des-produits-petroliers-pour-le-mois-de-novembre_202168.html"
+    },
+    {
+     "date": "2026-10-31",
+     "journal": "La Nation",
+     "titre": "Mairie de Cotonou : Pyrros Kiki nouveau secrétaire exécutif",
+     "resume": "Il a pris ses fonctions le 30 octobre en présence du maire Luc Gnacadja. Il remplace Anges Paterne Amoussouga.",
+     "url": "https://lanation.bj/actualites/mairie-de-cotonou-le-nouveau-secretaire-executif-pyrros-kiki-prend-service"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "Banouto",
+     "titre": "Tori-Bossito : un homme écroué pour trafic présumé d'ossements humains",
+     "resume": "Une jarre d'ossements a été saisie chez lui après son interpellation le 26 octobre. Une expertise médicale a établi qu'ils étaient humains, contrairement à sa version.",
+     "url": "https://www.banouto.bj/societe/article/20261030-tori-bossito-un-homme-place-sous-mandat-de-depot-pour-trafic-presume-dossements-humains"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "Matin Libre",
+     "titre": "Sextorsion : des victimes qui se taisent",
+     "resume": "Le chantage sexuel en ligne n'est pas une infraction à part dans la loi, mais le Code du numérique permet de poursuivre les faits. Femmes et filles représentent 69 % des victimes selon les données citées.",
+     "url": "https://matinlibre.com/2026/10/30/sextorsion-au-benin-derriere-le-silence-des-victimes-le-defi-de-la-protection/"
+    },
+    {
+     "date": "2026-10-30",
+     "journal": "Gouvernement du Bénin",
+     "titre": "FADeC : l'exécution des fonds communaux en question",
+     "resume": "Un atelier du 29 octobre à Cotonou a constaté un décalage entre l'arrivée des fonds et leur usage. Les transferts seront régularisés et le manuel de procédures actualisé.",
+     "url": "https://www.gouv.bj/article/3726/gestion-fonds-communaux-fadec-coeur-diagnostic-trace-nouvelles-perspectives/"
+    },
+    {
+     "date": "2026-10-29",
+     "journal": "Cadre Éco",
+     "titre": "SInAEB 2026 : faciliter le financement des PME",
+     "resume": "Le salon s'est ouvert le 28 octobre au Palais des Congrès de Cotonou, avec l'accompagnement des petites entreprises au centre des échanges.",
+     "url": "https://cadreco.media/evenement/2026/sinaeb-2026-le-benin-mise-sur-laccompagnement-pour-faciliter-le-financement-des-pme"
+    },
+    {
+     "date": "2026-10-28",
+     "journal": "Banouto",
+     "titre": "Wadagni à Abou Dhabi : huit accords échangés",
+     "resume": "La visite du 25 octobre a donné lieu à un partenariat économique global et à sept autres textes. Les échanges hors pétrole ont atteint 2,15 milliards de dollars en 2025.",
+     "url": "https://www.banouto.bj/politique/article/20261028-romuald-wadagni-aux-emirats-arabes-unis-5-choses-a-retenir-de-ce-voyage-qui-n-est-pas-une-premiere-pour-le-benin"
+    }
+   ]
+  },
   {
    "date": "2026-10-31",
    "synthese": "Le Sénat a tenu sa première session, la vice-présidente a représenté le Bénin au sommet Russie-Afrique et de nouvelles règles MTN MoMo entrent en vigueur le 2 novembre ; côté énergie, deux projets solaires avancent et 330 000 barils de pétrole partent de Sèmè.",
@@ -764,7 +947,7 @@
     "points": [
      "Location courte durée : environ 219 logements Airbnb actifs à Cotonou, occupés en moyenne 32 % des nuits, à environ 30 000 FCFA la nuit ; les séjours durent 7,4 nuits en moyenne.",
      "Clientèle venue de l'étranger : 98 % des voyageurs qui laissent un avis vivent hors du Bénin (43 % en France, 13 % aux États-Unis). Août est le meilleur mois (44 % d'occupation).",
-     "Diaspora et Afro-descendants : la loi sur le retour aux sources (53 nouveaux citoyens le 25 octobre 2026), les Vodun Days (2 au 9 janvier 2027) et le Black Travel Summit 2027 à Cotonou attirent des visiteurs qui ont besoin d'un relais de confiance sur place.",
+     "Diaspora et Afro-descendants : la loi sur le retour aux sources (53 nouveaux citoyens le 25 octobre 2026), les Vodun Days (2 au 9 janvier 2027) et le Black Travel Summit à Cotonou (11 au 14 novembre 2027) attirent des visiteurs qui ont besoin d'un relais de confiance sur place.",
      "Concurrence déjà présente : des conciergeries haut de gamme proposent des abonnements (par exemple 150 000 à 500 000 FCFA par mois chez ED Prestige), d'autres sont spécialisées dans la gestion Airbnb. Il faut donc un positionnement clair."
     ],
     "sources": [
@@ -787,6 +970,10 @@
      {
       "nom": "ED Prestige, conciergerie à Cotonou",
       "url": "https://ed-prestige.com/"
+     },
+     {
+      "nom": "Black Travel Summit",
+      "url": "https://blacktravelsummit.com/global-summit/"
      }
     ]
    },
@@ -957,6 +1144,30 @@
   ],
   "actus": [
    {
+    "date": "2026-11-01",
+    "titre": "Mois du « Consommons local » : fin de la 7e édition à Cotonou",
+    "resume": "L'édition lancée le 1er octobre s'est achevée le 30 octobre. Une étude citée note une production nationale en hausse depuis 2015, mais une forte concurrence des importations.",
+    "idee": "Composer un panier de bienvenue 100 % béninois (jus, snacks, artisanat) : petit coût pour l'agence, grand effet sur les voyageurs.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/benin-la-7eme-edition-du-mois-de-consommons-local-se-referme/"
+   },
+   {
+    "date": "2026-10-30",
+    "titre": "Bénin Tourisme recrute 75 agents d'accueil et de support",
+    "resume": "La mission annoncée dure 9 jours ; le journal publie le recrutement sans que le détail ait pu être lu en ligne.",
+    "idee": "Repérer ces profils formés à l'accueil : ils pourraient devenir un vivier d'intervenants ponctuels pour les pics d'activité.",
+    "source": "24 Heures au Bénin",
+    "url": "https://www.24haubenin.info/?Benin-Tourisme-recrute-75-agents-de-support-technique-et-d-accueil"
+   },
+   {
+    "date": "2026-10-30",
+    "titre": "Colloque sur la religion traditionnelle africaine à Cotonou les 19 et 20 novembre",
+    "resume": "La Conférence épiscopale du Bénin l'organise à la salle Saint-Charbel d'Akpakpa. Des participants venus d'ailleurs sont possibles pour ce rendez-vous international.",
+    "idee": "Préparer une petite offre courts séjours (transfert, logement, chauffeur) pour ce type d'événement, à répéter ensuite aux Vodun Days.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/culture/article/20261030-benin-leglise-catholique-annonce-un-colloque-international-sur-la-religion-traditionnelle-africaine"
+   },
+   {
     "date": "2026-10-30",
     "titre": "MTN MoMo : nouveaux frais et plafonds à partir du 2 novembre",
     "resume": "Les transferts entre opérateurs passent par la plateforme PI-SPI de la BCEAO : gratuits jusqu'à 8 000 FCFA cumulés par jour, puis 0,5 % du montant. Le solde maximal d'un compte passe de 2 à 4 millions FCFA et le plafond par transfert de 500 000 à 2 millions FCFA.",
@@ -1051,6 +1262,14 @@
     "idee": "Préparer dès maintenant des forfaits « séjour Vodun Days » : transfert aéroport, logement, chauffeur et accompagnement à Ouidah.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
+   },
+   {
+    "date": "2026-10-23",
+    "titre": "Airbnb : au-delà du ménage, amendes et contrats limités",
+    "resume": "Pour les réservations faites dès le 20 novembre, un hôte ne peut plus imposer ses propres amendes. Les contrats de location à part sont réservés à quelques cas, comme une obligation légale ou un séjour au mois.",
+    "idee": "Réécrire ses annonces avant le 20 novembre : règles affichées avant réservation, ménage inclus dans les frais, aucune pénalité maison.",
+    "source": "Short Term Rentalz",
+    "url": "https://shorttermrentalz.com/news/airbnb-limits-checkout-chores-house-rules/"
    },
    {
     "date": "2026-10-23",
@@ -1160,6 +1379,13 @@
    "rubrique": "conciergerie"
   },
   {
+   "date": "2026-11-19",
+   "titre": "Colloque sur la religion traditionnelle africaine à Cotonou (19 et 20 novembre)",
+   "detail": "Organisé par la Conférence épiscopale du Bénin à la salle Saint-Charbel d'Akpakpa.",
+   "url": "https://www.banouto.bj/culture/article/20261030-benin-leglise-catholique-annonce-un-colloque-international-sur-la-religion-traditionnelle-africaine",
+   "rubrique": "conciergerie"
+  },
+  {
    "date": "2026-11-20",
    "titre": "Airbnb : fin des tâches ménagères imposées aux voyageurs",
    "detail": "Pour les réservations faites à partir de cette date, les hôtes Airbnb ne peuvent plus demander aux voyageurs de faire la vaisselle, les lits ou la lessive avant leur départ.",
@@ -1179,6 +1405,13 @@
    "detail": "Fermées depuis le 26 octobre pour le projet Asphaltage 1B près du futur hôtel de ville, ces rues doivent rouvrir à cette date.",
    "url": "https://benin-news.com/2026/10/22/cotonou-fermeture-deux-rues-asphaltage-1b/",
    "rubrique": "btp"
+  },
+  {
+   "date": "2027-11-11",
+   "titre": "Black Travel Summit à Cotonou (11 au 14 novembre 2027)",
+   "detail": "Première édition africaine, inscriptions ouvertes (pass annoncé à 350 dollars) : une occasion de préparer tôt une offre pour ces voyageurs.",
+   "url": "https://blacktravelsummit.com/global-summit/",
+   "rubrique": "conciergerie"
   }
  ]
 }
