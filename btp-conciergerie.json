@@ -1,8 +1,98 @@
 {
- "derniereMaj": "2026-11-02T05:01:35Z",
+ "derniereMaj": "2026-11-04T05:00:14Z",
  "btp": {
-  "synthese": "Le logement et l'énergie restent au premier plan : au Bénin, l'industrie pèse désormais 19 % de l'économie mais paie cher son électricité, et le nouveau Code des forêts durcit les contrôles sur le transport de bois. Dans la région, le Nigeria valide neuf projets routiers et le Ghana signe 300 MW de solaire.",
+  "synthese": "Au Bénin, l'investissement public et l'électricité dominent : Cotonou vote un budget 2027 très tourné vers les travaux, tandis que la baisse des importations de courant provoque des coupures. Dans la région, le Togo propose de réduire le coût de l'autoroute Abidjan-Lagos.",
   "actus": [
+   {
+    "date": "2026-11-03",
+    "zone": "Bénin",
+    "titre": "Cotonou vote un budget 2027 de 72,4 milliards FCFA, tourné vers l'investissement",
+    "resume": "Le conseil communal a adopté le budget à l'unanimité le 2 novembre : plus de 74 % des ressources vont aux investissements, en hausse de 47,54 %, et le fonctionnement baisse de 6,44 %.",
+    "retenir": "Les investissements de la ville augmentent nettement : à suivre pour repérer les marchés communaux qui seront lancés en 2027.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/societe/article/20261103-budget-2027-de-la-mairie-de-cotonou-les-depenses-dinvestissements-en-hausse-de-47-54"
+   },
+   {
+    "date": "2026-11-03",
+    "zone": "Bénin",
+    "titre": "Marchés publics : l'ARMP forme les entreprises à mieux répondre aux appels d'offres",
+    "resume": "L'Autorité de régulation des marchés publics (ARMP) tient des sessions à Cotonou du 2 au 5 novembre. Selon un de ses responsables, 85 % des recours examinés sont recevables mais mal fondés, et la part réservée aux petites entreprises devrait passer de 20 % à 30-35 %.",
+    "retenir": "Une part réservée plus grande ouvrirait davantage de marchés aux petites entreprises de BTP, à condition de soigner leurs dossiers.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/actualites/commande-publique-au-benin-les-entreprises-outillees-pour-gagner-en-competitivite"
+   },
+   {
+    "date": "2026-11-03",
+    "zone": "Bénin",
+    "titre": "Coupures d'électricité : la SBEE et la SBPE pointent la baisse des importations",
+    "resume": "Les deux sociétés publiques d'électricité expliquent les interruptions par une réduction des importations venant du Ghana et du Nigeria, et promettent d'informer régulièrement les usagers.",
+    "retenir": "Sur les chantiers, mieux vaut prévoir un groupe électrogène ou adapter le planning des tâches qui ont besoin de courant.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/energie-electrique-la-sbpe-et-la-sbee-alertent-sur-les-coupures-delectricite-dues-aux-restrictions-dimportation/"
+   },
+   {
+    "date": "2026-11-03",
+    "zone": "Afrique",
+    "titre": "Autoroute Abidjan-Lagos : le Togo propose de ramener la facture à 10 milliards de dollars",
+    "resume": "À la réunion ministérielle de Lomé, le 30 octobre, des options ont été présentées pour passer de 15 milliards de dollars à 13, voire 10 milliards. Le projet prévoit environ 1 028 km à six voies, passant notamment par Cotonou.",
+    "retenir": "Ce projet qui traverse le Bénin reste à l'étude : un coût revu peut changer sa conception et les lots de travaux à venir.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/transport/0311-20525-corridor-abidjan-lagos-le-togo-propose-de-ramener-le-cout-du-projet-a-10-milliards-de-dollars"
+   },
+   {
+    "date": "2026-11-03",
+    "zone": "Monde",
+    "titre": "États-Unis : 198 000 salariés du BTP ont démissionné en septembre",
+    "resume": "C'est le plus haut niveau depuis le premier semestre 2023, selon l'analyse d'une fédération professionnelle, et les offres d'emploi du secteur atteignent 298 000.",
+    "retenir": "Partout, garder ses bons ouvriers devient un enjeu : la fidélisation et la formation comptent autant que le prix.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/198-000-us-construction-workers-quit-in-september-amid-labour-squeeze/8135576.article"
+   },
+   {
+    "date": "2026-11-03",
+    "zone": "Monde",
+    "titre": "Royaume-Uni : 20 milliards de livres pour un centre de données de 1 GW",
+    "resume": "Drax et Brookfield s'associent pour construire jusqu'à 1 GW de capacité sur le site de la centrale de Drax ; la première phase de 100 MW pourrait fonctionner à partir du début de 2028.",
+    "retenir": "Les centres de données restent l'un des plus gros moteurs de commandes pour le BTP mondial.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/20bn-partnership-to-deliver-a-1gw-uk-data-centre-announced/8135483.article"
+   },
+   {
+    "date": "2026-11-02",
+    "zone": "Bénin",
+    "titre": "Port de Cotonou : plus de 345 milliards FCFA de travaux, et un port de pêche annoncé",
+    "resume": "Lors d'une rencontre le 30 octobre, les dix principaux projets ont été présentés comme avancés à environ 70 %. Le port a traité 14,71 millions de tonnes en 2025, vise 16 à 16,5 millions en 2026, et le lancement des travaux du port de pêche est annoncé pour novembre.",
+    "retenir": "Le chantier du port de pêche, s'il démarre comme annoncé, peut créer du travail pour les entreprises et fournisseurs locaux.",
+    "source": "Cadre Éco",
+    "url": "https://cadreco.media/evenement/2026/port-de-cotonou-face-aux-chocs-mondiaux-le-defi-de-la-competitivite"
+   },
+   {
+    "date": "2026-11-02",
+    "zone": "Bénin",
+    "titre": "Route Cotonou-Bohicon : des automobilistes contournent le péage de Houègbo",
+    "resume": "Une enquête décrit des pistes utilisées pour éviter ce péage à 1 000 FCFA, en service pour les véhicules légers depuis janvier 2026 ; plus de cinquante véhicules y ont été comptés le 12 septembre.",
+    "retenir": "Le péage pèse dans le budget des déplacements : un coût à intégrer dans les devis de chantiers desservis par cet axe.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/investigation-reportages/article/20261102-route-cotonou-bohicon-dans-les-meandres-des-pistes-de-contournement-du-peage-de-houegbo"
+   },
+   {
+    "date": "2026-11-02",
+    "zone": "Afrique",
+    "titre": "Togo : immeubles et centre de conférences prévus sur le littoral libéré",
+    "resume": "Un ministre a présenté le 1er novembre un projet sur les espaces côtiers récupérés depuis septembre : appartements haut de gamme, commerces, centre de conférences et parc de jeux. Aucun montant n'a été annoncé.",
+    "retenir": "Un futur marché de construction chez le voisin togolais, à suivre pour les entreprises de la région.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/0211-20509-togo-des-immeubles-centres-de-conferences-et-espaces-de-loisirs-annonces-sur-le-littoral"
+   },
+   {
+    "date": "2026-11-02",
+    "zone": "Monde",
+    "titre": "Chantiers : la conception en cause dans 40 % des litiges",
+    "resume": "Une étude du cabinet HKA sur 2 410 projets dans 122 pays relie 40,5 % des projets à des litiges de conception : erreurs, plans en retard ou incomplets.",
+    "retenir": "Faire vérifier les plans avant de démarrer coûte moins cher qu'un litige : un réflexe à garder sur chaque chantier.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/design-failures-behind-40-of-construction-disputes/8135313.article"
+   },
    {
     "date": "2026-11-01",
     "zone": "Bénin",
@@ -438,6 +528,117 @@
   ]
  },
  "presse": [
+  {
+   "date": "2026-11-04",
+   "synthese": "Le Bénin s'engage à former des officiers haïtiens et Cotonou vote un budget 2027 tourné vers l'investissement, tandis que la baisse des importations d'électricité provoque des coupures. Côté vie pratique, le casier judiciaire se demande maintenant en ligne.",
+   "articles": [
+    {
+     "date": "2026-11-04",
+     "journal": "Matin Libre",
+     "titre": "Le Bénin formera des officiers haïtiens",
+     "resume": "Le chef des Forces armées d'Haïti, reçu à Cotonou le 3 novembre, a obtenu que les écoles militaires béninoises accueillent ses officiers.",
+     "url": "https://matinlibre.com/2026/11/04/cooperation-militaire-le-benin-sengage-a-former-les-officiers-des-forces-armees-dhaiti/"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Frais scolaires illégaux : des contrôles surprises annoncés",
+     "resume": "Une note du ministère du 30 octobre demande de faire cesser toute collecte hors des frais homologués dans les collèges et lycées publics.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-le-gouvernement-annonce-des-controles-inopines-pour-mettre-fin-aux-frais-scolaires-illegaux/"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Prix de la simplification administrative : déjà 1 400 contributions",
+     "resume": "Au 2 novembre au soir, plus de 1 400 idées avaient été déposées ; la plateforme reste ouverte jusqu'au 12 novembre.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-le-prix-de-la-simplification-administrative-enregistre-plus-de-1-400-contributions-en-cinq-jours/"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "Banouto",
+     "titre": "Cotonou adopte un budget 2027 de 72,4 milliards FCFA",
+     "resume": "Plus de 74 % des ressources iront aux investissements. Un rapport d'inspection sur les recettes fiscales de la ville a aussi été présenté, avec 48 recommandations.",
+     "url": "https://www.banouto.bj/societe/article/20261103-budget-2027-de-la-mairie-de-cotonou-les-depenses-dinvestissements-en-hausse-de-47-54"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "Banouto",
+     "titre": "Sénégal : le budget rectificatif de nouveau rejeté",
+     "resume": "Les députés sénégalais ont une nouvelle fois refusé le budget révisé pour 2026, alors que le déficit est annoncé à 7,6 % du PIB et qu'un financement du FMI est menacé.",
+     "url": "https://www.banouto.bj/politique/article/20261103-senegal-nouveau-rejet-le-budget-revise-par-le-parlement"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "Le Matinal",
+     "titre": "Coupures de courant : la SBEE et la SBPE s'expliquent",
+     "resume": "Les interruptions viennent d'une baisse des importations d'électricité du Ghana et du Nigeria ; les sociétés promettent une information régulière.",
+     "url": "https://lematinal.bj/energie-electrique-la-sbpe-et-la-sbee-alertent-sur-les-coupures-delectricite-dues-aux-restrictions-dimportation/"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "Le Matinal",
+     "titre": "Bancarisation : le Bénin en tête de l'UEMOA",
+     "resume": "Avec 39,8 % en 2025, le pays devance la Côte d'Ivoire (37,1 %) et le Togo (28,3 %) dans l'Union économique et monétaire ouest-africaine, selon des données de la banque centrale.",
+     "url": "https://lematinal.bj/bancarisation-dans-luemoa-en-2025-le-benin-simpose-en-tete-avec-398/"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "Bénin Web TV",
+     "titre": "Godomey : 36 interpellations en trois heures",
+     "resume": "La police a arrêté 36 personnes et démantelé cinq « ghettos » le 2 novembre, après 182 interpellations du 20 au 31 octobre.",
+     "url": "https://beninwebtv.bj/godomey-36-interpellations-trois-heures-2-novembre-2026/"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "Bénin Web TV",
+     "titre": "CRIET : un an ferme requis pour une fausse annonce de décès de Talon",
+     "resume": "Le parquet a requis 24 mois de prison, dont 12 fermes, et 500 000 FCFA d'amende ; le jugement est attendu le 21 décembre.",
+     "url": "https://beninwebtv.bj/criet-un-an-de-prison-ferme-requis-contre-lauteur-de-fausses-rumeurs-sur-le-deces-de-patrice-talon/"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "24 Heures au Bénin",
+     "titre": "Gouvernance : le Bénin passé au crible de l'indice Mo Ibrahim",
+     "resume": "Le journal revient sur les résultats du pays pour 2016-2025, après la publication de l'indice le 31 octobre.",
+     "url": "https://www.24haubenin.info/?Les-5-grandes-performances-du-Benin-en-matiere-de-gouvernance-entre-2016-2025"
+    },
+    {
+     "date": "2026-11-03",
+     "journal": "Cadre Éco",
+     "titre": "Téléphone à l'étranger : quatre pays harmonisent leurs tarifs",
+     "resume": "Le Bénin, le Burkina Faso, la Côte d'Ivoire et le Sénégal ont signé le 23 octobre des conventions supprimant pour un temps les frais de réception d'appels des voyageurs et plafonnant les autres tarifs.",
+     "url": "https://cadreco.media/regulation/2026/telephonie-mobile-le-burkina-faso-le-benin-la-cote-divoire-et-le-senegal-harmonisent-leurs-tarifs-des-communications"
+    },
+    {
+     "date": "2026-11-02",
+     "journal": "SRTB",
+     "titre": "Casier judiciaire : délivrance instantanée en ligne",
+     "resume": "Depuis le 1er novembre, le bulletin s'obtient sur service-public.bj avec le numéro personnel d'identification (NPI), pour 1 900 FCFA.",
+     "url": "https://srtb.bj/bulletin-du-casier-judiciaire-au-benin-le-document-desormais-delivre-instantanement-en-ligne/"
+    },
+    {
+     "date": "2026-11-02",
+     "journal": "La Nation",
+     "titre": "Pétrole de Sèmè : ce que peut rapporter la première cargaison",
+     "resume": "Une simulation à 110 dollars le baril donne environ 21 milliards FCFA de valeur brute pour 330 000 barils ; l'État détient 15 % du projet et perçoit une redevance de 10 %.",
+     "url": "https://lanation.bj/actualites/petrole-de-seme-combien-la-premiere-cargaison-rapportera-t-elle-vraiment-a-letat"
+    },
+    {
+     "date": "2026-11-02",
+     "journal": "Koaci",
+     "titre": "Accident d'un car de la ligne Cotonou-Abidjan au Ghana",
+     "resume": "Le véhicule s'est renversé près d'Elubo ; le bilan provisoire est de 8 morts et 21 blessés.",
+     "url": "https://www.koaci.com/article/2026/11/02/cote-divoire/societe/cote-divoire-ghana-un-car-ivoirien-en-provenance-de-la-ligne-cotonou-abidjan-se-renverse-pres-delubo-8-morts-et-21-blesses_202197.html"
+    },
+    {
+     "date": "2026-11-01",
+     "journal": "Gouvernement du Bénin",
+     "titre": "Rentrée scolaire : le ministre sur le terrain",
+     "resume": "Le ministre Armand Kuyema Natta a visité des établissements de l'Atacora et de la Donga du 28 au 31 octobre.",
+     "url": "https://www.gouv.bj/article/3728/suivi-rentree-scolaire-ministre-armand-kuyema-natta-renforce-proximite-avec-acteurs-educatifs/"
+    }
+   ]
+  },
   {
    "date": "2026-11-02",
    "synthese": "Le premier gros chargement de pétrole de Sèmè part vers les Pays-Bas, et MTN MoMo applique ses nouveaux frais et plafonds dès aujourd'hui. La loi sur le Code de la route poursuit son parcours et le Code des forêts durcit les sanctions.",
@@ -1049,7 +1250,7 @@
     "titre": "Fixer ses tarifs",
     "intro": "Trois modèles coexistent ; on peut les combiner selon le client.",
     "points": [
-     "Commission sur les loyers encaissés : en France, 15 à 30 % (20 % en moyenne), ménage souvent facturé à part au voyageur.",
+     "Commission sur les loyers encaissés : en France, 15 à 30 % (20 % en moyenne), ménage souvent facturé à part au voyageur ; YourHostHelper, présent à Cotonou, affiche sur son site une commission de 20 % sans frais fixes.",
      "Forfait mensuel ou abonnement : utile pour la diaspora et les entreprises ; à Cotonou, des formules affichées vont de 150 000 à 500 000 FCFA par mois.",
      "Prix à la prestation : accueil, ménage, transfert aéroport, chacun avec un tarif fixe connu d'avance.",
      "Exemple de calcul : un logement Airbnb moyen à Cotonou rapporte environ 1,7 million FCFA par an ; une commission de 20 % donne environ 340 000 FCFA par an, soit près de 28 500 FCFA par mois et par logement. Il faut donc gérer plusieurs logements pour couvrir les charges.",
@@ -1067,6 +1268,10 @@
      {
       "nom": "AirROI, données Airbnb Cotonou (12 mois à septembre 2026)",
       "url": "https://www.airroi.com/airbnb-data/benin/littoral-department/cotonou"
+     },
+     {
+      "nom": "YourHostHelper, tarifs",
+      "url": "https://yourhosthelper.com/tarifs/"
      }
     ]
    },
@@ -1144,12 +1349,60 @@
   ],
   "actus": [
    {
+    "date": "2026-11-03",
+    "titre": "Africa Tourism Awards : quatre trophées pour le Bénin",
+    "resume": "Le 1er novembre à Londres, le pays a été désigné destination touristique et destination culturelle de l'année ; Bénin Tourisme et sa vidéo ont aussi été primés.",
+    "idee": "Citer ces distinctions sur le site de l'agence et dans les messages à la clientèle étrangère pour rassurer ceux qui découvrent le pays.",
+    "source": "SRTB",
+    "url": "https://srtb.bj/tourisme-en-afrique-le-benin-decroche-quatre-distinctions-internationales-grace-au-dynamisme-de-sa-politique-touristique/"
+   },
+   {
+    "date": "2026-11-03",
+    "titre": "Coupures d'électricité liées à la baisse des importations",
+    "resume": "La SBEE et la SBPE annoncent des interruptions dues à la réduction du courant venu du Ghana et du Nigeria.",
+    "idee": "Vérifier pour chaque logement géré une solution de secours (onduleur, groupe, lampes) et prévenir les voyageurs à leur arrivée.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/energie-electrique-la-sbpe-et-la-sbee-alertent-sur-les-coupures-delectricite-dues-aux-restrictions-dimportation/"
+   },
+   {
+    "date": "2026-11-03",
+    "titre": "Moins de frais de téléphone pour les voyageurs de quatre pays",
+    "resume": "Le Bénin, le Burkina Faso, la Côte d'Ivoire et le Sénégal ont signé des conventions pour supprimer un temps les frais de réception d'appels à l'étranger et plafonner les autres tarifs.",
+    "idee": "Ajouter dans le livret d'accueil une courte fiche sur le téléphone et Internet mobile, à compléter dès que les opérateurs publieront leurs prix.",
+    "source": "Cadre Éco",
+    "url": "https://cadreco.media/regulation/2026/telephonie-mobile-le-burkina-faso-le-benin-la-cote-divoire-et-le-senegal-harmonisent-leurs-tarifs-des-communications"
+   },
+   {
+    "date": "2026-11-02",
+    "titre": "Casier judiciaire en ligne en quelques clics",
+    "resume": "Depuis le 1er novembre, le bulletin coûte 1 900 FCFA sur service-public.bj, avec le NPI, y compris depuis l'étranger.",
+    "idee": "Demander ce bulletin à chaque personne qui recevra les clés des logements : c'est simple, peu cher et rassurant pour les propriétaires.",
+    "source": "Matin Libre",
+    "url": "https://matinlibre.com/2026/11/03/dematerialisation-du-casier-judiciaire-1-900-f-cfa-pour-une-delivrance-instantanee-au-benin-comme-a-letranger/"
+   },
+   {
+    "date": "2026-11-02",
+    "titre": "Airbnb aurait dépensé 7,1 millions de dollars aux élections de Los Angeles",
+    "resume": "La plateforme soutient des candidats alors qu'un programme limité de locations de vacances est discuté pour les Jeux olympiques de 2028.",
+    "idee": "Retenir que les règles de location courte durée se décident aussi au niveau des villes : surveiller les décisions de la mairie de Cotonou.",
+    "source": "Short Term Rentals",
+    "url": "https://shorttermrentalz.com/news/airbnb-los-angeles-election-spending/"
+   },
+   {
     "date": "2026-11-01",
     "titre": "Mois du « Consommons local » : fin de la 7e édition à Cotonou",
     "resume": "L'édition lancée le 1er octobre s'est achevée le 30 octobre. Une étude citée note une production nationale en hausse depuis 2015, mais une forte concurrence des importations.",
     "idee": "Composer un panier de bienvenue 100 % béninois (jus, snacks, artisanat) : petit coût pour l'agence, grand effet sur les voyageurs.",
     "source": "Le Matinal",
     "url": "https://lematinal.bj/benin-la-7eme-edition-du-mois-de-consommons-local-se-referme/"
+   },
+   {
+    "date": "2026-10-30",
+    "titre": "Vrbo prépare une réservation sans paiement immédiat",
+    "resume": "La plateforme ajoute une recherche par phrases (en anglais américain), un assistant vocal et, sur les logements éligibles, une option pour réserver sans payer tout de suite.",
+    "idee": "Pour les clients directs, étudier un acompte réduit à la réservation et prévoir clairement les conditions d'annulation.",
+    "source": "Short Term Rentals",
+    "url": "https://shorttermrentalz.com/news/vrbo-ai-search-payment-expedia-group/"
    },
    {
     "date": "2026-10-30",
@@ -1351,6 +1604,13 @@
    "rubrique": "conciergerie"
   },
   {
+   "date": "2026-11-05",
+   "titre": "ARMP : fin des formations sur les marchés publics à Cotonou",
+   "detail": "Ces sessions commencées le 2 novembre portent sur le montage d'une offre compétitive et les recours.",
+   "url": "https://lanation.bj/actualites/commande-publique-au-benin-les-entreprises-outillees-pour-gagner-en-competitivite",
+   "rubrique": "btp"
+  },
+  {
    "date": "2026-11-12",
    "titre": "Prix national de la simplification administrative : date limite",
    "detail": "Dernier jour pour déposer une proposition sur prix-simplification.gouv.bj.",
@@ -1391,6 +1651,20 @@
    "detail": "Pour les réservations faites à partir de cette date, les hôtes Airbnb ne peuvent plus demander aux voyageurs de faire la vaisselle, les lits ou la lessive avant leur départ.",
    "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
    "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-24",
+   "titre": "Webinaire pour gestionnaires : gagner et garder des propriétaires",
+   "detail": "Rendez-vous en ligne en anglais, de 16 h à 17 h GMT, avec des retours d'expérience de gestionnaires.",
+   "url": "https://shorttermrentalz.com/upcoming-webinar/webinar-win-owners-keep-owners-real-stories-from-property-managers-november-24-1600-1700-gmt/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-30",
+   "titre": "Parcours d'affaires France-Bénin à Cotonou (30 novembre au 2 décembre)",
+   "detail": "Organisé par Bpifrance, il débute par un forum d'affaires le 30 novembre : une occasion de rencontrer des entreprises françaises.",
+   "url": "https://lamarina.bj/2026/07/22/cooperation-economique-bpifrance-annonce-un-parcours-daffaires-france-benin-pour-fin-novembre-2026/",
+   "rubrique": "btp"
   },
   {
    "date": "2027-01-02",
