@@ -1,8 +1,71 @@
 {
- "derniereMaj": "2026-11-07T04:53:53Z",
+ "derniereMaj": "2026-11-09T04:53:11Z",
  "btp": {
-  "synthese": "Le Bénin dévoile sa feuille de route 2026-2033, avec un fonds de 100 milliards FCFA pour l'industrie et une unité dédiée aux infrastructures sociales. Dans le monde, les grands groupes du BTP affichent des carnets de commandes bien remplis.",
+  "synthese": "Au Bénin, la sécurisation des terrains (nouveau cadastre) et les budgets communaux 2027 orientés vers l'investissement dominent ; dans la région, l'énergie attire les financements (don américain en Côte d'Ivoire, salon SIREXE à Abidjan).",
   "actus": [
+   {
+    "date": "2026-11-08",
+    "zone": "Bénin",
+    "titre": "Abomey-Calavi : un budget 2027 de 11,7 milliards FCFA et un prêt pour les infrastructures",
+    "resume": "Le conseil municipal a adopté le 6 novembre, à l'unanimité, un budget en hausse de 8,3 % et autorisé un emprunt auprès de la banque UBA. Les investissements visent les écoles, les routes, l'assainissement et les bâtiments administratifs.",
+    "retenir": "De nouveaux marchés communaux de voirie et de bâtiments sont à surveiller à Abomey-Calavi en 2027.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-abomey-calavi-adopte-un-budget-de-117-milliards-un-pret-autorise-pour-les-infrastructures/"
+   },
+   {
+    "date": "2026-11-08",
+    "zone": "Monde",
+    "titre": "Liebherr teste une chargeuse à hydrogène dans un port allemand",
+    "resume": "Un prototype de chargeuse sur pneus fonctionnant à l'hydrogène, produit localement avec de l'électricité éolienne, est testé à Bremerhaven pour déplacer sable, gravier et roche.",
+    "retenir": "Les engins de chantier sans gazole avancent, mais restent au stade d'essai.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/liebherr-begins-hydrogen-wheel-loader-trials-in-germany/8135928.article"
+   },
+   {
+    "date": "2026-11-07",
+    "zone": "Bénin",
+    "titre": "Cadastre : deux programmes lancés pour sécuriser les terrains",
+    "resume": "TERRA BÉNIN vise 1,5 million de parcelles et au moins un million de certificats d'enregistrement au cadastre, en deux phases de cinq ans ; le PPMEC II (2026-2031) couvre 12 communes, dont Cotonou, Porto-Novo et Parakou. La Banque mondiale et les Pays-Bas soutiennent ces projets.",
+    "retenir": "Des titres fonciers plus sûrs facilitent l'achat de terrains et le financement des constructions.",
+    "source": "Gouvernement du Bénin",
+    "url": "https://www.gouv.bj/article/3734/modernisation-fonciere-benin-deux-nouveaux-programmes-accelerer-deploiement-cadastre-national/"
+   },
+   {
+    "date": "2026-11-07",
+    "zone": "Afrique",
+    "titre": "Abidjan accueille le salon de l'énergie et des mines SIREXE du 18 au 22 novembre",
+    "resume": "La deuxième édition annonce 350 exposants, plus de 60 000 visiteurs et 11 000 m² d'exposition au Parc des expositions, avec le Botswana à l'honneur.",
+    "retenir": "Un rendez-vous régional utile pour rencontrer fournisseurs et donneurs d'ordre de l'énergie.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/11/07/cote-divoire/environement/cote-divoire-sirexe-2026-350-exposants-60-000-visiteurs-attendus-abidjan-au-rendez-vous-des-ambitions-energetiques-africaines_202377.html"
+   },
+   {
+    "date": "2026-11-06",
+    "zone": "Bénin",
+    "titre": "Un ingénieur appelle à construire des bâtiments adaptés à la chaleur",
+    "resume": "Dans une tribune, un cadre des travaux publics demande que les marchés publics béninois exigent une performance thermique (fraîcheur naturelle, moins de climatisation) et cite la cité de Ouèdo comme contre-exemple.",
+    "retenir": "Les bureaux d'études et entreprises qui maîtrisent la construction bioclimatique pourraient prendre de l'avance.",
+    "source": "Matin Libre",
+    "url": "https://matinlibre.com/2026/11/06/construire-en-afrique-il-est-temps-de-penser-depuis-lafrique/"
+   },
+   {
+    "date": "2026-11-06",
+    "zone": "Afrique",
+    "titre": "Côte d'Ivoire : un don américain d'environ 180 milliards FCFA pour l'électricité",
+    "resume": "Le Sénat ivoirien a approuvé un don de 322,5 millions de dollars du MCC (Millennium Challenge Corporation, agence américaine d'aide) pour un programme régional, ainsi qu'une TVA réduite à 9 % sur certains intrants agricoles.",
+    "retenir": "Les programmes MCC génèrent des chantiers de réseaux électriques ouverts aux entreprises de la sous-région.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/11/06/cote-divoire/politique/cote-divoire-le-senat-approuve-un-financement-americain-de-180-milliards-fcfa-pour-booster-lenergie-et-la-reduction-de-la-tva-agricole-a-9_202362.html"
+   },
+   {
+    "date": "2026-11-06",
+    "zone": "Monde",
+    "titre": "Bouygues : une division Construction de 100 000 salariés",
+    "resume": "Créée début 2026, elle réunit Bouygues Construction, Bouygues Immobilier et Colas, pour environ 27 milliards d'euros de chiffre d'affaires dans 50 pays.",
+    "retenir": "Colas, présent en Afrique de l'Ouest, fait désormais partie d'un ensemble plus large.",
+    "source": "Batiactu",
+    "url": "https://batiactu.com/edito/nos-metiers-sont-porteurs-sens-au-sein-industrie-moderne-75802.php"
+   },
    {
     "date": "2026-11-06",
     "zone": "Bénin",
@@ -59,6 +122,24 @@
    },
    {
     "date": "2026-11-05",
+    "zone": "Monde",
+    "titre": "France : Vinci livre le Centre Pompidou de Massy pour 105 millions d'euros",
+    "resume": "Le bâtiment de 30 000 m², construit en deux ans, abrite déjà les 150 000 œuvres du Centre Pompidou parisien, en travaux jusqu'en 2030 ; ouverture au public prévue en mars 2027.",
+    "retenir": "Un exemple de grand bâtiment de conservation livré en deux ans.",
+    "source": "Batiactu",
+    "url": "https://batiactu.com/edito/est-dans-actu-centre-pompidou-francilien-a-massy-accueille-75799"
+   },
+   {
+    "date": "2026-11-05",
+    "zone": "Monde",
+    "titre": "Fluor signe un accord avec le premier ingénieriste du Venezuela",
+    "resume": "L'américain Fluor a signé un protocole d'accord avec Inelectra, son ancien partenaire sur de grands projets pétroliers, pour revenir sur le marché vénézuélien.",
+    "retenir": "Les grands groupes d'ingénierie se repositionnent vite là où le pétrole redémarre.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/fluor-signs-venezuela-agreement/8135690.article"
+   },
+   {
+    "date": "2026-11-05",
     "zone": "Bénin",
     "titre": "Programme d'action 2026-2033 : 45 % d'argent public, 55 % de privé",
     "resume": "Le gouvernement a approuvé son Programme d'action (PAG) 2026-2033 : croissance moyenne visée de 7,7 %, déficit sous 3 % du PIB, une phase de mise en service (2026-2029) puis de consolidation (2030-2033).",
@@ -110,6 +191,15 @@
     "retenir": "Le secteur immobilier du Golfe se concentre autour de quelques géants.",
     "source": "Construction Briefing",
     "url": "https://www.constructionbriefing.com/news/emaar-proposes-us34bn-buyout-of-development-subsidiary/8135606.article"
+   },
+   {
+    "date": "2026-11-03",
+    "zone": "Monde",
+    "titre": "Corée du Sud : Hyundai E&C dépasse 9 milliards de dollars de rénovation urbaine",
+    "resume": "Le groupe a remporté à Séoul un projet de 456 appartements et 125 bureaux-logements jusqu'à 36 étages, portant ses commandes 2026 de renouvellement urbain à environ 9,7 milliards de dollars.",
+    "retenir": "La rénovation des quartiers anciens est devenue un gros marché pour les majors.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/hyundai-ec-tops-us9bn-in-urban-renewal-orders/8135553.article"
    },
    {
     "date": "2026-11-03",
@@ -452,100 +542,114 @@
     "retenir": "Même un chantier de béton dépend de ses systèmes informatiques : sauvegardes et sécurité numérique deviennent un sujet pour toute entreprise de BTP.",
     "source": "Construction Briefing",
     "url": "https://www.constructionbriefing.com/news/fehmarnbelt-contractor-resumes-work-after-cyber-attack/8134705.article"
-   },
-   {
-    "date": "2026-10-25",
-    "zone": "Bénin",
-    "titre": "Fidjrossè–Ouidah : des maisons marquées pour démolition",
-    "resume": "Des habitations ont été marquées à Cotonou (Akogbato, Fiyégnon, Yèmi Codji), à Ouidah (Adounko) et à Sèmè-Podji (Agblangandan). La Direction du développement urbain parle de constructions sur le domaine de l'État ou en zone non habitable ; des sommations avec délai doivent suivre.",
-    "retenir": "Avant d'acheter ou de construire sur ce littoral, vérifier le statut du terrain auprès des services de l'urbanisme est indispensable.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-des-maisons-marquees-pour-demolition-a-cotonou-ouidah-et-seme-podji/"
-   },
-   {
-    "date": "2026-10-25",
-    "zone": "Afrique",
-    "titre": "Côte d'Ivoire : première pierre d'une centrale solaire de 50 MWc à Binguébougou",
-    "resume": "Portée par le groupe émirati AMEA Power et financée entièrement par le privé, la centrale doit alimenter plus de 300 000 personnes dans la région du Poro.",
-    "retenir": "Les chantiers solaires se multiplient dans la région : génie civil, pose de structures et raccordement offrent du travail aux entreprises locales.",
-    "source": "Koaci",
-    "url": "https://www.koaci.com/article/2026/10/25/cote-divoire/environement/cote-divoire-binguebougou-sangafowa-lance-les-travaux-de-construction-dune-centrale-solaire-de-50-mwc-au-service-de-plus-de-300-000-personnes-dans-le-poro_201964.html"
-   },
-   {
-    "date": "2026-10-24",
-    "zone": "Bénin",
-    "titre": "Une autorité dédiée pour aménager les berges de Fidjrossè à Ouidah",
-    "resume": "Créée en Conseil des ministres le 7 octobre, cette autorité doit libérer les berges occupées, protéger les mangroves, réduire les risques d'inondation et aménager la zone (plan d'eau navigable jusqu'à Ouidah, voies pour vélos, motos et piétons).",
-    "retenir": "Un grand projet d'aménagement se prépare le long de la route des Pêches : études, voirie et génie écologique pourraient suivre.",
-    "source": "Banouto",
-    "url": "https://www.banouto.bj/societe/article/20261024-amenagement-des-bassins-de-fidjrosse-a-ouidah-les-raisons-de-la-creation-d-une-autorite"
-   },
-   {
-    "date": "2026-10-23",
-    "zone": "Afrique",
-    "titre": "Métro d'Abidjan : la ligne 1 attendue vers 2028-2029",
-    "resume": "Le ministre ivoirien des Infrastructures a fait le point avec le groupe d'ingénierie SETEC, qui assiste l'État sur le projet, et a insisté sur le respect des délais. Le coût est estimé entre 1,3 et 1,7 milliard d'euros.",
-    "retenir": "Le plus grand chantier urbain d'Afrique de l'Ouest francophone continue d'attirer bureaux d'études et sous-traitants.",
-    "source": "Koaci",
-    "url": "https://www.koaci.com/article/2026/10/23/cote-divoire/societe/cote-divoire-ligne-1-du-metro-dabidjan-hien-sie-et-le-groupe-setec-travaillent-sur-le-respect-des-echeances_201930.html"
-   },
-   {
-    "date": "2026-10-23",
-    "zone": "Bénin",
-    "titre": "Le Port de Cotonou travaille désormais sept jours sur sept",
-    "resume": "Depuis le samedi 24 octobre, douane, manutention, consignataires, contrôles et banques assurent l'enlèvement des marchandises aussi le week-end et les jours fériés, pour réduire les délais et désengorger le port.",
-    "retenir": "Les importateurs de matériaux (ciment, fer, équipements) peuvent espérer des délais plus courts pour sortir leurs conteneurs.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
-   },
-   {
-    "date": "2026-10-23",
-    "zone": "Monde",
-    "titre": "Australie : le coût du projet hydroélectrique Snowy 2.0 grimpe à 22,2 milliards de dollars australiens",
-    "resume": "Annoncé en 2017 à 2 milliards, ce projet de stockage d'énergie par pompage coûte désormais 22,2 milliards (jusqu'à 25 dans le pire scénario), avec une mise en service repoussée à 2029.",
-    "retenir": "Un rappel que des études incomplètes au départ font exploser les budgets : bien chiffrer avant de signer reste la meilleure protection.",
-    "source": "Construction Briefing",
-    "url": "https://constructionbriefing.com/news/snowy-hydro-20-cost-blowout-could-hit-a25bn/8134663.article"
-   },
-   {
-    "date": "2026-10-23",
-    "zone": "Afrique",
-    "titre": "Burkina Faso : plus de 2 800 milliards FCFA pour l'électricité pour tous d'ici 2030",
-    "resume": "Le programme Faso Wa-Fulu prévoit de raccorder 6 700 localités et de construire environ 30 000 km de lignes haute et basse tension sur dix ans.",
-    "retenir": "Un énorme besoin de lignes, de postes et de génie civil dans un pays voisin, avec des marchés ouverts aux entreprises de la sous-région.",
-    "source": "Koaci",
-    "url": "https://www.koaci.com/article/2026/10/23/burkina-faso/politique/burkina-faso-le-gouvernement-lance-lelectrification-pour-tous-dici-2030_201912.html"
-   },
-   {
-    "date": "2026-10-23",
-    "zone": "Bénin",
-    "titre": "Cimenterie de Sèmè-Podji : 33,2 milliards FCFA mobilisés avec la BOA-Bénin et la BOAD",
-    "resume": "La banque et la Banque ouest-africaine de développement soutiennent l'extension d'une usine de ciment à Sèmè-Podji, près de Cotonou.",
-    "retenir": "Plus de ciment produit localement peut aider à stabiliser l'approvisionnement des chantiers béninois.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/la-boa-benin-et-la-boad-mobilisent-332-milliards-fcfa-pour-une-usine-de-ciment-a-seme-podji/"
-   },
-   {
-    "date": "2026-10-23",
-    "zone": "Afrique",
-    "titre": "Togo : deux nouvelles démarches d'urbanisme accessibles en ligne",
-    "resume": "Deux procédures d'urbanisme supplémentaires peuvent désormais être faites sur la plateforme nationale en ligne du Togo.",
-    "retenir": "La dématérialisation des permis et autorisations raccourcit les délais avant l'ouverture d'un chantier.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/btp/2310-20432-togo-deux-nouvelles-demarches-d-urbanisme-accessibles-en-ligne"
-   },
-   {
-    "date": "2026-10-23",
-    "zone": "Bénin",
-    "titre": "Audit électrique de 14 sites administratifs, dont le nouveau siège du Parlement",
-    "resume": "Quatorze bâtiments publics béninois, dont le nouveau siège de l'Assemblée nationale, sont concernés par un vaste audit de leurs installations électriques.",
-    "retenir": "Des travaux de mise en conformité électrique pourraient suivre dans les bâtiments publics.",
-    "source": "La Marina",
-    "url": "https://lamarina.bj/2026/10/23/benin-14-sites-administratifs-dont-le-nouveau-siege-du-parlement-concernes-par-un-vaste-audit-electrique/"
    }
   ]
  },
  "presse": [
+  {
+   "date": "2026-11-09",
+   "synthese": "Week-end marqué par le lancement d'un nouveau cadastre national, l'annonce d'un institut d'intelligence artificielle pour 2027 et près de 200 milliards FCFA pour le solaire dans quatre villes. Côté sport, les Guépards préparent deux matchs décisifs pour la CAN 2027.",
+   "articles": [
+    {
+     "date": "2026-11-08",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Un navire-école russe en escale à Cotonou",
+     "resume": "Le Perekop, de la flotte russe de la Baltique, est au port de Cotonou du 8 au 10 novembre avec des élèves officiers à bord.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-le-navire-ecole-russe-perekop-en-escale-a-cotonou-du-8-au-10-novembre/"
+    },
+    {
+     "date": "2026-11-08",
+     "journal": "La Nouvelle Tribune",
+     "titre": "CAN 2027 : les Guépards se préparent à Abidjan",
+     "resume": "Le Bénin, co-leader de son groupe, affronte la Centrafrique le 12 novembre à Abidjan puis le 16 novembre à Douala.",
+     "url": "https://lanouvelletribune.info/2026/11/eliminatoires-can-2027-les-guepards-du-benin-entament-leur-preparation-a-abidjan-ce-dimanche/"
+    },
+    {
+     "date": "2026-11-08",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Soglo reçoit le président du Conseil économique et social",
+     "resume": "L'ancien président Nicéphore Soglo a accueilli Abdoulaye Bio Tchané le 7 novembre, qui lui a présenté les priorités de son nouveau mandat au CES.",
+     "url": "https://lanouvelletribune.info/2026/11/ces-du-benin-nicephore-soglo-salue-les-qualites-du-president-bio-tchane-et-lui-prodigue-des-conseils/"
+    },
+    {
+     "date": "2026-11-08",
+     "journal": "Banouto",
+     "titre": "PME : l'argent existe, les projets solides manquent",
+     "resume": "La directrice de la Caisse des dépôts estime que les petites entreprises peinent surtout à présenter des projets mûrs ; deux programmes d'appui aux PME sont en préparation.",
+     "url": "https://www.banouto.bj/economie/article/20261108-benin-pourquoi-les-pme-peinent-a-absorber-les-financements-disponibles"
+    },
+    {
+     "date": "2026-11-07",
+     "journal": "Banouto",
+     "titre": "Près de 200 milliards FCFA pour le solaire dans quatre villes",
+     "resume": "Des centrales solaires de 62 mégawatts-crête sont prévues à Natitingou, Djougou, Parakou et Bohicon, pour environ 383 000 personnes, avec une mise en service visée début 2028.",
+     "url": "https://www.banouto.bj/economie/article/20261107-production-independante-d-electricite-pres-de-200-milliards-fcfa-pour-developper-le-solaire-dans-04-villes-du-benin"
+    },
+    {
+     "date": "2026-11-08",
+     "journal": "La Nation",
+     "titre": "Un institut d'intelligence artificielle annoncé pour 2027",
+     "resume": "La ministre de l'Enseignement supérieur a annoncé, devant les recteurs réunis les 5 et 6 novembre, l'ouverture en 2027 d'un institut d'IA avec doubles diplômes.",
+     "url": "https://lanation.bj/education/conference-annuelle-des-recteurs-des-universites-publiques-du-benin-un-institut-dintelligence-artificielle-annonce-pour-2027"
+    },
+    {
+     "date": "2026-11-08",
+     "journal": "La Nation",
+     "titre": "Détournement à l'école Le Faucon : procès renvoyé au 3 décembre",
+     "resume": "Le tribunal d'Abomey-Calavi a reporté l'affaire, qui porte sur plus de 24 millions FCFA, faute de représentants de la banque et d'experts à l'audience.",
+     "url": "https://lanation.bj/droits-et-devoirs/tribunal-dabomey-calavi-le-proces-pour-un-detournement-de-24-millions-de-francs-cfa-a-lecole-le-faucon-renvoye-au-3-decembre"
+    },
+    {
+     "date": "2026-11-07",
+     "journal": "Gouvernement du Bénin",
+     "titre": "Cadastre : deux programmes pour sécuriser les terres",
+     "resume": "TERRA BÉNIN et le PPMEC II ont été lancés le 6 novembre pour enregistrer des centaines de milliers de parcelles et délivrer des certificats au cadastre.",
+     "url": "https://www.gouv.bj/article/3734/modernisation-fonciere-benin-deux-nouveaux-programmes-accelerer-deploiement-cadastre-national/"
+    },
+    {
+     "date": "2026-11-08",
+     "journal": "Gouvernement du Bénin",
+     "titre": "Santé : 26 membres installés pour améliorer la qualité des soins",
+     "resume": "Le ministre de la Santé a installé pour quatre ans les conseils chargés des soins de santé primaires et de la médecine hospitalière.",
+     "url": "https://www.gouv.bj/article/3735/systeme-sanitaire-beninois-nouvelle-etape-dans-amelioration-qualite-soins-ouvre/"
+    },
+    {
+     "date": "2026-11-06",
+     "journal": "Matin Libre",
+     "titre": "Éducation : un plan pour de meilleures statistiques scolaires",
+     "resume": "L'ADEA (Association pour le développement de l'éducation en Afrique) a réuni à Cotonou du 3 au 5 novembre les trois ministères de l'éducation pour fiabiliser les données.",
+     "url": "https://matinlibre.com/2026/11/06/plan-daction-national-production-des-donnees-sur-leducation-adea-milite-pour-des-donnees-probantes/"
+    },
+    {
+     "date": "2026-11-04",
+     "journal": "Le Matinal",
+     "titre": "Soja : 23 usines reçoivent leurs droits d'achat",
+     "resume": "Pour la campagne 2026-2027, plus de 450 000 tonnes sont réservées aux usines béninoises, sur une production annoncée de plus de 800 000 tonnes.",
+     "url": "https://lematinal.bj/filiere-soja-au-benin-23-industriels-recoivent-leurs-droits-dapprovisionnement/"
+    },
+    {
+     "date": "2026-11-05",
+     "journal": "Bénin Web TV",
+     "titre": "31 chargés de mission nommés auprès des préfets",
+     "resume": "Le Conseil des ministres du 4 novembre a réparti ces nouveaux collaborateurs dans les 12 départements.",
+     "url": "https://beninwebtv.bj/benin-nomination-de-31-charges-de-mission-aupres-des-prefets/"
+    },
+    {
+     "date": "2026-11-08",
+     "journal": "Koaci",
+     "titre": "Togo : naufrage d'une pirogue sur le lac Togo",
+     "resume": "Sur 17 passagers d'une pirogue chavirée pendant un pèlerinage dimanche, 15 ont été secourus et 2 restent portés disparus.",
+     "url": "https://www.koaci.com/article/2026/11/08/togo/societe/togo-naufrage-dune-pirogue-sur-le-lac-togo-15-personnes-secourues-deux-disparues_202392.html"
+    },
+    {
+     "date": "2026-11-06",
+     "journal": "Koaci",
+     "titre": "Sahel : Niamey et Bamako veulent intensifier la lutte antiterroriste",
+     "resume": "Les dirigeants du Niger et du Mali, réunis le 5 novembre, ont promis de renforcer l'action commune de l'AES (Alliance des États du Sahel), avec une force d'environ 5 000 hommes.",
+     "url": "https://www.koaci.com/article/2026/11/06/niger/politique/aes-tiani-et-goita-promettent-dintensifier-la-lutte-contre-le-terrorisme_202340.html"
+    }
+   ]
+  },
   {
    "date": "2026-11-07",
    "synthese": "Le nouveau programme d'action 2026-2033 et une vaste vague de nominations, dont un nouveau chef de l'armée, dominent la semaine. Côté vie pratique : campagne du soja ouverte, préparation du budget 2027 et une semaine de l'innovation à Cotonou du 16 au 20 novembre.",
@@ -1471,6 +1575,22 @@
   ],
   "actus": [
    {
+    "date": "2026-11-06",
+    "titre": "Location courte durée : l'IA au cœur du sommet professionnel de Londres",
+    "resume": "Plus de 100 professionnels réunis le 5 novembre ont discuté de la demande touristique et d'outils d'intelligence artificielle pour gérer annonces et messages aux voyageurs.",
+    "idee": "Tester un outil d'IA pour rédiger les réponses types aux voyageurs en français et en anglais.",
+    "source": "ShortTermRentalz",
+    "url": "https://shorttermrentalz.com/features/strz-summit-2026-future-short-term-rentals/"
+   },
+   {
+    "date": "2026-11-06",
+    "titre": "Des bornes de recharge électrique comme service en plus pour les logements",
+    "resume": "La jeune pousse Boba Charge, primée à Londres, propose aux propriétaires une borne où ils fixent le prix et gardent 90 % des recettes, paiement par QR code.",
+    "idee": "Lister les petits services payants (recharge, transfert aéroport, linge) qui peuvent rapporter un revenu en plus aux propriétaires.",
+    "source": "ShortTermRentalz",
+    "url": "https://shorttermrentalz.com/news/boba-charge-wins-start-up-x-ray-strz-summit-2026/"
+   },
+   {
     "date": "2026-11-05",
     "titre": "Airbnb : règles de la maison et données des voyageurs encadrées au 20 novembre",
     "resume": "Pour les réservations faites à partir du 20 novembre, les règles de la maison devront être visibles sur l'annonce avant la réservation, la collecte de données personnelles des voyageurs sera en principe interdite et les demandes d'avis sur d'autres sites limitées.",
@@ -1495,6 +1615,14 @@
     "url": "https://srtb.bj/journee-verte-deux-jours-pour-decouvrir-le-paysage-autrement-a-cotonou/"
    },
    {
+    "date": "2026-11-04",
+    "titre": "Assurance voyage vendue par les gestionnaires, contre commission",
+    "resume": "Le logiciel de gestion Escapia (groupe Expedia) intègre l'assurance voyage de Faye : le gestionnaire touche une commission sur chaque contrat acheté via son lien.",
+    "idee": "Se renseigner auprès d'assureurs béninois sur un partenariat assurance voyageurs commissionné.",
+    "source": "ShortTermRentalz",
+    "url": "https://shorttermrentalz.com/news/escapia-faye-travel-protection-partnership/"
+   },
+   {
     "date": "2026-11-03",
     "titre": "Africa Tourism Awards : quatre trophées pour le Bénin",
     "resume": "Le 1er novembre à Londres, le pays a été désigné destination touristique et destination culturelle de l'année ; Bénin Tourisme et sa vidéo ont aussi été primés.",
@@ -1517,6 +1645,14 @@
     "idee": "Ajouter dans le livret d'accueil une courte fiche sur le téléphone et Internet mobile, à compléter dès que les opérateurs publieront leurs prix.",
     "source": "Cadre Éco",
     "url": "https://cadreco.media/regulation/2026/telephonie-mobile-le-burkina-faso-le-benin-la-cote-divoire-et-le-senegal-harmonisent-leurs-tarifs-des-communications"
+   },
+   {
+    "date": "2026-11-02",
+    "titre": "Le Togo prépare un pôle touristique sur son littoral",
+    "resume": "Lomé annonce des appartements haut de gamme, un centre de conférences et des loisirs sur la bande côtière libérée.",
+    "idee": "Surveiller l'offre de Lomé pour positionner l'agence sur ce qui distingue Cotonou et Ouidah (culture, Vodun, patrimoine).",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/0211-20509-togo-des-immeubles-centres-de-conferences-et-espaces-de-loisirs-annonces-sur-le-littoral"
    },
    {
     "date": "2026-11-02",
@@ -1730,20 +1866,6 @@
  },
  "echeances": [
   {
-   "date": "2026-10-31",
-   "titre": "Guides de tourisme : fin du recensement en ligne",
-   "detail": "Les guides en activité ont jusqu'au 31 octobre pour s'inscrire sur recensementguide.bj et obtenir une autorisation provisoire d'exercer.",
-   "url": "https://www.gouv.bj/article/3681/le-benin-lance-recensement-enrolement-digital-guides-tourisme/",
-   "rubrique": "conciergerie"
-  },
-  {
-   "date": "2026-11-01",
-   "titre": "Africa Tourism Awards : annonce des lauréats à Londres",
-   "detail": "Le Bénin concourt notamment comme destination de l'année et destination culturelle.",
-   "url": "https://www.africanews.com/2026/10/23/benin-earns-four-nominations-at-2026-africa-tourism-awards/",
-   "rubrique": "conciergerie"
-  },
-  {
    "date": "2026-11-02",
    "titre": "MTN MoMo : entrée en vigueur des nouveaux frais et plafonds",
    "detail": "Transferts entre opérateurs gratuits jusqu'à 8 000 FCFA par jour puis 0,5 % ; solde maximal porté à 4 millions FCFA.",
@@ -1798,6 +1920,13 @@
    "detail": "Rencontre annuelle du réseau africain des incubateurs, pour la première fois dans un pays francophone : des visiteurs d'affaires attendus.",
    "url": "https://matinlibre.com/2026/11/06/du-16-au-20-novembre-cotonou-capitale-de-linnovation-africaine/",
    "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "SIREXE, salon de l'énergie et des mines à Abidjan (18 au 22 novembre)",
+   "detail": "Deuxième édition au Parc des expositions d'Abidjan, avec 350 exposants annoncés : utile pour rencontrer les acteurs de l'énergie de la sous-région.",
+   "url": "https://www.koaci.com/article/2026/11/07/cote-divoire/environement/cote-divoire-sirexe-2026-350-exposants-60-000-visiteurs-attendus-abidjan-au-rendez-vous-des-ambitions-energetiques-africaines_202377.html",
+   "rubrique": "btp"
   },
   {
    "date": "2026-11-19",
