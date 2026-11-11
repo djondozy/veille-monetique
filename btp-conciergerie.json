@@ -1,8 +1,116 @@
 {
- "derniereMaj": "2026-11-09T04:53:11Z",
+ "derniereMaj": "2026-11-11T04:59:38Z",
  "btp": {
-  "synthese": "Au Bénin, la sécurisation des terrains (nouveau cadastre) et les budgets communaux 2027 orientés vers l'investissement dominent ; dans la région, l'énergie attire les financements (don américain en Côte d'Ivoire, salon SIREXE à Abidjan).",
+  "synthese": "Cette semaine, la qualité et le financement des infrastructures dominent : au Bénin, un nouveau modèle d'entretien des routes payé selon leur état réel se prépare et un premier bus électrique sort de Glo-Djigbé, tandis qu'en Afrique les grands chantiers ferroviaires avancent grâce aux bailleurs.",
   "actus": [
+   {
+    "date": "2026-11-10",
+    "zone": "Bénin",
+    "titre": "Banque mondiale : l'électricité pourrait créer près de 159 000 emplois au Bénin",
+    "resume": "Présenté le 9 novembre à Cotonou, le 4e rapport de la Banque mondiale sur l'économie béninoise met l'électricité au centre. Il cite une croissance de 8,2 % au premier semestre 2026 et rappelle que le projet BEAS a déjà raccordé plus de 144 000 ménages et 2 789 petites entreprises.",
+    "retenir": "Moderniser les réseaux et diversifier les sources d'énergie va rester une priorité, ce qui promet du travail en génie électrique et en génie civil.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-la-banque-mondiale-identifie-lelectricite-comme-un-levier-pour-creer-159-000-emplois/"
+   },
+   {
+    "date": "2026-11-10",
+    "zone": "Bénin",
+    "titre": "Routes : bientôt des contrats où l'entreprise s'engage sur la qualité dans la durée",
+    "resume": "Avec l'appui du MCA-Bénin (programme financé par l'agence américaine MCC), le Bénin prépare le modèle « Genis » : l'entreprise ne sera plus payée surtout aux quantités, mais selon l'état réel de la route (chaussée, drainage, signalisation). Une formation de cinq jours réunit depuis le 9 novembre l'administration, la SIRAT, des entreprises et des bureaux d'études.",
+    "retenir": "La SIRAT rédige un dossier d'appel d'offres type et vise le lancement des premiers marchés pilotes au second semestre 2027 : les entreprises ont intérêt à s'y préparer dès maintenant.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/mca-benin-regional-un-nouveau-modele-dentretien-routier-en-preparation/"
+   },
+   {
+    "date": "2026-11-10",
+    "zone": "Bénin",
+    "titre": "Zone industrielle de Glo-Djigbé : un bus électrique monté sur place, bientôt sur la route",
+    "resume": "Le prototype AGOOJIYÉ (8 places, dont une pour une personne à mobilité réduite) est assemblé à la GDIZ par Exportunity Machinery avec la SIPI-Bénin, l'École polytechnique d'Abomey-Calavi et des entreprises locales. Le 9 novembre, la carrosserie était terminée à 98 % et la mécanique à 96 %.",
+    "retenir": "La GDIZ commence à fabriquer des équipements avec des compétences locales en métallurgie et en carrosserie, et pas seulement à accueillir des usines.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/gdiz-au-benin-agoojiye-le-bus-electrique-concu-et-assemble-localement-bientot-a-lessai/"
+   },
+   {
+    "date": "2026-11-10",
+    "zone": "Afrique",
+    "titre": "Tanzanie : 1,2 milliard de dollars arrangés par la BAD pour 411 km de voie ferrée",
+    "resume": "La Banque africaine de développement (BAD) a réuni 1,2 milliard de dollars de financements commerciaux pour la ligne électrifiée Tabora-Kigoma, sixième tronçon du chemin de fer à écartement standard tanzanien. Le chantier est confié aux chinois CCECC et CRCC.",
+    "retenir": "Ce n'est qu'une première tranche sur 2,3 milliards prévus : un bon exemple de montage avec la BAD pour les grands chantiers ferroviaires.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1011-60683-tanzania-gets-1-2-billion-afdb-financing-for-railway-link-to-lake-tanganyika"
+   },
+   {
+    "date": "2026-11-10",
+    "zone": "Afrique",
+    "titre": "Pont Zongo-Bangui : la facture grimpe à environ 221 millions de dollars",
+    "resume": "Le pont sur l'Oubangui entre la RD Congo et la Centrafrique coûtera environ 71 millions de dollars de plus que prévu en 2025, après la révision du projet côté centrafricain. Le conseil de la BAD devrait examiner son financement au premier trimestre 2027.",
+    "retenir": "Les travaux sont attendus au second semestre 2027, et les achats pourraient démarrer avant même l'accord formel de la BAD.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1011-60656-crucial-drc-car-trade-bridge-sees-price-tag-swell-to-221-million"
+   },
+   {
+    "date": "2026-11-10",
+    "zone": "Afrique",
+    "titre": "Shelter Afrique lève 60 milliards FCFA pour le logement abordable dans l'UEMOA",
+    "resume": "La banque Shelter Afrique a réussi sa première émission d'obligations durables en FCFA, en deux tranches à 5 ans (6,10 %) et 7 ans (6,30 %), pour financer des logements abordables dans les huit pays de l'UEMOA, dont le Bénin.",
+    "retenir": "La banque vise 17 554 logements ; les titres seront cotés à la BRVM (la Bourse régionale d'Abidjan) à une date encore à fixer.",
+    "source": "Cadre Éco",
+    "url": "https://cadreco.media/immobilier/2026/shelter-afrique-60-milliards-fcfa-mobilises-pour-le-logement-dans-luemoa"
+   },
+   {
+    "date": "2026-11-09",
+    "zone": "Afrique",
+    "titre": "Corridor de Lobito : les entreprises pressenties pour le rail Zambie-Angola sont connues",
+    "resume": "Pour la ligne de 830 km, le groupement Webuild, Mota-Engil et IC İçtaş est pressenti côté Zambie, et Mota-Engil avec Odebrecht côté Angola. Les négociations s'ouvrent en novembre et doivent aboutir en 8 à 12 semaines, avec un bouclage financier visé en 2027.",
+    "retenir": "Le trajet des minerais vers la mer passerait de 16 à 7 jours : un projet régional majeur qui ouvrira de la sous-traitance.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/preferred-bidders-selected-for-sections-of-830km-long-zambia-lobito-railway/8136019.article"
+   },
+   {
+    "date": "2026-11-09",
+    "zone": "Afrique",
+    "titre": "Libye : 400 km d'autoroute côtière remis en appel d'offres après la rupture avec Webuild",
+    "resume": "Après quatre ans de négociations, l'autorité libyenne chargée de l'autoroute côtière reproche à l'italien Webuild de ne pas avoir tenu ses engagements. Le contrat de 2013 valait environ 940 millions d'euros, et l'entreprise aurait demandé près de 2,4 milliards à cause de la hausse des coûts.",
+    "retenir": "Un nouvel appel d'offres sera lancé (date pas encore fixée) : bien prévoir les révisions de prix dans les contrats longs.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-infrastructures/0911-60630-libya-to-retender-400-km-coastal-highway-contract-after-failed-talks-with-webuild"
+   },
+   {
+    "date": "2026-11-09",
+    "zone": "Monde",
+    "titre": "Poutres coulées dans des moules en tissu : un tiers du béton suffit",
+    "resume": "Des chercheurs du MIT (université américaine) ont coulé une poutre de 3 m dans un moule en coton cousu. Selon eux, ce type de poutre demande environ un tiers du béton et la moitié de l'acier d'une poutre classique.",
+    "retenir": "Les chercheurs estiment l'économie à 10 à 20 % par poutre dans les pays où la main-d'œuvre coûte peu, comme en Afrique de l'Ouest : une piste pour économiser ciment et fer.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/fabric-formwork-beams-require-one-third-as-much-concrete-researchers-find/8136074.article"
+   },
+   {
+    "date": "2026-11-09",
+    "zone": "Monde",
+    "titre": "Petits réacteurs nucléaires : Fluor décroche l'ingénierie du site X-Energy aux États-Unis",
+    "resume": "Fluor assurera la conception et la gestion du projet de la partie nucléaire du site Cascade, dans l'État de Washington, où X-Energy prévoit quatre petits réacteurs d'environ 320 MW au total. Le montant n'a pas été dévoilé.",
+    "retenir": "Les petits réacteurs nucléaires deviennent un vrai marché pour les grands groupes d'ingénierie.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/fluor-wins-x-energy-advanced-small-modular-reactor-deal/8136005.article"
+   },
+   {
+    "date": "2026-11-09",
+    "zone": "Bénin",
+    "titre": "Routes : deux appareils pour repérer les dégradations à temps",
+    "resume": "Le MCA-Bénin Régional (Millennium Challenge Account, programme financé avec les États-Unis) a doté le pays d'un déflectographe, qui mesure comment la chaussée se déforme sous le poids, et d'un ScanRoad, qui enregistre l'état de la route. Le programme régional pèse 291 millions de dollars, dont 202 millions venant des États-Unis.",
+    "retenir": "L'entretien des routes devient plus préventif : les travaux seront mieux ciblés là où la chaussée faiblit.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-deux-equipements-pour-mieux-diagnostiquer-letat-des-routes/"
+   },
+   {
+    "date": "2026-11-09",
+    "zone": "Bénin",
+    "titre": "Drainage à Allada, Pobè et Kandi : 647 millions FCFA pour les personnes déplacées",
+    "resume": "Les plans de réinstallation du programme BRIC (villes résilientes, Banque mondiale) prévoient environ 646,9 millions FCFA pour 762 personnes touchées par les chantiers de drainage : 285 à Pobè, 413 à Allada et 64 à Kandi. L'indemnisation se fait au coût de remplacement, sans indemnité foncière.",
+    "retenir": "Après paiement, les lieux doivent être libérés en 15 jours à Allada, quatre semaines à Pobè et un mois à Kandi.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/11/09/bric-au-benin-plus-de-600-millions-fcfa-pour-les-reinstallations-liees-aux-travaux-de-drainage-dans-trois-villes/"
+   },
    {
     "date": "2026-11-08",
     "zone": "Bénin",
@@ -434,118 +542,121 @@
     "retenir": "Les grands groupes français continuent de gagner de gros équipements culturels à l'étranger.",
     "source": "Construction Briefing",
     "url": "https://www.constructionbriefing.com/news/vinci-wins-second-phase-of-polands-largest-symphony-hall/8135151.article"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Afrique",
-    "titre": "Ghana : un groupe chinois signe une centrale solaire de 300 MW",
-    "resume": "Sedin Engineering, filiale de China National Chemical Engineering, a signé ce contrat de conception et de construction pour 2,58 milliards de yuans. Le pays comptait 276,7 MW de solaire fin 2025.",
-    "retenir": "Le voisin ghanéen accélère sur le solaire : un marché à suivre pour les entreprises de la région.",
-    "source": "36Kr",
-    "url": "https://eu.36kr.com/en/p/4042912680662912"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Bénin",
-    "titre": "Logement abordable : 15 milliards FCFA levés par BSIC Bénin (programme ZAKA)",
-    "resume": "La banque BSIC Bénin a bouclé à Cotonou une titrisation de 15 milliards FCFA : elle cède une partie de ses prêts à un fonds financé par des investisseurs du Bénin, de Côte d'Ivoire, du Togo et du Sénégal, avec l'appui de BOAD Titrisation. L'argent doit servir à des crédits immobiliers sur longue durée pour les ménages à revenus faibles et moyens.",
-    "retenir": "Plus de crédits immobiliers longs pour les ménages, c'est à terme plus de petits chantiers de maisons et de logements à construire.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/zaka-bsic-benin-2026-2033-15-milliards-fcfa-mobilises-pour-soutenir-le-logement-abordable/"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Bénin",
-    "titre": "Mairie de Cotonou : 18 marchés publics toujours pas soldés, certains depuis 2012",
-    "resume": "L'audit 2025 du FADeC (Fonds d'appui au développement des communes) relève à Cotonou 18 marchés non soldés fin 2025, avec environ 440 millions FCFA restant à payer, et un taux de paiement des crédits bien en dessous de la norme.",
-    "retenir": "Avant de travailler pour une commune, une entreprise a intérêt à vérifier son rythme de paiement : certains prestataires attendent leur solde depuis des années.",
-    "source": "Le Matinal",
-    "url": "https://lematinal.bj/resultats-de-laudit-fadec-2025-a-cotonou-des-marches-en-suspens-depuis-14-ans/"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Bénin",
-    "titre": "Lancement de la 6e phase du FADeC pour les 77 communes",
-    "resume": "Le Fonds d'investissement communal a lancé à Cotonou la phase 6 du FADeC, soutenue par l'Allemagne (KfW), l'Union européenne et la Suisse : un volet investissement pour toutes les communes et un volet « résilience » pour 27 communes du Nord.",
-    "retenir": "Écoles, marchés, centres de santé communaux : ces fonds alimentent des petits et moyens chantiers locaux, accessibles aux PME de BTP des départements.",
-    "source": "Gouvernement du Bénin",
-    "url": "https://www.gouv.bj/article/3720/lancement-fadec-benin-renforce-engagement-developpement-communal-cohesion-sociale/"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Bénin",
-    "titre": "Nouveau Code de la route : pistes cyclables et trottoirs prévus dès la conception des routes",
-    "resume": "Le Code de la route voté le 26 octobre impose de prendre en compte piétons, cyclistes et usagers vulnérables dès la conception et la construction des routes, et encadre l'occupation des trottoirs.",
-    "retenir": "Bureaux d'études et entreprises routières devront intégrer pistes cyclables et aménagements piétons dans leurs futurs projets.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-pistes-cyclables-trottoirs-sanctions-les-nouveautes-du-code-de-la-route/"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Bénin",
-    "titre": "La BEI envisage 16,4 milliards FCFA pour mieux assurer entreprises et investisseurs au Bénin",
-    "resume": "La Banque européenne d'investissement (BEI) étudie un apport de 25 millions d'euros pour augmenter la part du Bénin dans l'ATIDI, l'assureur africain du commerce et de l'investissement. Le projet est rattaché au partenariat européen Global Gateway (énergie verte, port de Cotonou, transport).",
-    "retenir": "Une meilleure couverture des risques peut faciliter les financements de grands projets et le travail des PME avec des partenaires étrangers.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-la-bei-envisage-164-milliards-fcfa-pour-soutenir-les-entreprises-et-les-investissements/"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Afrique",
-    "titre": "Côte d'Ivoire : 322,5 millions de dollars pour moderniser le réseau électrique",
-    "resume": "Les députés ivoiriens ont donné un premier feu vert à un programme régional de cinq ans soutenu par l'agence américaine MCC (Millennium Challenge Corporation) : 300 millions de dollars de don et 22,5 millions apportés par l'État pour le réseau, le stockage d'énergie et les échanges d'électricité en Afrique de l'Ouest.",
-    "retenir": "Les travaux de réseaux électriques restent un gros marché régional pour les entreprises spécialisées et leurs sous-traitants.",
-    "source": "Koaci",
-    "url": "https://www.koaci.com/article/2026/10/27/cote-divoire/environement/cote-divoire-energie-3225-millions-de-dollars-des-usa-pour-moderniser-le-reseau-electrique-les-deputes-donnent-leur-feu-vert_202037.html"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Afrique",
-    "titre": "Ghana : le fer à béton a pris 29 % en un an",
-    "resume": "Selon le service statistique du Ghana, le coût de la construction a augmenté de 5,1 % sur un an en septembre. Le ciment et l'acier ont baissé, mais le fer à béton (+29 %), la plomberie et les tôles de toiture ont fortement grimpé.",
-    "retenir": "Chez notre voisin, les prix des matériaux bougent vite : mieux vaut prévoir une marge sur le fer et la toiture dans les devis.",
-    "source": "GhanaWeb",
-    "url": "https://ghanaweb.com/GhanaHomePage/business/Construction-material-prices-drive-building-cost-inflation-to-5-1-GSS-2058654"
-   },
-   {
-    "date": "2026-10-27",
-    "zone": "Monde",
-    "titre": "Les chantiers marquants d'octobre dans le monde",
-    "resume": "Construction Briefing présente sept chantiers du mois, dont un pont ferroviaire sur le Yangtsé à près de 300 m de hauteur en Chine, une tour de 205 m à Francfort, un stade de 50 000 places au Salvador construit par une entreprise chinoise, et le lancement d'une raffinerie soutenue par Aliko Dangote à Lamu, au Kenya.",
-    "retenir": "Les entreprises chinoises et les grands investisseurs africains restent très présents sur les gros ouvrages, y compris en Afrique de l'Est.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/images-6-standout-construction-photos-from-october-2026/8134683.article"
-   },
-   {
-    "date": "2026-10-26",
-    "zone": "Afrique",
-    "titre": "Togo : l'Allemagne ajoute plus de 25 milliards FCFA pour pistes rurales et équipements communaux",
-    "resume": "Après des consultations le 23 octobre, l'Allemagne a annoncé plus de 39 millions d'euros de nouveaux engagements au Togo : pistes rurales, infrastructures de santé, écoles et marchés communaux, et renforcement de la centrale hydro-solaire de Nangbéto.",
-    "retenir": "Les bailleurs allemands financent beaucoup de petits ouvrages ruraux dans la sous-région : un créneau à suivre pour les PME de travaux.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/gouvernance-economique/2610-20449-togo-l-allemagne-annonce-plus-de-25-milliards-fcfa-de-financements-supplementaires"
-   },
-   {
-    "date": "2026-10-26",
-    "zone": "Afrique",
-    "titre": "Togo : 35,54 milliards FCFA pour une deuxième phase de pistes rurales",
-    "resume": "Le Togo a clos la première phase de son programme de pistes rurales (935 km réhabilités pour 23,21 milliards FCFA) et annonce 846 km de plus dans la phase 2, financée avec l'Allemagne (KfW) et l'Agence française de développement (AFD).",
-    "retenir": "Les pistes rurales sont un marché régulier pour les PME de travaux publics de la sous-région, souvent avec des bailleurs européens.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/btp/2610-20453-togo-35-54-milliards-fcfa-prevus-pour-la-deuxieme-phase-du-programme-des-pistes-rurales"
-   },
-   {
-    "date": "2026-10-26",
-    "zone": "Monde",
-    "titre": "Tunnel du Fehmarnbelt : le chantier reprend après une cyberattaque",
-    "resume": "Le groupement qui construit le tunnel sous-marin entre le Danemark et l'Allemagne a été visé par une attaque informatique le 12 octobre ; les travaux ont repris progressivement et une enquête policière est en cours. Le projet a environ deux ans de retard.",
-    "retenir": "Même un chantier de béton dépend de ses systèmes informatiques : sauvegardes et sécurité numérique deviennent un sujet pour toute entreprise de BTP.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/fehmarnbelt-contractor-resumes-work-after-cyber-attack/8134705.article"
    }
   ]
  },
  "presse": [
+  {
+   "date": "2026-11-11",
+   "synthese": "L'économie domine avec deux rapports : la Banque mondiale salue une forte croissance mais pointe le manque d'emplois salariés et la hausse de la dette, et le FMI (Fonds monétaire international) demande de mieux surveiller les entreprises publiques. Côté vie pratique, les retraités ont une semaine de plus pour leur preuve de vie.",
+   "articles": [
+    {
+     "date": "2026-11-10",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Retraités : une semaine de plus pour la preuve de vie",
+     "resume": "Les retraités du FNRB (Fonds national des retraites du Bénin) qui ne se sont pas encore enregistrés sur l'application de preuve de vie ont désormais jusqu'au dimanche 22 novembre, au lieu du 15. Des mesures particulières sont en préparation pour les personnes handicapées qui ne peuvent pas donner leurs empreintes.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-une-semaine-supplementaire-accordee-aux-retraites-pour-la-preuve-de-vie/"
+    },
+    {
+     "date": "2026-11-10",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Assurance auto : des attestations numériques vérifiables",
+     "resume": "La plateforme ASA-CONNECT de l'association des assureurs du Bénin, en service depuis le 1er octobre, a été lancée officiellement : l'attestation d'assurance arrive par e-mail ou WhatsApp avec un code que l'on peut contrôler, pour lutter contre les fausses attestations. Plus de 8 000 contrats y ont déjà été enregistrés, et les anciennes attestations restent valables jusqu'à leur échéance.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-nicolas-yenoussi-procede-au-lancement-officiel-dasa-connect/"
+    },
+    {
+     "date": "2026-11-09",
+     "journal": "Banouto",
+     "titre": "662 enseignants agricoles formés attendent toujours leur poste",
+     "resume": "Recrutés en 2021 et formés à l'Université nationale d'agriculture de Kétou, 662 enseignants de l'enseignement technique agricole ne sont toujours pas affectés, et leur allocation de 100 000 FCFA par mois s'est arrêtée à la fin de la formation. Le porte-parole du gouvernement a assuré mi-octobre que leurs affectations arriveraient bientôt.",
+     "url": "https://www.banouto.bj/societe/article/20261109-benin-recrutes-en-2021-662-enseignants-de-lenseignement-technique-agricole-attendent-toujours-leur-affectation"
+    },
+    {
+     "date": "2026-11-09",
+     "journal": "Banouto",
+     "titre": "Dette extérieure : multipliée par près de 5 en dix ans",
+     "resume": "Selon un rapport de la Banque mondiale, la dette extérieure du Bénin est passée d'environ 3,6 milliards de dollars en 2015 à près de 16,9 milliards en 2025, dont 16,5 % de hausse sur la seule dernière année. Elle représente environ 70 % du revenu national.",
+     "url": "https://www.banouto.bj/economie/article/20261109-dette-exterieure-du-benin-ce-que-contient-un-rapport-de-la-banque-mondiale-sur-les-10-dernieres-annees"
+    },
+    {
+     "date": "2026-11-10",
+     "journal": "Bénin Web TV",
+     "titre": "Forte croissance, mais presque pas de nouveaux emplois salariés",
+     "resume": "D'après la Banque mondiale, l'économie a progressé de 8,1 % en 2025, mais l'emploi salarié dans les grandes entreprises n'a augmenté que de 0,2 %. Huit nouveaux emplois sur dix sont des emplois à son compte, et seuls 9 % des jeunes ont un contrat salarié.",
+     "url": "https://beninwebtv.bj/marche-du-travail-malgre-un-pib-robuste-a-81-en-2025-la-creation-demplois-salaries-stagne-a-02-dans-les-grandes-entreprises-au-benin/"
+    },
+    {
+     "date": "2026-11-10",
+     "journal": "Bénin Web TV",
+     "titre": "Innobox : des maisons de l'innovation pour les jeunes",
+     "resume": "Le gouvernement lance « Innobox », des centres équipés pour que les jeunes fabriquent et testent leurs projets techniques et numériques. Deux centres pilotes ouvriront d'abord à Parakou et Porto-Novo, avant une extension prévue aux 77 communes.",
+     "url": "https://beninwebtv.bj/innovation-technologique-le-gouvernement-lance-le-dispositif-innobox-avec-deux-unites-pilotes-a-parakou-et-porto-novo/"
+    },
+    {
+     "date": "2026-11-10",
+     "journal": "La Nation",
+     "titre": "Affaire Houndégnon : décision sur la liberté provisoire le 23 novembre",
+     "resume": "L'ancien directeur général de la police Louis-Philippe Houndégnon, poursuivi notamment pour incitation à la rébellion, est revenu devant la CRIET (Cour de répression des infractions économiques et du terrorisme) le 9 novembre. La cour dira le 23 novembre si lui et son neveu peuvent sortir de détention en attendant le jugement.",
+     "url": "https://lanation.bj/societe/affaire-houndegnon-la-criet-se-prononcera-sur-sa-liberte-provisoire-le-23-novembre"
+    },
+    {
+     "date": "2026-11-10",
+     "journal": "La Nation",
+     "titre": "Viols de fillettes : l'Institut de la femme rappelle la tolérance zéro",
+     "resume": "Après les viols de deux fillettes en octobre dans l'Alibori et l'Atacora, l'Institut national de la femme rappelle qu'aucun arrangement en famille n'est permis : il faut saisir directement la police ou le parquet. Le viol d'une enfant de moins de 13 ans est puni de la prison à vie.",
+     "url": "https://lanation.bj/actualites/viol-sur-mineures-linstitut-national-de-la-femme-rappelle-la-tolerance-zero-au-benin"
+    },
+    {
+     "date": "2026-11-09",
+     "journal": "Le Matinal",
+     "titre": "Bohicon : un bus prend feu en pleine route",
+     "resume": "Lundi 9 novembre, un bus de la compagnie Youniti qui roulait vers le Zou a pris feu après Passagon, à Bohicon. Plusieurs passagers se sont blessés en fuyant le véhicule, mais leur nombre exact et la cause de l'incendie ne sont pas encore connus.",
+     "url": "https://lematinal.bj/un-bus-prend-feu-en-pleine-circulation-a-bohicon-plusieurs-blesses-enregistres/"
+    },
+    {
+     "date": "2026-11-09",
+     "journal": "Le Matinal",
+     "titre": "Jeunes : à peine 1 sur 10 a un emploi salarié",
+     "resume": "D'après la Banque mondiale, seulement 9 % des jeunes Béninois avaient un emploi salarié en 2024. Environ huit nouveaux emplois sur dix sont créés à son compte (agriculture, petit commerce, transport), et l'emploi informel touchait 96,3 % des travailleurs en 2022.",
+     "url": "https://lematinal.bj/emploi-des-jeunes-au-benin-le-salariat-reste-un-horizon-lointain/"
+    },
+    {
+     "date": "2026-11-09",
+     "journal": "SRTB",
+     "titre": "Matéri : des nuées d'oiseaux menacent les récoltes",
+     "resume": "Dans l'arrondissement de Dassari (Atacora), des oiseaux mangeurs de graines venus sans doute du parc de la Pendjari attaquent le riz, le sorgho et le mil dans neuf localités. Le ministère de l'Agriculture conseille de surveiller les champs ensemble et de récolter vite les parcelles mûres, sans poison ni feux de brousse.",
+     "url": "https://srtb.bj/materi-des-oiseaux-granivores-menacent-les-recoltes-dans-plusieurs-localites/"
+    },
+    {
+     "date": "2026-11-09",
+     "journal": "La Marina",
+     "titre": "Le FMI demande de mieux surveiller les entreprises publiques",
+     "resume": "Après sa mission au Bénin (27 octobre au 6 novembre), le FMI (Fonds monétaire international) recommande un suivi plus serré des sociétés d'État comme le Port, la SBEE ou la SONEB. Il prévoit un déficit public de 2,3 % du PIB en 2026, sous le plafond de 3 % fixé par l'UEMOA.",
+     "url": "https://lamarina.bj/2026/11/09/benin-entreprises-publiques-dette-et-risques-budgetaires-pourquoi-le-fmi-reclame-un-suivi-renforce/"
+    },
+    {
+     "date": "2026-11-10",
+     "journal": "Le Matinal",
+     "titre": "Défense : le Bénin et l'Égypte signent un accord",
+     "resume": "Le 9 novembre, en visite en Égypte, le ministre délégué à la Défense Gildas Agonkan a signé un accord de coopération militaire portant sur les échanges d'expériences et la formation. Il a aussi discuté industrie de défense et transfert de technologies avec les responsables égyptiens.",
+     "url": "https://lematinal.bj/cooperation-militaire-le-benin-et-legypte-renforcent-leur-partenariat/"
+    },
+    {
+     "date": "2026-11-10",
+     "journal": "Cadre Éco",
+     "titre": "Glo-Djigbé : un premier bus électrique fabriqué au Bénin",
+     "resume": "La zone industrielle de Glo-Djigbé (GDIZ) a présenté le 9 novembre AGOOJIYÉ, un prototype de bus électrique conçu avec 85 étudiants d'écoles techniques. Les premiers essais de conduite sur le site sont prévus à partir du 23 novembre, avant toute mise en circulation.",
+     "url": "https://cadreco.media/innovation-technologie/2026/gdiz-le-benin-presente-son-premier-prototype-de-bus-electrique-agoojiye"
+    },
+    {
+     "date": "2026-11-10",
+     "journal": "Koaci",
+     "titre": "Ghana : une campagne pour faire connaître ses droits CEDEAO",
+     "resume": "Le Ghana a lancé le 9 novembre à Aflao, à la frontière avec le Togo, la campagne « La CEDEAO pour tous » pour expliquer aux citoyens leurs droits dans la Communauté des États d'Afrique de l'Ouest. Les agents d'immigration reconnaissent que les documents de voyage régionaux restent encore mal acceptés aux frontières.",
+     "url": "https://www.koaci.com/article/2026/11/10/ghana/societe/ghana-lancement-de-la-campagne-la-cedeao-pour-tous-a-aflao-pour-le-benefice-des-populations_202474.html"
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "synthese": "Week-end marqué par le lancement d'un nouveau cadastre national, l'annonce d'un institut d'intelligence artificielle pour 2027 et près de 200 milliards FCFA pour le solaire dans quatre villes. Côté sport, les Guépards préparent deux matchs décisifs pour la CAN 2027.",
@@ -1176,193 +1287,6 @@
      "url": "https://www.koaci.com/article/2026/10/27/cote-divoire/environement/cote-divoire-energie-3225-millions-de-dollars-des-usa-pour-moderniser-le-reseau-electrique-les-deputes-donnent-leur-feu-vert_202037.html"
     }
    ]
-  },
-  {
-   "date": "2026-10-27",
-   "synthese": "Le vote d'un Code de la route plus sévère, le décès en détention du principal condamné de l'affaire Dangnivo et le recul du niveau scolaire au primaire dominent ; le port de Cotonou fonctionne désormais sept jours sur sept.",
-   "articles": [
-    {
-     "date": "2026-10-26",
-     "journal": "Bénin Web TV",
-     "titre": "Les députés votent un nouveau Code de la route plus sévère",
-     "resume": "Adopté le 26 octobre à Porto-Novo, le texte durcit les sanctions pour excès de vitesse, fait de la conduite sous drogue un crime, fixe le taux d'alcool à 0,8 g/l, impose le casque au passager de moto et la ceinture à l'arrière, et prévoit un permis à points.",
-     "url": "https://beninwebtv.bj/benin-lassemblee-nationale-vote-un-nouveau-code-de-la-route-plus-severe/"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Banouto",
-     "titre": "Affaire Dangnivo : décès en détention de Codjo Alofa",
-     "resume": "Condamné à 30 ans de prison, il est mort le 26 octobre lors de son évacuation vers le CNHU de Cotonou, d'un AVC selon les premiers éléments ; le procureur annonce des procédures pour éclaircir les circonstances.",
-     "url": "https://www.banouto.bj/societe/article/20261026-deces-de-codjo-alofa-les-premieres-informations-sur-la-mort-du-principal-condamne-dans-laffaire-dangnivo"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Banouto",
-     "titre": "École primaire : le niveau recule en français et en maths selon le rapport PASEC",
-     "resume": "D'après cette évaluation régionale publiée le 22 octobre, près de six élèves béninois sur dix en fin de primaire n'atteignent pas le seuil minimal en lecture, et les résultats ont reculé depuis 2019.",
-     "url": "https://www.banouto.bj/societe/article/20261026-enseignement-primaire-au-benin-le-niveau-des-apprenant-recule-en-francais-et-en-mathematiques-rapport-pasec-2024"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Banouto",
-     "titre": "Capital Reach Forum : deux jours à Cotonou pour financer les entreprises",
-     "resume": "Organisé les 26 et 27 octobre par la SGI AGI, ce forum réunit banques, investisseurs, la BAD et le ministre des Finances autour du crédit, des garanties et des obligations pour les entreprises.",
-     "url": "https://www.banouto.bj/economie/article/20261026-capital-reach-forum-2026-a-cotonou-rapprocher-les-capitaux-des-entreprises-dans-le-besoin-en-afrique"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Matin Libre",
-     "titre": "Rappel de lots du médicament CROISCARD-E",
-     "resume": "L'agence béninoise du médicament (ABMed) fait retirer des pharmacies plusieurs lots de ce sirop au calcium et vitamine D3 à cause d'un défaut des bouchons ; en cas de doute, demander conseil à son pharmacien.",
-     "url": "https://matinlibre.com/2026/10/26/alerte-sanitaire-au-benin-rappel-de-plusieurs-lots-du-medicament-croiscard-e-par-labmed/"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Matin Libre",
-     "titre": "Bénin–Union européenne : un dialogue pour de nouveaux projets",
-     "resume": "Ministres béninois et représentants européens ont fait le point le 21 octobre sur leur coopération : électricité, port de Cotonou, eau, financement des PME, tourisme et numérique figurent parmi les priorités.",
-     "url": "https://matinlibre.com/2026/10/26/cooperation-benin-union-europeenne-engagement-renouvele-pour-le-developpement-des-secteurs-strategiques/"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Bénin Web TV",
-     "titre": "Le Sénat ouvre sa session le 28 octobre",
-     "resume": "La chambre haute prévoit 21 jours de travaux, consacrés notamment aux dossiers restés en attente.",
-     "url": "https://beninwebtv.bj/senat-beninois-21-jours-de-travaux-prevus-a-partir-du-28-octobre"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "24 Heures au Bénin",
-     "titre": "La mairie de Cotonou organise des journées portes ouvertes",
-     "resume": "Du mercredi 28 au vendredi 30 octobre, la mairie ouvre ses portes au public pour une première édition consacrée au projet « Cotonou 2033 ».",
-     "url": "https://24haubenin.info/?La-mairie-de-Cotonou-ouvre-ses-portes-aux-usagers-des-ce-mercredi"
-    },
-    {
-     "date": "2026-10-25",
-     "journal": "Bénin Web TV",
-     "titre": "Des maisons marquées pour démolition entre Fidjrossè et Ouidah",
-     "resume": "Cotonou, Ouidah et Sèmè-Podji sont concernés ; l'administration parle de constructions sur le domaine de l'État ou en zone interdite, les habitants disent manquer d'explications.",
-     "url": "https://beninwebtv.bj/benin-des-maisons-marquees-pour-demolition-a-cotonou-ouidah-et-seme-podji/"
-    },
-    {
-     "date": "2026-10-22",
-     "journal": "Koaci",
-     "titre": "Port de Cotonou : enlèvement des marchandises aussi le week-end",
-     "resume": "Annoncée par le directeur des douanes, la mesure en vigueur depuis le 24 octobre vise à désengorger le port ; les importateurs saluent une décision attendue.",
-     "url": "https://www.koaci.com/article/2026/10/22/benin/economie/benin-decongestion-du-port-de-cotonou-les-importateurs-se-sentent-ecoutes_201885.html"
-    },
-    {
-     "date": "2026-10-22",
-     "journal": "SRTB",
-     "titre": "Ebola : contrôles renforcés à l'aéroport de Cotonou",
-     "resume": "Après le cas signalé au Nigeria, le ministre de la Santé a inspecté les caméras thermiques et les salles d'isolement de l'aéroport, et la surveillance sanitaire a été renforcée.",
-     "url": "https://srtb.bj/ebola-le-benin-renforce-la-prevention-a-laeroport-de-cotonou/"
-    },
-    {
-     "date": "2026-10-21",
-     "journal": "Le Matinal",
-     "titre": "Coupures d'électricité : la SBEE promet un retour progressif à la normale",
-     "resume": "La SBEE et la SBPE expliquent les perturbations par une baisse des livraisons d'électricité venant du Ghana et du Nigeria, sans donner de calendrier précis.",
-     "url": "https://lematinal.bj/perturbations-electriques-la-sbpe-et-la-sbee-annoncent-un-retour-progressif-a-la-normale/"
-    },
-    {
-     "date": "2026-10-25",
-     "journal": "La Nouvelle Tribune",
-     "titre": "Niger : l'Algérie autorisée à déployer des soldats sur l'ancienne base française de Madama",
-     "resume": "Le parlement algérien a voté à l'unanimité ce déploiement dans le nord du Niger, une première à l'étranger pour l'armée algérienne depuis 1973.",
-     "url": "https://lanouvelletribune.info/2026/10/niger-larmee-algerienne-autorisee-a-sinstaller-sur-lancienne-base-francaise-de-madama/"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Bénin Web TV",
-     "titre": "Brésil : Lula réélu de justesse",
-     "resume": "Au second tour du 25 octobre, le président sortant l'emporte avec environ 51,7 % des voix face à Flávio Bolsonaro, selon des résultats encore provisoires.",
-     "url": "https://beninwebtv.bj/bresil-lula-reelu-face-a-flavio-bolsonaro-au-second-tour/"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-26",
-   "synthese": "Le week-end a été marqué par l'accord commercial signé avec les Émirats arabes unis, la reprise des travaux de l'Assemblée nationale ce lundi et l'ouverture des inscriptions pour les Vodun Days 2027.",
-   "articles": [
-    {
-     "date": "2026-10-25",
-     "journal": "Bénin Intelligent",
-     "titre": "Le Bénin et les Émirats arabes unis signent un accord de partenariat économique",
-     "resume": "Signé à Abou Dhabi devant les présidents Wadagni et Mohamed bin Zayed, l'accord doit, après ratification, réduire les droits de douane sur la plupart des échanges et faciliter l'investissement.",
-     "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Les 4 Vérités",
-     "titre": "Après Abou Dhabi, le président Wadagni attendu au sommet Russie-Afrique",
-     "resume": "Le chef de l'État doit participer au troisième sommet Russie-Afrique à Moscou les 28 et 29 octobre.",
-     "url": "https://www.les4verites.bj/wadagni-decroche-un-accord-economique-majeur-a-abou-dhabi/"
-    },
-    {
-     "date": "2026-10-25",
-     "journal": "La Nouvelle Tribune",
-     "titre": "Assemblée nationale : le nouveau Code de la route examiné ce lundi",
-     "resume": "Les députés étudient aussi le rapport d'activité de leur président et la ratification de l'accord créant la Facilité africaine de soutien juridique.",
-     "url": "https://lanouvelletribune.info/2026/10/benin-les-deputes-examineront-le-code-de-la-route-et-deux-autres-dossiers-ce-lundi-26-octobre/"
-    },
-    {
-     "date": "2026-10-25",
-     "journal": "Gouvernement du Bénin",
-     "titre": "53 Afro-descendants deviennent citoyens béninois",
-     "resume": "Le gouvernement a remis la nationalité béninoise à 53 Afro-descendants dans le cadre de la loi sur le retour aux sources.",
-     "url": "https://www.gouv.bj/article/3716/retour-sources-afro-descendants-deviennent-citoyens-beninois/"
-    },
-    {
-     "date": "2026-10-24",
-     "journal": "Bénin Web TV",
-     "titre": "Vodun Days 2027 : les demandes de stands ouvertes jusqu'au 16 novembre",
-     "resume": "La 4e édition aura lieu à Ouidah du 2 au 9 janvier 2027 ; artisans, créateurs et commerçants postulent en ligne sur inscriptions.vodundays.bj.",
-     "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
-    },
-    {
-     "date": "2026-10-24",
-     "journal": "La Nouvelle Tribune",
-     "titre": "Le gouvernement s'explique sur les expropriations à Togbin Daho",
-     "resume": "Le porte-parole du gouvernement a apporté des explications sur les expropriations menées dans ce quartier de la route des pêches.",
-     "url": "https://lanouvelletribune.info/2026/10/benin-le-gouvernement-sexplique-sur-les-expropriations-a-togbin-daho/"
-    },
-    {
-     "date": "2026-10-24",
-     "journal": "Bénin Web TV",
-     "titre": "Parakou adopte un budget 2027 en hausse de 34 %",
-     "resume": "La mairie de Parakou a voté un budget primitif d'environ 5,3 milliards FCFA pour 2027.",
-     "url": "https://beninwebtv.bj/parakou-un-budget-2027-de-529-milliards-fcfa-en-hausse-de-3424/"
-    },
-    {
-     "date": "2026-10-24",
-     "journal": "24 Heures au Bénin",
-     "titre": "Vitres teintées et couloirs réservés : la police durcit les contrôles",
-     "resume": "La Police républicaine renforce la répression des vitres opaques et du non-respect des couloirs de circulation.",
-     "url": "https://www.24haubenin.info/?Repression-des-vitres-opaques-et-du-non-respect-des-couloirs"
-    },
-    {
-     "date": "2026-10-24",
-     "journal": "La Nation",
-     "titre": "Liberté économique : ce que signifie la 11e place africaine du Bénin",
-     "resume": "Le quotidien revient sur la progression du pays dans le classement 2026 de l'Institut Fraser et sur ce qu'elle implique pour les investisseurs.",
-     "url": "https://www.lanation.bj/actualites/liberte-economique-les-enjeux-de-la-progression-du-benin-a-la-11e-place-africaine"
-    },
-    {
-     "date": "2026-10-24",
-     "journal": "Banouto",
-     "titre": "Des investisseurs africains visitent la zone industrielle de Glo-Djigbé",
-     "resume": "Les participants au forum des zones économiques spéciales ont découvert les usines de la GDIZ et son modèle industriel.",
-     "url": "https://www.banouto.bj/economie/article/20261024-forum-des-zones-economiques-speciales-les-participants-decouvrent-a-la-gdiz-le-modele-industriel-beninois"
-    },
-    {
-     "date": "2026-10-25",
-     "journal": "Premium Times (Nigeria)",
-     "titre": "Ebola au Nigeria : toujours un seul cas confirmé",
-     "resume": "53 contacts sont suivis et aucun n'est malade ; le Bénin reste en phase de préalerte.",
-     "url": "https://www.premiumtimesng.com/health/health-news/920169-ebola-ncdc-warns-misinformation-could-undermine-nigerias-response.html"
-    }
-   ]
   }
  ],
  "conciergerie": {
@@ -1575,6 +1499,62 @@
   ],
   "actus": [
    {
+    "date": "2026-11-11",
+    "titre": "Cotonou Comedy Festival du 1er au 6 décembre",
+    "resume": "La 2e édition du festival d'humour, organisée par le gouvernement et le groupe JokeNation (lié au Montreux Comedy Festival), se tiendra à Cotonou, Abomey-Calavi et Parakou, avec galas, village du rire et rencontres de l'humour africain.",
+    "idee": "Anticiper la demande d'hébergement début décembre et proposer aux voyageurs un petit guide des soirées du festival.",
+    "source": "Gouvernement du Bénin",
+    "url": "https://www.gouv.bj/article/3737/cotonou-comedy-festival-2026-benin-renforce-ambition-faire-humour-veritable-industrie-culturelle-cotonou-abomey-calavi-parakou-accueille-activites-decembre-2026-/"
+   },
+   {
+    "date": "2026-11-10",
+    "titre": "Conciergerie numérique : la technologie, oui, mais avec un humain derrière",
+    "resume": "Un article sud-africain présente les écrans de conciergerie numérique (réservations, room service, plus de 20 langues) comme la grande tendance hôtelière de 2027. Il cite une enquête mondiale de Mews selon laquelle 89 % des voyageurs veulent une technologie discrète ou mêlée au service humain, et 75 % jugent le personnel indispensable.",
+    "idee": "Proposer aux voyageurs un livret d'accueil numérique multilingue, tout en gardant un contact humain joignable sur WhatsApp à toute heure.",
+    "source": "TechFinancials",
+    "url": "https://techfinancials.co.za/2026/11/10/digital-concierge-services-are-the-big-hospitality-trend-for-2027/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Le Bénin vise 2,5 millions de visiteurs étrangers par an d'ici 2033",
+    "resume": "Le programme 2026-2033 du président Wadagni veut doubler le poids du tourisme dans l'économie. Il prévoit une plateforme nationale de réservation et de paiement en ligne avec notation des prestataires, une offre d'hébergement plus variée (maisons de charme, auberges, logements familiaux) et des baisses ciblées de droits de douane et de TVA (taxe sur la valeur ajoutée) pour qui investit dans l'hébergement.",
+    "idee": "Préparer dès maintenant des logements bien notés et un dossier propre pour être parmi les premiers référencés sur la future plateforme nationale de réservation.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/tourisme-le-benin-vise-25-millions-de-visiteurs-en-2033/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Airbnb : chiffre d'affaires en hausse de 19 %, mais plus d'annulations",
+    "resume": "Au troisième trimestre 2026, Airbnb a encaissé 4,9 milliards de dollars, sa plus forte croissance depuis plus de trois ans, portée notamment par l'option « réserver maintenant, payer plus tard ». Revers de la médaille : le taux d'annulation est passé d'environ 16 % à 19 %.",
+    "idee": "Choisir une politique d'annulation plus ferme pour les dates très demandées (Vodun Days, fêtes de fin d'année) afin de limiter les réservations fantômes.",
+    "source": "ShortTermRentalz",
+    "url": "https://shorttermrentalz.com/news/supplier-news/airbnb-2026-financial-report/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Croisières : le Bénin démarche les compagnies à Miami",
+    "resume": "Bénin Tourisme et le Port autonome de Cotonou ont rencontré à Miami, fin octobre, des compagnies comme Oceania Cruises et PONANT pour faire ajouter Cotonou à leurs itinéraires ouest-africains, avec des excursions à terre.",
+    "idee": "Préparer dès maintenant une offre « escale d'une journée » (transport, guide, repas local) à proposer aux agences si les croisières arrivent.",
+    "source": "Cadre Éco",
+    "url": "https://cadreco.media/cooperation/2026/tourisme-de-croisiere-le-benin-prospecte-le-marche-international-a-miami"
+   },
+   {
+    "date": "2026-11-06",
+    "titre": "Vrbo passe à une commission unique de 12 % pour la plupart des hôtes",
+    "resume": "Depuis le 29 octobre 2026, la plupart des hôtes Vrbo (et de sa version française Abritel) paient 12 % frais de paiement compris, contre environ 8 % ou 5 % auparavant selon les formules ; le groupe Expedia indique que le taux peut aller jusqu'à 15 % selon la région. Les frais payés par les voyageurs devraient en principe baisser.",
+    "idee": "Comparer dans sa grille de prix ce que coûte chaque plateforme (Airbnb, Booking, Abritel) pour fixer ses tarifs et ses propres commissions en connaissance de cause.",
+    "source": "Rental Scale-Up",
+    "url": "https://www.rentalscaleup.com/vrbo-q3-2026/"
+   },
+   {
+    "date": "2026-11-06",
+    "titre": "Neuf événements culturels à Cotonou et ailleurs d'ici fin décembre",
+    "resume": "La Nation liste les grands rendez-vous de fin d'année : salon des musiques (Sima) au Sofitel les 12 et 13 novembre, GreenTech City du 18 au 21 novembre, festival Bénin Tambours à Glazoué du 19 au 21 novembre, Festifa à Godomey du 10 au 13 décembre, entre autres.",
+    "idee": "Préparer pour les voyageurs une fiche « sorties du moment » avec ces dates et lieux, et anticiper les séjours autour du Sima et de GreenTech City.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/culture/agenda-culturel-evenements-9-rendez-vous-incontournables-au-benin-a-ne-pas-manquer-avant-2027"
+   },
+   {
     "date": "2026-11-06",
     "titre": "Location courte durée : l'IA au cœur du sommet professionnel de Londres",
     "resume": "Plus de 100 professionnels réunis le 5 novembre ont discuté de la demande touristique et d'outils d'intelligence artificielle pour gérer annonces et messages aux voyageurs.",
@@ -1589,6 +1569,14 @@
     "idee": "Lister les petits services payants (recharge, transfert aéroport, linge) qui peuvent rapporter un revenu en plus aux propriétaires.",
     "source": "ShortTermRentalz",
     "url": "https://shorttermrentalz.com/news/boba-charge-wins-start-up-x-ray-strz-summit-2026/"
+   },
+   {
+    "date": "2026-11-05",
+    "titre": "Booking.com : les locations hors hôtel pèsent 37 % des nuitées",
+    "resume": "Au troisième trimestre 2026, les nuitées réservées en appartements, maisons et autres hébergements non hôteliers sur Booking.com ont progressé de 7 % et représentent environ 37 % du total. Le groupe s'attend toutefois à une croissance plus lente en fin d'année (1 à 3 % pour l'ensemble de ses nuitées).",
+    "idee": "Ne pas miser sur Airbnb seul : publier aussi les logements sur Booking.com, très utilisé par les voyageurs d'affaires et la clientèle européenne.",
+    "source": "Rental Scale-Up",
+    "url": "https://www.rentalscaleup.com/booking-com-q3-2026-earnings/"
    },
    {
     "date": "2026-11-05",
@@ -1829,49 +1817,10 @@
     "idee": "Relayer la campagne sur les réseaux de l'agence pour se faire connaître des voyageurs qui s'intéressent déjà à la destination.",
     "source": "Africanews",
     "url": "https://www.africanews.com/2026/10/23/benin-earns-four-nominations-at-2026-africa-tourism-awards/"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Ebola : le Bénin renforce les contrôles à l'aéroport de Cotonou",
-    "resume": "Après un cas confirmé au Nigeria, caméras thermiques et salles d'isolement ont été inspectées à l'aéroport et la surveillance sanitaire a été renforcée.",
-    "idee": "Préparer une fiche d'information claire pour les voyageurs (formalités à l'arrivée, gestes d'hygiène, contacts utiles) et un protocole de nettoyage renforcé des logements.",
-    "source": "SRTB",
-    "url": "https://srtb.bj/ebola-le-benin-renforce-la-prevention-a-laeroport-de-cotonou/"
-   },
-   {
-    "date": "2026-10-21",
-    "titre": "Airbnb interdit d'imposer des tâches ménagères aux voyageurs au départ",
-    "resume": "Pour les réservations faites à partir du 20 novembre, les hôtes ne pourront plus exiger de refaire les lits, laver la vaisselle, lancer une lessive ou sortir les poubelles ; une partie des hôtes proteste.",
-    "idee": "Le ménage complet entre deux séjours devient indispensable : un argument fort pour vendre un service de ménage aux propriétaires.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
-   },
-   {
-    "date": "2026-10-18",
-    "titre": "Cotonou accueillera le premier Black Travel Summit africain en 2027",
-    "resume": "Ce rendez-vous des professionnels noirs du tourisme réunira des participants d'Afrique, des Amériques, des Caraïbes et d'Europe ; la date n'est pas encore fixée.",
-    "idee": "Se faire référencer auprès des organisateurs comme prestataire d'accueil et de logistique pour les délégations.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/le-benin-decroche-le-black-travel-summit-2027-rendez-vous-des-professionnels-noirs-du-tourisme/"
-   },
-   {
-    "date": "2026-10-16",
-    "titre": "40 % des petits loueurs veulent plus de logements, mais manquent de temps",
-    "resume": "Une enquête de PriceLabs auprès de plus de 1 200 hôtes dans 72 pays montre que 77 à 78 % trouvent pénibles le ménage, l'entretien et l'administratif, et que 38 % peinent à trouver des prestataires fiables.",
-    "idee": "Construire une offre « à la carte » : forfait par ménage entre deux séjours, tarif horaire pour les petites réparations et forfait mensuel de suivi, au choix du propriétaire.",
-    "source": "Rental Scale-Up",
-    "url": "https://www.rentalscaleup.com/vacation-rental-owner-acquisition-global-host-report/"
    }
   ]
  },
  "echeances": [
-  {
-   "date": "2026-11-02",
-   "titre": "MTN MoMo : entrée en vigueur des nouveaux frais et plafonds",
-   "detail": "Transferts entre opérateurs gratuits jusqu'à 8 000 FCFA par jour puis 0,5 % ; solde maximal porté à 4 millions FCFA.",
-   "url": "https://lematinal.bj/mtn-momo-de-nouvelles-facilites-et-une-revision-des-plafonds-des-le-2-novembre/",
-   "rubrique": "conciergerie"
-  },
   {
    "date": "2026-11-05",
    "titre": "ARMP : fin des formations sur les marchés publics à Cotonou",
@@ -1887,10 +1836,24 @@
    "rubrique": "conciergerie"
   },
   {
+   "date": "2026-11-12",
+   "titre": "Convention des agences de voyage d'Île-de-France à Cotonou (12 au 16 novembre)",
+   "detail": "Près de 80 à 100 professionnels du voyage français (Les Entreprises du Voyage Île-de-France), logés au Sofitel Cotonou Marina, visiteront notamment Ganvié et les sites de mémoire. Occasion de se faire connaître des agences qui vendent le Bénin.",
+   "url": "https://www.tourmag.com/Convention-des-EDV-au-Benin-ce-voyage-va-vraiment-etre-exceptionnel_a132995.html",
+   "rubrique": "conciergerie"
+  },
+  {
    "date": "2026-11-13",
    "titre": "Journée Verte au Palais des Congrès (13 et 14 novembre)",
    "detail": "Première édition, gratuite, organisée par l'Agence nationale du paysage autour de l'aménagement et des espaces verts.",
    "url": "https://srtb.bj/journee-verte-deux-jours-pour-decouvrir-le-paysage-autrement-a-cotonou/",
+   "rubrique": "btp"
+  },
+  {
+   "date": "2026-11-13",
+   "titre": "Fin de la formation sur l'entretien des routes selon leur qualité (Genis), à Cotonou",
+   "detail": "Session de cinq jours ouverte le 9 novembre à l'hôtel Azalaï, avec MCA-Bénin et la SIRAT, pour l'administration, les entreprises et les bureaux d'études.",
+   "url": "https://lematinal.bj/mca-benin-regional-un-nouveau-modele-dentretien-routier-en-preparation/",
    "rubrique": "btp"
   },
   {
@@ -1943,6 +1906,13 @@
    "rubrique": "conciergerie"
   },
   {
+   "date": "2026-11-23",
+   "titre": "Premiers essais du bus électrique AGOOJIYÉ à la GDIZ",
+   "detail": "Premiers essais de conduite du prototype monté dans la zone industrielle de Glo-Djigbé.",
+   "url": "https://lanouvelletribune.info/2026/11/gdiz-au-benin-agoojiye-le-bus-electrique-concu-et-assemble-localement-bientot-a-lessai/",
+   "rubrique": "btp"
+  },
+  {
    "date": "2026-11-24",
    "titre": "Webinaire pour gestionnaires : gagner et garder des propriétaires",
    "detail": "Rendez-vous en ligne en anglais, de 16 h à 17 h GMT, avec des retours d'expérience de gestionnaires.",
@@ -1955,6 +1925,20 @@
    "detail": "Organisé par Bpifrance, il débute par un forum d'affaires le 30 novembre : une occasion de rencontrer des entreprises françaises.",
    "url": "https://lamarina.bj/2026/07/22/cooperation-economique-bpifrance-annonce-un-parcours-daffaires-france-benin-pour-fin-novembre-2026/",
    "rubrique": "btp"
+  },
+  {
+   "date": "2026-12-01",
+   "titre": "Vodun Days 2027 : date limite des accréditations médias et créateurs de contenu",
+   "detail": "Les journalistes et créateurs de contenu qui veulent couvrir le festival doivent s'inscrire en ligne (inscriptions.vodundays.bj) au plus tard le 1er décembre 2026.",
+   "url": "https://lematinal.bj/vodun-days-2027-inscriptions-pour-les-stands-et-accreditations-lancees/",
+   "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-12-01",
+   "titre": "Cotonou Comedy Festival (1er au 6 décembre)",
+   "detail": "À Cotonou, Abomey-Calavi et Parakou.",
+   "url": "https://www.gouv.bj/article/3737/cotonou-comedy-festival-2026-benin-renforce-ambition-faire-humour-veritable-industrie-culturelle-cotonou-abomey-calavi-parakou-accueille-activites-decembre-2026-/",
+   "rubrique": "conciergerie"
   },
   {
    "date": "2027-01-02",
