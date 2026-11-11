@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-09T05:44:05Z",
+ "derniereMaj": "2026-11-11T05:43:29Z",
  "synthese": {
   "maj": "2026-11-09T05:44:05Z",
   "periode": "Semaine du 9 novembre 2026",
@@ -15,6 +15,164 @@
   "titre": "Le paiement instantané s'étend, l'argent se tokenise"
  },
  "articles": [
+  {
+   "id": "2026-11-10-visa-monad-reglement",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "Visa permet désormais à ses émetteurs et acquéreurs de régler en stablecoins sur la blockchain Monad, qui rejoint notamment Ethereum, Solana, Stellar et Base. Le règlement en stablecoins de Visa atteint 20 milliards de dollars en rythme annuel, avec plus de 225 programmes de cartes liés aux stablecoins.",
+   "retenir": "Le règlement Visa en stablecoins se banalise : une banque émettrice peut à terme choisir le rail sur lequel elle règle ses compensations.",
+   "source": "The Block",
+   "techno": "stablecoins",
+   "theme": "Crypto & stablecoins",
+   "titre": "Visa ajoute Monad à son réseau de règlement en stablecoins",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-10-veriff-verification-presence",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "Veriff lance Presence Verification, qui va au-delà du contrôle de « vivacité » pour vérifier qu'une personne réelle, présente et non contrainte réalise l'opération, contre les deepfakes et la coercition. L'outil combine plus de 1 000 signaux de risque et détecte la contrainte en 98 langues.",
+   "retenir": "Pour l'ouverture de compte à distance (eKYC), la menace n'est plus seulement le faux visage mais le client manipulé : à intégrer dans vos parcours.",
+   "source": "The Paypers",
+   "techno": "fraude-ia",
+   "theme": "Sécurité & fraude",
+   "titre": "Veriff vérifie qu'une vraie personne, libre, est derrière l'écran",
+   "url": "https://thepaypers.com/fraud-and-fincrime/news/veriff-launches-presence-verification-to-detect-deepfakes-and-coercion",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-10-sage-adyen-mastercard-pme",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "L'éditeur Sage s'associe à Adyen et Mastercard pour proposer aux PME un compte professionnel avec carte de débit, paiements et rapprochement directement dans ses logiciels comptables, en commençant par la France. Le déploiement s'étendra ensuite à l'Europe.",
+   "retenir": "Le compte de la PME migre dans son logiciel de gestion : les banques ont intérêt à s'y connecter plutôt que de laisser la place aux fintechs.",
+   "source": "The Paypers",
+   "techno": "finance-embarquee",
+   "theme": "Cartes",
+   "titre": "Sage intègre comptes professionnels et cartes dans son logiciel de gestion",
+   "url": "https://thepaypers.com/fintech/news/sage-partners-with-adyen-and-mastercard-on-smb-business-accounts",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-10-lumepay-zone-xof",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "La fintech sud-africaine Lumepay annonce une levée de 6 millions de dollars et environ 10 millions de liquidités pour ses paiements transfrontaliers entre entreprises. Sa plateforme est déjà active en zones XOF et XAF, au Nigeria, au Ghana, au Kenya et dans d'autres pays, avec 6 000 clients.",
+   "retenir": "De nouveaux acteurs se positionnent sur les paiements internationaux des entreprises de l'UEMOA : un segment où votre banque doit défendre ses délais et ses tarifs.",
+   "source": "Launch Base Africa",
+   "techno": "transferts-internationaux",
+   "theme": "Paiement instantané",
+   "titre": "Lumepay ouvre ses rails de paiements transfrontaliers, y compris en zone XOF",
+   "url": "https://launchbaseafrica.com/2026/11/10/south-african-fintech-lumepay-raises-6m-pre-seed-to-build-africas-institutional-cross-border-payments-rails/",
+   "zone": "Afrique"
+  },
+  {
+   "id": "2026-11-10-klarna-xs2a-v2",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "Klarna Bank remplace son ancienne interface d'accès aux comptes (PSD2) par XS2A v2, conforme au standard Berlin Group NextGenPSD2, avec une mise en production visée en novembre 2026. Les deux versions coexisteront, avec au moins trois mois de préavis avant l'arrêt de l'ancienne.",
+   "retenir": "Une API d'accès aux comptes standardisée et bien documentée est la base de toute offre d'open banking : un exemple à suivre pour les futures API bancaires de l'UEMOA.",
+   "source": "The Paypers",
+   "techno": "open-banking",
+   "theme": "Open banking",
+   "titre": "Klarna publie une nouvelle API d'open banking XS2A v2",
+   "url": "https://thepaypers.com/fintech/news/klarna-prepares-xs2a-v2-to-replace-its-legacy-open-banking-api",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-10-kakaobank-toss-apple-pay",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "Selon des sources du secteur, KakaoBank et Toss Bank s'apprêtent à ajouter leurs cartes de débit à Apple Pay d'ici fin 2026, peut-être dès novembre pour KakaoBank. Hyundai Card perdrait ainsi son exclusivité d'émetteur Apple Pay en Corée.",
+   "retenir": "Les banques numériques se battent pour être dans les wallets des téléphones : être présent dans Apple Pay et Google Pay devient un critère de choix de la carte.",
+   "source": "The Paypers",
+   "techno": "tokenisation",
+   "theme": "Wallets & tokenisation",
+   "titre": "KakaoBank et Toss Bank préparent Apple Pay en Corée",
+   "url": "https://thepaypers.com/payments/news/kakaobank-and-toss-bank-reportedly-prepare-to-launch-apple-pay",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-10-cash-app-bandana",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "Cash App (Block) et la marque Nahmias lancent un bandana en coton et soie intégrant une étiquette sans contact Cash App pour payer d'un simple geste. Il sera vendu 85 dollars à partir du 17 novembre.",
+   "retenir": "Le paiement sans contact s'invite dans les accessoires de mode : de quoi imaginer des bracelets ou porte-clés de paiement aux couleurs de la banque.",
+   "source": "Payments Dive",
+   "techno": "objets-paiement",
+   "theme": "Wallets & tokenisation",
+   "titre": "Cash App vend un bandana qui permet de payer sans téléphone",
+   "url": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-10-canada-rtr-lance",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "essentiel": true,
+   "pourquoi": "Le Canada a lancé son paiement instantané avec la vérification du bénéficiaire rendue obligatoire, exactement ce qui manque encore aux transferts par alias de PI-SPI. Votre banque peut s'en servir pour proposer un contrôle du nom avant envoi et rassurer ses clients.",
+   "resume": "Payments Canada a mis en service le Real-Time Rail, qui règle les paiements en continu 24h/24 sur la norme ISO 20022, avec des services antifraude centraux obligatoires dont la vérification du nom du bénéficiaire. Huit premiers participants, dont KOHO, Wealthsimple et Bank of America, ouvrent le bal, avec l'objectif de toucher plus de 9 Canadiens sur 10 d'ici un an.",
+   "retenir": "Un système instantané national peut imposer dès le départ la confirmation du bénéficiaire : un modèle à défendre pour fiabiliser les alias PI-SPI.",
+   "source": "The Paypers",
+   "techno": "instantane-monde",
+   "theme": "Paiement instantané",
+   "titre": "Le Canada lance son Real-Time Rail avec contrôle du bénéficiaire obligatoire",
+   "url": "https://thepaypers.com/payments/news/payments-canada-launches-real-time-rail-for-247-instant-payments",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-10-bottomline-stablecoin-transfrontalier",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "Bottomline, fournisseur de logiciels de paiement pour banques et entreprises, a effectué ses premiers transferts transfrontaliers réels en USDC via son Global Payments Hub. Il s'agissait d'un transfert intragroupe, sans montant communiqué.",
+   "retenir": "Les plateformes de trésorerie utilisées par les banques ajoutent les stablecoins comme simple option de rail international.",
+   "source": "PYMNTS",
+   "techno": "transferts-internationaux",
+   "theme": "Crypto & stablecoins",
+   "titre": "Bottomline réalise ses premiers transferts internationaux en USDC",
+   "url": "https://www.pymnts.com/news/cross-border-payments/2026/bottomline-marks-first-cross-border-stablecoin-transactions/",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-10-biocatch-aire-agents-ia",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-10",
+   "resume": "BioCatch lance AiRE, un outil qui repère les agents d'intelligence artificielle dans une session de banque en ligne avant tout mouvement de fonds et signale les comportements à risque. Près de la moitié des interactions d'agents détectées ont lieu à l'ouverture de compte.",
+   "retenir": "Les banques devront distinguer le client, son agent IA autorisé et un robot fraudeur : la détection des agents devient une brique de sécurité à prévoir.",
+   "source": "The Paypers",
+   "techno": "fraude-ia",
+   "theme": "Sécurité & fraude",
+   "titre": "BioCatch détecte les agents IA dans les sessions bancaires",
+   "url": "https://thepaypers.com/fraud-and-fincrime/news/biocatch-launches-aire-to-detect-ai-agents-in-digital-banking",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-09-pnc-usdc-entreprises",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-09",
+   "resume": "La banque américaine PNC ouvre à ses clients entreprises et institutionnels la réception de paiements en USDC sur Ethereum, grâce à la technologie de Coinbase. Elle présente ce service comme un complément de ses paiements rapides.",
+   "retenir": "Une grande banque classique intègre l'encaissement en stablecoins pour ses entreprises : un signal que ce service devient un produit bancaire comme un autre.",
+   "source": "PYMNTS",
+   "techno": "stablecoins",
+   "theme": "Crypto & stablecoins",
+   "titre": "PNC permet à ses entreprises clientes de recevoir des paiements en USDC",
+   "url": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-09-mixx-togo-pispi-bilan",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-09",
+   "resume": "La directrice générale de Mixx Togo indique que le wallet, connecté à PI-SPI depuis avril, a traité environ 3 milliards FCFA en 39 000 opérations sur ses trois premiers mois. Avec 3,12 millions de comptes, Mixx vise à devenir une super-app de services financiers d'ici cinq ans.",
+   "retenir": "Les wallets visent la super-app : la banque gagne à devenir leur partenaire (comptes, crédit, cartes) plutôt que leur concurrent.",
+   "source": "Togo First",
+   "techno": "pi-spi",
+   "theme": "Mobile money",
+   "titre": "Mixx Togo : 3 milliards FCFA passés par PI-SPI en trois mois",
+   "url": "https://www.togofirst.com/fr/finance/0911-20585-catherine-savery-dg-de-mixx-togo-dans-cinq-ans-mixx-sera-une-super-app-la-reference-des-services-financiers-au-togo",
+   "zone": "UEMOA"
+  },
   {
    "id": "2026-11-06-wave-pispi-connecte",
    "ajoute": "2026-11-07T06:00:00Z",
@@ -200,6 +358,21 @@
    "zone": "UEMOA"
   },
   {
+   "id": "2026-11-05-klarna-detection-appels",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-05",
+   "essentiel": true,
+   "pourquoi": "Les faux conseillers bancaires sont l'arnaque numéro un contre vos clients ; afficher dans votre appli si l'appel vient vraiment de votre banque est une parade simple, visible et peu coûteuse à proposer.",
+   "resume": "Klarna généralise à ses 26 marchés « Call Status Detection » : pendant un appel, le client ouvre l'application et voit une bannière verte si l'appelant est vérifié, ou orange s'il doit raccrocher. Le service avait été lancé dans les pays nordiques en septembre.",
+   "retenir": "Une idée simple et peu coûteuse contre les faux conseillers bancaires, l'arnaque la plus répandue : votre appli peut confirmer en temps réel les appels de la banque.",
+   "source": "PYMNTS",
+   "techno": "fraude-ia",
+   "theme": "Sécurité & fraude",
+   "titre": "Klarna indique en direct si un appel « de Klarna » est authentique",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/klarna-targets-scam-calls-with-new-verification-tool/",
+   "zone": "International"
+  },
+  {
    "id": "2026-11-05-cote-ivoire-loi-bancaire-fintech",
    "ajoute": "2026-11-09T05:43:50Z",
    "date": "2026-11-05",
@@ -276,6 +449,19 @@
    "theme": "IA & commerce",
    "titre": "Sunrate lance une carte virtuelle d'entreprise pilotée par des agents IA",
    "url": "https://thepaypers.com/payments/news/sunrate-launches-agentic-card-for-ai-agent-initiated-business-payments",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-04-pine-labs-stripe-singapour",
+   "ajoute": "2026-11-11T05:42:47Z",
+   "date": "2026-11-04",
+   "resume": "Pine Labs et Stripe permettent aux commerçants de Singapour de gérer sur une seule plateforme les paiements en ligne et en magasin (cartes, QR, sans contact sur terminaux Pine Labs). Le déploiement commence en novembre 2026, avant d'autres pays d'Asie du Sud-Est en 2027.",
+   "retenir": "Les commerçants veulent un seul contrat et un seul reporting pour tous leurs canaux : une offre acquéreur « omnicanal » est un vrai argument commercial.",
+   "source": "The Paypers",
+   "techno": "finance-embarquee",
+   "theme": "Cartes",
+   "titre": "Pine Labs et Stripe unifient paiement en ligne et en magasin à Singapour",
+   "url": "https://thepaypers.com/payments/news/pine-labs-and-stripe-launch-unified-commerce-solution-in-singapore",
    "zone": "International"
   },
   {
@@ -2667,6 +2853,12 @@
    "client": "Le client ou le petit commerçant obtient un petit crédit ou un découvert directement dans son application de paiement, sans dossier ni agence, et rembourse automatiquement sur ses prochains encaissements.",
    "exemples": [
     {
+     "date": "2026-11-10",
+     "source": "The Paypers",
+     "texte": "L'éditeur Sage s'associe à Adyen et Mastercard pour proposer aux PME un compte professionnel avec carte de débit, paiements et rapprochement directement dans ses logiciels comptables, en commençant par la France.",
+     "url": "https://thepaypers.com/fintech/news/sage-partners-with-adyen-and-mastercard-on-smb-business-accounts"
+    },
+    {
      "date": "2026-11-06",
      "source": "The Paypers",
      "texte": "Le logiciel américain de facturation Tabs lance Tabs Pay avec Adyen : les équipes finance facturent, encaissent par carte ou prélèvement et rapprochent sans quitter l'outil.",
@@ -2679,16 +2871,10 @@
      "url": "https://thepaypers.com/payments/news/amazon-launches-seller-wallet-gbp-for-uk-store-sellers"
     },
     {
-     "date": "2026-11-02",
-     "source": "TechAfrica News",
-     "texte": "FCMB et Mastercard lancent AgroPass, qui relie agriculteurs, fournisseurs, acheteurs et prêteurs au Nigeria.",
-     "url": "https://techafricanews.com/2026/11/02/fcmb-mastercard-launch-agropass-expand-finance-access-nigerian-farmers/"
-    },
-    {
-     "date": "2026-10-30",
+     "date": "2026-11-04",
      "source": "The Paypers",
-     "texte": "Elavon intègre ses services de paiement dans les modules SAP des entreprises.",
-     "url": "https://thepaypers.com/payments/news/elavon-to-embed-payments-into-sap-applications-for-enterprises"
+     "texte": "Pine Labs et Stripe permettent aux commerçants de Singapour de gérer sur une seule plateforme les paiements en ligne et en magasin (cartes, QR, sans contact sur terminaux Pine Labs).",
+     "url": "https://thepaypers.com/payments/news/pine-labs-and-stripe-launch-unified-commerce-solution-in-singapore"
     }
    ],
    "fonctionnement": "L'opérateur ou la banque analyse l'historique des paiements reçus et envoyés dans le wallet pour fixer un plafond. Le crédit est proposé au moment du besoin (payer un fournisseur, une course, un achat) et le remboursement est prélevé sur les flux entrants.",
@@ -2711,28 +2897,28 @@
    "client": "Le client est mieux protégé : une transaction suspecte est bloquée ou vérifiée en temps réel, sans gêner les paiements normaux.",
    "exemples": [
     {
+     "date": "2026-11-10",
+     "source": "The Paypers",
+     "texte": "BioCatch lance AiRE, un outil qui repère les agents d'intelligence artificielle dans une session de banque en ligne avant tout mouvement de fonds et signale les comportements à risque.",
+     "url": "https://thepaypers.com/fraud-and-fincrime/news/biocatch-launches-aire-to-detect-ai-agents-in-digital-banking"
+    },
+    {
+     "date": "2026-11-10",
+     "source": "The Paypers",
+     "texte": "Veriff lance Presence Verification, qui va au-delà du contrôle de « vivacité » pour vérifier qu'une personne réelle, présente et non contrainte réalise l'opération, contre les deepfakes et la coercition.",
+     "url": "https://thepaypers.com/fraud-and-fincrime/news/veriff-launches-presence-verification-to-detect-deepfakes-and-coercion"
+    },
+    {
      "date": "2026-11-06",
      "source": "The Paypers",
      "texte": "Les données de risque de Forter, collectées côté commerçant, alimentent désormais les outils de décision en temps réel de Marqeta pour aider les émetteurs à ne plus refuser de bons clients.",
      "url": "https://thepaypers.com/fraud-and-fincrime/news/marqeta-adds-forter-pre-authorisation-risk-data-for-card-issuers"
     },
     {
-     "date": "2026-10-22",
-     "source": "PaymentsJournal",
-     "texte": "De grandes banques américaines détectent des agents IA tiers qui se connectent aux comptes clients avec leurs identifiants ; certaines bloquent ces accès.",
-     "url": "https://www.paymentsjournal.com/unauthorized-ai-agents-have-accessed-bank-accounts-at-top-u-s-banks/"
-    },
-    {
-     "date": "2026-10-22",
-     "source": "Mastercard",
-     "texte": "Mastercard déploie en Afrique son programme contre la « fraude amicale »",
-     "url": "https://www.mastercard.com/news/europe/en/newsroom/press-releases/en/2026/mastercard-expands-first-party-trust-program-to-help-european-merchants-from-rising-friendly-fraud/"
-    },
-    {
-     "date": "2026-10-21",
-     "source": "Visa",
-     "texte": "Visa lance des contrôles de paiement et une vérification des fournisseurs pour les cartes virtuelles d'entreprise",
-     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22866.html"
+     "date": "2026-11-05",
+     "source": "PYMNTS",
+     "texte": "Klarna généralise à ses 26 marchés « Call Status Detection » : pendant un appel, le client ouvre l'application et voit une bannière verte si l'appelant est vérifié, ou orange s'il doit raccrocher.",
+     "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/klarna-targets-scam-calls-with-new-verification-tool/"
     }
    ],
    "fonctionnement": "Des modèles d'apprentissage automatique analysent chaque transaction (montant, lieu, appareil, habitudes du client) et attribuent un score de risque en quelques millisecondes. Les réseaux partagent aussi des renseignements sur les menaces entre banques.",
@@ -2756,6 +2942,12 @@
    "client": "Au Brésil et en Inde, payer par QR code ou alias depuis son compte est devenu plus courant que la carte.",
    "exemples": [
     {
+     "date": "2026-11-10",
+     "source": "The Paypers",
+     "texte": "Payments Canada a mis en service le Real-Time Rail, qui règle les paiements en continu 24h/24 sur la norme ISO 20022, avec des services antifraude centraux obligatoires dont la vérification du nom du bénéficiaire.",
+     "url": "https://thepaypers.com/payments/news/payments-canada-launches-real-time-rail-for-247-instant-payments"
+    },
+    {
      "date": "2026-11-05",
      "source": "Payments Canada",
      "texte": "Le budget fédéral 2026 confirme le lancement du Real-Time Rail le lundi 9 novembre : des virements disponibles immédiatement, 24 h/24 et 7 j/7, avec des données riches.",
@@ -2772,19 +2964,13 @@
      "source": "PYMNTS",
      "texte": "Stripe lance Stripe Pay : virements instantanés et gratuits entre entreprises par simple identifiant.",
      "url": "https://www.pymnts.com/news/b2b-payments/2026/stripe-pay-targets-instant-b2b-payments/"
-    },
-    {
-     "date": "2026-10-20",
-     "source": "Mix Vale",
-     "texte": "Le Brésil ouvre le Pix Automatique aux comptes salaires en 2027 et impose un QR Pix sur les factures dès février 2027.",
-     "url": "https://www.mixvale.com.br/2026/10/20/banco-central-libera-pix-automatico-no-salario-e-pune-instituicoes/"
     }
    ],
    "fonctionnement": "Une banque centrale ou un organisme public opère une infrastructure instantanée gratuite ou presque, avec un QR code standard. Banques et fintechs construisent leurs applications dessus.",
    "nom": "Les modèles mondiaux du paiement instantané (Pix, UPI)",
    "opportunite": "Comprendre comment les banques brésiliennes et indiennes ont gagné de l'argent malgré la gratuité (crédit, services aux marchands) aide à préparer la stratégie PI-SPI.",
    "ordre": 14,
-   "situation": "Pix a dépassé la carte dans le e-commerce brésilien et s'enrichit de prélèvements récurrents ; UPI domine les paiements en ligne en Inde. Le Nigeria a mis en service en octobre 2026 une nouvelle plateforme nationale (QR, alias téléphone, ISO 20022). Ce sont les modèles dont PI-SPI s'inspire.",
+   "situation": "Le paiement instantané se généralise : Pix au Brésil, UPI en Inde, Real-Time Rail au Canada (lancé en novembre 2026 avec vérification obligatoire du bénéficiaire), et liens croissants entre systèmes nationaux (FPS–UnionPay, Canada–UE).",
    "statut": "mon",
    "termes": [
     "Pix",
@@ -2820,9 +3006,41 @@
    ]
   },
   {
+   "id": "objets-paiement",
+   "client": "Le client paie d'un geste avec une bague, un bracelet, une montre ou même un accessoire de mode, sans sortir téléphone ni carte.",
+   "exemples": [
+    {
+     "date": "2026-11-10",
+     "source": "Payments Dive",
+     "texte": "Cash App (Block) et la marque Nahmias lancent un bandana en coton et soie intégrant une étiquette sans contact Cash App pour payer d'un simple geste.",
+     "url": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/"
+    }
+   ],
+   "fonctionnement": "Une petite puce sans contact (NFC) est intégrée à l'objet et reliée à un jeton (token) de la carte ou du compte du client. Au terminal, l'objet se comporte comme une carte sans contact ; on peut le bloquer ou le remplacer sans changer de carte.",
+   "nom": "Objets de paiement (bagues, bracelets, accessoires)",
+   "opportunite": "Proposer un bracelet ou un porte-clés de paiement aux couleurs de la banque, adossé à une carte prépayée, pour les jeunes, les étudiants ou les événements (festivals, stades) : un produit d'image peu coûteux qui pousse l'usage du sans contact.",
+   "ordre": 22,
+   "prioritaire": false,
+   "situation": "Bien installé en Europe et aux États-Unis (montres, bagues, bracelets de festival) ; les fintechs en font désormais des objets de mode (baguette et bandana Cash App en 2026). Encore rare dans l'UEMOA, où le sans contact progresse avec les TPE NFC.",
+   "statut": "mon",
+   "termes": [
+    "NFC",
+    "Token",
+    "Wearable",
+    "Sans contact",
+    "Carte prépayée"
+   ]
+  },
+  {
    "id": "open-banking",
    "client": "Avec son accord, le client relie son compte bancaire à d'autres applications : agrégation de comptes, paiement direct depuis le compte, crédit plus rapide.",
    "exemples": [
+    {
+     "date": "2026-11-10",
+     "source": "The Paypers",
+     "texte": "Klarna Bank remplace son ancienne interface d'accès aux comptes (PSD2) par XS2A v2, conforme au standard Berlin Group NextGenPSD2, avec une mise en production visée en novembre 2026.",
+     "url": "https://thepaypers.com/fintech/news/klarna-prepares-xs2a-v2-to-replace-its-legacy-open-banking-api"
+    },
     {
      "date": "2026-11-06",
      "source": "The Paypers",
@@ -2840,11 +3058,6 @@
      "source": "The Paypers",
      "texte": "Zen.com lance le paiement par compte bancaire dans neuf marchés européens grâce à Mastercard.",
      "url": "https://thepaypers.com/payments/news/zencom-launches-pay-by-bank-in-nine-european-markets-via-mastercard"
-    },
-    {
-     "source": "Kolonell",
-     "texte": "État des lieux de l'open banking en Afrique : cadres au Nigeria, Kenya et Afrique du Sud ; consultations en Égypte, au Maroc et dans l'UEMOA.",
-     "url": "https://kolonell.com/fr/blog/open-banking-afrique-2026"
     }
    ],
    "fonctionnement": "La banque expose des interfaces sécurisées (API) qui permettent à des tiers agréés de lire des informations de compte ou d'initier des paiements, uniquement avec le consentement du client.",
@@ -2978,6 +3191,12 @@
    "client": "Le client envoie de l'argent en quelques secondes, 24h/24, d'un compte bancaire vers un wallet mobile money ou une autre banque, avec un simple alias comme le numéro de téléphone.",
    "exemples": [
     {
+     "date": "2026-11-09",
+     "source": "Togo First",
+     "texte": "La directrice générale de Mixx Togo indique que le wallet, connecté à PI-SPI depuis avril, a traité environ 3 milliards FCFA en 39 000 opérations sur ses trois premiers mois.",
+     "url": "https://www.togofirst.com/fr/finance/0911-20585-catherine-savery-dg-de-mixx-togo-dans-cinq-ans-mixx-sera-une-super-app-la-reference-des-services-financiers-au-togo"
+    },
+    {
      "date": "2026-11-06",
      "source": "Financial Afrik",
      "texte": "Après plusieurs jours d'attente, les clients de Wave au Sénégal et en Côte d'Ivoire peuvent envoyer et recevoir de l'argent vers plus de 170 banques, émetteurs de monnaie électronique et microfinances via PI-SPI.",
@@ -2994,12 +3213,6 @@
      "source": "Launch Base Africa",
      "texte": "Les premiers jours connaissent des échecs : débits sans crédit entre Orange Money et Wave et difficultés sur les alias.",
      "url": "https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/"
-    },
-    {
-     "date": "2026-11-02",
-     "source": "Triomphe Mag",
-     "texte": "Moov Money Bénin confirme la gratuité jusqu'à 8 000 FCFA par jour, sans préciser son taux au-delà.",
-     "url": "https://triomphemag.bj/interoperabilite-du-mobile-money-au-benin-pi-spi-entre-en-vigueur-ce-qui-change-reellement-pour-les-utilisateurs-des-ce-2-novembre/"
     }
    ],
    "fonctionnement": "La BCEAO exploite une plateforme centrale qui relie banques, émetteurs de monnaie électronique et établissements de paiement. Les fonds sont transférés et réglés en temps réel, et un QR code commun permet aussi de payer chez les marchands.",
@@ -3149,6 +3362,18 @@
    "client": "Des transferts internationaux plus rapides et moins chers, sans changer d'application : le client garde son wallet ou sa carte habituels.",
    "exemples": [
     {
+     "date": "2026-11-10",
+     "source": "The Block",
+     "texte": "Visa permet désormais à ses émetteurs et acquéreurs de régler en stablecoins sur la blockchain Monad, qui rejoint notamment Ethereum, Solana, Stellar et Base.",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201"
+    },
+    {
+     "date": "2026-11-09",
+     "source": "PYMNTS",
+     "texte": "La banque américaine PNC ouvre à ses clients entreprises et institutionnels la réception de paiements en USDC sur Ethereum, grâce à la technologie de Coinbase.",
+     "url": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/"
+    },
+    {
      "date": "2026-11-06",
      "source": "NewsBTC",
      "texte": "BVNK permet aux entreprises éligibles (hors Espace économique européen) d'émettre, rembourser, détenir et transférer l'Open USD à parité avec le dollar sur Ethereum, Solana, Base et Tempo.",
@@ -3159,18 +3384,6 @@
      "source": "TechCabal",
      "texte": "Bitget Wallet ajoute des numéros de compte en dollars et en euros : les virements reçus de clients étrangers sont convertis en stablecoins dans le wallet.",
      "url": "https://techcabal.com/2026/11/06/bitget-wallet-integrates-bank-rails-to-give-african-freelancers-and-earners-direct-usd-and-eur-accounts/"
-    },
-    {
-     "date": "2026-11-05",
-     "source": "The Block",
-     "texte": "Depuis le 5 novembre, les utilisateurs Galaxy éligibles aux États-Unis peuvent acheter, garder, envoyer et recevoir de l'USDC sur Solana directement dans Samsung Wallet, avec des envois possibles vers des comptes bancaires dans plus de 60 pays.",
-     "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523"
-    },
-    {
-     "date": "2026-11-04",
-     "source": "WeeTracker",
-     "texte": "La fintech africaine de stablecoins Yellow Card acquiert le brésilien GoMoney, ce qui lui ouvre les encaissements et paiements en réals via Pix avec règlement en stablecoin.",
-     "url": "https://weetracker.com/2026/11/05/yellow-card-acquires-brazilian-crypto-firm-gomoney/"
     }
    ],
    "fonctionnement": "Un stablecoin est une cryptomonnaie adossée à une devise (souvent le dollar). Les réseaux s'en servent en arrière-plan pour régler les transactions entre pays en quelques minutes, au lieu de passer par plusieurs banques correspondantes.",
@@ -3191,6 +3404,12 @@
    "client": "Le client paie en approchant son téléphone ou sa montre du terminal, sans sortir sa carte, et achète en ligne sans saisir son numéro de carte.",
    "exemples": [
     {
+     "date": "2026-11-10",
+     "source": "The Paypers",
+     "texte": "Selon des sources du secteur, KakaoBank et Toss Bank s'apprêtent à ajouter leurs cartes de débit à Apple Pay d'ici fin 2026, peut-être dès novembre pour KakaoBank.",
+     "url": "https://thepaypers.com/payments/news/kakaobank-and-toss-bank-reportedly-prepare-to-launch-apple-pay"
+    },
+    {
      "date": "2026-11-03",
      "source": "Mastercard / Hespress",
      "texte": "Mastercard accompagne le lancement de Samsung Pay au Maroc, d'abord chez Attijariwafa bank et l'offre Simple, pour payer sans contact avec un smartphone Galaxy.",
@@ -3207,12 +3426,6 @@
      "source": "Tech Times",
      "texte": "Google Pay ouvre au Nigeria avec FirstBank, GTBank, Zenith et UBA, via Mastercard et Interswitch.",
      "url": "https://www.techtimes.com/articles/329675/20261029/google-pay-goes-live-nigeria-nfc-terminal-scarcity-limits-tap-pay-reach.htm"
-    },
-    {
-     "date": "2026-10-27",
-     "source": "Gazeta.uz",
-     "texte": "En Ouzbékistan, Apple Pay et Google Pay arrivent pour les cartes Visa et Mastercard ; les cartes nationales attendent leur tokenisation.",
-     "url": "https://www.gazeta.uz/en/2026/10/27/google-apple-pay-uzbekistan/"
     }
    ],
    "fonctionnement": "Le numéro de carte est remplacé par un « token », un numéro de substitution lié à un appareil ou à un commerçant. Chaque paiement génère un cryptogramme unique : un token volé ne sert à rien ailleurs. Les wallets comme Apple Pay ou Google Pay reposent sur ce mécanisme.",
@@ -3236,6 +3449,18 @@
    "client": "Le client envoie ou reçoit de l'argent d'un autre pays plus vite et moins cher, parfois sans passer par le dollar, directement vers un compte ou un wallet.",
    "exemples": [
     {
+     "date": "2026-11-10",
+     "source": "PYMNTS",
+     "texte": "Bottomline, fournisseur de logiciels de paiement pour banques et entreprises, a effectué ses premiers transferts transfrontaliers réels en USDC via son Global Payments Hub.",
+     "url": "https://www.pymnts.com/news/cross-border-payments/2026/bottomline-marks-first-cross-border-stablecoin-transactions/"
+    },
+    {
+     "date": "2026-11-10",
+     "source": "Launch Base Africa",
+     "texte": "La fintech sud-africaine Lumepay annonce une levée de 6 millions de dollars et environ 10 millions de liquidités pour ses paiements transfrontaliers entre entreprises.",
+     "url": "https://launchbaseafrica.com/2026/11/10/south-african-fintech-lumepay-raises-6m-pre-seed-to-build-africas-institutional-cross-border-payments-rails/"
+    },
+    {
      "date": "2026-11-04",
      "source": "WeeTracker",
      "texte": "La fintech sud-africaine CrissCross (groupe Stitch), qui gère encaissements, paiements et change dans plus de 30 marchés africains via une seule API, reçoit un investissement de Circle Ventures.",
@@ -3246,18 +3471,6 @@
      "source": "The Paypers",
      "texte": "Yolat 2.0 ajoute des comptes USD, GBP, EUR et CAD pour les Africains au pays et à l'étranger.",
      "url": "https://thepaypers.com/payments/news/yolat-launches-yolat-20-with-usd-gbp-eur-and-cad-accounts"
-    },
-    {
-     "date": "2026-11-02",
-     "source": "The Paypers",
-     "texte": "Les membres du réseau Thunes peuvent désormais envoyer instantanément jusqu'à 10 000 dollars par jour et par bénéficiaire vers les cartes UnionPay de 79 banques chinoises, via une seule API.",
-     "url": "https://thepaypers.com/payments/news/thunes-and-unionpay-international-launch-instant-payouts-to-china"
-    },
-    {
-     "date": "2026-11-02",
-     "source": "Pulse Nigeria",
-     "texte": "FirstBank (Nigeria) propose PAPSS dans ses canaux numériques : le client envoie des nairas qui arrivent en monnaie locale dans un autre pays africain en environ deux minutes.",
-     "url": "https://www.pulse.ng/story/africa-pays-africa-how-firstbank-is-powering-borderless-banking-with-papss-2026110213590252646"
     }
    ],
    "fonctionnement": "Les banques se branchent sur de nouveaux réseaux (CIPS chinois, PAPSS africain, rails de Visa/Mastercard ou stablecoins) qui convertissent directement une monnaie locale vers une autre et règlent l'opération en quelques secondes ou heures.",
@@ -3278,14 +3491,6 @@
  ],
  "echeances": [
   {
-   "id": "2026-11-02-pispi-obligatoire",
-   "date": "2026-11-02",
-   "detail": "Transferts interopérables entre particuliers via PI-SPI, gratuits jusqu'à 8 000 FCFA par jour au niveau national ; plafond des wallets porté à 4 millions FCFA.",
-   "source": "Togo First",
-   "titre": "PI-SPI obligatoire et nouveaux plafonds mobile money",
-   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
-  },
-  {
    "id": "2026-11-04-kenya-licences-vasp",
    "date": "2026-11-04",
    "detail": "Les prestataires d'actifs virtuels doivent déposer leur demande de licence au titre des VASP Regulations 2026.",
@@ -3300,6 +3505,14 @@
    "source": "allAfrica",
    "titre": "Cyber Africa Forum à Cotonou",
    "url": "https://fr.allafrica.com/stories/202610220156.html"
+  },
+  {
+   "id": "2026-11-17-cash-app-bandana",
+   "date": "2026-11-17",
+   "detail": "Le bandana sans contact Cash App x Nahmias est vendu 85 dollars, uniquement via Cash App, à partir du 17 novembre.",
+   "source": "Payments Dive",
+   "titre": "Bandana de paiement Cash App en vente",
+   "url": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/"
   },
   {
    "id": "2026-11-17-cma-nfc-iphone",
@@ -3348,6 +3561,14 @@
    "source": "HKMA",
    "titre": "Hong Kong : FPS relié au QR UnionPay",
    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/"
+  },
+  {
+   "id": "2026-12-01-kakaobank-apple-pay",
+   "date": "2026-12-01",
+   "detail": "Lancement visé d'ici fin 2026 selon des sources du secteur, peut-être dès novembre pour KakaoBank ; date non confirmée par les banques.",
+   "source": "The Paypers",
+   "titre": "Apple Pay chez KakaoBank et Toss Bank (Corée)",
+   "url": "https://thepaypers.com/payments/news/kakaobank-and-toss-bank-reportedly-prepare-to-launch-apple-pay"
   },
   {
    "id": "2026-12-01-trustech-paris",
