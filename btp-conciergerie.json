@@ -1,8 +1,116 @@
 {
- "derniereMaj": "2026-11-11T04:59:38Z",
+ "derniereMaj": "2026-11-14T04:58:43Z",
  "btp": {
-  "synthese": "Cette semaine, la qualité et le financement des infrastructures dominent : au Bénin, un nouveau modèle d'entretien des routes payé selon leur état réel se prépare et un premier bus électrique sort de Glo-Djigbé, tandis qu'en Afrique les grands chantiers ferroviaires avancent grâce aux bailleurs.",
+  "synthese": "Au Bénin, les chantiers publics se poursuivent (écoles agricoles de Kétou et Zangnanado, facilitation du transit au port) sur fond de coupures d'électricité ; dans la région, la Côte d'Ivoire et le Ghana lancent de grands programmes de routes, de ports et de barrages.",
   "actus": [
+   {
+    "date": "2026-11-13",
+    "zone": "Bénin",
+    "titre": "Écoles agricoles de Kétou et Zangnanado : environ 12 milliards FCFA de travaux",
+    "resume": "Selon les informations de La Marina (non encore officielles), la construction des deux écoles professionnelles agricoles a été confiée à une entreprise chinoise, China Jiangxi International, pour près de 5,95 milliards FCFA à Kétou et 6,2 milliards à Zangnanado, avec 15 mois de délai pour chacune.",
+    "retenir": "Deux gros chantiers publics s'ouvrent dans le Plateau et le Zou : des occasions de sous-traitance (matériaux, main-d'œuvre, logistique) pour les entreprises locales.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/11/13/benin-ce-que-va-couter-la-construction-des-ecoles-agricoles-de-ketou-et-zangnanado/"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Bénin",
+    "titre": "Transit et transport : quatre chantiers pour faciliter le commerce",
+    "resume": "Le Comité national de facilitation des échanges s'est réuni le 11 novembre à Cotonou. Il a retenu quatre priorités, dont une garantie unique pour les marchandises en transit et un meilleur raccordement au guichet unique du commerce extérieur, avec l'appui de la CNUCED (agence de l'ONU pour le commerce) et de l'Union européenne.",
+    "retenir": "Des formalités plus simples au port pourraient réduire les délais et les coûts d'importation des matériaux de construction.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/transit-transport-et-digitalisation-le-benin-engage-quatre-chantiers-pour-moderniser-ses-echanges-commerciaux-2/"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Bénin",
+    "titre": "Salon Transport Logistique Cotonou : le port mise sur les corridors régionaux",
+    "resume": "La 2e édition du salon TLC se tient du 12 au 14 novembre au Palais des Congrès, organisée notamment par le Port autonome de Cotonou. Les organisateurs visent environ 1 000 participants, avec un accent sur les routes vers le Niger, le Burkina Faso, le Mali et le Tchad.",
+    "retenir": "Un bon lieu pour rencontrer transitaires et transporteurs qui acheminent ciment, fer et engins.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/messages/2e-edition-du-salon-transport-logistique-cotonou-tlc-le-port-de-cotonou-renforce-ses-ambitions-sur-les-corridors-ouest-africains"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Afrique",
+    "titre": "Métro d'Abidjan : chantier aux deux tiers, ouverture visée en janvier 2029",
+    "resume": "La ligne de 37,4 km est réalisée à 66 %. Le gouvernement ivoirien attend plus de 5 000 emplois, dont 2 000 permanents, et 540 000 voyageurs par jour, pour un coût d'environ 1 166 milliards FCFA.",
+    "retenir": "Le plus grand chantier urbain de la région avance : une référence pour les projets de transport de masse à Cotonou.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1311-60781-abidjan-metro-project-to-create-over-5-000-jobs-and-carry-540-000-passengers-daily"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Afrique",
+    "titre": "Côte d'Ivoire : 3 000 km de routes bitumées et 300 km d'autoroutes d'ici 2030",
+    "resume": "Le ministre de l'Équipement a présenté ces objectifs dans le cadre du plan national de développement 2026-2030, qui réserve environ 38 000 milliards FCFA aux infrastructures.",
+    "retenir": "Un marché routier très important chez le voisin, attirant pour les entreprises et bureaux d'études de la sous-région.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news/1311-60807-cote-divoire-plans-3-300-km-of-new-paved-roads-and-highways-by-2030"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Afrique",
+    "titre": "Togo : le Japon offre 2,4 milliards FCFA pour former à l'entretien des routes",
+    "resume": "Un don de l'agence japonaise JICA, signé le 12 novembre à Lomé, servira à équiper le centre régional de formation à l'entretien routier (CERFER).",
+    "retenir": "Ce centre régional forme aussi des techniciens d'autres pays : une piste de formation pour les équipes béninoises.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/infrastructures/1311-20634-entretien-routier-le-togo-et-le-japon-signent-un-accord-de-financement-de-2-4-milliards-fcfa"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Afrique",
+    "titre": "Ghana : 1 milliard de dollars pour relancer le barrage de Pwalugu",
+    "resume": "Arrêté depuis des années, ce chantier confié au chinois Sinohydro doit être achevé fin 2030, avec une centrale de 70 mégawatts et plus de 25 000 hectares irrigués ; le mode de financement n'est pas encore précisé.",
+    "retenir": "Les grands projets bloqués peuvent repartir : un rappel de l'importance d'un financement bouclé avant le démarrage.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-industry/1311-60785-ghana-plans-1-billion-to-complete-long-delayed-pwalugu-dam-by-2030"
+   },
+   {
+    "date": "2026-11-12",
+    "zone": "Bénin",
+    "titre": "Fonds industriel de 100 milliards FCFA : une aide au crédit, pas une subvention",
+    "resume": "Le gouvernement précise que ce fonds, créé le 4 novembre, servira surtout à garantir les prêts bancaires et à en réduire le coût. Il aura trois guichets, dont un pour des « usines prêtes à l'emploi » ; sa mise en route reste à faire.",
+    "retenir": "Les entreprises qui veulent construire ou équiper une usine pourront obtenir plus facilement un prêt : à suivre dès l'ouverture des guichets.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/societe/article/20261112-benin-les-clarifications-du-gouvernement-sur-le-fonds-industriel-dote-de-100-milliards-fcfa"
+   },
+   {
+    "date": "2026-11-12",
+    "zone": "Afrique",
+    "titre": "Ghana : un nouveau quai de 98 millions de dollars au port de Takoradi",
+    "resume": "Le président Mahama a lancé le 10 novembre la construction d'un quai de 300 m capable d'accueillir des navires de 75 000 tonnes, financé par l'autorité portuaire ghanéenne pour absorber la hausse des minerais et du vrac.",
+    "retenir": "La concurrence entre ports du golfe de Guinée s'intensifie, Cotonou compris.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1211-60763-ghana-starts-98-41-million-berth-at-takoradi-its-main-export-port-to-handle-rising-cargo-volumes"
+   },
+   {
+    "date": "2026-11-12",
+    "zone": "Monde",
+    "titre": "Engins routiers : Komatsu rachète Roadtec et Carlson pour 75 millions de dollars",
+    "resume": "Le japonais va reprendre la branche routière de l'américain Astec (finisseurs et machines d'enrobé), une opération prévue pour le 1er janvier 2027.",
+    "retenir": "Le marché des engins de route se concentre : à surveiller pour les pièces et le service après-vente des machines en Afrique.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/komatsu-to-buy-roadtec-and-carlson-from-astec-for-75m/8136553.article"
+   },
+   {
+    "date": "2026-11-12",
+    "zone": "Monde",
+    "titre": "Hong Kong durcit les contrôles de qualité après des aciers mal posés",
+    "resume": "Après des écarts constatés dans les armatures d'un immeuble, le gouvernement a créé un groupe de travail : contrôles renforcés visés pour janvier 2027 et amendes beaucoup plus lourdes en cas de non-respect des plans.",
+    "retenir": "Le contrôle des armatures avant coulage reste le point clé de la qualité d'un ouvrage en béton.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/hong-kong-government-targets-construction-quality-with-new-taskforce/8136516.article"
+   },
+   {
+    "date": "2026-11-11",
+    "zone": "Bénin",
+    "titre": "Coupures d'électricité : le gouvernement explique et prévient qu'elles peuvent durer",
+    "resume": "Le porte-parole du gouvernement relie les délestages aux difficultés d'approvisionnement venant du Nigeria. Le Bénin ne produirait qu'environ 40 % de son électricité et importe le reste ; d'autres sources sont recherchées, dont la centrale de Dogo-Bis, et les perturbations pourraient durer quelques mois.",
+    "retenir": "Sur les chantiers, prévoir groupes électrogènes et carburant dans les devis et les plannings.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/societe/article/20261111-coupures-d-electricite-au-benin-les-explications-du-porte-parole-du-gouvernement"
+   },
    {
     "date": "2026-11-10",
     "zone": "Bénin",
@@ -434,118 +542,107 @@
     "retenir": "Le besoin en usines et en énergie soutient les chantiers, mais le coût de l'électricité pèse sur les matériaux produits sur place.",
     "source": "La Nation",
     "url": "https://lanation.bj/actualites/transformation-industrielle-au-benin-un-modele-a-consolider-au-dela-des-progres"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Monde",
-    "titre": "Matériel de chantier : Terex va racheter le belge Keestrack",
-    "resume": "Terex a signé un accord définitif pour acquérir ce fabricant de concasseurs et de cribles mobiles, présent dans plus de 65 pays. La conclusion est attendue au dernier trimestre 2026 ; le montant n'est pas communiqué.",
-    "retenir": "À garder en tête pour le choix des fournisseurs de concasseurs et leur service après-vente.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/terex-to-acquire-keestrack/8135299.article"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Bénin",
-    "titre": "Énergie solaire : AMEA Power signe pour une centrale de 100 MW avec batteries",
-    "resume": "Le groupe AMEA Power a signé avec l'État béninois un protocole d'accord pour une centrale solaire de 100 mégawatts couplée à un stockage par batteries. Le montant, le lieu et le calendrier n'ont pas encore été rendus publics.",
-    "retenir": "Un nouveau grand chantier énergétique se profile : à suivre pour les sous-traitants en génie civil, raccordement et clôtures.",
-    "source": "La Marina",
-    "url": "https://lamarina.bj/2026/10/30/energie-solaire-amea-power-fait-son-entree-sur-le-marche-beninois-avec-un-projet-de-100-mw/"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Bénin",
-    "titre": "Programme BRIC de la Banque mondiale : cinq indicateurs de financement bientôt révisés",
-    "resume": "La Banque mondiale envisage de revoir cinq des sept indicateurs qui déclenchent ses versements pour ce programme de 300 millions de dollars destiné à sept communes. Sur environ 97 milliards FCFA de transferts attendus de l'État entre 2023 et 2025, près de 41 milliards ont été effectivement reçus.",
-    "retenir": "Les communes concernées pourraient accélérer leurs travaux une fois les règles assouplies : un signal pour les entreprises qui visent les marchés communaux.",
-    "source": "La Marina",
-    "url": "https://lamarina.bj/2026/10/30/benin-cinq-des-sept-indicateurs-de-financement-du-programme-bric-en-passe-detre-revises/"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Bénin",
-    "titre": "Pétrole de Sèmè : 330 000 barils chargés début novembre",
-    "resume": "Environ 330 000 barils de brut du champ en mer de Sèmè doivent être chargés les 1er et 2 novembre sur un pétrolier à destination des Pays-Bas, Shell Trading étant retenu comme acheteur pour trois ans. La production actuelle tourne autour de 3 000 barils par jour.",
-    "retenir": "La relance pétrolière peut générer des besoins en logistique portuaire, maintenance et installations à terre.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-le-chargement-de-330-000-barils-de-seme-prevu-debut-novembre/"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Bénin",
-    "titre": "Électricité : le Bénin reste dépendant du Nigeria et du Ghana",
-    "resume": "La SBEE (Société béninoise d'énergie électrique) et la SBPE (Société béninoise de production d'électricité) expliquent les coupures récentes par des restrictions d'approvisionnement venues du Ghana et du Nigeria. Une étude de la BAD citée par l'article indique 688 GWh produits localement en 2024 contre 960 GWh importés.",
-    "retenir": "Sur les chantiers, prévoir groupes électrogènes ou solaire de secours reste prudent tant que les importations pèsent autant.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/electricite-au-benin-dix-ans-de-promesses-de-patrice-talon-et-toujours-le-nigeria-et-le-ghana-a-la-rescousse/"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Afrique",
-    "titre": "Sommet des think tanks africains à Cotonou : l'électricité au cœur des débats",
-    "resume": "Réunis à Cotonou du 28 au 30 octobre, chercheurs et décideurs ont plaidé pour des politiques énergétiques tournées vers la production. Selon l'ACBF (Fondation pour le renforcement des capacités en Afrique), près de 600 millions de personnes restent sans électricité en Afrique subsaharienne.",
-    "retenir": "L'énergie reste le premier besoin d'infrastructure du continent, donc un marché durable pour le BTP.",
-    "source": "La Nation",
-    "url": "https://lanation.bj/actualites/12e-sommet-des-think-tanks-dafrique-faire-de-lelectricite-un-levier-de-production-et-de-croissance"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Monde",
-    "titre": "Autriche : Porr et Strabag reconstruisent un pont autoroutier de 1,8 km",
-    "resume": "Les deux groupes remplacent le Luegbrücke, sur l'autoroute du Brenner, pour 217 millions d'euros, avec des piles allant jusqu'à 65 mètres de haut. Le premier ouvrage doit être terminé fin 2027 et l'ensemble en 2030.",
-    "retenir": "Un exemple de reconstruction d'ouvrage sans couper le trafic, technique de plus en plus demandée.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/images-the-tricky-reconstruction-of-a-key-alpine-bridge/8135256.article"
-   },
-   {
-    "date": "2026-10-29",
-    "zone": "Afrique",
-    "titre": "Nigeria : environ 631 milliards de nairas pour neuf projets routiers",
-    "resume": "Le conseil exécutif fédéral a validé ces travaux, dont 95 km dans l'État de Kogi et 81 km dans celui d'Ekiti. Le financement de l'autoroute Lagos-Abidjan, qui traverse le Bénin, reste aussi discuté.",
-    "retenir": "L'autoroute Lagos-Abidjan concerne directement le Bénin : ses étapes de financement méritent d'être suivies.",
-    "source": "allAfrica / Premium Times",
-    "url": "https://allafrica.com/stories/202610290165.html"
-   },
-   {
-    "date": "2026-10-29",
-    "zone": "Monde",
-    "titre": "San Francisco : Jacobs et PCL sur une station d'épuration à 1 milliard de dollars",
-    "resume": "Les deux groupes, associés, sont retenus pour moderniser une usine qui traite près de 80 % des eaux usées de la ville. Elle doit rester en service pendant le chantier.",
-    "retenir": "Travailler sans arrêter un équipement en service est une compétence recherchée, aussi utile pour les ouvrages d'eau au Bénin.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/jacobs-and-pcl-share-1bn-san-francisco-wastewater-project/8135166.article"
-   },
-   {
-    "date": "2026-10-29",
-    "zone": "Bénin",
-    "titre": "Quatre centrales solaires : 30 millions d'euros bouclés pour le projet IPP50",
-    "resume": "AXIAN, la CDC Bénin (Caisse des dépôts), l'IFC (filiale de la Banque mondiale) et Proparco ont signé 30 millions d'euros de financement, sur un coût total de 45 millions, pour des centrales à Natitingou, Djougou, Parakou et Bohicon. Elles totaliseront 62 MWc et doivent entrer en service au premier trimestre 2028.",
-    "retenir": "Premier projet solaire du pays porté par un producteur privé : quatre chantiers en régions, avec des besoins locaux en terrassement et génie civil.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-30-millions-deuros-mobilises-pour-quatre-centrales-solaires/"
-   },
-   {
-    "date": "2026-10-29",
-    "zone": "Afrique",
-    "titre": "Banque mondiale : 748 millions de citadins en plus attendus en Afrique subsaharienne",
-    "resume": "Présenté à Abidjan, un rapport de la Banque mondiale estime que la région comptera 748 millions de citadins supplémentaires en 25 ans et que ses villes devront créer environ 15 millions d'emplois par an. La Côte d'Ivoire veut s'appuyer sur l'urbanisation pour accélérer sa croissance.",
-    "retenir": "La demande en logements, routes urbaines et réseaux va exploser : une tendance de fond pour tout le secteur.",
-    "source": "Koaci",
-    "url": "https://www.koaci.com/article/2026/10/29/cote-divoire/economie/cote-divoire-presentation-a-abidjan-du-rapport-de-la-bm-le-gouvernement-ivoirien-mise-sur-lurbanisation-pour-accelerer-la-croissance-et-creer-des-emplois_202104.html"
-   },
-   {
-    "date": "2026-10-29",
-    "zone": "Monde",
-    "titre": "Pologne : Vinci remporte la 2e phase de la plus grande salle symphonique du pays",
-    "resume": "Warbud, filiale polonaise de Vinci Construction, construira pour la ville de Varsovie une salle de 1 877 places et rénovera deux bâtiments historiques, pour 149 millions d'euros. La livraison est prévue en 2030.",
-    "retenir": "Les grands groupes français continuent de gagner de gros équipements culturels à l'étranger.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/vinci-wins-second-phase-of-polands-largest-symphony-hall/8135151.article"
    }
   ]
  },
  "presse": [
+  {
+   "date": "2026-11-14",
+   "synthese": "Le carburant et l'électricité dominent l'actualité : contrôles dans les stations, ventes en hausse depuis le recul de l'essence de contrebande, et délestages liés au Nigeria. Côté économie, le gouvernement précise le rôle du fonds industriel et prépare le budget 2027.",
+   "articles": [
+    {
+     "date": "2026-11-13",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Carburant : des contrôles dans les stations-service",
+     "resume": "Après une plainte publiée sur X à propos de quantités servies trop faibles, le gouvernement annonce des vérifications dans certaines stations. En octobre, les distributeurs avaient déjà été sommés de rétablir l'approvisionnement, surtout dans le Nord.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-des-controles-annonces-dans-les-stations-service-apres-des-accusations-dabus/"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "Le Matinal",
+     "titre": "Files d'attente à la pompe : le circuit officiel prend le relais du « kpayo »",
+     "resume": "Avec la baisse de l'essence de contrebande venue du Nigeria, les ventes en station ont plus que doublé, dépassant 600 000 litres par jour. Les dépôts pétroliers assurent avoir des stocks pour 3 à 6 mois.",
+     "url": "https://lematinal.bj/tensions-autour-du-carburant-au-benin-le-formel-a-lheure-du-grand-tournant/"
+    },
+    {
+     "date": "2026-11-12",
+     "journal": "Banouto",
+     "titre": "Fonds industriel de 100 milliards : ce qu'il faut comprendre",
+     "resume": "Le gouvernement précise que ce fonds n'est pas distribué directement : il garantira et rendra moins chers les prêts bancaires des industriels, via trois guichets encore à mettre en place.",
+     "url": "https://www.banouto.bj/societe/article/20261112-benin-les-clarifications-du-gouvernement-sur-le-fonds-industriel-dote-de-100-milliards-fcfa"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "La Nation",
+     "titre": "Soja : le commerce reste libre, rappelle le ministère",
+     "resume": "Les « droits d'approvisionnement » remis à 23 usines par l'interprofession sont jugés contraires aux règles. La campagne est ouverte depuis le 6 novembre et l'exportation ne sera permise qu'à partir du 15 février 2027.",
+     "url": "https://lanation.bj/economie/filiere-soja-que-change-lattribution-de-droits-dapprovisionnement-a-23-industriels"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "La Nation",
+     "titre": "Abomey, première commune à adopter son plan aligné sur Bénin 2060",
+     "resume": "Le plan de développement communal de 4e génération, prévu pour sept ans, a été validé à l'unanimité le 12 novembre au niveau du département du Zou.",
+     "url": "https://lanation.bj/actualites/developpement-communal-abomey-adopte-son-pdc-4-aligne-sur-la-vision-benin-2060"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "Bénin Web TV",
+     "titre": "Éducation : un budget passé à 598 milliards FCFA",
+     "resume": "La revue annuelle du secteur s'est ouverte le 12 novembre à Cotonou. Le budget de l'éducation est passé de 344 milliards en 2022 à 598 milliards en 2026, enseignement technique compris.",
+     "url": "https://beninwebtv.bj/benin-lancement-a-cotonou-de-la-revue-sectorielle-conjointe-de-leducation-autour-dun-budget-porte-a-598-milliards-de-fcfa/"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "Bénin Web TV",
+     "titre": "Plus de 100 hectares d'espaces verts à entretenir",
+     "resume": "À la Journée verte, l'agence des paysages (ANAP) a indiqué que les surfaces végétalisées sont passées d'environ 40 à plus de 100 hectares en quatre ans, pour près d'un milliard FCFA d'entretien par an.",
+     "url": "https://beninwebtv.bj/benin-espaces-vegetalises-100-hectares-entretien-2026/"
+    },
+    {
+     "date": "2026-11-12",
+     "journal": "Bénin Web TV",
+     "titre": "Les députés se forment au contrôle de la défense",
+     "resume": "Le président de l'Assemblée a ouvert le 11 novembre à Grand-Popo un séminaire sur le rôle des députés dans le suivi des dépenses et de la politique de défense.",
+     "url": "https://beninwebtv.bj/benin-djogbenou-controle-parlementaire-defense-securite/"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "Le Matinal",
+     "titre": "Caisse des dépôts : jusqu'à 30 millions de dollars pour les entreprises de femmes",
+     "resume": "La CDC Bénin prépare un emprunt obligataire « social » sur cinq ans, en francs CFA, pour financer des PME dirigées par des femmes ; le montant final reste à fixer.",
+     "url": "https://lematinal.bj/cdc-benin-30-millions-de-dollars-pour-lentrepreneuriat-feminin/"
+    },
+    {
+     "date": "2026-11-11",
+     "journal": "Le Matinal",
+     "titre": "Budget 2027 : les députés se préparent",
+     "resume": "Un séminaire de deux jours ouvert le 9 novembre à Porto-Novo, avec le PNUD, aide les députés à examiner le projet de loi de finances 2027 (recettes, dépenses, dette, réformes fiscales).",
+     "url": "https://lematinal.bj/projet-de-budget-2027au-benin-les-deputes-se-preparent-a-lexamen/"
+    },
+    {
+     "date": "2026-11-12",
+     "journal": "Banouto",
+     "titre": "Climat : 15,5 millions de dollars pour neuf communes",
+     "resume": "Un projet de résilience lancé le 11 novembre à Sèmè-Kpodji, avec la Suisse, la Belgique et le PNUD, concerne notamment Malanville, Djougou et Savalou, pour environ 31 700 bénéficiaires d'ici 2031.",
+     "url": "https://www.banouto.bj/environnement/article/20261112-resilience-climatique-au-benin-pourquoi-plus-de-9-milliards-fcfa-sont-mobilises-pour-neuf-communes"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "gouv.bj",
+     "titre": "Intelligence artificielle : le Bénin choisi comme premier pays pilote",
+     "resume": "À Wuhan (Chine), la ministre de l'Enseignement supérieur a signé un accord qui fait du Bénin le premier pays pilote d'un réseau de formation des jeunes à l'IA, avec l'appui de l'UNESCO.",
+     "url": "https://www.gouv.bj/article/3738/intelligence-artificielle-innovation-benin-designe-premier-pays-pilote-initiative-reseau-consacree-ia/"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "SRTB",
+     "titre": "Football : les Guépards battent la Centrafrique 4-1",
+     "resume": "Victoire le 12 novembre à Abidjan en qualifications pour la CAN 2027 ; le Bénin reste en tête de son groupe avec 7 points avant le match retour du 16 novembre.",
+     "url": "https://srtb.bj/eliminatoires-can-2027-le-benin-surclasse-la-centrafrique-4-1-et-garde-la-tete-du-groupe-f/"
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "synthese": "L'économie domine avec deux rapports : la Banque mondiale salue une forte croissance mais pointe le manque d'emplois salariés et la hausse de la dette, et le FMI (Fonds monétaire international) demande de mieux surveiller les entreprises publiques. Côté vie pratique, les retraités ont une semaine de plus pour leur preuve de vie.",
@@ -1197,96 +1294,6 @@
      "url": "https://www.koaci.com/article/2026/10/29/cote-divoire/economie/cote-divoire-presentation-a-abidjan-du-rapport-de-la-bm-le-gouvernement-ivoirien-mise-sur-lurbanisation-pour-accelerer-la-croissance-et-creer-des-emplois_202104.html"
     }
    ]
-  },
-  {
-   "date": "2026-10-28",
-   "synthese": "Le nouveau Code de la route (permis et assurance pour les motos) passe au Sénat, Porto-Novo pleure le roi Toffa IX et un audit révèle des marchés impayés depuis 14 ans à la mairie de Cotonou ; dans la région, le Niger accuse le Tchad d'une frappe de drone.",
-   "articles": [
-    {
-     "date": "2026-10-27",
-     "journal": "La Nation",
-     "titre": "Code de la route : permis et assurance obligatoires pour les motos",
-     "resume": "Le texte voté à l'unanimité le 26 octobre remplace le code de 1956 : permis et assurance pour les motocyclistes, limites de vitesse près des écoles et hôpitaux, pauses obligatoires pour les chauffeurs de longue distance. Il passe maintenant devant le Sénat.",
-     "url": "https://lanation.bj/actualites/assemblee-nationale-le-code-de-la-route-adopte-avec-de-grandes-innovations-permis-de-conduire-et-assurance-moto-obligatoires"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "La Nouvelle Tribune",
-     "titre": "Porto-Novo rend hommage au roi Toffa IX",
-     "resume": "Le roi de Porto-Novo, Toffa IX, est décédé le 21 octobre. Guides touristiques, visiteurs étrangers et personnalités saluent un gardien de la mémoire de la ville.",
-     "url": "https://lanouvelletribune.info/2026/10/benin-apres-le-deces-de-toffa-ix-les-hommages-se-multiplient-a-porto-novo/"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "Banouto",
-     "titre": "Le Niger accuse le Tchad, avec l'appui de la France, d'une frappe de drone",
-     "resume": "Niamey dit qu'une frappe le 24 octobre a tué deux civils, convoque l'ambassadeur du Tchad et saisit l'ONU et l'Union africaine. Seule la version nigérienne est connue pour l'instant.",
-     "url": "https://www.banouto.bj/politique/article/20261027-niger-le-gouvernement-accuse-le-tchad-dune-frappe-de-drone-et-saisit-l-onu"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "Le Matinal",
-     "titre": "Mairie de Cotonou : des marchés impayés depuis 14 ans",
-     "resume": "L'audit du FADeC relève 18 marchés non soldés fin 2025, pour environ 440 millions FCFA, et un faible taux d'exécution des crédits.",
-     "url": "https://lematinal.bj/resultats-de-laudit-fadec-2025-a-cotonou-des-marches-en-suspens-depuis-14-ans/"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "Gouvernement du Bénin",
-     "titre": "Le FADeC entre dans sa 6e phase",
-     "resume": "Lancement à Cotonou d'une nouvelle phase du fonds qui finance les infrastructures de base des 77 communes, avec un volet spécial pour 27 communes du Nord.",
-     "url": "https://www.gouv.bj/article/3720/lancement-fadec-benin-renforce-engagement-developpement-communal-cohesion-sociale/"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "Matin Libre",
-     "titre": "Port de Cotonou ouvert le week-end : la mesure à l'épreuve",
-     "resume": "Depuis le 24 octobre, l'enlèvement des marchandises est possible samedis, dimanches et jours fériés. Des observateurs restent prudents tant que tous les services, douane comprise, ne sont pas réellement présents.",
-     "url": "https://matinlibre.com/2026/10/27/port-de-cotonou-la-fin-des-week-ends-et-jours-feries-a-lepreuve-des-faits/"
-    },
-    {
-     "date": "2026-10-26",
-     "journal": "Bénin Web TV",
-     "titre": "Cyber Africa Forum à Cotonou les 16 et 17 novembre",
-     "resume": "Plus de 1 500 décideurs publics et privés sont attendus au Sofitel de Cotonou autour de la confiance numérique.",
-     "url": "https://beninwebtv.bj/cotonou-le-cyber-africa-forum-prevu-les-16-et-17-novembre/"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "24 Heures au Bénin",
-     "titre": "Le Bénin soutient une Émiratie pour diriger l'ONU",
-     "resume": "Cotonou appuie la candidature de la diplomate émiratie Lana Nusseibeh au poste de Secrétaire général des Nations unies, juste après la visite du président Wadagni aux Émirats.",
-     "url": "https://www.24haubenin.info/?Le-Benin-soutient-la-candidature-de-Lana-Nusseibeh-a-l-ONU"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "Banouto",
-     "titre": "Achats en ligne : les arnaques les plus courantes",
-     "resume": "Produits jamais livrés, prix cachés, articles différents de la photo : l'enquête rappelle ce que la loi exige des vendeurs et conseille de garder toutes les preuves de paiement et d'échange.",
-     "url": "https://www.banouto.bj/societe/article/20261027-commerce-en-ligne-au-benin-entre-opportunites-et-pieges"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "La Nouvelle Tribune",
-     "titre": "La BEI étudie un appui de 16,4 milliards FCFA",
-     "resume": "La Banque européenne d'investissement pourrait renforcer la part du Bénin dans l'assureur africain ATIDI, pour mieux couvrir les risques des PME et des investisseurs.",
-     "url": "https://lanouvelletribune.info/2026/10/benin-la-bei-envisage-164-milliards-fcfa-pour-soutenir-les-entreprises-et-les-investissements/"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "Bénin Web TV",
-     "titre": "15 milliards FCFA pour le crédit au logement abordable",
-     "resume": "BSIC Bénin a réussi une titrisation régionale pour financer des prêts immobiliers longs destinés aux ménages modestes.",
-     "url": "https://beninwebtv.bj/zaka-bsic-benin-2026-2033-15-milliards-fcfa-mobilises-pour-soutenir-le-logement-abordable/"
-    },
-    {
-     "date": "2026-10-27",
-     "journal": "Koaci",
-     "titre": "Côte d'Ivoire : 322,5 millions de dollars américains pour l'électricité",
-     "resume": "Les députés ivoiriens ont validé en commission un programme régional de cinq ans financé surtout par un don américain, à ratifier avant le 12 novembre.",
-     "url": "https://www.koaci.com/article/2026/10/27/cote-divoire/environement/cote-divoire-energie-3225-millions-de-dollars-des-usa-pour-moderniser-le-reseau-electrique-les-deputes-donnent-leur-feu-vert_202037.html"
-    }
-   ]
   }
  ],
  "conciergerie": {
@@ -1499,12 +1506,36 @@
   ],
   "actus": [
    {
+    "date": "2026-11-13",
+    "titre": "Abomey prépare sa stratégie touristique 2030 « Trône et Héritages »",
+    "resume": "La commune veut refonder son office du tourisme, mieux organiser son offre, créer un festival et développer la Route des couvents, en lien avec le futur Musée des Rois et des Amazones.",
+    "idee": "Proposer aux voyageurs logés à Cotonou une excursion clé en main vers Abomey (transport, guide, repas), et nouer un contact avec l'office du tourisme.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/politique-touristique-dabomey-de-lheritage-royal-a-la-strategie-2030/"
+   },
+   {
+    "date": "2026-11-12",
+    "titre": "Location courte durée : la moitié des réservations arrivent au dernier moment",
+    "resume": "Selon PriceLabs, la moitié des réservations de novembre sont faites dans les 20 jours avant l'arrivée ; un calendrier vide à mi-mois n'est donc pas forcément inquiétant.",
+    "idee": "Ne pas baisser les prix trop tôt : fixer une règle de remise seulement à 7-10 jours de la date libre.",
+    "source": "RentalScaleUp (PriceLabs)",
+    "url": "https://www.rentalscaleup.com/thanksgiving-vacation-rental-pricing/"
+   },
+   {
     "date": "2026-11-11",
     "titre": "Cotonou Comedy Festival du 1er au 6 décembre",
     "resume": "La 2e édition du festival d'humour, organisée par le gouvernement et le groupe JokeNation (lié au Montreux Comedy Festival), se tiendra à Cotonou, Abomey-Calavi et Parakou, avec galas, village du rire et rencontres de l'humour africain.",
     "idee": "Anticiper la demande d'hébergement début décembre et proposer aux voyageurs un petit guide des soirées du festival.",
     "source": "Gouvernement du Bénin",
     "url": "https://www.gouv.bj/article/3737/cotonou-comedy-festival-2026-benin-renforce-ambition-faire-humour-veritable-industrie-culturelle-cotonou-abomey-calavi-parakou-accueille-activites-decembre-2026-/"
+   },
+   {
+    "date": "2026-11-10",
+    "titre": "Airbnb s'ouvre aux réservations professionnelles via les agences de voyage d'affaires",
+    "resume": "La plateforme Perk est la première à brancher Airbnb dans ses outils : les salariés réservent un logement dans le respect de la politique de leur entreprise. Les nuitées Airbnb chez Perk ont presque doublé en deux ans, pour des séjours de 9 nuits en moyenne.",
+    "idee": "Préparer une offre « séjour d'affaires » (wifi fiable, bureau, facture au nom de l'entreprise) pour les cadres en mission à Cotonou et à Glo-Djigbé.",
+    "source": "Skift",
+    "url": "https://skift.com/2026/11/10/airbnb-opens-its-api-to-business-travel-starting-with-perk-exclusive/"
    },
    {
     "date": "2026-11-10",
@@ -1793,41 +1824,10 @@
     "idee": "Préparer dès maintenant des forfaits « séjour Vodun Days » : transfert aéroport, logement, chauffeur et accompagnement à Ouidah.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
-   },
-   {
-    "date": "2026-10-23",
-    "titre": "Airbnb : au-delà du ménage, amendes et contrats limités",
-    "resume": "Pour les réservations faites dès le 20 novembre, un hôte ne peut plus imposer ses propres amendes. Les contrats de location à part sont réservés à quelques cas, comme une obligation légale ou un séjour au mois.",
-    "idee": "Réécrire ses annonces avant le 20 novembre : règles affichées avant réservation, ménage inclus dans les frais, aucune pénalité maison.",
-    "source": "Short Term Rentalz",
-    "url": "https://shorttermrentalz.com/news/airbnb-limits-checkout-chores-house-rules/"
-   },
-   {
-    "date": "2026-10-23",
-    "titre": "Le Cap et le Pays de Galles imposent l'enregistrement des locations courte durée",
-    "resume": "Le Cap (Afrique du Sud) prépare un numéro d'enregistrement obligatoire sur chaque annonce et des taxes foncières plus élevées pour les logements surtout loués aux voyageurs ; le Pays de Galles a ouvert un registre national obligatoire, à remplir avant le 31 mars 2027.",
-    "idee": "Tenir dès le départ un dossier propre pour chaque logement géré (titre, contrat avec le propriétaire, déclaration) afin d'être prête si le Bénin encadre un jour ces locations.",
-    "source": "Rental Scale-Up",
-    "url": "https://www.rentalscaleup.com/short-term-rental-policies-cape-town-wales/"
-   },
-   {
-    "date": "2026-10-23",
-    "titre": "Africa Tourism Awards : le Bénin nommé dans quatre catégories",
-    "resume": "Le Bénin concourt notamment comme destination de l'année et destination culturelle ; le vote du public reste ouvert jusqu'au 29 octobre et les lauréats seront annoncés à Londres le 1er novembre.",
-    "idee": "Relayer la campagne sur les réseaux de l'agence pour se faire connaître des voyageurs qui s'intéressent déjà à la destination.",
-    "source": "Africanews",
-    "url": "https://www.africanews.com/2026/10/23/benin-earns-four-nominations-at-2026-africa-tourism-awards/"
    }
   ]
  },
  "echeances": [
-  {
-   "date": "2026-11-05",
-   "titre": "ARMP : fin des formations sur les marchés publics à Cotonou",
-   "detail": "Ces sessions commencées le 2 novembre portent sur le montage d'une offre compétitive et les recours.",
-   "url": "https://lanation.bj/actualites/commande-publique-au-benin-les-entreprises-outillees-pour-gagner-en-competitivite",
-   "rubrique": "btp"
-  },
   {
    "date": "2026-11-12",
    "titre": "Prix national de la simplification administrative : date limite",
@@ -1889,6 +1889,13 @@
    "titre": "SIREXE, salon de l'énergie et des mines à Abidjan (18 au 22 novembre)",
    "detail": "Deuxième édition au Parc des expositions d'Abidjan, avec 350 exposants annoncés : utile pour rencontrer les acteurs de l'énergie de la sous-région.",
    "url": "https://www.koaci.com/article/2026/11/07/cote-divoire/environement/cote-divoire-sirexe-2026-350-exposants-60-000-visiteurs-attendus-abidjan-au-rendez-vous-des-ambitions-energetiques-africaines_202377.html",
+   "rubrique": "btp"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "BERD : décision sur 20 millions d'euros pour le port de Cotonou",
+   "detail": "La banque européenne BERD doit se prononcer sur un financement d'environ 13 milliards FCFA pour une capitainerie, un centre de formation des dockers et des parkings au port.",
+   "url": "https://lanouvelletribune.info/2026/11/benin-la-berd-prevoit-13-milliards-fcfa-pour-les-infrastructures-du-port-de-cotonou/",
    "rubrique": "btp"
   },
   {
