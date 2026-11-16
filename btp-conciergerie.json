@@ -1,8 +1,98 @@
 {
- "derniereMaj": "2026-11-14T04:58:43Z",
+ "derniereMaj": "2026-11-16T04:59:15Z",
  "btp": {
-  "synthese": "Au Bénin, les chantiers publics se poursuivent (écoles agricoles de Kétou et Zangnanado, facilitation du transit au port) sur fond de coupures d'électricité ; dans la région, la Côte d'Ivoire et le Ghana lancent de grands programmes de routes, de ports et de barrages.",
+  "synthese": "Au Bénin, le foncier et l'urbanisme dominent : recours contre le décret sur les permis de construire, taxe foncière contestée par les maires et terres agricoles grignotées par la ville ; dans la région, les aéroports (Nigeria, Sénégal, Ghana) et l'énergie concentrent les grands projets.",
   "actus": [
+   {
+    "date": "2026-11-15",
+    "zone": "Bénin",
+    "titre": "Taxe foncière : les maires s'opposent à des taux fixés au niveau national",
+    "resume": "Le projet de budget 2027 retirerait aux conseils communaux le choix du taux de la taxe foncière unique (aujourd'hui de 3 à 7 % pour le non bâti et de 4 à 8 % pour le bâti) au profit de taux nationaux de 4 % et 6 %. L'Association nationale des communes (ANCB) demande de garder le vote communal ou une compensation complète.",
+    "retenir": "Pour les propriétaires de terrains et d'immeubles, le coût de la taxe pourrait changer selon la commune : à suivre lors du vote du budget 2027.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-les-maires-vent-debout-contre-la-reforme-sur-les-taxes-foncieres/"
+   },
+   {
+    "date": "2026-11-15",
+    "zone": "Afrique",
+    "titre": "Nigeria : l'aéroport de Port Harcourt concédé pour 30 ans",
+    "resume": "Le ministre nigérian de l'Aviation a signé le 12 novembre une concession de 30 ans de l'aéroport de Port Harcourt, après celle d'Enugu en juin ; les recettes des grands aéroports doivent aider les plus petits.",
+    "retenir": "Le Nigeria confie ses aéroports au privé : un modèle de partenariat public-privé à suivre pour les grands équipements de la région.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1511-60825-nigeria-extends-airport-concession-drive-with-30-year-port-harcourt-agreement"
+   },
+   {
+    "date": "2026-11-15",
+    "zone": "Afrique",
+    "titre": "Sénégal : l'aéroport Blaise Diagne modernise six systèmes",
+    "resume": "L'aéroport de Dakar prévoit six nouveaux systèmes numériques avec le turc TAV Technologies (gestion des vols, affichage, coordination) ; son extension vise une capacité de plus de 5 millions de passagers par an d'ici 2035.",
+    "retenir": "Les aéroports de la région investissent pour devenir des plateformes régionales : la concurrence pour attirer vols et voyageurs s'intensifie.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1511-60823-senegal-s-blaise-diagne-airport-plans-six-system-upgrade-to-strengthen-regional-hub-role"
+   },
+   {
+    "date": "2026-11-15",
+    "zone": "Afrique",
+    "titre": "Ghana : trois aéroports régionaux pour soulager Accra",
+    "resume": "La société des aéroports du Ghana prévoit d'agrandir les aéroports de Wa et Sunyani et d'en construire un nouveau à Bolgatanga ; le trafic international d'Accra est passé d'environ 1,8 million de passagers en 2022 à 2,54 millions en 2025.",
+    "retenir": "Le voisin ghanéen lance de nouveaux chantiers aéroportuaires : des marchés pour les entreprises de BTP de la sous-région.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-services/1511-60822-ghana-plans-three-regional-airport-projects-to-reduce-reliance-on-accra"
+   },
+   {
+    "date": "2026-11-14",
+    "zone": "Bénin",
+    "titre": "Permis de construire : le décret de 2023 contesté devant la Cour constitutionnelle",
+    "resume": "La Cour examinera le 19 novembre un recours contre le décret de décembre 2023 sur les autorisations d'urbanisme, qui confie les permis aux secrétaires exécutifs des mairies, classe les projets en catégories A à C et prévoit une régularisation sur cinq ans.",
+    "retenir": "Les règles du permis de construire restent en vigueur pour l'instant, mais la décision de la Cour peut les modifier : à surveiller avant de lancer un chantier.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/permis-de-construire-au-benin-la-cour-constitutionnelle-saisie-dun-recours/"
+   },
+   {
+    "date": "2026-11-14",
+    "zone": "Bénin",
+    "titre": "Les terres cultivables reculent, surtout à cause de l'urbanisation",
+    "resume": "Lors d'un atelier à Abomey avec les préfets, le ministère de l'Agriculture a indiqué que la part des terres cultivables est passée de 43 % en 2021 à 41 % en 2023. Le gouvernement veut qu'une réserve foncière de plusieurs hectares soit sécurisée dans chaque commune.",
+    "retenir": "Le foncier agricole sera mieux protégé : les projets de lotissement et de construction en périphérie des villes risquent d'être plus encadrés.",
+    "source": "Gouvernement du Bénin",
+    "url": "https://www.gouv.bj/article/3741/patrimoine-foncier-securisation-terres-vocation-agricole-coeur-atelier-abomey/"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Bénin",
+    "titre": "Future École des Beaux-Arts, de la Mode et du Textile : l'architecte est choisi",
+    "resume": "Selon La Marina, l'Agence de développement de l'enseignement technique (ADET) a confié au cabinet ivoirien Koffi & Diabaté la maîtrise d'œuvre complète de l'école, pour environ 708 millions FCFA et une mission de 24 mois (études, suivi du chantier, réception).",
+    "retenir": "Un nouveau bâtiment public se prépare : les appels d'offres de travaux suivront les études, à guetter pour les entreprises locales.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/11/13/la-future-ecole-des-beaux-arts-de-la-mode-et-du-textile-du-benin-portera-la-signature-de-koffi-diabate/"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Bénin",
+    "titre": "Énergie : Cotonou accueille le forum CEDEAO-Union européenne",
+    "resume": "Ouvert le 12 novembre, le forum de partenariat énergétique entre la CEDEAO (Communauté économique des États de l'Afrique de l'Ouest) et l'Union européenne a lancé deux programmes régionaux : un système d'information sur l'énergie et la cuisson propre.",
+    "retenir": "Des financements européens arrivent sur l'énergie régionale : une piste pour les entreprises du solaire et de l'électricité.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/economie/forum-de-partenariat-energetique-cedeao-ue-2026-cotonou-au-coeur-de-nouvelles-initiatives-regionales"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Afrique",
+    "titre": "Afrique de l'Ouest : 35 GW d'électricité en plus nécessaires d'ici 2035",
+    "resume": "Une analyse de S&P Global estime que la région devra ajouter environ 35 gigawatts de production électrique d'ici 2035, la demande augmentant d'environ 4 % par an ; le gazoduc ouest-africain vers le Bénin, le Togo et le Ghana reste sous-utilisé.",
+    "retenir": "Centrales, réseaux et solaire resteront un très gros marché de chantiers dans la région pendant dix ans.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/11/13/mines-capitaux-energie-les-grands-enjeux-de-la-prochaine-decennie-ouest-africaine/"
+   },
+   {
+    "date": "2026-11-13",
+    "zone": "Afrique",
+    "titre": "Accra reçoit 200 nouveaux bus",
+    "resume": "Le Ghana a livré 200 bus à sa société publique Metro Mass Transit, ce qui complète une commande de 300 véhicules pour le Grand Accra.",
+    "retenir": "Le transport public urbain progresse dans la région, avec des besoins en gares, dépôts et voies réservées.",
+    "source": "Agence Ecofin",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1311-60811-ghana-adds-200-buses-to-improve-public-transport-in-greater-accra"
+   },
    {
     "date": "2026-11-13",
     "zone": "Bénin",
@@ -65,6 +155,15 @@
     "retenir": "Les grands projets bloqués peuvent repartir : un rappel de l'importance d'un financement bouclé avant le démarrage.",
     "source": "Agence Ecofin",
     "url": "https://www.ecofinagency.com/news-industry/1311-60785-ghana-plans-1-billion-to-complete-long-delayed-pwalugu-dam-by-2030"
+   },
+   {
+    "date": "2026-11-12",
+    "zone": "Monde",
+    "titre": "Laing O'Rourke cherche un acheteur pour ses activités au Moyen-Orient",
+    "resume": "Le grand groupe britannique de construction a mandaté une banque d'affaires pour vendre sa branche Moyen-Orient, alors que son activité en Europe a vu son chiffre d'affaires progresser de 12,6 % à 2,56 milliards de livres.",
+    "retenir": "Les grands groupes se recentrent sur leurs marchés les plus rentables : des places se libèrent pour d'autres entreprises sur certains marchés.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/laing-orourke-seeks-buyer-for-middle-east-business/8136480.article"
    },
    {
     "date": "2026-11-12",
@@ -443,109 +542,107 @@
     "retenir": "Sur les chantiers, mieux vaut prévoir un groupe électrogène ou adapter le planning des tâches qui ont besoin de courant.",
     "source": "Le Matinal",
     "url": "https://lematinal.bj/energie-electrique-la-sbpe-et-la-sbee-alertent-sur-les-coupures-delectricite-dues-aux-restrictions-dimportation/"
-   },
-   {
-    "date": "2026-11-03",
-    "zone": "Afrique",
-    "titre": "Autoroute Abidjan-Lagos : le Togo propose de ramener la facture à 10 milliards de dollars",
-    "resume": "À la réunion ministérielle de Lomé, le 30 octobre, des options ont été présentées pour passer de 15 milliards de dollars à 13, voire 10 milliards. Le projet prévoit environ 1 028 km à six voies, passant notamment par Cotonou.",
-    "retenir": "Ce projet qui traverse le Bénin reste à l'étude : un coût revu peut changer sa conception et les lots de travaux à venir.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/transport/0311-20525-corridor-abidjan-lagos-le-togo-propose-de-ramener-le-cout-du-projet-a-10-milliards-de-dollars"
-   },
-   {
-    "date": "2026-11-03",
-    "zone": "Monde",
-    "titre": "États-Unis : 198 000 salariés du BTP ont démissionné en septembre",
-    "resume": "C'est le plus haut niveau depuis le premier semestre 2023, selon l'analyse d'une fédération professionnelle, et les offres d'emploi du secteur atteignent 298 000.",
-    "retenir": "Partout, garder ses bons ouvriers devient un enjeu : la fidélisation et la formation comptent autant que le prix.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/198-000-us-construction-workers-quit-in-september-amid-labour-squeeze/8135576.article"
-   },
-   {
-    "date": "2026-11-03",
-    "zone": "Monde",
-    "titre": "Royaume-Uni : 20 milliards de livres pour un centre de données de 1 GW",
-    "resume": "Drax et Brookfield s'associent pour construire jusqu'à 1 GW de capacité sur le site de la centrale de Drax ; la première phase de 100 MW pourrait fonctionner à partir du début de 2028.",
-    "retenir": "Les centres de données restent l'un des plus gros moteurs de commandes pour le BTP mondial.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/20bn-partnership-to-deliver-a-1gw-uk-data-centre-announced/8135483.article"
-   },
-   {
-    "date": "2026-11-02",
-    "zone": "Bénin",
-    "titre": "Port de Cotonou : plus de 345 milliards FCFA de travaux, et un port de pêche annoncé",
-    "resume": "Lors d'une rencontre le 30 octobre, les dix principaux projets ont été présentés comme avancés à environ 70 %. Le port a traité 14,71 millions de tonnes en 2025, vise 16 à 16,5 millions en 2026, et le lancement des travaux du port de pêche est annoncé pour novembre.",
-    "retenir": "Le chantier du port de pêche, s'il démarre comme annoncé, peut créer du travail pour les entreprises et fournisseurs locaux.",
-    "source": "Cadre Éco",
-    "url": "https://cadreco.media/evenement/2026/port-de-cotonou-face-aux-chocs-mondiaux-le-defi-de-la-competitivite"
-   },
-   {
-    "date": "2026-11-02",
-    "zone": "Bénin",
-    "titre": "Route Cotonou-Bohicon : des automobilistes contournent le péage de Houègbo",
-    "resume": "Une enquête décrit des pistes utilisées pour éviter ce péage à 1 000 FCFA, en service pour les véhicules légers depuis janvier 2026 ; plus de cinquante véhicules y ont été comptés le 12 septembre.",
-    "retenir": "Le péage pèse dans le budget des déplacements : un coût à intégrer dans les devis de chantiers desservis par cet axe.",
-    "source": "Banouto",
-    "url": "https://www.banouto.bj/investigation-reportages/article/20261102-route-cotonou-bohicon-dans-les-meandres-des-pistes-de-contournement-du-peage-de-houegbo"
-   },
-   {
-    "date": "2026-11-02",
-    "zone": "Afrique",
-    "titre": "Togo : immeubles et centre de conférences prévus sur le littoral libéré",
-    "resume": "Un ministre a présenté le 1er novembre un projet sur les espaces côtiers récupérés depuis septembre : appartements haut de gamme, commerces, centre de conférences et parc de jeux. Aucun montant n'a été annoncé.",
-    "retenir": "Un futur marché de construction chez le voisin togolais, à suivre pour les entreprises de la région.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/gouvernance-economique/0211-20509-togo-des-immeubles-centres-de-conferences-et-espaces-de-loisirs-annonces-sur-le-littoral"
-   },
-   {
-    "date": "2026-11-02",
-    "zone": "Monde",
-    "titre": "Chantiers : la conception en cause dans 40 % des litiges",
-    "resume": "Une étude du cabinet HKA sur 2 410 projets dans 122 pays relie 40,5 % des projets à des litiges de conception : erreurs, plans en retard ou incomplets.",
-    "retenir": "Faire vérifier les plans avant de démarrer coûte moins cher qu'un litige : un réflexe à garder sur chaque chantier.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/design-failures-behind-40-of-construction-disputes/8135313.article"
-   },
-   {
-    "date": "2026-11-01",
-    "zone": "Bénin",
-    "titre": "Bois de chantier : fuir un contrôle forestier coûte plus cher",
-    "resume": "Le nouveau Code des forêts et de la faune (loi du 23 juillet 2026) prévoit jusqu'à 1 an de prison et 200 000 FCFA d'amende pour qui fuit un contrôle des Eaux et Forêts. Les peines doublent si le véhicule transporte des produits forestiers, et le véhicule comme la marchandise peuvent être saisis.",
-    "retenir": "Les entreprises qui achètent ou transportent du bois de construction ont intérêt à vérifier leurs papiers et ceux de leurs fournisseurs.",
-    "source": "La Nation",
-    "url": "https://lanation.bj/actualites/benin-la-fuite-devant-les-controles-forestiers-coute-plus-cher"
-   },
-   {
-    "date": "2026-11-01",
-    "zone": "Monde",
-    "titre": "Journée mondiale des villes : le logement au premier plan",
-    "resume": "La journée du 31 octobre avait pour thème le logement adéquat pour tous. Selon l'ONU, jusqu'à 3,4 milliards de personnes n'ont pas de logement convenable.",
-    "retenir": "Ce besoin mondial appuie l'intérêt des financements vers le logement abordable, un créneau à suivre aussi au Bénin.",
-    "source": "La Nation",
-    "url": "https://lanation.bj/actualites/journee-mondiale-des-villes-le-logement-decent-au-coeur-de-la-transformation-urbaine"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Bénin",
-    "titre": "Fonds des communes : l'argent du FADeC peine à être dépensé à temps",
-    "resume": "Un atelier tenu à Cotonou le 29 octobre a examiné le décalage entre l'arrivée de l'argent du Fonds d'appui au développement des communes et son utilisation réelle. Le ministère annonce la régularisation des transferts et un manuel de procédures actualisé.",
-    "retenir": "Pour les PME qui travaillent avec les mairies, des règles plus claires peuvent améliorer le rythme des marchés et des paiements : à surveiller.",
-    "source": "Gouvernement du Bénin",
-    "url": "https://www.gouv.bj/article/3726/gestion-fonds-communaux-fadec-coeur-diagnostic-trace-nouvelles-perspectives/"
-   },
-   {
-    "date": "2026-10-30",
-    "zone": "Bénin",
-    "titre": "Industrie : 19 % de l'économie, mais une électricité chère",
-    "resume": "Selon un diagnostic de la Banque africaine de développement, la part de l'industrie dans le PIB (la richesse produite) est passée de 12 % en 1991 à 19 % en 2024. L'électricité reste pour les industriels environ 20 % plus chère que la moyenne de la zone UEMOA.",
-    "retenir": "Le besoin en usines et en énergie soutient les chantiers, mais le coût de l'électricité pèse sur les matériaux produits sur place.",
-    "source": "La Nation",
-    "url": "https://lanation.bj/actualites/transformation-industrielle-au-benin-un-modele-a-consolider-au-dela-des-progres"
    }
   ]
  },
  "presse": [
+  {
+   "date": "2026-11-16",
+   "synthese": "Le week-end est marqué par le débat sur la fiscalité locale (taxe foncière) et l'urbanisme (recours sur les permis de construire), les assurances du gouvernement sur l'essence et les gestes de rapprochement avec le Niger et le Burkina. Cotonou se prépare à une semaine chargée en rencontres sur l'innovation.",
+   "articles": [
+    {
+     "date": "2026-11-15",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Essence : le ministère assure qu'il n'y a pas de pénurie",
+     "resume": "Selon le ministère du Commerce, les dépôts disposent de plusieurs mois de stock ; le circuit officiel distribue environ 300 000 litres par jour pour une demande de 2,5 millions. Les prix restent à 750 FCFA le litre d'essence et 765 FCFA le gasoil.",
+     "url": "https://lanouvelletribune.info/2026/11/essence-au-benin-le-ministere-du-commerce-interieur-fait-le-point-sur-la-situation/"
+    },
+    {
+     "date": "2026-11-15",
+     "journal": "Banouto",
+     "titre": "La semaine en six faits : dette, électricité, sécurité",
+     "resume": "Banouto revient sur la dette extérieure, passée d'environ 3,6 à 16,9 milliards de dollars entre 2015 et 2025, sur les coupures d'électricité liées au fournisseur nigérian (le Bénin produit environ 40 % de ses besoins) et sur le nouveau chef de l'opération militaire Mirador dans le Nord.",
+     "url": "https://www.banouto.bj/politique/article/20261115-banouto-hebdo-les-06-faits-marquants-de-la-semaine-du-9-au-15-novembre-au-benin"
+    },
+    {
+     "date": "2026-11-15",
+     "journal": "Banouto",
+     "titre": "Cour africaine : la plainte de proches de Sébastien Ajavon rejetée",
+     "resume": "La Cour africaine des droits de l'homme a jugé irrecevable, le 13 novembre, la requête de l'épouse et de trois proches de l'homme d'affaires, faute d'avoir épuisé les recours devant les juridictions nationales.",
+     "url": "https://www.banouto.bj/societe/article/20261115-cour-africaine-le-recours-de-la-famille-ajavon-contre-l-etat-beninois-juge-irrecevable"
+    },
+    {
+     "date": "2026-11-15",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Djogbénou tend la main aux parlements du Niger et du Burkina",
+     "resume": "À Lomé, le président de l'Assemblée nationale a proposé à ses homologues nigérien et burkinabè d'agir ensemble pour la paix et souhaité se rendre dans les deux pays.",
+     "url": "https://lanouvelletribune.info/2026/11/paix-et-rapprochement-en-afrique-de-louest-djogbenou-tend-la-main-au-niger-et-au-burkina-faso/"
+    },
+    {
+     "date": "2026-11-15",
+     "journal": "Bénin Web TV",
+     "titre": "Taxe foncière : les maires contre la réforme du budget 2027",
+     "resume": "Le projet de loi de finances fixerait des taux nationaux de 4 % et 6 %, alors que les communes votent aujourd'hui leurs propres taux ; leur association demande de garder ce pouvoir ou une compensation.",
+     "url": "https://beninwebtv.bj/benin-les-maires-vent-debout-contre-la-reforme-sur-les-taxes-foncieres/"
+    },
+    {
+     "date": "2026-11-15",
+     "journal": "gouv.bj",
+     "titre": "Francophonie : le Bénin à la vice-présidence de la conférence ministérielle",
+     "resume": "Réunie à Phnom Penh du 14 au 19 novembre, la 48e Conférence ministérielle de la Francophonie a désigné le Bénin vice-président jusqu'à la prochaine session en 2027.",
+     "url": "https://www.gouv.bj/article/3742/48%E1%B5%89-conference-ministerielle-francophonie-benin-designe-vice-presidence/"
+    },
+    {
+     "date": "2026-11-14",
+     "journal": "Le Matinal",
+     "titre": "Permis de construire : un recours examiné le 19 novembre",
+     "resume": "La Cour constitutionnelle se penchera sur un recours contre le décret de 2023 qui confie la délivrance des permis aux mairies et prévoit de fortes amendes pour les travaux sans autorisation.",
+     "url": "https://lematinal.bj/permis-de-construire-au-benin-la-cour-constitutionnelle-saisie-dun-recours/"
+    },
+    {
+     "date": "2026-11-14",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Les terres cultivables passent de 43 % à 41 %",
+     "resume": "Le gouvernement veut freiner le recul des terres agricoles, rongées surtout par l'urbanisation, et demande à chaque commune de sécuriser une réserve foncière.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-les-terres-cultivables-passent-de-43-a-41-le-gouvernement-veut-freiner-leur-recul/"
+    },
+    {
+     "date": "2026-11-14",
+     "journal": "Bénin Web TV",
+     "titre": "ANIP : guichets ouverts le samedi pour enrôler les écoliers",
+     "resume": "L'Agence nationale d'identification des personnes a ouvert ses guichets le samedi 14 novembre jusqu'à 13 h pour l'enregistrement gratuit des écoliers, sur présentation de l'acte de naissance ; renseignements au 7054.",
+     "url": "https://beninwebtv.bj/benin-anip-enrolement-ecoliers-guichets-14-novembre-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "La Nation",
+     "titre": "Forum énergie CEDEAO-UE : nouveaux programmes lancés à Cotonou",
+     "resume": "Le forum a lancé des programmes régionaux sur l'information énergétique et la cuisson propre, financés notamment par l'Union européenne.",
+     "url": "https://lanation.bj/economie/forum-de-partenariat-energetique-cedeao-ue-2026-cotonou-au-coeur-de-nouvelles-initiatives-regionales"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "La Marina",
+     "titre": "École des Beaux-Arts et de la Mode : l'architecte retenu",
+     "resume": "Le cabinet Koffi & Diabaté conduira les études et le suivi du chantier pendant 24 mois, pour environ 708 millions FCFA.",
+     "url": "https://lamarina.bj/2026/11/13/la-future-ecole-des-beaux-arts-de-la-mode-et-du-textile-du-benin-portera-la-signature-de-koffi-diabate/"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "Cadre Éco",
+     "titre": "AfriLabs : plus de 1 200 acteurs de l'innovation attendus à Cotonou",
+     "resume": "La rencontre annuelle du réseau AfriLabs se tient du 18 au 20 novembre au Sofitel, avec des participants de plus de 70 pays, une première en Afrique francophone.",
+     "url": "https://cadreco.media/innovation-technologie/2026/innovation-africaine-afrilabs-reunit-plus-de-1200-acteurs-a-cotonou"
+    },
+    {
+     "date": "2026-11-13",
+     "journal": "Cadre Éco",
+     "titre": "Linge de maison « made in Benin » : un 3e showroom à Porto-Novo",
+     "resume": "La marque Sùsù, issue de la zone industrielle de Glo-Djigbé, ouvre une boutique à Porto-Novo après Cotonou et Parakou ; la zone revendique plus de 30 000 emplois.",
+     "url": "https://cadreco.media/evenement/2026/porto-novo-accueille-le-troisieme-showroom-susu-la-vitrine-du-linge-de-maison-made-in-benin"
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "synthese": "Le carburant et l'électricité dominent l'actualité : contrôles dans les stations, ventes en hausse depuis le recul de l'essence de contrebande, et délestages liés au Nigeria. Côté économie, le gouvernement précise le rôle du fonds industriel et prépare le budget 2027.",
@@ -1183,117 +1280,6 @@
      "url": "https://www.banouto.bj/politique/article/20261028-romuald-wadagni-aux-emirats-arabes-unis-5-choses-a-retenir-de-ce-voyage-qui-n-est-pas-une-premiere-pour-le-benin"
     }
    ]
-  },
-  {
-   "date": "2026-10-31",
-   "synthese": "Le Sénat a tenu sa première session, la vice-présidente a représenté le Bénin au sommet Russie-Afrique et de nouvelles règles MTN MoMo entrent en vigueur le 2 novembre ; côté énergie, deux projets solaires avancent et 330 000 barils de pétrole partent de Sèmè.",
-   "articles": [
-    {
-     "date": "2026-10-30",
-     "journal": "La Nouvelle Tribune",
-     "titre": "Sommet Russie-Afrique : le Bénin représenté par sa vice-présidente",
-     "resume": "Mariam Chabi Talata a conduit la délégation béninoise au 3e Sommet Russie-Afrique à Moscou les 28 et 29 octobre. Cotonou vise surtout l'agriculture (engrais), l'énergie, la santé, l'éducation et le numérique.",
-     "url": "https://lanouvelletribune.info/2026/10/sommet-russie-afrique-le-benin-cible-plusieurs-secteurs-pour-renforcer-la-cooperation/"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "Banouto",
-     "titre": "Le Sénat ouvre sa toute première session",
-     "resume": "Patrice Talon a ouvert le 28 octobre à Cotonou la première session ordinaire du Sénat, prévue pour 21 jours. En cas de blocage durable entre le président et l'Assemblée, le Sénat sera appelé à arbitrer.",
-     "url": "https://www.banouto.bj/politique/article/20261029-patrice-talon-rappelle-les-principales-missions-du-senat-a-louverture-de-sa-premiere-session-ordinaire"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "La Nation",
-     "titre": "Cour suprême : rentrée judiciaire le jeudi 5 novembre",
-     "resume": "L'audience solennelle se tiendra à Porto-Novo en présence du président Romuald Wadagni, sur le thème du juge électoral et de la démocratie locale. Le texte rappelle que les communales de janvier ont désigné 1 815 conseillers et 77 maires.",
-     "url": "https://lanation.bj/actualites/annee-judiciaire-2026-2027-la-cour-supreme-effectue-sa-rentree-jeudi-5-novembre-prochain"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "Banouto",
-     "titre": "Nouveau Code de la route : ce qu'il faut savoir avant sa promulgation",
-     "resume": "Voté le 26 octobre, le texte fixe la vitesse à 50 km/h en ville (30 km/h près des écoles) et prévoit des amendes de 250 000 à 350 000 FCFA pour certaines infractions. Il doit encore être promulgué pour s'appliquer.",
-     "url": "https://www.banouto.bj/societe/article/20261029-nouveau-code-de-la-route-au-benin-les-premiers-elements-a-savoir-en-attendant-la-promulgation"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "Le Matinal",
-     "titre": "MTN MoMo : nouveaux plafonds et nouveaux frais dès le 2 novembre",
-     "resume": "Les transferts entre opérateurs passeront par la plateforme PI-SPI de la BCEAO (Banque centrale des États de l'Afrique de l'Ouest) : gratuits jusqu'à 8 000 FCFA par jour, puis 0,5 % au-delà. Le solde maximal passe de 2 à 4 millions FCFA.",
-     "url": "https://lematinal.bj/mtn-momo-de-nouvelles-facilites-et-une-revision-des-plafonds-des-le-2-novembre/"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "Bénin Web TV",
-     "titre": "Pétrole : 330 000 barils de Sèmè chargés début novembre",
-     "resume": "Le chargement est prévu les 1er et 2 novembre vers les Pays-Bas, avec Shell Trading comme acheteur pour trois ans. C'est 80 000 barils de plus que les 250 000 annoncés pour octobre.",
-     "url": "https://beninwebtv.bj/benin-le-chargement-de-330-000-barils-de-seme-prevu-debut-novembre/"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "Bénin Web TV",
-     "titre": "L'UPR réunit ses instances le 14 novembre",
-     "resume": "Le parti au pouvoir tiendra son conseil national (environ 500 membres) et son bureau politique (environ 300) le 14 novembre. L'annonce a été faite par son secrétaire général Gérard Gbénonchi.",
-     "url": "https://beninwebtv.bj/benin-lupr-reunira-son-conseil-national-et-son-bureau-politique-le-14-novembre/"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "Banouto",
-     "titre": "Les évêques alertent sur la drogue, le vol et les violences sur mineurs",
-     "resume": "Réunis à Natitingou du 25 au 28 octobre, les évêques catholiques s'inquiètent aussi de la pauvreté, de la mendicité et des menaces terroristes. Ils demandent au gouvernement d'agir.",
-     "url": "https://www.banouto.bj/societe/article/20261030-drogue-vol-abus-violences-sur-mineurs-au-benin-preoccupes-les-eveques-lancent-un-appel-aux-autorites"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "Gouvernement du Bénin",
-     "titre": "Prix national de la simplification administrative : propositions jusqu'au 12 novembre",
-     "resume": "Chacun peut proposer une idée pour simplifier l'administration sur la plateforme prix-simplification.gouv.bj, du 29 octobre au 12 novembre. Le prix a été présenté le 28 octobre par le ministre Rodrigue Chaou.",
-     "url": "https://www.gouv.bj/article/3723/prix-national-simplification-administrative-gouvernement-lance-nouveau-defi/"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "Gouvernement du Bénin",
-     "titre": "8 500 actes de naissance remis à des écoliers",
-     "resume": "L'opération, lancée le 28 octobre à Zagnanado, concerne les élèves de CM1 et CM2 de dix communes. Elle vise à les inscrire au registre national des personnes physiques (RNPP).",
-     "url": "https://www.gouv.bj/article/3725/promotion-droit-identite-enfants-8.500-actes-naissance-delivres-apprenants/"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "Matin Libre",
-     "titre": "Traite des personnes : le Bénin encore loin des normes, selon Washington",
-     "resume": "Le rapport 2026 du Département d'État américain maintient le Bénin au niveau 2. En 2025, 67 trafiquants ont été condamnés et 3 798 victimes recensées.",
-     "url": "https://matinlibre.com/2026/10/29/rapport-2026-lutte-contre-la-traite-des-personnes-benin-encore-loin-des-normes-minimales-malgre-les-efforts/"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "La Nouvelle Tribune",
-     "titre": "Solaire : 30 millions d'euros pour quatre centrales en régions",
-     "resume": "Le projet IPP50 financera des centrales à Natitingou, Djougou, Parakou et Bohicon, pour 62 MWc au total. La mise en service est annoncée pour début 2028.",
-     "url": "https://lanouvelletribune.info/2026/10/benin-30-millions-deuros-mobilises-pour-quatre-centrales-solaires/"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "La Marina",
-     "titre": "AMEA Power s'engage pour 100 MW de solaire au Bénin",
-     "resume": "Un protocole d'accord a été signé pour une centrale solaire avec stockage par batteries. Le montant et le lieu ne sont pas encore connus.",
-     "url": "https://lamarina.bj/2026/10/30/energie-solaire-amea-power-fait-son-entree-sur-le-marche-beninois-avec-un-projet-de-100-mw/"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "La Nation",
-     "titre": "Think tanks africains à Cotonou : faire de l'électricité un moteur de croissance",
-     "resume": "Du 28 au 30 octobre, chercheurs et responsables publics ont plaidé pour une énergie tournée vers la production. Près de 600 millions d'Africains restent sans électricité.",
-     "url": "https://lanation.bj/actualites/12e-sommet-des-think-tanks-dafrique-faire-de-lelectricite-un-levier-de-production-et-de-croissance"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "Koaci",
-     "titre": "Côte d'Ivoire : la Banque mondiale mise sur l'urbanisation",
-     "resume": "Le rapport présenté à Abidjan prévoit 748 millions de citadins supplémentaires en Afrique subsaharienne en 25 ans. Les villes devront créer environ 15 millions d'emplois par an.",
-     "url": "https://www.koaci.com/article/2026/10/29/cote-divoire/economie/cote-divoire-presentation-a-abidjan-du-rapport-de-la-bm-le-gouvernement-ivoirien-mise-sur-lurbanisation-pour-accelerer-la-croissance-et-creer-des-emplois_202104.html"
-    }
-   ]
   }
  ],
  "conciergerie": {
@@ -1507,11 +1493,51 @@
   "actus": [
    {
     "date": "2026-11-13",
+    "titre": "Airbnb précise ses règles de la maison",
+    "resume": "Airbnb a reformulé ses pages d'aide sur les règles de la maison, sans changer la politique : seules les règles standard permettent d'annuler une réservation en cas de non-respect, pas les règles ajoutées par l'hôte.",
+    "idee": "Rédiger pour chaque logement géré des règles standard claires (bruit, fêtes, nombre de personnes) plutôt que de longues règles personnalisées.",
+    "source": "Rental Scale-Up",
+    "url": "https://www.rentalscaleup.com/airbnb-additional-rules/"
+   },
+   {
+    "date": "2026-11-13",
+    "titre": "Royaume-Uni : les nuitées en location courte durée progressent de 10 %",
+    "resume": "Selon l'office statistique britannique, les nuitées réservées via Airbnb, Booking.com et Expedia ont atteint 104,6 millions entre juillet 2025 et juin 2026, soit 10,2 % de plus en un an.",
+    "idee": "La demande pour les logements de particuliers continue de croître dans le monde : un argument chiffré pour convaincre des propriétaires de Cotonou de se lancer.",
+    "source": "Short Term Rentals",
+    "url": "https://shorttermrentalz.com/news/uk-short-term-rental-guest-nights-2026/"
+   },
+   {
+    "date": "2026-11-13",
+    "titre": "Linge de maison béninois : la marque Sùsù ouvre à Porto-Novo",
+    "resume": "La marque Sùsù, fabriquée dans la zone industrielle de Glo-Djigbé, ouvre son troisième showroom à Porto-Novo après Cotonou et Parakou.",
+    "idee": "Équiper les logements gérés en draps et serviettes locaux, et le mettre en avant dans les annonces comme un « séjour 100 % Bénin ».",
+    "source": "Cadre Éco",
+    "url": "https://cadreco.media/evenement/2026/porto-novo-accueille-le-troisieme-showroom-susu-la-vitrine-du-linge-de-maison-made-in-benin"
+   },
+   {
+    "date": "2026-11-13",
+    "titre": "AfriLabs : 1 200 participants de 70 pays à Cotonou du 18 au 20 novembre",
+    "resume": "Pour la première fois en Afrique francophone, la rencontre annuelle du réseau AfriLabs réunit à Cotonou plus de 1 200 acteurs de l'innovation venus de plus de 70 pays.",
+    "idee": "Les grands congrès amènent des voyageurs d'affaires : proposer aux organisateurs un service de logement et d'accueil (transfert aéroport, carte SIM, chauffeur).",
+    "source": "Cadre Éco",
+    "url": "https://cadreco.media/innovation-technologie/2026/innovation-africaine-afrilabs-reunit-plus-de-1200-acteurs-a-cotonou"
+   },
+   {
+    "date": "2026-11-13",
     "titre": "Abomey prépare sa stratégie touristique 2030 « Trône et Héritages »",
     "resume": "La commune veut refonder son office du tourisme, mieux organiser son offre, créer un festival et développer la Route des couvents, en lien avec le futur Musée des Rois et des Amazones.",
     "idee": "Proposer aux voyageurs logés à Cotonou une excursion clé en main vers Abomey (transport, guide, repas), et nouer un contact avec l'office du tourisme.",
     "source": "Le Matinal",
     "url": "https://lematinal.bj/politique-touristique-dabomey-de-lheritage-royal-a-la-strategie-2030/"
+   },
+   {
+    "date": "2026-11-12",
+    "titre": "Location courte durée : nouvelles limites en Irlande, à Las Vegas et à Medellín",
+    "resume": "L'Irlande refuse désormais en principe les nouvelles autorisations de location courte durée dans ses 25 villes de plus de 20 000 habitants, le comté de Las Vegas impose 1 000 pieds entre deux logements loués, et Medellín veut faire appliquer une interdiction en zone résidentielle.",
+    "idee": "Partout, les villes encadrent la location courte durée : garder pour chaque logement un dossier en règle (titre, autorisation, déclaration fiscale) pour être prêt si le Bénin légifère.",
+    "source": "Rental Scale-Up",
+    "url": "https://www.rentalscaleup.com/short-term-rental-policies-la-ireland-medellin/"
    },
    {
     "date": "2026-11-12",
@@ -1523,11 +1549,27 @@
    },
    {
     "date": "2026-11-11",
+    "titre": "Règle Airbnb sur le ménage : la contestation grandit avant le 20 novembre",
+    "resume": "À partir des réservations du 20 novembre, les hôtes ne pourront plus exiger de tâches ménagères au départ ; une pétition des hôtes approchait 28 000 signatures et certains appellent à bloquer leur calendrier ce jour-là.",
+    "idee": "Annoncer aux propriétaires que la conciergerie prend en charge tout le ménage de départ, ce qui rend la nouvelle règle sans effet pour eux.",
+    "source": "Northeastern University",
+    "url": "https://news.northeastern.edu/2026/11/11/airbnb-cleaning-rules"
+   },
+   {
+    "date": "2026-11-11",
     "titre": "Cotonou Comedy Festival du 1er au 6 décembre",
     "resume": "La 2e édition du festival d'humour, organisée par le gouvernement et le groupe JokeNation (lié au Montreux Comedy Festival), se tiendra à Cotonou, Abomey-Calavi et Parakou, avec galas, village du rire et rencontres de l'humour africain.",
     "idee": "Anticiper la demande d'hébergement début décembre et proposer aux voyageurs un petit guide des soirées du festival.",
     "source": "Gouvernement du Bénin",
     "url": "https://www.gouv.bj/article/3737/cotonou-comedy-festival-2026-benin-renforce-ambition-faire-humour-veritable-industrie-culturelle-cotonou-abomey-calavi-parakou-accueille-activites-decembre-2026-/"
+   },
+   {
+    "date": "2026-11-10",
+    "titre": "Airbnb teste la réservation d'un ménage depuis l'annonce",
+    "resume": "Aux États-Unis, Airbnb teste avec Turno la réservation d'un agent d'entretien directement depuis les réglages de l'annonce ; en Italie et en Espagne, il teste l'enregistrement des voyageurs dans l'application avec Chekin, gratuitement pour les hôtes.",
+    "idee": "Le ménage entre deux séjours devient un service que les plateformes veulent vendre : soigner la qualité et la réactivité de son équipe de ménage pour rester indispensable.",
+    "source": "Rental Scale-Up",
+    "url": "https://www.rentalscaleup.com/airbnb-host-services-turno-chekin-pilots/"
    },
    {
     "date": "2026-11-10",
@@ -1768,62 +1810,6 @@
     "idee": "Soigner ses annonces Airbnb en anglais : une clientèle américaine aisée y accède désormais plus facilement.",
     "source": "The Host Report",
     "url": "https://www.thehostreport.com/news/airbnb-becomes-amex-travels-exclusive-vacation-rental-partner"
-   },
-   {
-    "date": "2026-10-27",
-    "titre": "Ventes en ligne au Bénin : prix cachés et arnaques nuisent à la confiance",
-    "resume": "Banouto décrit des clients payés par Mobile Money sans livraison, des prix donnés seulement en message privé et des produits différents des photos. La loi sur le numérique exige pourtant un vendeur identifiable, des conditions de vente et un prix clair avant l'achat.",
-    "idee": "Afficher sur WhatsApp et Instagram des tarifs publics, ses coordonnées et des conditions de vente écrites : c'est un vrai argument de confiance face aux vendeurs informels.",
-    "source": "Banouto",
-    "url": "https://www.banouto.bj/societe/article/20261027-commerce-en-ligne-au-benin-entre-opportunites-et-pieges"
-   },
-   {
-    "date": "2026-10-26",
-    "titre": "Cyber Africa Forum : 1 500 décideurs attendus à Cotonou les 16 et 17 novembre",
-    "resume": "Le forum consacré à la confiance numérique se tiendra au Sofitel de Cotonou et réunira des responsables publics et privés venus de plusieurs pays.",
-    "idee": "Proposer aux organisateurs ou aux entreprises participantes un service d'accueil : transfert aéroport, logement meublé, chauffeur et petites courses.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/cotonou-le-cyber-africa-forum-prevu-les-16-et-17-novembre/"
-   },
-   {
-    "date": "2026-10-26",
-    "titre": "Nouveau Code de la route : ceinture à l'arrière et casque pour le passager de moto",
-    "resume": "Le texte voté par les députés impose la ceinture à toutes les places, le casque au conducteur et au passager de deux-roues, et prévoit un permis à points et des sanctions plus lourdes.",
-    "idee": "Choisir des chauffeurs partenaires aux véhicules conformes (ceintures arrière) et en faire un argument de sécurité dans l'offre de transferts aéroport.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-lassemblee-nationale-vote-un-nouveau-code-de-la-route-plus-severe/"
-   },
-   {
-    "date": "2026-10-26",
-    "titre": "L'Union européenne ouvre une enquête sur Booking.com et les arnaques",
-    "resume": "La Commission européenne examine si la plateforme lutte assez contre les fausses annonces, l'usurpation d'établissements et l'hameçonnage (faux messages pour voler des données), ainsi que l'affichage des annonces payantes.",
-    "idee": "Rassurer les voyageurs dès la réservation : un seul canal de contact officiel, jamais de paiement demandé hors plateforme, et un message d'accueil qui le rappelle.",
-    "source": "Short Term Rentalz",
-    "url": "https://shorttermrentalz.com/news/eu-booking-com-fraud-investigation"
-   },
-   {
-    "date": "2026-10-25",
-    "titre": "Vodun Days 2027 : les 7 et 8 janvier chômés et payés",
-    "resume": "Le festival se tiendra du 2 au 9 janvier 2027 à Ouidah, et les jeudi 7 et vendredi 8 janvier seront chômés et payés pour la fête des religions traditionnelles ; le programme détaillé n'est pas encore publié.",
-    "idee": "Prévoir un long week-end très demandé du 7 au 10 janvier : bloquer tôt logements, chauffeurs et équipes.",
-    "source": "Benin360",
-    "url": "https://benin360.com/programme-vodun-days-2027/"
-   },
-   {
-    "date": "2026-10-25",
-    "titre": "53 Afro-descendants deviennent citoyens béninois",
-    "resume": "Le gouvernement a remis la nationalité béninoise à 53 Afro-descendants dans le cadre de la loi sur le retour aux sources.",
-    "idee": "Ces nouveaux citoyens et leurs proches auront besoin d'aide pour s'installer : logement, démarches, chauffeur, suivi de travaux.",
-    "source": "Gouvernement du Bénin",
-    "url": "https://www.gouv.bj/article/3716/retour-sources-afro-descendants-deviennent-citoyens-beninois/"
-   },
-   {
-    "date": "2026-10-24",
-    "titre": "Vodun Days 2027 à Ouidah du 2 au 9 janvier : stands ouverts jusqu'au 16 novembre",
-    "resume": "La 4e édition dure une semaine ; artisans, créateurs et commerçants postulent en ligne, et le Food Court de la place Maro a son propre calendrier.",
-    "idee": "Préparer dès maintenant des forfaits « séjour Vodun Days » : transfert aéroport, logement, chauffeur et accompagnement à Ouidah.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/vodun-days-2027-les-demandes-de-stands-ouvertes-jusquau-16-novembre/"
    }
   ]
  },
@@ -1904,6 +1890,13 @@
    "detail": "Organisé par la Conférence épiscopale du Bénin à la salle Saint-Charbel d'Akpakpa.",
    "url": "https://www.banouto.bj/culture/article/20261030-benin-leglise-catholique-annonce-un-colloque-international-sur-la-religion-traditionnelle-africaine",
    "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-11-19",
+   "titre": "Cour constitutionnelle : audience sur le décret des permis de construire",
+   "detail": "La Cour examine en audience plénière, à 10 h, le recours contre le décret de 2023 sur les autorisations d'urbanisme.",
+   "url": "https://lematinal.bj/permis-de-construire-au-benin-la-cour-constitutionnelle-saisie-dun-recours/",
+   "rubrique": "btp"
   },
   {
    "date": "2026-11-20",
