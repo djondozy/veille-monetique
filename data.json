@@ -1,20 +1,206 @@
 {
- "derniereMaj": "2026-11-16T05:44:00Z",
+ "derniereMaj": "2026-11-18T06:38:51Z",
  "synthese": {
-  "maj": "2026-11-16T05:44:00Z",
+  "maj": "2026-11-18T06:38:51Z",
   "periode": "Semaine du 16 novembre 2026",
   "points": [
-   "Bénin : toujours une seule API Business PI-SPI homologuée (Ecobank) sur 34 dans l'UEMOA : les paiements d'entreprises restent un terrain libre pour les autres banques.",
-   "UEMOA : au Sénégal, les prestataires de transfert d'argent demandent une concertation à la BCEAO après des difficultés liées au passage obligatoire à PI-SPI.",
-   "Afrique : au Kenya, Airtel Money envoie désormais vers 30 banques et Sacco via Pesalink, avec vérification du nom du bénéficiaire.",
-   "Monde : Bank Millennium ajoute des mensualités au « payer plus tard » de BLIK, le paiement mobile national polonais.",
-   "Monde : Deutsche Bank, Commerzbank et les caisses d'épargne créent une coentreprise d'échange de données contre la fraude.",
-   "Monde : après ChatGPT Wallet, Cardless lance des cartes virtuelles utilisables par des agents IA, dans les limites fixées par le porteur."
+   "UEMOA : au Mali, SAMA Money reçoit gratuitement les virements PI-SPI de toute l'Union, le numéro de téléphone servant d'alias.",
+   "UEMOA : à Abidjan, les tickets de bus SOTRA se paient aussi avec Orange Money, après Wave.",
+   "Bénin : toujours une seule API Business PI-SPI homologuée (Ecobank) ; le SMR9 de Dakar (19-20 novembre) est le rendez-vous à suivre pour les prochaines annonces.",
+   "Afrique : Visa Pay lance le paiement sans contact par téléphone en RDC avec cinq banques ; Interswitch dévoile son Tap to Pay au Nigeria.",
+   "Monde : Mastercard Accept transforme chaque carte de débit en moyen d'encaisser, par Tap on Phone, QR ou lien de paiement.",
+   "Monde : les dépôts tokenisés gagnent les particuliers (Monument Bank) et les transferts entre banques (DBS et JPMorgan)."
   ],
-  "texte": "Deux semaines après son entrée en vigueur obligatoire, PI-SPI doit maintenant conquérir les entreprises : une seule API Business est homologuée au Bénin, celle d'Ecobank. Ailleurs, les banques montrent la voie : mensualités intégrées au paiement national en Pologne, coentreprise anti-fraude entre banques allemandes, cartes prêtes pour les agents IA.",
-  "titre": "PI-SPI cherche ses entreprises, les banques reprennent la main sur le crédit et la fraude"
+  "texte": "Mastercard Accept permet désormais à tout porteur de carte de débit d'encaisser depuis l'appli de sa banque, et Visa fait payer en sans contact un portefeuille rechargé par mobile money en RDC. Dans l'UEMOA, PI-SPI gagne de nouveaux wallets et le Salon monétique régional du GIM-UEMOA s'ouvre à Dakar le 19 novembre.",
+  "titre": "Le téléphone devient terminal, la carte rejoint le QR"
  },
  "articles": [
+  {
+   "id": "2026-11-17-google-wallet-iphone",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-17",
+   "resume": "Google ouvre son portefeuille aux utilisateurs d'iPhone américains : cartes pour payer en ligne avec Google Pay, cartes de fidélité, billets, et achats réalisés par des agents IA. Le paiement sans contact en magasin reste réservé à Apple Pay sur iOS.",
+   "retenir": "Les wallets deviennent multi-plateformes et servent aussi aux achats par IA : vos cartes doivent être tokenisées pour y figurer.",
+   "source": "Google",
+   "techno": "tokenisation",
+   "theme": "Wallets & tokenisation",
+   "titre": "Google Wallet arrive sur iPhone aux États-Unis",
+   "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-17-klivvr-kai-virements",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-17",
+   "resume": "La fintech égyptienne Klivvr permet à son assistant K.ai d'exécuter des transferts vers d'autres utilisateurs directement depuis la conversation. La fonction est ouverte à ses plus de 700 000 clients.",
+   "retenir": "Le virement par conversation arrive en Afrique : un assistant dans l'appli bancaire peut devenir le nouveau guichet, à condition d'un contrôle fort des ordres.",
+   "source": "The Paypers",
+   "techno": "commerce-agentique",
+   "theme": "IA & commerce",
+   "titre": "Égypte : l'assistant IA de Klivvr envoie de l'argent sur simple demande",
+   "url": "https://thepaypers.com/fintech/news/klivvr-updates-kai-assistant-to-make-transfers-through-chat",
+   "zone": "Afrique"
+  },
+  {
+   "id": "2026-11-17-mastercard-accept",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-17",
+   "essentiel": true,
+   "pourquoi": "Ce service permet à votre banque de faire de chaque client titulaire d'une carte de débit un commerçant, sans TPE ni contrat d'acquisition séparé. C'est un argument fort pour équiper artisans et petits vendeurs béninois depuis votre appli.",
+   "resume": "Avec Mastercard Accept, le titulaire d'une carte de débit ou prépayée saisit un montant dans son application bancaire, puis le payeur tape sa carte sur le téléphone, scanne un QR code ou suit un lien de paiement. L'argent arrive sur le compte existant ; Equity Bank, KCB et Premier Bank au Kenya figurent parmi les premiers partenaires.",
+   "retenir": "La banque peut transformer chaque client particulier (artisan, vendeur, livreur) en commerçant sans TPE ni compte marchand, directement dans son appli.",
+   "source": "Mastercard",
+   "techno": "softpos",
+   "theme": "Cartes",
+   "titre": "Mastercard Accept : tout porteur de carte de débit peut encaisser depuis l'appli de sa banque",
+   "url": "https://www.mastercard.com/global/en/news-and-trends/press/2026/november/Introducing-Mastercard-Accept.html",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-17-orange-money-sotra",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-17",
+   "resume": "Après Wave, Orange Money est désormais accepté pour payer les tickets sur toutes les lignes de bus de la SOTRA à Abidjan. Le transport urbain du quotidien bascule progressivement vers le paiement mobile.",
+   "retenir": "Le transport public devient un terrain d'usage quotidien du paiement électronique : une offre carte sans contact ou QR bancaire a sa place face aux wallets.",
+   "source": "L'Infodrome",
+   "techno": "qr-marchand",
+   "theme": "Mobile money",
+   "titre": "Abidjan : le ticket de bus SOTRA se paie aussi avec Orange Money",
+   "url": "https://www.linfodrome.com/societe/127721-ticket-de-bus-apres-wave-le-paiement-par-orange-money-desormais-accepte-sur-toutes-les-lignes-sotra",
+   "zone": "UEMOA"
+  },
+  {
+   "id": "2026-11-17-paysafego-wallet-marque",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-17",
+   "resume": "PaysafeGo permet à une entreprise de proposer un wallet à sa marque, intégré par API ou hébergé en co-marquage. Paysafe gère le KYC, les cartes virtuelles, le règlement, la fraude et les versements internationaux.",
+   "retenir": "Le wallet en marque blanche devient un produit clé en main : une banque peut le proposer à ses grands clients (distributeurs, assureurs) pour fidéliser leurs propres clients.",
+   "source": "PYMNTS",
+   "techno": "finance-embarquee",
+   "theme": "Wallets & tokenisation",
+   "titre": "Paysafe lance PaysafeGo pour créer son propre portefeuille numérique",
+   "url": "https://www.pymnts.com/digital-payments/2026/paysafe-debuts-tool-to-help-businesses-launch-digital-wallets/",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-17-temu-truelayer-pay-by-bank",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-17",
+   "resume": "En Allemagne, les clients de Temu peuvent payer directement depuis leur appli bancaire par virement instantané, sans saisir de carte, grâce à TrueLayer. Le déploiement doit suivre dans d'autres marchés européens.",
+   "retenir": "Quand un géant du e-commerce adopte le paiement par compte, la carte n'est plus le seul chemin : PI-SPI et ses API ouvrent la même voie dans l'UEMOA.",
+   "source": "The Paypers",
+   "techno": "open-banking",
+   "theme": "Open banking",
+   "titre": "Temu propose le paiement de compte à compte en Europe avec TrueLayer",
+   "url": "https://thepaypers.com/payments/news/temu-and-truelayer-roll-out-pay-by-bank-across-europe",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-16-dbs-kinexys-depots-tokenises",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-16",
+   "resume": "DBS et Kinexys, la plateforme de JPMorgan, lancent pour les institutions des transferts transfrontaliers en dollars tokenisés, en temps réel, entre les deux pays. Ant International prévoit de l'utiliser pour ses entités.",
+   "retenir": "Les grandes banques construisent leur réponse aux stablecoins : des dépôts tokenisés interopérables pour les paiements internationaux des entreprises.",
+   "source": "PaymentsJournal",
+   "techno": "depots-tokenises",
+   "theme": "Crypto & stablecoins",
+   "titre": "DBS et JPMorgan relient leurs dépôts tokenisés entre Singapour et les États-Unis",
+   "url": "https://www.paymentsjournal.com/dbs-and-jpmorgan-launch-cross-border-tokenized-deposit-service/",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-16-kakaobank-apple-pay-lance",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-16",
+   "resume": "KakaoBank propose désormais Apple Pay sur ses cartes de débit et ses « mini cards » accessibles dès 14 ans. C'est le deuxième émetteur coréen après Hyundai Card, et Toss Bank prépare aussi son arrivée.",
+   "retenir": "Les néobanques utilisent Apple Pay comme argument d'acquisition des jeunes : un levier à anticiper dès que les wallets mondiaux arriveront dans l'UEMOA.",
+   "source": "BigGo Finance",
+   "techno": "tokenisation",
+   "theme": "Wallets & tokenisation",
+   "titre": "Corée : KakaoBank lance Apple Pay, une première pour une banque en ligne",
+   "url": "https://finance.biggo.com/news/0c25cd90-86a9-41be-be12-88e77d768f5c",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-16-monument-depots-tokenises",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-16",
+   "resume": "Monument Bank offre dans son appli une épargne à 12 mois en livres, garantie par le FSCS, enregistrée sur la blockchain publique Midnight qui protège la confidentialité. Le client n'a besoin d'aucun portefeuille crypto.",
+   "retenir": "Le dépôt tokenisé sort des salles de marché pour toucher le grand public, sans changer l'expérience client : la banque garde la relation et la garantie.",
+   "source": "The Paypers",
+   "techno": "depots-tokenises",
+   "theme": "Crypto & stablecoins",
+   "titre": "Royaume-Uni : Monument Bank propose des dépôts tokenisés aux particuliers",
+   "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/monument-bank-launches-tokenised-retail-deposits-on-midnight",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-16-prezzeepay-unionpay",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-16",
+   "resume": "Prezzee et UnionPay International lancent en Australie des cartes UnionPay entièrement numériques et non rechargeables, gérées dans l'appli Prezzee. On peut les ajouter à Apple Wallet ou payer sans contact sur Android, partout où UnionPay est accepté.",
+   "retenir": "La carte cadeau virtuelle ajoutable au wallet est un produit simple à lancer pour les fêtes et les entreprises (primes, cadeaux clients).",
+   "source": "The Paypers",
+   "techno": "carte-virtuelle",
+   "theme": "Cartes",
+   "titre": "UnionPay et Prezzee lancent PrezzeePay, des cartes cadeaux 100 % numériques",
+   "url": "https://thepaypers.com/payments/news/prezzee-and-unionpay-international-launch-prezzeepay-digital-cards",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-16-raycash-stablecoin-confidentiel",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-16",
+   "resume": "Issue de Zama, Raycash ouvre en bêta privée une appli de paiement en USDC où soldes et montants restent chiffrés sur la blockchain publique. Une carte de débit est en préparation.",
+   "retenir": "La confidentialité, principal frein des banques aux blockchains publiques, commence à être levée par la cryptographie.",
+   "source": "The Paypers",
+   "techno": "stablecoins",
+   "theme": "Crypto & stablecoins",
+   "titre": "Raycash lance des paiements en stablecoin aux montants chiffrés",
+   "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/zama-spin-off-raycash-rolls-out-confidential-stablecoin-payments",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-16-visa-pay-tap-rdc",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-16",
+   "essentiel": true,
+   "pourquoi": "Dans un pays francophone voisin, Visa et cinq banques font payer en sans contact des clients rechargés par mobile money. C'est exactement le pont carte–wallet que votre banque peut proposer au Bénin.",
+   "resume": "Visa a ajouté le paiement sans contact par smartphone (NFC) à son portefeuille Visa Pay en RDC, en présence du gouverneur de la Banque centrale du Congo. Le portefeuille se recharge par M-Pesa, Airtel Money ou Orange Money et il est proposé par Access Bank, UBA, Sofibanque, Solidaire Banque et TMB.",
+   "retenir": "Un portefeuille Visa alimenté par mobile money et utilisable sur les TPE : c'est un modèle directement transposable par une banque de l'UEMOA pour faire payer en carte des clients sans carte physique.",
+   "source": "Agence Ecofin",
+   "techno": "tokenisation",
+   "theme": "Wallets & tokenisation",
+   "titre": "RDC : Visa Pay permet de payer sans contact avec son téléphone Android",
+   "url": "https://www.ecofinagency.com/news-finances/1711-60896-visa-pay-adds-smartphone-tap-to-pay-in-dr-congo-where-most-transactions-are-in-dollars",
+   "zone": "Afrique"
+  },
+  {
+   "id": "2026-11-16-visa-scan-to-pay-samsung",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-16",
+   "resume": "Visa et Samsung lancent « Scan to Pay » dans Samsung Wallet : les utilisateurs Galaxy paient avec leur carte Visa les QR codes de réseaux comme Alipay+, Lakala, VNPay ou Octopus. La carte rejoint ainsi le QR, sans changer de moyen de paiement.",
+   "retenir": "Le QR et la carte ne s'opposent plus : une banque peut faire payer ses cartes sur les QR marchands, un levier fort là où le QR domine comme dans l'UEMOA.",
+   "source": "Samsung Newsroom",
+   "techno": "qr-marchand",
+   "theme": "Paiement instantané",
+   "titre": "Samsung Wallet : les cartes Visa paient désormais les QR codes marchands en Asie",
+   "url": "https://news.samsung.com/sg/visa-and-samsung-bring-scan-to-pay-to-mobile-devices-across-asia-pacific-with-samsung-wallet",
+   "zone": "International"
+  },
+  {
+   "id": "2026-11-14-sama-money-pispi",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-14",
+   "resume": "Depuis le 13 novembre, les clients de l'opérateur malien SAMA Money reçoivent sans frais les virements instantanés envoyés par n'importe quel établissement connecté à PI-SPI. Le numéro de téléphone sert d'alias et l'argent arrive en quelques secondes.",
+   "retenir": "Chaque nouveau wallet raccordé élargit le réseau joignable depuis vos comptes : vos clients peuvent déjà payer ou envoyer vers le Mali en quelques secondes.",
+   "source": "Bénin Web TV",
+   "techno": "pi-spi",
+   "theme": "Paiement instantané",
+   "titre": "Mali : SAMA Money reçoit gratuitement les virements PI-SPI de toute l'UEMOA",
+   "url": "https://beninwebtv.bj/mali-sama-money-ouvre-la-reception-gratuite-des-virements-pi-spi-dans-luemoa/",
+   "zone": "UEMOA"
+  },
   {
    "id": "2026-11-13-aiprise-partage-kyc",
    "ajoute": "2026-11-16T05:55:00Z",
@@ -109,6 +295,19 @@
    "titre": "Corée : Hyundai Card ouvre son IA à ses partenaires de cartes co-marquées",
    "url": "https://technode.global/2026/11/13/hyundai-card-plcc-ai-platform-partners/",
    "zone": "International"
+  },
+  {
+   "id": "2026-11-13-interswitch-tap-to-pay",
+   "ajoute": "2026-11-18T06:30:00Z",
+   "date": "2026-11-13",
+   "resume": "Interswitch a présenté au salon Moonshot de Lagos une technologie de paiement sans contact par téléphone, développée avec Mastercard et Google, avec des démonstrations en direct. Le géant nigérian veut généraliser le paiement « en un geste » sur le continent.",
+   "retenir": "Les grands processeurs africains industrialisent le sans contact sur mobile : les banques qui s'y raccordent tôt prendront l'avantage sur l'acceptation.",
+   "source": "BusinessDay",
+   "techno": "softpos",
+   "theme": "Cartes",
+   "titre": "Nigeria : Interswitch dévoile sa solution Tap to Pay avec Mastercard et Google",
+   "url": "https://businessday.ng/news/article/interswitch-unveils-tap-to-pay-technology-in-push-to-strengthen-africas-digital-economy",
+   "zone": "Afrique"
   },
   {
    "id": "2026-11-13-meridian-fx-synchronise",
@@ -3005,6 +3204,12 @@
    "client": "Le client obtient une carte en quelques minutes depuis son téléphone, sans support plastique, pour payer en ligne, régler des abonnements ou acheter à l'international.",
    "exemples": [
     {
+     "date": "2026-11-16",
+     "source": "The Paypers",
+     "texte": "Prezzee et UnionPay International lancent en Australie des cartes UnionPay entièrement numériques et non rechargeables, gérées dans l'appli Prezzee.",
+     "url": "https://thepaypers.com/payments/news/prezzee-and-unionpay-international-launch-prezzeepay-digital-cards"
+    },
+    {
      "date": "2026-10-26",
      "source": "TechAfrica News",
      "texte": "Tech Mahindra et Mastercard intègrent les cartes virtuelles d'entreprise dans les ERP et outils d'achats.",
@@ -3021,12 +3226,6 @@
      "source": "Mastercard",
      "texte": "Accord de cinq ans pour que MoovnPay propose cartes prépayées virtuelles et physiques, tokenisation, paiement en ligne, transferts entre particuliers et envois internationaux, intégrés dans ses plateformes de mobilité et de commerce.",
      "url": "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/october/mastercard-and-moovn-join-forces-to-scale-digital-payments-across-east-africa/"
-    },
-    {
-     "date": "2026-10-06",
-     "source": "TechTrendsKE",
-     "texte": "Airtel Money prépare sa Global Pay Card virtuelle Mastercard au Kenya, en RDC et au Gabon, après plus de 875 000 cartes émises en Ouganda, Zambie et Tanzanie.",
-     "url": "https://techtrendske.co.ke/2026/10/06/airtel-money-virtual-card-kenya/"
     }
    ],
    "fonctionnement": "La carte est émise sous forme numérique (numéro, date d'expiration, code de sécurité) dans l'application. Elle peut être à usage unique, à plafond limité ou rechargeable, et se bloque en un clic.",
@@ -3090,6 +3289,12 @@
    "client": "Un assistant IA trouve un produit, le commande et le paie pour le client, selon des règles et des plafonds que le client a fixés.",
    "exemples": [
     {
+     "date": "2026-11-17",
+     "source": "The Paypers",
+     "texte": "La fintech égyptienne Klivvr permet à son assistant K.ai d'exécuter des transferts vers d'autres utilisateurs directement depuis la conversation.",
+     "url": "https://thepaypers.com/fintech/news/klivvr-updates-kai-assistant-to-make-transfers-through-chat"
+    },
+    {
      "date": "2026-11-13",
      "source": "Cardless (via Glenbrook)",
      "texte": "L'émetteur américain de cartes co-marquées Cardless propose un service client conversationnel, des cartes virtuelles dépensables par des agents IA dans les limites fixées par le porteur, et teste Parallax, un modèle IA antifraude.",
@@ -3106,12 +3311,6 @@
      "source": "Mastercard",
      "texte": "Avec Travelport, Booked AI et Basis Theory, Mastercard a fait rechercher, réserver, payer et émettre un vrai billet d'avion par un agent IA, sans que le client quitte la conversation.",
      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/november/end-to-end-AI-powered-travel-booking.html"
-    },
-    {
-     "date": "2026-11-12",
-     "source": "The Paypers",
-     "texte": "Wirex lance Navoka, un agent IA qui paie depuis son propre IBAN, sa carte de débit et ses portefeuilles en stablecoins, et non depuis le compte du client.",
-     "url": "https://thepaypers.com/payments/news/wirex-launches-navoka-ai-agent-with-dedicated-iban-and-payment-card"
     }
    ],
    "fonctionnement": "Les réseaux créent des tokens dédiés aux agents IA, avec des limites (montant, marchands autorisés) et une preuve que le client a donné son accord. Le commerçant sait qu'un agent agit au nom d'un client vérifié.",
@@ -3133,6 +3332,18 @@
    "client": "L'argent déposé à la banque peut circuler 24 h/24 en quelques secondes, comme un stablecoin, tout en restant un dépôt garanti.",
    "exemples": [
     {
+     "date": "2026-11-16",
+     "source": "The Paypers",
+     "texte": "Monument Bank offre dans son appli une épargne à 12 mois en livres, garantie par le FSCS, enregistrée sur la blockchain publique Midnight qui protège la confidentialité.",
+     "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/monument-bank-launches-tokenised-retail-deposits-on-midnight"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "PaymentsJournal",
+     "texte": "DBS et Kinexys, la plateforme de JPMorgan, lancent pour les institutions des transferts transfrontaliers en dollars tokenisés, en temps réel, entre les deux pays.",
+     "url": "https://www.paymentsjournal.com/dbs-and-jpmorgan-launch-cross-border-tokenized-deposit-service/"
+    },
+    {
      "date": "2026-11-02",
      "source": "Standard Chartered",
      "texte": "La banque propose à ses entreprises clientes des dépôts tokenisés transférables en temps réel, 24 h/24, entre banques participantes, avec règlement en monnaie de banque centrale via la plateforme EnsembleTX de la HKMA.",
@@ -3143,18 +3354,6 @@
      "source": "Malay Mail",
      "texte": "La Malaisie et la Thaïlande rejoignent BLOOM, l'initiative de Singapour pour régler les paiements transfrontaliers en dépôts tokenisés et stablecoins régulés.",
      "url": "https://www.malaymail.com/news/singapore/2026/10/23/bnm-bank-of-thailand-join-singapore-led-bloom-cross-border-digital-money-initiative/240359"
-    },
-    {
-     "date": "2026-10-22",
-     "source": "SoFi",
-     "texte": "SoFi lance SOFIE, premier dépôt tokenisé grand public d'une banque américaine, rémunéré à 4,40 % et convertible en stablecoin.",
-     "url": "https://www.sofi.com/newsroom/sofi-launches-sofi-earn-sofie-the-first-and-only-national-bank-issued-tokenized-deposit-for-consumers/"
-    },
-    {
-     "date": "2026-10-19",
-     "source": "J.P. Morgan",
-     "texte": "Le jeton de dépôt en dollars JPM Coin devient disponible sur Ethereum pour les clients institutionnels.",
-     "url": "https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum"
     }
    ],
    "fonctionnement": "La banque émet sur une blockchain un jeton qui représente un dépôt chez elle (1 jeton = 1 unité de monnaie). Les jetons s'échangent instantanément entre clients et peuvent être programmés (paiements automatiques, trésorerie). Contrairement à un stablecoin, c'est la banque qui détient la relation client et le dépôt.",
@@ -3177,6 +3376,12 @@
    "client": "Le client ou le petit commerçant obtient un petit crédit ou un découvert directement dans son application de paiement, sans dossier ni agence, et rembourse automatiquement sur ses prochains encaissements.",
    "exemples": [
     {
+     "date": "2026-11-17",
+     "source": "PYMNTS",
+     "texte": "PaysafeGo permet à une entreprise de proposer un wallet à sa marque, intégré par API ou hébergé en co-marquage.",
+     "url": "https://www.pymnts.com/digital-payments/2026/paysafe-debuts-tool-to-help-businesses-launch-digital-wallets/"
+    },
+    {
      "date": "2026-11-11",
      "source": "The Next Web",
      "texte": "Revolut Pay est proposé au paiement dans Uber et Uber Eats au Royaume-Uni et dans l'Espace économique européen, avec des points de fidélité RevPoints bonifiés.",
@@ -3193,12 +3398,6 @@
      "source": "The Paypers",
      "texte": "Le logiciel américain de facturation Tabs lance Tabs Pay avec Adyen : les équipes finance facturent, encaissent par carte ou prélèvement et rapprochent sans quitter l'outil.",
      "url": "https://thepaypers.com/payments/news/tabs-partners-with-adyen-to-launch-tabs-pay-embedded-payments"
-    },
-    {
-     "date": "2026-11-05",
-     "source": "The Paypers",
-     "texte": "Amazon permet aux vendeurs d'Amazon.co.uk de détenir, payer et transférer des livres sterling depuis leur espace vendeur, avec virements gratuits vers un compte britannique.",
-     "url": "https://thepaypers.com/payments/news/amazon-launches-seller-wallet-gbp-for-uk-store-sellers"
     }
    ],
    "fonctionnement": "L'opérateur ou la banque analyse l'historique des paiements reçus et envoyés dans le wallet pour fixer un plafond. Le crédit est proposé au moment du besoin (payer un fournisseur, une course, un achat) et le remboursement est prélevé sur les flux entrants.",
@@ -3360,6 +3559,12 @@
    "client": "Avec son accord, le client relie son compte bancaire à d'autres applications : agrégation de comptes, paiement direct depuis le compte, crédit plus rapide.",
    "exemples": [
     {
+     "date": "2026-11-17",
+     "source": "The Paypers",
+     "texte": "En Allemagne, les clients de Temu peuvent payer directement depuis leur appli bancaire par virement instantané, sans saisir de carte, grâce à TrueLayer.",
+     "url": "https://thepaypers.com/payments/news/temu-and-truelayer-roll-out-pay-by-bank-across-europe"
+    },
+    {
      "date": "2026-11-10",
      "source": "The Paypers",
      "texte": "Klarna Bank remplace son ancienne interface d'accès aux comptes (PSD2) par XS2A v2, conforme au standard Berlin Group NextGenPSD2, avec une mise en production visée en novembre 2026.",
@@ -3376,12 +3581,6 @@
      "source": "The Paypers",
      "texte": "Trendyol ajoute Revolut Pay, un paiement de compte à compte validé par biométrie.",
      "url": "https://thepaypers.com/payments/news/trendyol-adds-revolut-pay-as-one-click-checkout-option"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "The Paypers",
-     "texte": "Zen.com lance le paiement par compte bancaire dans neuf marchés européens grâce à Mastercard.",
-     "url": "https://thepaypers.com/payments/news/zencom-launches-pay-by-bank-in-nine-european-markets-via-mastercard"
     }
    ],
    "fonctionnement": "La banque expose des interfaces sécurisées (API) qui permettent à des tiers agréés de lire des informations de compte ou d'initier des paiements, uniquement avec le consentement du client.",
@@ -3515,6 +3714,12 @@
    "client": "Le client envoie de l'argent en quelques secondes, 24h/24, d'un compte bancaire vers un wallet mobile money ou une autre banque, avec un simple alias comme le numéro de téléphone.",
    "exemples": [
     {
+     "date": "2026-11-14",
+     "source": "Bénin Web TV",
+     "texte": "Depuis le 13 novembre, les clients de l'opérateur malien SAMA Money reçoivent sans frais les virements instantanés envoyés par n'importe quel établissement connecté à PI-SPI.",
+     "url": "https://beninwebtv.bj/mali-sama-money-ouvre-la-reception-gratuite-des-virements-pi-spi-dans-luemoa/"
+    },
+    {
      "date": "2026-11-13",
      "source": "Togo First",
      "texte": "Au Togo aussi, Ecobank est le seul établissement dont l'API Business est homologuée par la BCEAO : les entreprises peuvent y connecter comptabilité, caisse ou gestion pour payer, régler en masse et suivre en temps réel.",
@@ -3531,12 +3736,6 @@
      "source": "Togo First",
      "texte": "La directrice générale de Mixx Togo indique que le wallet, connecté à PI-SPI depuis avril, a traité environ 3 milliards FCFA en 39 000 opérations sur ses trois premiers mois.",
      "url": "https://www.togofirst.com/fr/finance/0911-20585-catherine-savery-dg-de-mixx-togo-dans-cinq-ans-mixx-sera-une-super-app-la-reference-des-services-financiers-au-togo"
-    },
-    {
-     "date": "2026-11-09",
-     "source": "Osiris",
-     "texte": "Dans un communiqué du 8 novembre, le cadre de concertation des prestataires de transfert d'argent du Sénégal signale des difficultés et dysfonctionnements depuis le passage obligatoire à PI-SPI.",
-     "url": "https://www.osiris.sn/pi-psi-les-prestataires-de-transfert-d-argent-reclament-une-concertation-avec.html"
     }
    ],
    "fonctionnement": "La BCEAO exploite une plateforme centrale qui relie banques, émetteurs de monnaie électronique et établissements de paiement. Les fonds sont transférés et réglés en temps réel, et un QR code commun permet aussi de payer chez les marchands.",
@@ -3601,6 +3800,18 @@
    "client": "Le client scanne un QR code chez le commerçant avec l'application de sa banque ou de son mobile money et paie sans carte ni espèces.",
    "exemples": [
     {
+     "date": "2026-11-17",
+     "source": "L'Infodrome",
+     "texte": "Après Wave, Orange Money est désormais accepté pour payer les tickets sur toutes les lignes de bus de la SOTRA à Abidjan.",
+     "url": "https://www.linfodrome.com/societe/127721-ticket-de-bus-apres-wave-le-paiement-par-orange-money-desormais-accepte-sur-toutes-les-lignes-sotra"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "Samsung Newsroom",
+     "texte": "Visa et Samsung lancent « Scan to Pay » dans Samsung Wallet : les utilisateurs Galaxy paient avec leur carte Visa les QR codes de réseaux comme Alipay+, Lakala, VNPay ou Octopus.",
+     "url": "https://news.samsung.com/sg/visa-and-samsung-bring-scan-to-pay-to-mobile-devices-across-asia-pacific-with-samsung-wallet"
+    },
+    {
      "date": "2026-11-13",
      "source": "The Paypers",
      "texte": "La banque singapourienne UOB ajoutera dans son application TMRW le paiement par QR en Chine, sur plus de 100 millions de points de vente, avec NETS, Alipay+, UnionPay International et Weixin Pay.",
@@ -3611,18 +3822,6 @@
      "source": "The Paypers",
      "texte": "Samsung étend son partenariat avec ShopeePay : le paiement QR ShopeePay est disponible dans Samsung Wallet, et Samsung Pay est proposé au paiement sur Shopee.",
      "url": "https://thepaypers.com/payments/news/samsung-and-shopeepay-expand-partnership-on-qr-and-wallet-payments"
-    },
-    {
-     "date": "2026-11-02",
-     "source": "HKMA",
-     "texte": "La HKMA annonce que les utilisateurs du FPS pourront payer par QR chez plus de 100 millions de commerçants UnionPay à Hong Kong, en Chine continentale et dans plus de 40 pays, avec un déploiement progressif d'ici la fin de l'année.",
-     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/"
-    },
-    {
-     "date": "2026-10-20",
-     "source": "Wakat Séra",
-     "texte": "En Côte d'Ivoire, des fraudeurs collent de faux QR codes sur ceux des commerçants pour détourner les paiements mobile money.",
-     "url": "https://www.wakatsera.com/cote-divoire-de-faux-qr-codes-piegent-les-usagers-du-mobile-money/"
     }
    ],
    "fonctionnement": "Le commerçant affiche un QR code, statique (imprimé) ou dynamique (montant inclus). L'application du client le lit et déclenche un paiement de compte à compte. Avec un QR interopérable, un seul code accepte les paiements de toutes les banques et de tous les wallets.",
@@ -3643,6 +3842,18 @@
    "client": "Le commerçant accepte les cartes sans contact directement sur son smartphone Android, sans acheter de terminal.",
    "exemples": [
     {
+     "date": "2026-11-17",
+     "source": "Mastercard",
+     "texte": "Avec Mastercard Accept, le titulaire d'une carte de débit ou prépayée saisit un montant dans son application bancaire, puis le payeur tape sa carte sur le téléphone, scanne un QR code ou suit un lien de paiement.",
+     "url": "https://www.mastercard.com/global/en/news-and-trends/press/2026/november/Introducing-Mastercard-Accept.html"
+    },
+    {
+     "date": "2026-11-13",
+     "source": "BusinessDay",
+     "texte": "Interswitch a présenté au salon Moonshot de Lagos une technologie de paiement sans contact par téléphone, développée avec Mastercard et Google, avec des démonstrations en direct.",
+     "url": "https://businessday.ng/news/article/interswitch-unveils-tap-to-pay-technology-in-push-to-strengthen-africas-digital-economy"
+    },
+    {
      "date": "2026-11-11",
      "source": "The Paypers",
      "texte": "HSBC UK propose à ses petites entreprises clientes d'accepter les paiements sans contact directement sur leur smartphone, grâce au Tap to Pay de Stripe.",
@@ -3653,25 +3864,13 @@
      "source": "The Paypers",
      "texte": "Arab Financial Services permet aux commerçants de Bahreïn d'encaisser les cartes sans contact directement sur leur iPhone, sans terminal.",
      "url": "https://thepaypers.com/payments/news/afs-launches-tap-to-pay-on-iphone-for-merchants-in-bahrain"
-    },
-    {
-     "date": "2026-11-06",
-     "source": "The Paypers",
-     "texte": "La fintech MONEI permet à ses commerçants espagnols d'accepter cartes et wallets sans contact sur iPhone, via son application MONEI Pay.",
-     "url": "https://thepaypers.com/payments/news/monei-launches-tap-to-pay-on-iphone-for-merchants-in-spain"
-    },
-    {
-     "date": "2026-10-12",
-     "source": "IndianWeb2",
-     "texte": "La fintech indienne Viyona annonce son application Tap & Pay, qui transforme un smartphone Android en terminal sans contact, au Zimbabwe, premier marché africain visé.",
-     "url": "https://www.indianweb2.com/2026/10/viyona-fintech-enters-african-expansion.html"
     }
    ],
    "fonctionnement": "Une application certifiée utilise la puce NFC du téléphone pour lire la carte ou le téléphone du client. La saisie du code se fait à l'écran de façon sécurisée. Visa l'appelle « Tap to Phone » et Mastercard « Tap on Phone ».",
    "nom": "SoftPOS (le téléphone devient terminal de paiement)",
    "opportunite": "Équiper rapidement les petits commerçants et les agents mobiles (livreurs, taxis, marchés) pour augmenter l'acceptation des cartes de la banque, sans investir dans des TPE.",
    "ordre": 6,
-   "situation": "Adopté en Inde, en Europe, au Brésil et en Australie, et en cours de diffusion en Afrique, où il complète le mobile money.",
+   "situation": "Adopté en Inde, en Europe, au Brésil et en Australie ; en Afrique, Interswitch le déploie au Nigeria et Mastercard Accept (Kenya en tête) permet même aux particuliers d'encaisser depuis leur appli bancaire.",
    "statut": "em",
    "termes": [
     "NFC",
@@ -3685,6 +3884,12 @@
    "id": "stablecoins",
    "client": "Des transferts internationaux plus rapides et moins chers, sans changer d'application : le client garde son wallet ou sa carte habituels.",
    "exemples": [
+    {
+     "date": "2026-11-16",
+     "source": "The Paypers",
+     "texte": "Issue de Zama, Raycash ouvre en bêta privée une appli de paiement en USDC où soldes et montants restent chiffrés sur la blockchain publique.",
+     "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/zama-spin-off-raycash-rolls-out-confidential-stablecoin-payments"
+    },
     {
      "date": "2026-11-13",
      "source": "The Paypers",
@@ -3702,12 +3907,6 @@
      "source": "The Block",
      "texte": "Visa permet désormais à ses émetteurs et acquéreurs de régler en stablecoins sur la blockchain Monad, qui rejoint notamment Ethereum, Solana, Stellar et Base.",
      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201"
-    },
-    {
-     "date": "2026-11-09",
-     "source": "PYMNTS",
-     "texte": "La banque américaine PNC ouvre à ses clients entreprises et institutionnels la réception de paiements en USDC sur Ethereum, grâce à la technologie de Coinbase.",
-     "url": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/"
     }
    ],
    "fonctionnement": "Un stablecoin est une cryptomonnaie adossée à une devise (souvent le dollar). Les réseaux s'en servent en arrière-plan pour régler les transactions entre pays en quelques minutes, au lieu de passer par plusieurs banques correspondantes.",
@@ -3728,28 +3927,28 @@
    "client": "Le client paie en approchant son téléphone ou sa montre du terminal, sans sortir sa carte, et achète en ligne sans saisir son numéro de carte.",
    "exemples": [
     {
+     "date": "2026-11-17",
+     "source": "Google",
+     "texte": "Google ouvre son portefeuille aux utilisateurs d'iPhone américains : cartes pour payer en ligne avec Google Pay, cartes de fidélité, billets, et achats réalisés par des agents IA.",
+     "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "Agence Ecofin",
+     "texte": "Visa a ajouté le paiement sans contact par smartphone (NFC) à son portefeuille Visa Pay en RDC, en présence du gouverneur de la Banque centrale du Congo.",
+     "url": "https://www.ecofinagency.com/news-finances/1711-60896-visa-pay-adds-smartphone-tap-to-pay-in-dr-congo-where-most-transactions-are-in-dollars"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "BigGo Finance",
+     "texte": "KakaoBank propose désormais Apple Pay sur ses cartes de débit et ses « mini cards » accessibles dès 14 ans.",
+     "url": "https://finance.biggo.com/news/0c25cd90-86a9-41be-be12-88e77d768f5c"
+    },
+    {
      "date": "2026-11-10",
      "source": "The Paypers",
      "texte": "Selon des sources du secteur, KakaoBank et Toss Bank s'apprêtent à ajouter leurs cartes de débit à Apple Pay d'ici fin 2026, peut-être dès novembre pour KakaoBank.",
      "url": "https://thepaypers.com/payments/news/kakaobank-and-toss-bank-reportedly-prepare-to-launch-apple-pay"
-    },
-    {
-     "date": "2026-11-03",
-     "source": "Mastercard / Hespress",
-     "texte": "Mastercard accompagne le lancement de Samsung Pay au Maroc, d'abord chez Attijariwafa bank et l'offre Simple, pour payer sans contact avec un smartphone Galaxy.",
-     "url": "https://fr.hespress.com/495084-mastercard-renforce-loffre-de-paiement-mobile-au-maroc-avec-larrivee-de-samsung-pay.html"
-    },
-    {
-     "date": "2026-10-30",
-     "source": "Nairametrics",
-     "texte": "Verve, réseau domestique nigérian, généralise le paiement mobile sans contact par carte tokenisée dans l'appli bancaire.",
-     "url": "https://nairametrics.com/2026/10/30/verve-leads-nigerias-mobile-tap-to-pay-frontier-advancing-the-future-of-digital-payments/"
-    },
-    {
-     "date": "2026-10-28",
-     "source": "Tech Times",
-     "texte": "Google Pay ouvre au Nigeria avec FirstBank, GTBank, Zenith et UBA, via Mastercard et Interswitch.",
-     "url": "https://www.techtimes.com/articles/329675/20261029/google-pay-goes-live-nigeria-nfc-terminal-scarcity-limits-tap-pay-reach.htm"
     }
    ],
    "fonctionnement": "Le numéro de carte est remplacé par un « token », un numéro de substitution lié à un appareil ou à un commerçant. Chaque paiement génère un cryptogramme unique : un token volé ne sert à rien ailleurs. Les wallets comme Apple Pay ou Google Pay reposent sur ce mécanisme.",
@@ -3839,6 +4038,14 @@
    "url": "https://tech-insider.org/uk-cma-apple-iphone-nfc-nov-17-deadline-2026/"
   },
   {
+   "id": "2026-11-19-smr9-dakar",
+   "date": "2026-11-19",
+   "detail": "19 et 20 novembre au King Fahd Palace, ouverture par le Gouverneur de la BCEAO ; annonces BCEAO et GIM-UEMOA attendues à l'ouverture, GIM-Awards le 20.",
+   "source": "Financial Afrik",
+   "titre": "Salon Monétique Régional SMR9 du GIM-UEMOA (Dakar)",
+   "url": "https://www.financialafrik.com/2026/11/17/salon-monetique-regional-9eme-edition-smr9/"
+  },
+  {
    "id": "2026-11-25-abcc-cotonou",
    "date": "2026-11-25",
    "detail": "Conférence Africa Blockchain & Crypto (Alliance Fintech UEMOA) au Sofitel Cotonou : cadre des crypto-actifs, paiements transfrontaliers et tokenisation.",
@@ -3885,14 +4092,6 @@
    "source": "HKMA",
    "titre": "Hong Kong : FPS relié au QR UnionPay",
    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/"
-  },
-  {
-   "id": "2026-12-01-kakaobank-apple-pay",
-   "date": "2026-12-01",
-   "detail": "Lancement visé d'ici fin 2026 selon des sources du secteur, peut-être dès novembre pour KakaoBank ; date non confirmée par les banques.",
-   "source": "The Paypers",
-   "titre": "Apple Pay chez KakaoBank et Toss Bank (Corée)",
-   "url": "https://thepaypers.com/payments/news/kakaobank-and-toss-bank-reportedly-prepare-to-launch-apple-pay"
   },
   {
    "id": "2026-12-01-trustech-paris",
@@ -3957,6 +4156,14 @@
    "source": "Carte-electronique.net",
    "titre": "Cartes Mastercard hors ligne en Europe",
    "url": "https://news.carte-electronique.net/les-cartes-mastercard-revolutionnent-payez-et-retirez-de-largent-meme-hors-reseau/"
+  },
+  {
+   "id": "2027-04-09-rdc-fin-cash-devises",
+   "date": "2027-04-09",
+   "detail": "La Banque centrale du Congo interdit les paiements en espèces en devises pour les biens et services ; ils devront passer par la banque ou l'électronique.",
+   "source": "Agence Ecofin",
+   "titre": "RDC : fin des paiements en espèces en devises",
+   "url": "https://www.ecofinagency.com/news-finances/1711-60896-visa-pay-adds-smartphone-tap-to-pay-in-dr-congo-where-most-transactions-are-in-dollars"
   },
   {
    "id": "2027-04-30-sarb-tcib",
