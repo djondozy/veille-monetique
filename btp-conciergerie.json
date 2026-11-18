@@ -1,8 +1,71 @@
 {
- "derniereMaj": "2026-11-16T04:59:15Z",
+ "derniereMaj": "2026-11-18T04:59:12Z",
  "btp": {
-  "synthese": "Au Bénin, le foncier et l'urbanisme dominent : recours contre le décret sur les permis de construire, taxe foncière contestée par les maires et terres agricoles grignotées par la ville ; dans la région, les aéroports (Nigeria, Sénégal, Ghana) et l'énergie concentrent les grands projets.",
+  "synthese": "Au Bénin, le projet de budget 2027 (4 757 milliards FCFA, vote le 8 décembre) et l'extension du réseau électrique de la SBEE dominent ; en Afrique, les ports (Douala, Takoradi) et le rail tanzanien concentrent les grands financements.",
   "actus": [
+   {
+    "date": "2026-11-17",
+    "zone": "Bénin",
+    "titre": "SBEE : 1,14 million de clients et un réseau en pleine extension",
+    "resume": "La Société béninoise d'énergie électrique (SBEE) dit compter 4 711 postes électriques, 18 000 km de câbles et 1,14 million de clients raccordés. Des conventions de 61,9 milliards FCFA signées avec l'Agence française de développement (AFD) en octobre financent notamment 52,1 milliards de travaux d'extension.",
+    "retenir": "Environ 120 000 nouveaux branchements sont prévus dans 750 localités : du travail en vue pour les entreprises de réseaux électriques et de génie civil.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-la-sbee-fait-le-bilan-de-trois-ans-de-transformation-avec-114-million-de-clients-raccordes/"
+   },
+   {
+    "date": "2026-11-17",
+    "zone": "Bénin",
+    "titre": "Budget 2027 : 4 757 milliards FCFA présentés aux députés",
+    "resume": "Le gouvernement a présenté le 16 novembre aux députés un projet de loi de finances 2027 de 4 757 milliards FCFA, en hausse de 14,7 %, avec une croissance visée de 7,5 % et un déficit de 2,8 % du PIB.",
+    "retenir": "Le vote est prévu le 8 décembre : c'est ce budget qui fixera le volume des chantiers publics lancés en 2027.",
+    "source": "La Nation",
+    "url": "https://lanation.bj/actualites/projet-de-loi-de-finances-gestion-2027-le-gouvernement-presente-les-grands-axes-aux-deputes"
+   },
+   {
+    "date": "2026-11-17",
+    "zone": "Bénin",
+    "titre": "GDIZ : une usine textile en discussion avec le FC Barcelone",
+    "resume": "L'entreprise Panafritex, installée dans la zone industrielle de Glo-Djigbé (GDIZ), serait en discussion pour fabriquer des maillots du FC Barcelone ; le contrat n'est pas encore signé et un démarrage est envisagé dans environ un an.",
+    "retenir": "La GDIZ continue d'attirer des industriels : de nouveaux bâtiments et équipements d'usine restent à prévoir sur le site.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-la-gdiz-pourrait-bientot-produire-les-maillots-du-fc-barcelone/"
+   },
+   {
+    "date": "2026-11-17",
+    "zone": "Afrique",
+    "titre": "Cameroun : une centrale à gaz de 300 mégawatts au port de Douala",
+    "resume": "Le port de Douala et un groupement chinois mené par Genertec CMC ont signé le 16 novembre un accord pour une centrale à gaz de 300 MW, estimée à 628 milliards FCFA, construite en deux phases avec un gazoduc d'environ 200 km depuis Kribi.",
+    "retenir": "Les ports africains deviennent aussi des pôles énergétiques : un modèle à suivre pour le port de Cotonou et la GDIZ.",
+    "source": "Ecofin Agency",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1711-60863-cameroon-douala-port-plans-300-megawatt-gas-plant-in-two-phases"
+   },
+   {
+    "date": "2026-11-16",
+    "zone": "Afrique",
+    "titre": "Ghana : 94 millions de dollars pour un chantier de réparation navale à Takoradi",
+    "resume": "Afreximbank (la banque africaine d'import-export) mène un prêt de 94 millions de dollars pour le projet Shiprite, un bassin flottant de réparation de navires au port de Takoradi, d'un coût total d'environ 137 millions de dollars.",
+    "retenir": "Le chantier doit durer 18 mois et créer jusqu'à 430 emplois directs : les services portuaires spécialisés attirent désormais des financements africains.",
+    "source": "Ecofin Agency",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1611-60830-afreximbank-backs-94-million-plan-to-keep-ship-repairs-in-ghana"
+   },
+   {
+    "date": "2026-11-16",
+    "zone": "Afrique",
+    "titre": "Tanzanie : un prêt turc de 280 millions de dollars pour finir le chemin de fer",
+    "resume": "La Tanzanie finalise avec l'Exim Bank de Turquie un prêt de 280 millions de dollars pour achever deux tronçons de sa ligne ferroviaire moderne (SGR, à écartement standard), soit 533 km au total.",
+    "retenir": "Sur 1,6 milliard de dollars nécessaires, 1,32 milliard est déjà trouvé : les grands chantiers ferroviaires se bouclent par plusieurs prêteurs.",
+    "source": "Ecofin Agency",
+    "url": "https://www.ecofinagency.com/news-infrastructures/1611-60841-tanzania-seeks-280-million-turkish-loan-to-complete-key-railway-sections"
+   },
+   {
+    "date": "2026-11-16",
+    "zone": "Monde",
+    "titre": "Le géant espagnol ACS vise 84 à 86 milliards d'euros de ventes en 2030",
+    "resume": "Le groupe de construction ACS (maison mère de Hochtief et Turner) a annoncé viser 84 à 86 milliards d'euros de chiffre d'affaires en 2030, porté par un « super-cycle » des infrastructures ; son carnet de commandes atteint 111 milliards d'euros.",
+    "retenir": "Les géants du BTP misent sur les centres de données, l'énergie et les transports : des secteurs qui tirent aussi la demande mondiale de matériaux.",
+    "source": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/news/acs-targets-84-86bn-revenue-by-2030-amid-infra-supercycle/8136732.article"
+   },
    {
     "date": "2026-11-15",
     "zone": "Bénin",
@@ -38,6 +101,15 @@
     "retenir": "Le voisin ghanéen lance de nouveaux chantiers aéroportuaires : des marchés pour les entreprises de BTP de la sous-région.",
     "source": "Agence Ecofin",
     "url": "https://www.ecofinagency.com/news-services/1511-60822-ghana-plans-three-regional-airport-projects-to-reduce-reliance-on-accra"
+   },
+   {
+    "date": "2026-11-14",
+    "zone": "Afrique",
+    "titre": "Côte d'Ivoire : nouveaux marchés, écoles et voiries lancés à Bouaké",
+    "resume": "Le ministre Amadou Koné a posé le 14 novembre la première pierre d'un marché de 116 magasins, 200 boxes et 500 étals à Bouaké, construit en 15 mois, avec aussi 20 écoles réhabilitées et 70 km de voies à reprofiler.",
+    "retenir": "Les marchés et équipements de proximité sont des chantiers de taille moyenne, accessibles aux entreprises locales de BTP.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/11/14/cote-divoire/societe/cote-divoire-bouake-depuis-belleville-amadou-kone-lance-le-demarrage-de-plusieurs-projets-dinfrastructures_202634.html"
    },
    {
     "date": "2026-11-14",
@@ -470,82 +542,114 @@
     "retenir": "Écoles, centres de santé et équipements sociaux devraient donner lieu à des chantiers rapides : à suivre pour les appels d'offres.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/benin-integralite-du-compte-rendu-du-conseil-des-ministres-du-04-novembre-2026/"
-   },
-   {
-    "date": "2026-11-05",
-    "zone": "Bénin",
-    "titre": "La Bourse du Travail de Cotonou sera agrandie et rénovée",
-    "resume": "Lors d'une rencontre avec les syndicats, le gouvernement a annoncé que l'extension et la réhabilitation complète de la Bourse du Travail figurent au Programme d'action, sous réserve d'études techniques.",
-    "retenir": "Un futur chantier de bâtiment public à Cotonou, encore au stade des études.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-le-gouvernement-adopte-une-nouvelle-methode-de-discussion-avec-les-centrales-syndicales/"
-   },
-   {
-    "date": "2026-11-05",
-    "zone": "Monde",
-    "titre": "Carnets de commandes records chez Tutor Perini et Skanska",
-    "resume": "Au troisième trimestre, l'américain Tutor Perini a réalisé 1,7 milliard de dollars de chiffre d'affaires (+22 %) avec un carnet de 20,4 milliards ; le suédois Skanska affiche un carnet record d'environ 33,8 milliards de dollars, et le néerlandais BAM 13 milliards d'euros.",
-    "retenir": "Les grands groupes ont du travail pour plusieurs années : signe d'un marché mondial de la construction encore porteur.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/q3-update-tutor-perini-skanska-and-bam/8135704.article"
-   },
-   {
-    "date": "2026-11-04",
-    "zone": "Bénin",
-    "titre": "Énergie et cadre de vie : nouveaux responsables nommés",
-    "resume": "Parmi les nominations du 4 novembre : Tchégnon Amoussou à la tête du conseil d'administration de la SBEE (Société béninoise d'énergie électrique), Alidé Pedro à la planification énergétique et à l'électrification rurale, et Jean-Claude Codjia à l'autorité d'aménagement de la côte Fidjrossè-Ouidah.",
-    "retenir": "Ces noms seront les interlocuteurs des entreprises pour les projets d'électricité et d'aménagement du littoral.",
-    "source": "Banouto",
-    "url": "https://www.banouto.bj/politique/article/20261104-benin-toutes-les-nominations-prononcees-en-conseil-des-ministres"
-   },
-   {
-    "date": "2026-11-04",
-    "zone": "Monde",
-    "titre": "Dubaï : Emaar veut racheter sa filiale de promotion pour 3,4 milliards de dollars",
-    "resume": "Le promoteur Emaar Properties, qui détient environ 79 % d'Emaar Development, propose de racheter le reste des actions pour environ 3,4 milliards de dollars, sous réserve de l'accord de son conseil.",
-    "retenir": "Le secteur immobilier du Golfe se concentre autour de quelques géants.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/emaar-proposes-us34bn-buyout-of-development-subsidiary/8135606.article"
-   },
-   {
-    "date": "2026-11-03",
-    "zone": "Monde",
-    "titre": "Corée du Sud : Hyundai E&C dépasse 9 milliards de dollars de rénovation urbaine",
-    "resume": "Le groupe a remporté à Séoul un projet de 456 appartements et 125 bureaux-logements jusqu'à 36 étages, portant ses commandes 2026 de renouvellement urbain à environ 9,7 milliards de dollars.",
-    "retenir": "La rénovation des quartiers anciens est devenue un gros marché pour les majors.",
-    "source": "Construction Briefing",
-    "url": "https://www.constructionbriefing.com/news/hyundai-ec-tops-us9bn-in-urban-renewal-orders/8135553.article"
-   },
-   {
-    "date": "2026-11-03",
-    "zone": "Bénin",
-    "titre": "Cotonou vote un budget 2027 de 72,4 milliards FCFA, tourné vers l'investissement",
-    "resume": "Le conseil communal a adopté le budget à l'unanimité le 2 novembre : plus de 74 % des ressources vont aux investissements, en hausse de 47,54 %, et le fonctionnement baisse de 6,44 %.",
-    "retenir": "Les investissements de la ville augmentent nettement : à suivre pour repérer les marchés communaux qui seront lancés en 2027.",
-    "source": "Banouto",
-    "url": "https://www.banouto.bj/societe/article/20261103-budget-2027-de-la-mairie-de-cotonou-les-depenses-dinvestissements-en-hausse-de-47-54"
-   },
-   {
-    "date": "2026-11-03",
-    "zone": "Bénin",
-    "titre": "Marchés publics : l'ARMP forme les entreprises à mieux répondre aux appels d'offres",
-    "resume": "L'Autorité de régulation des marchés publics (ARMP) tient des sessions à Cotonou du 2 au 5 novembre. Selon un de ses responsables, 85 % des recours examinés sont recevables mais mal fondés, et la part réservée aux petites entreprises devrait passer de 20 % à 30-35 %.",
-    "retenir": "Une part réservée plus grande ouvrirait davantage de marchés aux petites entreprises de BTP, à condition de soigner leurs dossiers.",
-    "source": "La Nation",
-    "url": "https://lanation.bj/actualites/commande-publique-au-benin-les-entreprises-outillees-pour-gagner-en-competitivite"
-   },
-   {
-    "date": "2026-11-03",
-    "zone": "Bénin",
-    "titre": "Coupures d'électricité : la SBEE et la SBPE pointent la baisse des importations",
-    "resume": "Les deux sociétés publiques d'électricité expliquent les interruptions par une réduction des importations venant du Ghana et du Nigeria, et promettent d'informer régulièrement les usagers.",
-    "retenir": "Sur les chantiers, mieux vaut prévoir un groupe électrogène ou adapter le planning des tâches qui ont besoin de courant.",
-    "source": "Le Matinal",
-    "url": "https://lematinal.bj/energie-electrique-la-sbpe-et-la-sbee-alertent-sur-les-coupures-delectricite-dues-aux-restrictions-dimportation/"
    }
   ]
  },
  "presse": [
+  {
+   "date": "2026-11-18",
+   "synthese": "Le projet de budget 2027 (4 757 milliards FCFA) est au cœur de l'actualité, tout comme la pénurie persistante de gaz domestique et la joie de la qualification des Guépards pour la CAN 2027. À Phnom Penh, le Bénin a été actif au Sommet de la Francophonie.",
+   "articles": [
+    {
+     "date": "2026-11-18",
+     "journal": "Matin Libre",
+     "titre": "Le gaz domestique reste introuvable",
+     "resume": "Les bouteilles de gaz, surtout celles de 6 kg, manquent toujours dans les points de vente ; les autorités promettent une livraison imminente, sans date précise.",
+     "url": "https://matinlibre.com/2026/11/18/benin-le-gaz-domestique-toujours-introuvable/"
+    },
+    {
+     "date": "2026-11-17",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Les Guépards qualifiés pour la CAN 2027",
+     "resume": "Le Bénin est qualifié sans jouer grâce à la victoire du Burkina Faso sur la Mauritanie (3-1) ; la CAN aura lieu en juin-juillet 2027 au Kenya, en Tanzanie et en Ouganda.",
+     "url": "https://lanouvelletribune.info/2026/11/le-benin-se-qualifie-pour-la-can-2027-apres-la-victoire-du-burkina-faso-face-a-la-mauritanie/"
+    },
+    {
+     "date": "2026-11-17",
+     "journal": "La Nouvelle Tribune",
+     "titre": "Wadagni et le dirigeant vietnamien Tô Lâm misent sur riz, cajou et coton",
+     "resume": "Les deux dirigeants se sont vus le 15 novembre à Phnom Penh, au Sommet de la Francophonie, pour développer les échanges agricoles et la coopération portuaire.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-wadagni-et-to-lam-ciblent-trois-filieres-pour-renforcer-leurs-echanges/"
+    },
+    {
+     "date": "2026-11-17",
+     "journal": "Banouto",
+     "titre": "Francophonie : l'élection du secrétaire général reportée d'un an",
+     "resume": "Faute d'accord à Phnom Penh, l'Organisation internationale de la Francophonie (OIF) prolonge d'un an le mandat de Louise Mushikiwabo ; les tensions RDC-Rwanda bloquent le choix.",
+     "url": "https://www.banouto.bj/politique/article/20261117-oif-pourquoi-l-election-du-secretaire-general-est-reportee-d-un-an"
+    },
+    {
+     "date": "2026-11-17",
+     "journal": "La Nation",
+     "titre": "Budget 2027 : les grandes lignes présentées aux députés",
+     "resume": "Le projet de 4 757 milliards FCFA (+14,7 %) vise 7,5 % de croissance ; les députés doivent le voter le 8 décembre.",
+     "url": "https://lanation.bj/actualites/projet-de-loi-de-finances-gestion-2027-le-gouvernement-presente-les-grands-axes-aux-deputes"
+    },
+    {
+     "date": "2026-11-17",
+     "journal": "Le Matinal",
+     "titre": "Numérique : 11,6 milliards FCFA pour le ministère en 2027",
+     "resume": "Le budget du ministère de la Transformation digitale baisse de près de 30 %, surtout parce qu'un grand projet financé de l'extérieur se termine ; hors financements extérieurs, il progresse de 16 %.",
+     "url": "https://lematinal.bj/transformation-digitale-1159-milliards-fcfa-pour-accelerer-la-revolution-numerique-au-benin/"
+    },
+    {
+     "date": "2026-11-17",
+     "journal": "La Nouvelle Tribune",
+     "titre": "SBEE : 1,14 million de clients raccordés",
+     "resume": "La société d'électricité fait le bilan de trois ans de travaux et annonce 120 000 nouveaux branchements financés avec l'AFD.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-la-sbee-fait-le-bilan-de-trois-ans-de-transformation-avec-114-million-de-clients-raccordes/"
+    },
+    {
+     "date": "2026-11-17",
+     "journal": "La Nouvelle Tribune",
+     "titre": "La GDIZ pourrait fabriquer des maillots du FC Barcelone",
+     "resume": "Une usine textile de la zone de Glo-Djigbé discute d'un partenariat avec le club espagnol ; rien n'est encore signé.",
+     "url": "https://lanouvelletribune.info/2026/11/benin-la-gdiz-pourrait-bientot-produire-les-maillots-du-fc-barcelone/"
+    },
+    {
+     "date": "2026-11-17",
+     "journal": "Matin Libre",
+     "titre": "Essence en mini-stations : les vendeurs dénoncent des taxes inégales",
+     "resume": "À Porto-Novo, les revendeurs disent payer plus de 35 FCFA par litre, contre 25 FCFA à Cotonou, et la douane ne délivre plus de quittances aux transporteurs à moto.",
+     "url": "https://matinlibre.com/2026/11/17/mini-stations-au-benin/"
+    },
+    {
+     "date": "2026-11-18",
+     "journal": "Matin Libre",
+     "titre": "Le CES explique trois lois aux populations du Nord",
+     "resume": "Le Conseil économique et social (CES) a lancé à Parakou des séances sur l'orientation agricole, le Code pastoral et le nouveau Code de la route, jusqu'au 19 novembre.",
+     "url": "https://matinlibre.com/2026/11/18/activite-dimpregnation-des-populations-a-la-base-le-ces-engage-le-dialogue-autour-de-trois-lois-majeures-a-parakou/"
+    },
+    {
+     "date": "2026-11-18",
+     "journal": "Matin Libre",
+     "titre": "Cyber Africa Forum : le Bénin salué pour sa cybersécurité",
+     "resume": "La 6e édition s'est tenue à Cotonou les 16 et 17 novembre ; le ministre du Numérique a rappelé la place du Bénin parmi les pays africains les mieux préparés.",
+     "url": "https://matinlibre.com/2026/11/18/cyber-africa-forum-2026-le-ministre-mahuna-akplogan-salue-la-confiance-renouvelee-au-benin/"
+    },
+    {
+     "date": "2026-11-16",
+     "journal": "Bénin Web TV",
+     "titre": "Borgou : 14 jours aux bars avant les contrôles contre la chicha",
+     "resume": "Le préfet rappelle l'interdiction de la chicha (arrêté de 2021) et laisse deux semaines aux gérants de bars pour s'y conformer.",
+     "url": "https://beninwebtv.bj/benin-le-prefet-du-borgou-lance-une-offensive-contre-la-consommation-de-la-chicha-et-accorde-un-moratoire-aux-promoteurs-de-bars/"
+    },
+    {
+     "date": "2026-11-16",
+     "journal": "gouv.bj",
+     "titre": "Le Bénin parmi les 27 destinations à visiter en 2027",
+     "resume": "Le magazine Condé Nast Traveler a retenu le Bénin dans sa sélection mondiale publiée le 13 novembre, à l'approche des Vodun Days de janvier.",
+     "url": "https://www.gouv.bj/article/3743/le-benin-selectionne-parmi-meilleures-destinations-monde-visiter-2027-selon-conde-nast-traveler/"
+    },
+    {
+     "date": "2026-11-16",
+     "journal": "La Nation",
+     "titre": "Intelligence artificielle : le Bénin 3e en Afrique",
+     "resume": "Le pays obtient 2,58 sur 4 à l'indice africain de gouvernance de l'IA 2026, derrière le Rwanda et le Nigeria ; la mise en œuvre reste le point faible.",
+     "url": "https://lanation.bj/actualites/gouvernance-de-lintelligence-artificielle-le-benin-classe-3-en-afrique-avec-258-points-sur-4"
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "synthese": "Le week-end est marqué par le débat sur la fiscalité locale (taxe foncière) et l'urbanisme (recours sur les permis de construire), les assurances du gouvernement sur l'essence et les gestes de rapprochement avec le Niger et le Burkina. Cotonou se prépare à une semaine chargée en rencontres sur l'innovation.",
@@ -1169,117 +1273,6 @@
      "url": "https://www.gouv.bj/article/3728/suivi-rentree-scolaire-ministre-armand-kuyema-natta-renforce-proximite-avec-acteurs-educatifs/"
     }
    ]
-  },
-  {
-   "date": "2026-11-02",
-   "synthese": "Le premier gros chargement de pétrole de Sèmè part vers les Pays-Bas, et MTN MoMo applique ses nouveaux frais et plafonds dès aujourd'hui. La loi sur le Code de la route poursuit son parcours et le Code des forêts durcit les sanctions.",
-   "articles": [
-    {
-     "date": "2026-11-01",
-     "journal": "La Nouvelle Tribune",
-     "titre": "Pétrole : 330 000 barils vers les Pays-Bas, une première depuis 28 ans",
-     "resume": "Le chargement du brut de Sèmè est prévu les 1er et 2 novembre sur le tanker Kriti Jade. Akrake Petroleum détient 76 % du projet, l'État 15 % et Octogone Trading 9 %.",
-     "url": "https://lanouvelletribune.info/2026/11/petrole-le-benin-va-expedier-330-000-barils-vers-les-pays-bas-une-premiere-depuis-28-ans/"
-    },
-    {
-     "date": "2026-11-01",
-     "journal": "La Nouvelle Tribune",
-     "titre": "Golfe de Guinée : exercice maritime entre Ouidah et Sèmè-Podji",
-     "resume": "Le Grand African Nemo réunit des marines jusqu'au 6 novembre. Au Bénin, un exercice contre les pollutions a lieu du 2 au 4 novembre, puis un procès fictif le 5.",
-     "url": "https://lanouvelletribune.info/2026/11/securite-maritime-le-benin-mobilise-sa-marine-pour-lexercice-grand-african-nemo-2026/"
-    },
-    {
-     "date": "2026-11-01",
-     "journal": "Le Matinal",
-     "titre": "Code de la route : un député explique l'esprit du texte",
-     "resume": "Louis Koukpemedji rappelle que la loi adoptée le 26 octobre remplace un texte de 1956 et protège ceux qui portent secours aux victimes. Elle doit encore passer au Sénat puis être promulguée.",
-     "url": "https://lematinal.bj/louis-koukpemedji-sur-le-nouveau-code-de-la-route-lesprit-de-ce-texte-cest-dabord-la-protection-des-vies-humaines/"
-    },
-    {
-     "date": "2026-11-01",
-     "journal": "Le Matinal",
-     "titre": "Santé : des soins d'urgence sans paiement immédiat",
-     "resume": "La ministre conseillère Rosine Dagniho a présenté la réforme : les frais sont réglés après les soins d'urgence. Elle a aussi parlé des pôles de développement territorial.",
-     "url": "https://lematinal.bj/reformes-sanitaires-et-poles-de-developpement-rosine-dagniho-expose-les-perspectives-pour-les-populations/"
-    },
-    {
-     "date": "2026-11-01",
-     "journal": "La Nation",
-     "titre": "Eaux et Forêts : des peines lourdes pour qui fuit un contrôle",
-     "resume": "Le Code des forêts prévoit jusqu'à 1 an de prison, et davantage si le véhicule transporte du bois ou d'autres produits forestiers. Le véhicule peut être saisi.",
-     "url": "https://lanation.bj/actualites/benin-la-fuite-devant-les-controles-forestiers-coute-plus-cher"
-    },
-    {
-     "date": "2026-11-01",
-     "journal": "24 Heures au Bénin",
-     "titre": "Plus de 300 traverses de chemin de fer interceptées",
-     "resume": "Le commissariat de Dan, à Djidja, a démantelé un réseau présumé de vol de matériel ferroviaire, selon l'annonce du journal.",
-     "url": "https://www.24haubenin.info/?Plus-de-300-traverses-de-l-ex-OCBN-interceptees-des-suspects-arretes"
-    },
-    {
-     "date": "2026-11-01",
-     "journal": "Bénin Web TV",
-     "titre": "Burkina : 160 billets du SIAO saisis",
-     "resume": "La police annonce l'arrestation de revendeurs à Ouagadougou. Le salon de l'artisanat, ouvert le 30 octobre, dure jusqu'au 8 novembre.",
-     "url": "https://beninwebtv.bj/siao-2026-la-police-annonce-des-interpellations-et-la-saisie-de-160-billets/"
-    },
-    {
-     "date": "2026-11-01",
-     "journal": "Koaci",
-     "titre": "Côte d'Ivoire : prix des carburants inchangés en novembre",
-     "resume": "Le super reste à 905 FCFA le litre et le gasoil à 725 FCFA du 1er au 30 novembre.",
-     "url": "https://www.koaci.com/article/2026/11/01/cote-divoire/societe/cote-divoire-pas-de-changement-a-la-pompe-des-prix-des-produits-petroliers-pour-le-mois-de-novembre_202168.html"
-    },
-    {
-     "date": "2026-10-31",
-     "journal": "La Nation",
-     "titre": "Mairie de Cotonou : Pyrros Kiki nouveau secrétaire exécutif",
-     "resume": "Il a pris ses fonctions le 30 octobre en présence du maire Luc Gnacadja. Il remplace Anges Paterne Amoussouga.",
-     "url": "https://lanation.bj/actualites/mairie-de-cotonou-le-nouveau-secretaire-executif-pyrros-kiki-prend-service"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "Bénin Web TV",
-     "titre": "MTN MoMo passe à PI-SPI ce 2 novembre",
-     "resume": "Le système de paiement de la BCEAO s'applique dès aujourd'hui : transferts gratuits jusqu'à 8 000 FCFA cumulés par jour, puis 0,5 %. Le solde maximal passe à 4 millions FCFA.",
-     "url": "https://beninwebtv.bj/benin-mtn-momo-adopte-le-systeme-pi-spi-de-la-bceao-des-le-2-novembre-avec-de-nouveaux-plafonds-et-une-grille-tarifaire-revisee/"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "Banouto",
-     "titre": "Tori-Bossito : un homme écroué pour trafic présumé d'ossements humains",
-     "resume": "Une jarre d'ossements a été saisie chez lui après son interpellation le 26 octobre. Une expertise médicale a établi qu'ils étaient humains, contrairement à sa version.",
-     "url": "https://www.banouto.bj/societe/article/20261030-tori-bossito-un-homme-place-sous-mandat-de-depot-pour-trafic-presume-dossements-humains"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "Matin Libre",
-     "titre": "Sextorsion : des victimes qui se taisent",
-     "resume": "Le chantage sexuel en ligne n'est pas une infraction à part dans la loi, mais le Code du numérique permet de poursuivre les faits. Femmes et filles représentent 69 % des victimes selon les données citées.",
-     "url": "https://matinlibre.com/2026/10/30/sextorsion-au-benin-derriere-le-silence-des-victimes-le-defi-de-la-protection/"
-    },
-    {
-     "date": "2026-10-30",
-     "journal": "Gouvernement du Bénin",
-     "titre": "FADeC : l'exécution des fonds communaux en question",
-     "resume": "Un atelier du 29 octobre à Cotonou a constaté un décalage entre l'arrivée des fonds et leur usage. Les transferts seront régularisés et le manuel de procédures actualisé.",
-     "url": "https://www.gouv.bj/article/3726/gestion-fonds-communaux-fadec-coeur-diagnostic-trace-nouvelles-perspectives/"
-    },
-    {
-     "date": "2026-10-29",
-     "journal": "Cadre Éco",
-     "titre": "SInAEB 2026 : faciliter le financement des PME",
-     "resume": "Le salon s'est ouvert le 28 octobre au Palais des Congrès de Cotonou, avec l'accompagnement des petites entreprises au centre des échanges.",
-     "url": "https://cadreco.media/evenement/2026/sinaeb-2026-le-benin-mise-sur-laccompagnement-pour-faciliter-le-financement-des-pme"
-    },
-    {
-     "date": "2026-10-28",
-     "journal": "Banouto",
-     "titre": "Wadagni à Abou Dhabi : huit accords échangés",
-     "resume": "La visite du 25 octobre a donné lieu à un partenariat économique global et à sept autres textes. Les échanges hors pétrole ont atteint 2,15 milliards de dollars en 2025.",
-     "url": "https://www.banouto.bj/politique/article/20261028-romuald-wadagni-aux-emirats-arabes-unis-5-choses-a-retenir-de-ce-voyage-qui-n-est-pas-une-premiere-pour-le-benin"
-    }
-   ]
   }
  ],
  "conciergerie": {
@@ -1353,7 +1346,8 @@
      "TVA de 18 % au-delà de 50 millions FCFA de chiffre d'affaires.",
      "Salariés : cotisations CNSS employeur d'environ 15,4 % plus 1 à 4 % de risques professionnels ; 3,6 % à la charge du salarié.",
      "Taxe de séjour : depuis la loi de finances 2019, elle est collectée par les hôtels « et assimilés » ; vérifier auprès des impôts (DGI) si les logements gérés y sont soumis.",
-     "Contrats : signer un mandat de gestion écrit avec chaque propriétaire (services, tarifs, clés, responsabilités) et souscrire une assurance responsabilité civile professionnelle."
+     "Contrats : signer un mandat de gestion écrit avec chaque propriétaire (services, tarifs, clés, responsabilités) et souscrire une assurance responsabilité civile professionnelle.",
+     "Depuis le 24 juin 2026, les plateformes numériques qui aident à encaisser des loyers de biens situés au Bénin doivent retenir 12 % du loyer brut (selon VATabout) : à vérifier avec un comptable pour les logements gérés."
     ],
     "sources": [
      {
@@ -1367,6 +1361,10 @@
      {
       "nom": "Différence Info, taxe de séjour (loi de finances 2019)",
       "url": "https://differenceinfobenin.com/2019/03/15/loi-de-finances-gestion-2019-taxe-de-sejour-desormais-paye-au-benin-par-les-promoteurs-dhotels-et-assimiles/"
+     },
+     {
+      "nom": "VATabout, retenue de 12 % sur les loyers via les plateformes",
+      "url": "https://vatabout.com/fr/benin-regles-fiscales-plateformes-numeriques-retenue-12-loyers"
      }
     ]
    },
@@ -1491,6 +1489,46 @@
    "Préparer une offre spéciale Vodun Days (2 au 9 janvier 2027)"
   ],
   "actus": [
+   {
+    "date": "2026-11-17",
+    "titre": "Las Vegas (comté de Clark) : nouvelles règles pour la location courte durée",
+    "resume": "Depuis le 18 novembre, le nombre de licences est plafonné à 1 % des logements du comté, avec distances minimales entre locations, capteurs de bruit et assurance responsabilité civile de 500 000 dollars obligatoire.",
+    "idee": "Prévoir dès le départ une assurance responsabilité civile pour chaque logement géré : c'est un argument rassurant face aux propriétaires.",
+    "source": "Mesa Valleys Progress",
+    "url": "https://mvprogress.com/2026/11/17/clark-county-commissioners-approve-short-term-rental-updates-honor-new-poet-laureate"
+   },
+   {
+    "date": "2026-11-17",
+    "titre": "Augusta (États-Unis) retire les locations courte durée de son projet de zonage",
+    "resume": "Après la mobilisation des propriétaires, la ville a retiré ce volet de sa réforme ; une intervenante a rappelé que ces locations rapportent des centaines de milliers de dollars de taxe hôtelière par an.",
+    "idee": "Garder une trace des taxes payées et des retombées locales de ses logements, pour pouvoir défendre l'activité auprès de la mairie si besoin.",
+    "source": "WRDW",
+    "url": "https://wrdw.com/2026/11/17/short-term-rental-owners-seek-answers-augusta-zoning-rewrite"
+   },
+   {
+    "date": "2026-11-17",
+    "titre": "Budget 2027 du Bénin : les exonérations de taxes prévues",
+    "resume": "Le projet de loi de finances 2027 reconduit des exonérations sur le gaz domestique, les équipements des petites entreprises et les aéronefs de tourisme ; il n'est pas encore voté (vote prévu le 8 décembre).",
+    "idee": "Vérifier après le vote du 8 décembre si du matériel utile à l'agence (équipements de petite entreprise) peut être acheté sans taxes.",
+    "source": "lamétéo.info",
+    "url": "https://www.lameteo.info/projet-de-loi-de-finances-au-benin-voici-les-produits-services-et-equipements-exoneres-de-taxes-en-2027/"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "Airbnb assouplit sa réforme des règles de la maison",
+    "resume": "Face à la colère des hôtes, Airbnb transforme les simples « demandes » en règles additionnelles que les voyageurs doivent respecter ; mais l'interdiction des tâches de ménage au départ, des amendes et des règles ajoutées après réservation reste en vigueur dès le 20 novembre.",
+    "idee": "Revoir avant le 20 novembre les annonces gérées : ménage inclus dans le prix, aucune amende, règles claires dès la réservation.",
+    "source": "Skift",
+    "url": "https://skift.com/2026/11/16/airbnb-makes-concessions-on-house-rules-after-host-pushback/"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "Le Bénin parmi les 27 destinations à découvrir en 2027 (Condé Nast Traveler)",
+    "resume": "Le célèbre magazine de voyage a inscrit le Bénin dans sa sélection mondiale pour 2027, publiée le 13 novembre, quelques semaines avant les Vodun Days de janvier à Ouidah.",
+    "idee": "Citer cette distinction dans les annonces et la communication de l'agence, avec un séjour type « Vodun Days » clé en main.",
+    "source": "gouv.bj",
+    "url": "https://www.gouv.bj/article/3743/le-benin-selectionne-parmi-meilleures-destinations-monde-visiter-2027-selon-conde-nast-traveler/"
+   },
    {
     "date": "2026-11-13",
     "titre": "Airbnb précise ses règles de la maison",
@@ -1770,46 +1808,6 @@
     "idee": "Revoir sa grille de paiement client : intégrer ces frais de 0,5 % dans les tarifs ou demander les gros acomptes par virement bancaire.",
     "source": "Le Matinal",
     "url": "https://lematinal.bj/mtn-momo-de-nouvelles-facilites-et-une-revision-des-plafonds-des-le-2-novembre/"
-   },
-   {
-    "date": "2026-10-30",
-    "titre": "Benin Digital & Innovation Week du 16 au 20 novembre à Cotonou",
-    "resume": "La semaine réunira notamment le Cyber Africa Forum et la rencontre annuelle d'AfriLabs, avec un Village de l'Innovation sur l'esplanade du Palais des Congrès du 18 au 20 novembre.",
-    "idee": "Proposer dès maintenant aux propriétaires des forfaits courts séjours pour les délégués, avec accueil, ménage et transport vers le Palais des Congrès.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-le-palais-des-congres-se-transforme-en-ville-intelligente-en-novembre/"
-   },
-   {
-    "date": "2026-10-29",
-    "titre": "Prix national de la simplification administrative : idées attendues jusqu'au 12 novembre",
-    "resume": "Le gouvernement invite chacun à proposer, sur la plateforme prix-simplification.gouv.bj, des idées pour rendre l'administration plus simple ; Banouto évoque 40 millions FCFA de récompenses en jeu.",
-    "idee": "Soumettre une proposition concrète sur les démarches des hébergements meublés (déclaration, taxe de séjour) : utile au secteur et bonne visibilité.",
-    "source": "Gouvernement du Bénin",
-    "url": "https://www.gouv.bj/article/3723/prix-national-simplification-administrative-gouvernement-lance-nouveau-defi/"
-   },
-   {
-    "date": "2026-10-28",
-    "titre": "Règle Airbnb sur les tâches ménagères : plus de 10 000 hôtes pétitionnent",
-    "resume": "Depuis l'annonce d'Airbnb, les hôtes ne pourront plus demander aux voyageurs les tâches d'un agent d'entretien pour les réservations faites à partir du 20 novembre 2026. Une pétition de plus de 10 000 hôtes conteste la mesure et certains menacent d'augmenter leurs frais de ménage.",
-    "idee": "Faire du ménage complet de fin de séjour un service inclus de l'agence : c'est exactement ce que la nouvelle règle rend indispensable aux propriétaires.",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/10/28/airbnb-guests-no-dishes-strip-beds-hosts-boycott-cleaning-fees/"
-   },
-   {
-    "date": "2026-10-28",
-    "titre": "États-Unis : les revenus de la location courte durée en hausse jusqu'à décembre",
-    "resume": "Selon les données KeyData reprises par The Host Report, le revenu par logement disponible devrait progresser de 8 % en octobre, 11 % en novembre et 10 % en décembre par rapport à l'an dernier.",
-    "idee": "Préparer une offre spéciale fêtes de fin d'année et Vodun Days pour la diaspora, période où la demande grimpe aussi au Bénin.",
-    "source": "The Host Report",
-    "url": "https://www.thehostreport.com/news/str-revenue-pacing-ahead-through-december-as-occupancy-picks-up"
-   },
-   {
-    "date": "2026-10-27",
-    "titre": "Airbnb devient le partenaire exclusif d'American Express Travel pour les locations",
-    "resume": "Depuis le 22 octobre, les détenteurs de cartes Amex éligibles aux États-Unis peuvent réserver plus d'un million d'annonces Airbnb via Amex Travel.",
-    "idee": "Soigner ses annonces Airbnb en anglais : une clientèle américaine aisée y accède désormais plus facilement.",
-    "source": "The Host Report",
-    "url": "https://www.thehostreport.com/news/airbnb-becomes-amex-travels-exclusive-vacation-rental-partner"
    }
   ]
  },
@@ -1939,6 +1937,13 @@
    "detail": "À Cotonou, Abomey-Calavi et Parakou.",
    "url": "https://www.gouv.bj/article/3737/cotonou-comedy-festival-2026-benin-renforce-ambition-faire-humour-veritable-industrie-culturelle-cotonou-abomey-calavi-parakou-accueille-activites-decembre-2026-/",
    "rubrique": "conciergerie"
+  },
+  {
+   "date": "2026-12-08",
+   "titre": "Vote du budget 2027 par les députés",
+   "detail": "L'Assemblée nationale doit voter le projet de loi de finances 2027 de 4 757 milliards FCFA, qui fixe les investissements publics (routes, bâtiments, énergie) de l'année.",
+   "url": "https://lanation.bj/actualites/projet-de-loi-de-finances-gestion-2027-le-gouvernement-presente-les-grands-axes-aux-deputes",
+   "rubrique": "btp"
   },
   {
    "date": "2027-01-02",
