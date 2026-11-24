@@ -1,18 +1,18 @@
 {
- "derniereMaj": "2026-11-21T05:41:37Z",
+ "derniereMaj": "2026-11-23T05:42:24Z",
  "synthese": {
-  "maj": "2026-11-21T05:41:37Z",
-  "periode": "Semaine du 16 novembre 2026",
+  "maj": "2026-11-23T05:42:24Z",
+  "periode": "Semaine du 23 novembre 2026",
   "points": [
-   "UEMOA : PI-SPI compte 175 institutions, plus de 4 millions de transactions (plus de 300 milliards de FCFA) et un pilote d'accès à PAPSS.",
-   "UEMOA : au SMR9 de Dakar, la BCEAO renforce l'authentification forte, la sécurité des API et de l'USSD, et assouplit certains plafonds de monnaie électronique.",
-   "Bénin : candidatures au Laboratoire d'innovation financière de la BCEAO ouvertes jusqu'au 30 novembre ; une seule API Business PI-SPI homologuée (Ecobank).",
-   "Afrique : Transsion et Visa valident une première transaction agentique ; Mastercard lance Identity Insights contre la fraude ; Wave obtient sa licence en RDC.",
-   "Afrique : le Nigeria impose 15 milliards de nairas de capital aux émetteurs de stablecoins en dollars.",
-   "Monde : Visa ouvre Agentic Ready à plus de 140 marchands et PSP ; en France, le paiement en 3 ou 4 fois devient un crédit encadré."
+   "UEMOA : PI-SPI compte 175 institutions, plus de 4 millions de transactions (plus de 300 milliards de FCFA) et teste l'accès à PAPSS.",
+   "UEMOA : au SMR9 de Dakar, la BCEAO renforce l'authentification forte et la sécurité des API et de l'USSD ; le GIM-UEMOA met la sécurité des paiements au premier plan.",
+   "Bénin : candidatures au Laboratoire d'innovation financière de la BCEAO jusqu'au 30 novembre ; Ecobank reste la seule API Business PI-SPI homologuée.",
+   "Afrique : AfricaNenda recense 71,4 milliards de paiements instantanés en 2025 sur le continent, dont 73 % en mobile money ; Wave obtient sa licence en RDC.",
+   "Monde : UQPAY met Visa Payment Passkey en production à Singapour, une piste concrète pour remplacer l'OTP SMS sur vos cartes.",
+   "Monde : UnionPay relie facture électronique et carte commerciale pour le commerce B2B avec la Chine ; Silverflow modularise l'acceptation en magasin pour les acquéreurs."
   ],
-  "texte": "Un an après son ouverture, PI-SPI dépasse les 4 millions de transactions et teste l'accès à PAPSS, tandis qu'au Salon monétique régional de Dakar la BCEAO annonce un durcissement de l'authentification forte et de la sécurité des API et de l'USSD. En Afrique, Transsion (TECNO, Infinix, itel) s'allie à Visa pour le paiement agentique et sans contact, et le paiement par agents IA se structure dans le monde.",
-  "titre": "PI-SPI fête son premier anniversaire, l'IA s'invite au salon monétique"
+  "texte": "La semaine écoulée a confirmé l'élan de PI-SPI : plus de 4 millions de transactions en un an et un pilote d'accès à PAPSS, pendant que la BCEAO durcit l'authentification forte et la sécurité des API et de l'USSD au Salon monétique de Dakar. Dans le monde, le passkey de paiement passe en production chez de nouveaux émetteurs et le paiement par agents IA s'organise, de Visa Agentic Ready aux portefeuilles d'agents.",
+  "titre": "PI-SPI confirme son élan, l'authentification sans code SMS s'installe"
  },
  "articles": [
   {
@@ -139,6 +139,19 @@
    "id": "2026-11-19-transsion-visa-agentique"
   },
   {
+   "ajoute": "2026-11-23T05:42:24Z",
+   "date": "2026-11-19",
+   "resume": "Présentée au salon CIIE de Shanghai avec Bank of China, la solution relie la facturation électronique au réseau de compensation UnionPay : l'exportateur chinois est payé en yuans, l'importateur étranger règle avec une carte commerciale UnionPay. Une seule vérification suffit et les fonds arrivent plus vite ; d'autres banques et émetteurs doivent suivre.",
+   "retenir": "Pour vos clients importateurs qui achètent en Chine, la carte commerciale UnionPay devient un moyen de règlement fournisseur à proposer.",
+   "source": "Manila Times (Media OutReach)",
+   "techno": "transferts-internationaux",
+   "theme": "Cartes",
+   "titre": "UnionPay relie facture électronique et carte commerciale pour le commerce B2B avec la Chine",
+   "url": "https://manilatimes.net/2026/11/19/tmt-newswire/media-outreach-newswire/unionpay-international-debuts-digital-trade-solution-at-ciie-2026-streamlining-cross-border-b2b-settlement-for-global-e-commerce/2473740",
+   "zone": "International",
+   "id": "2026-11-19-unionpay-commerce-numerique-ciie"
+  },
+  {
    "ajoute": "2026-11-21T05:41:37Z",
    "date": "2026-11-19",
    "resume": "UnionPay International et Transsion ajoutent les cartes UnionPay au T Wallet des téléphones TECNO, Infinix et itel, avec un premier lancement au Pakistan avec Allied Bank en novembre 2026 pour payer en NFC sur les terminaux. Le QR et le paiement in-app suivront, ainsi que d'autres pays.",
@@ -150,6 +163,21 @@
    "url": "https://prnewswire.com/ae/news-releases/unionpay-international-and-transsion-announce-global-partnership-to-bring-unionpay-payments-to-t-wallet-debuting-in-pakistan-302945579.html",
    "zone": "International",
    "id": "2026-11-19-unionpay-transsion-t-wallet"
+  },
+  {
+   "ajoute": "2026-11-23T05:42:24Z",
+   "date": "2026-11-19",
+   "essentiel": true,
+   "pourquoi": "Au salon monétique de Dakar, la BCEAO a annoncé un renforcement de l'authentification forte : le passkey de paiement, désormais déployé par de simples émetteurs, est la piste concrète pour sécuriser vos cartes en ligne sans la friction du code SMS.",
+   "resume": "La fintech singapourienne UQPAY active Visa Payment Passkey sur des cartes réelles, parmi les premières en Asie-Pacifique : le client valide ses achats en ligne par empreinte ou visage, sans code SMS. UQPAY y voit aussi la base de l'authentification du porteur dans les achats réalisés par des agents IA.",
+   "retenir": "Le passkey de paiement passe de l'annonce au déploiement chez des émetteurs de taille moyenne : votre banque peut viser la fin de l'OTP SMS sur ses cartes e-commerce.",
+   "source": "FinanceX",
+   "techno": "passkeys",
+   "theme": "Sécurité & fraude",
+   "titre": "Singapour : UQPAY met Visa Payment Passkey en production sur ses cartes",
+   "url": "https://www.financexmagazine.com/post/uqpay-takes-visa-payment-passkey-live-lays-agentic-groundwork",
+   "zone": "International",
+   "id": "2026-11-19-uqpay-visa-passkey"
   },
   {
    "ajoute": "2026-11-21T05:41:37Z",
@@ -269,6 +297,19 @@
    "url": "https://www.pymnts.com/digital-payments/2026/paysafe-debuts-tool-to-help-businesses-launch-digital-wallets/",
    "zone": "International",
    "id": "2026-11-17-paysafego-wallet-marque"
+  },
+  {
+   "ajoute": "2026-11-23T05:42:24Z",
+   "date": "2026-11-17",
+   "resume": "Silverflow propose aux acquéreurs trois briques à combiner : connexion API passerelle-cloud, liaison terminal-cloud et une nouvelle application de paiement pour terminaux Android. Un acquéreur peut ainsi moderniser son acceptation par étapes, jusqu'à une solution complète dans le cloud.",
+   "retenir": "L'acquisition physique se « cloudifie » : une banque acquéreuse peut moderniser son parc TPE Android sans tout reconstruire d'un coup.",
+   "source": "The Paypers",
+   "techno": "softpos",
+   "theme": "Cartes",
+   "titre": "Silverflow lance une suite modulaire de paiement en magasin pour les acquéreurs",
+   "url": "https://thepaypers.com/payments/news/silverflow-launches-modular-in-person-payments-suite-for-acquirers",
+   "zone": "International",
+   "id": "2026-11-17-silverflow-acceptation-modulaire"
   },
   {
    "ajoute": "2026-11-18T06:30:00Z",
@@ -2081,8 +2122,6 @@
   {
    "ajoute": "2026-10-25T05:45:00Z",
    "date": "2026-10-22",
-   "essentiel": true,
-   "pourquoi": "Le programme s'applique dès ce mois-ci dans votre région : votre équipe litiges et vos commerçants e-commerce peuvent s'appuyer sur les nouvelles règles de preuve pour réduire les rétrofacturations abusives.",
    "resume": "Le programme First-Party Trust aide émetteurs et commerçants à distinguer la vraie fraude des contestations abusives d'achats légitimes, grâce à des scores de confiance à l'autorisation et au partage de preuves (livraison, authentification). Il est déployé en Europe de l'Est, au Moyen-Orient et en Afrique dès octobre 2026, puis en Europe en juillet 2027.",
    "retenir": "Moins d'impayés injustifiés et des litiges tranchés plus vite pour les cartes émises et les commerçants acquis.",
    "source": "Mastercard",
@@ -3879,6 +3918,12 @@
    "client": "Le client valide un achat en ligne avec l'empreinte ou le visage de son téléphone, au lieu d'attendre un code SMS.",
    "exemples": [
     {
+     "date": "2026-11-19",
+     "source": "FinanceX",
+     "texte": "La fintech singapourienne UQPAY met Visa Payment Passkey en production sur ses cartes : achats en ligne validés par biométrie, sans code SMS.",
+     "url": "https://www.financexmagazine.com/post/uqpay-takes-visa-payment-passkey-live-lays-agentic-groundwork"
+    },
+    {
      "date": "2026-11-11",
      "source": "TechAfrica News",
      "texte": "L'émetteur bahreïni CrediMax lance Mastercard Click to Pay et Mastercard Payment Passkeys : ses clients valident leurs achats en ligne par empreinte ou reconnaissance faciale, sans mot de passe ni code SMS.",
@@ -3895,12 +3940,6 @@
      "source": "Payment Expert",
      "texte": "Le Conseil européen des paiements lance SCARLET pour que les banques acceptent le portefeuille d'identité numérique européen comme authentification forte des paiements.",
      "url": "https://paymentexpert.com/2026/10/21/epc-standardise-eu-digital-id-wallets/"
-    },
-    {
-     "date": "2026-10-20",
-     "source": "Biometric Update",
-     "texte": "L'alliance FIDO recense environ 7 milliards de passkeys dans le monde ; plus d'un tiers des connexions réussies les utilisent.",
-     "url": "https://www.biometricupdate.com/202610/fido-alliance-counts-7-billion-passkeys-as-adoption-gains-momentum"
     }
    ],
    "fonctionnement": "Une passkey est une clé cryptographique stockée sur le téléphone et déverrouillée par la biométrie. Elle remplace le code à usage unique envoyé par SMS, qui peut être intercepté ou ne jamais arriver.",
@@ -3908,7 +3947,7 @@
    "opportunite": "Réduire les paiements en ligne abandonnés à cause des SMS qui n'arrivent pas et diminuer la fraude par interception de code.",
    "ordre": 12,
    "prioritaire": true,
-   "situation": "Visa Payment Passkey est en production en Inde et arrive en Afrique : Walletdoc l'a intégré en Afrique du Sud fin septembre 2026. L'alliance FIDO compte environ 7 milliards de passkeys, et l'Europe prépare l'authentification des paiements par le portefeuille d'identité numérique (SCARLET).",
+   "situation": "Visa Payment Passkey est en production en Inde, à Singapour (UQPAY) et arrive en Afrique : Walletdoc l'a intégré en Afrique du Sud fin septembre 2026, CrediMax à Bahreïn avec Mastercard. L'alliance FIDO compte environ 7 milliards de passkeys, et l'Europe prépare l'authentification des paiements par le portefeuille d'identité numérique (SCARLET).",
    "statut": "em",
    "termes": [
     "Passkey",
@@ -4052,6 +4091,12 @@
    "exemples": [
     {
      "date": "2026-11-17",
+     "source": "The Paypers",
+     "texte": "Silverflow lance une suite modulaire pour acquéreurs, dont une application de paiement pour terminaux Android connectée au cloud.",
+     "url": "https://thepaypers.com/payments/news/silverflow-launches-modular-in-person-payments-suite-for-acquirers"
+    },
+    {
+     "date": "2026-11-17",
      "source": "Mastercard",
      "texte": "Avec Mastercard Accept, le titulaire d'une carte de débit ou prépayée saisit un montant dans son application bancaire, puis le payeur tape sa carte sur le téléphone, scanne un QR code ou suit un lien de paiement.",
      "url": "https://www.mastercard.com/global/en/news-and-trends/press/2026/november/Introducing-Mastercard-Accept.html"
@@ -4067,12 +4112,6 @@
      "source": "The Paypers",
      "texte": "HSBC UK propose à ses petites entreprises clientes d'accepter les paiements sans contact directement sur leur smartphone, grâce au Tap to Pay de Stripe.",
      "url": "https://thepaypers.com/payments/news/hsbc-uk-launches-tap-to-pay-for-small-businesses-with-stripe"
-    },
-    {
-     "date": "2026-11-06",
-     "source": "The Paypers",
-     "texte": "Arab Financial Services permet aux commerçants de Bahreïn d'encaisser les cartes sans contact directement sur leur iPhone, sans terminal.",
-     "url": "https://thepaypers.com/payments/news/afs-launches-tap-to-pay-on-iphone-for-merchants-in-bahrain"
     }
    ],
    "fonctionnement": "Une application certifiée utilise la puce NFC du téléphone pour lire la carte ou le téléphone du client. La saisie du code se fait à l'écran de façon sécurisée. Visa l'appelle « Tap to Phone » et Mastercard « Tap on Phone ».",
@@ -4181,6 +4220,12 @@
    "client": "Le client envoie ou reçoit de l'argent d'un autre pays plus vite et moins cher, parfois sans passer par le dollar, directement vers un compte ou un wallet.",
    "exemples": [
     {
+     "date": "2026-11-19",
+     "source": "Manila Times",
+     "texte": "UnionPay et Bank of China relient facture électronique et carte commerciale UnionPay pour payer les exportateurs chinois en yuans.",
+     "url": "https://manilatimes.net/2026/11/19/tmt-newswire/media-outreach-newswire/unionpay-international-debuts-digital-trade-solution-at-ciie-2026-streamlining-cross-border-b2b-settlement-for-global-e-commerce/2473740"
+    },
+    {
      "date": "2026-11-13",
      "source": "The Paypers",
      "texte": "L'essai Project Meridian FX a relié trois systèmes de règlement simulés pour que les deux jambes d'une opération de change soient réglées en même temps, ce qui supprime le risque de règlement.",
@@ -4197,12 +4242,6 @@
      "source": "Launch Base Africa",
      "texte": "La fintech sud-africaine Lumepay annonce une levée de 6 millions de dollars et environ 10 millions de liquidités pour ses paiements transfrontaliers entre entreprises.",
      "url": "https://launchbaseafrica.com/2026/11/10/south-african-fintech-lumepay-raises-6m-pre-seed-to-build-africas-institutional-cross-border-payments-rails/"
-    },
-    {
-     "date": "2026-11-04",
-     "source": "WeeTracker",
-     "texte": "La fintech sud-africaine CrissCross (groupe Stitch), qui gère encaissements, paiements et change dans plus de 30 marchés africains via une seule API, reçoit un investissement de Circle Ventures.",
-     "url": "https://weetracker.com/2026/11/04/crisscross-secures-circle-ventures-investment-african-payments/"
     }
    ],
    "fonctionnement": "Les banques se branchent sur de nouveaux réseaux (CIPS chinois, PAPSS africain, rails de Visa/Mastercard ou stablecoins) qui convertissent directement une monnaie locale vers une autre et règlent l'opération en quelques secondes ou heures.",
