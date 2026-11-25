@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-23T05:42:24Z",
+ "derniereMaj": "2026-11-25T05:41:27Z",
  "synthese": {
   "maj": "2026-11-23T05:42:24Z",
   "periode": "Semaine du 23 novembre 2026",
@@ -15,6 +15,112 @@
   "titre": "PI-SPI confirme son élan, l'authentification sans code SMS s'installe"
  },
  "articles": [
+  {
+   "ajoute": "2026-11-25T05:40:33Z",
+   "date": "2026-11-24",
+   "essentiel": true,
+   "pourquoi": "Ce produit montre très concrètement à quoi ressemblera le paiement par IA pour vos clients : un budget, des règles et une alerte à chaque paiement. C'est un excellent exemple à citer pour expliquer le commerce agentique en interne.",
+   "resume": "En Inde, Cashfree Wallet permet à des agents IA de payer pour le client selon les règles qu'il fixe (montant, nombre de paiements, durée d'autorisation), sans jamais voir ses données de carte, UPI ou compte. Le paiement de factures est ouvert dès le lancement et plus de 100 agents l'ont déjà intégré.",
+   "retenir": "Le « portefeuille d'agent » avec plafonds et révocation en un clic est le modèle que les banques devront offrir pour que leurs clients confient leurs paiements à une IA.",
+   "source": "The Paypers",
+   "techno": "commerce-agentique",
+   "theme": "IA & commerce",
+   "titre": "Cashfree lance un portefeuille qui laisse les agents IA payer sous budget",
+   "url": "https://thepaypers.com/payments/news/cashfree-launches-cashfree-wallet-to-let-ai-agents-make-payments",
+   "zone": "International",
+   "id": "2026-11-24-cashfree-wallet-agents"
+  },
+  {
+   "ajoute": "2026-11-25T05:40:33Z",
+   "date": "2026-11-24",
+   "essentiel": true,
+   "pourquoi": "C'est une idée concrète à proposer à votre banque : un compte ou une carte que le client partage avec ses proches, avec des plafonds qu'il fixe lui-même. Le succès de M-Pesa prouve que la demande est massive en Afrique.",
+   "resume": "Au Kenya, Shiriki Pay permet à un titulaire M-Pesa de laisser jusqu'à 5 proches payer depuis son portefeuille, avec un plafond mensuel de 20 000 shillings chacun, sans retrait d'espèces ni accès au solde. Le service a déjà séduit plus de 3,7 millions de clients, via l'application ou le code USSD *334#.",
+   "retenir": "Le compte « familial » à dépenses contrôlées est une offre simple à reproduire sur un compte bancaire ou une carte prépayée rattachée, pour les parents, les employeurs ou la diaspora.",
+   "source": "TechAfrica News",
+   "theme": "Mobile money",
+   "titre": "M-Pesa Shiriki Pay : 3,7 millions de clients partagent déjà leur portefeuille",
+   "url": "https://techafricanews.com/2026/11/24/safaricom-shiriki-pay-records-3-7-million-customer-opt-ins/",
+   "zone": "Afrique",
+   "id": "2026-11-24-mpesa-shiriki-pay"
+  },
+  {
+   "ajoute": "2026-11-25T05:40:33Z",
+   "date": "2026-11-23",
+   "resume": "Quand un agent IA achète pour lui chez un marchand Adyen, le client peut désormais choisir Klarna (paiement comptant, en plusieurs fois ou financement), en confirmant chaque achat. Les marchands qui acceptent déjà Klarna l'activent sans nouvelle intégration.",
+   "retenir": "Le commerce agentique ne se limitera pas aux cartes : crédit et paiement fractionné s'y invitent, ce qui ouvre une place aux banques prêteuses.",
+   "source": "The Paypers",
+   "techno": "commerce-agentique",
+   "theme": "IA & commerce",
+   "titre": "Adyen ajoute Klarna, premier moyen de paiement non-carte pour les achats par agents IA",
+   "url": "https://thepaypers.com/payments/news/adyen-adds-klarna-as-a-non-card-method-for-ai-agent-checkout",
+   "zone": "International",
+   "id": "2026-11-23-adyen-klarna-agentique"
+  },
+  {
+   "ajoute": "2026-11-25T05:40:33Z",
+   "date": "2026-11-23",
+   "resume": "Menta est une extension open source qui permet à ChatGPT, Claude, Grok ou d'autres assistants d'acheter dans des boutiques en ligne avec la carte du client, conservée dans un coffre conforme PCI et encadrée par un budget. Crossmint annonce 92 % de réussite sur plus de 100 marchands testés.",
+   "retenir": "Les cartes de vos clients vont être utilisées par des assistants IA : vos règles de fraude et d'authentification doivent savoir reconnaître ces achats légitimes.",
+   "source": "The Paypers",
+   "techno": "commerce-agentique",
+   "theme": "IA & commerce",
+   "titre": "Crossmint lance Menta pour faire acheter les assistants IA avec la carte du client",
+   "url": "https://thepaypers.com/payments/news/crossmint-launches-menta-plugin-to-let-ai-assistants-make-purchases",
+   "zone": "International",
+   "id": "2026-11-23-crossmint-menta"
+  },
+  {
+   "ajoute": "2026-11-25T05:40:33Z",
+   "date": "2026-11-23",
+   "resume": "La première banque égyptienne lance avec Mastercard une carte de crédit haut de gamme World Legend : salons d'aéroport pour le porteur et deux invités, accueil accéléré, avantages hôteliers et conciergerie 24 h/24. Elle vise la clientèle aisée qui voyage beaucoup.",
+   "retenir": "Les cartes premium à forts avantages voyage restent un levier de fidélisation de la clientèle patrimoniale, que les banques de l'UEMOA peuvent activer avec les programmes des réseaux.",
+   "source": "TechAfrica News",
+   "theme": "Cartes",
+   "titre": "La National Bank of Egypt lance la carte de crédit Mastercard World Legend",
+   "url": "https://techafricanews.com/2026/11/23/egypt-nbe-mastercard-launch-world-legend-credit-card-africa/",
+   "zone": "Afrique",
+   "id": "2026-11-23-nbe-mastercard-world-legend"
+  },
+  {
+   "ajoute": "2026-11-25T05:40:33Z",
+   "date": "2026-11-23",
+   "resume": "Avec LuLu Exchange, les utilisateurs de talabat aux Émirats peuvent envoyer jusqu'à 50 000 dirhams vers des comptes bancaires dans 14 pays, dont l'Inde, le Pakistan et l'Égypte, directement depuis l'application. L'identité est vérifiée par scan de la carte d'identité et du visage.",
+   "retenir": "Les transferts de la diaspora s'intègrent aux applications du quotidien : une banque peut proposer son service de transfert « en marque blanche » à des applications grand public.",
+   "source": "The Paypers",
+   "techno": "transferts-internationaux",
+   "theme": "Mobile money",
+   "titre": "Aux Émirats, l'appli de livraison talabat permet d'envoyer de l'argent à l'étranger",
+   "url": "https://thepaypers.com/payments/news/talabat-launches-send-money-abroad-remittances-with-lulu-exchange",
+   "zone": "International",
+   "id": "2026-11-23-talabat-lulu-transferts"
+  },
+  {
+   "ajoute": "2026-11-25T05:40:33Z",
+   "date": "2026-11-23",
+   "resume": "Au Singapore FinTech Festival, UnionPay International a annoncé l'intégration par défaut de ses capacités de paiement par agents IA dans les systèmes d'acquisition de Debia, et la prochaine acceptation des QR UnionPay et Weixin Pay sur l'application UOB TMRW. Plus de 200 wallets étrangers de 37 pays sont déjà reliés à son réseau.",
+   "retenir": "Après Visa et Mastercard, UnionPay pousse aussi le paiement agentique côté acquisition : les commerçants de vos clients pourront bientôt recevoir des paiements d'agents IA.",
+   "source": "Manila Times",
+   "techno": "commerce-agentique",
+   "theme": "IA & commerce",
+   "titre": "UnionPay intègre le paiement agentique chez l'acquéreur singapourien Debia",
+   "url": "https://www.manilatimes.net/2026/11/23/tmt-newswire/media-outreach-newswire/unionpay-international-showcases-agentic-payments-and-financial-ai-innovations-at-singapore-fintech-festival-2026/2475954",
+   "zone": "International",
+   "id": "2026-11-23-unionpay-debia-agentique-sff"
+  },
+  {
+   "ajoute": "2026-11-25T05:40:33Z",
+   "date": "2026-11-23",
+   "resume": "Les marchands qui utilisent la Visa Acceptance Platform aux États-Unis, au Canada, en Europe et au Royaume-Uni peuvent proposer le paiement fractionné Klarna à la caisse sans intégration séparée. Le réseau de cartes devient lui-même un canal de distribution du BNPL.",
+   "retenir": "Les réseaux de cartes intègrent le paiement fractionné à leurs propres outils : une banque acquéreuse peut proposer du BNPL à ses commerçants sans développement lourd.",
+   "source": "PYMNTS",
+   "techno": "bnpl",
+   "theme": "Crédit & BNPL",
+   "titre": "Visa intègre le paiement en plusieurs fois de Klarna à sa plateforme d'acceptation",
+   "url": "https://www.pymnts.com/bnpl/2026/visa-acceptance-platform-adds-klarna-bnpl-offering/",
+   "zone": "International",
+   "id": "2026-11-23-visa-acceptance-klarna-bnpl"
+  },
   {
    "ajoute": "2026-11-21T05:41:37Z",
    "date": "2026-11-20",
@@ -3410,6 +3516,12 @@
    "client": "Le client achète maintenant et paie en plusieurs fois, souvent sans intérêts s'il rembourse à temps.",
    "exemples": [
     {
+     "date": "2026-11-23",
+     "source": "PYMNTS",
+     "texte": "Les marchands de la Visa Acceptance Platform (États-Unis, Canada, Europe, Royaume-Uni) peuvent proposer le paiement fractionné Klarna sans intégration séparée.",
+     "url": "https://www.pymnts.com/bnpl/2026/visa-acceptance-platform-adds-klarna-bnpl-offering/"
+    },
+    {
      "date": "2026-11-20",
      "source": "E-Commerce Nation",
      "texte": "Depuis le 20 novembre 2026, en application de la directive européenne sur le crédit aux consommateurs, le paiement fractionné en ligne est soumis à une analyse de solvabilité, à une information précontractuelle avec TAEG et à un droit de rétractation de 14 jours.",
@@ -3418,7 +3530,7 @@
     {
      "date": "2026-11-17",
      "source": "Payments Dive",
-     "texte": "Klarna déploie sur invitation un assistant personnel qui trouve un produit, compare les prix et l'achète, accessible par SMS, WhatsApp et iMessage ; chaque paiement doit être validé par le client. Les achats passent par un moyen de paiement Klarna ou une carte de débit.",
+     "texte": "Klarna déploie sur invitation un assistant personnel qui trouve un produit, compare les prix et l'achète, accessible par SMS, WhatsApp et iMessage ; chaque paiement doit être validé par le client.",
      "url": "https://paymentsdive.com/news/klarna-launches-ai-concierge/875033"
     },
     {
@@ -3426,19 +3538,13 @@
      "source": "The Paypers",
      "texte": "Les clients de Bank Millennium peuvent désormais étaler en 3, 6 ou 12 mensualités leurs achats payés avec BLIK Płacę Później au-delà d'environ 68 euros.",
      "url": "https://thepaypers.com/payments/news/bank-millennium-adds-instalments-to-the-blik-pace-pozniej-service"
-    },
-    {
-     "date": "2026-11-13",
-     "source": "The Paypers",
-     "texte": "dLocal a branché le BNPL mexicain Kueski Pay sur le paiement en ligne de Decathlon Mexique, juste avant la grande période de promotions d'El Buen Fin.",
-     "url": "https://thepaypers.com/payments/news/dlocal-brings-kueski-pay-bnpl-to-decathlon-shoppers-in-mexico"
     }
    ],
    "fonctionnement": "Au moment du paiement, une solution de crédit intégrée au commerçant ou à la carte divise l'achat en échéances. Le commerçant est payé en totalité, et le prestataire de BNPL se charge du recouvrement.",
    "nom": "Paiement fractionné (BNPL)",
    "opportunite": "Une banque dispose déjà des données clients et de la licence de crédit : elle peut proposer le paiement en plusieurs fois sur ses cartes ou chez ses commerçants partenaires.",
    "ordre": 7,
-   "situation": "En forte croissance en Afrique (Afrique du Sud, Nigeria, Kenya) et de plus en plus encadré : en France, depuis le 20 novembre 2026, le paiement en 3 ou 4 fois est un crédit à la consommation avec analyse de solvabilité. Klarna le mêle désormais au commerce conversationnel par IA. Dans l'UEMOA, une forme sans crédit progresse avec Molo Molo Pay ; le durcissement réglementaire favorise les banques.",
+   "situation": "En forte croissance en Afrique (Afrique du Sud, Nigeria, Kenya) et de plus en plus encadré : en France, depuis le 20 novembre 2026, le paiement en 3 ou 4 fois est un crédit à la consommation avec analyse de solvabilité. Les réseaux l'intègrent à leurs outils (Klarna sur la plateforme d'acceptation Visa) et il entre dans les achats par agents IA (Klarna chez Adyen). Dans l'UEMOA, une forme sans crédit progresse avec Molo Molo Pay ; le durcissement réglementaire favorise les banques.",
    "statut": "em",
    "termes": [
     "Paiement en N fois",
@@ -3537,35 +3643,35 @@
    "client": "Un assistant IA trouve un produit, le commande et le paie pour le client, selon des règles et des plafonds que le client a fixés.",
    "exemples": [
     {
+     "date": "2026-11-24",
+     "source": "The Paypers",
+     "texte": "En Inde, Cashfree Wallet laisse des agents IA payer pour le client selon un budget, un nombre de paiements et une durée qu'il fixe, sans jamais voir ses données de paiement ; plus de 100 agents l'ont intégré.",
+     "url": "https://thepaypers.com/payments/news/cashfree-launches-cashfree-wallet-to-let-ai-agents-make-payments"
+    },
+    {
+     "date": "2026-11-23",
+     "source": "The Paypers",
+     "texte": "Adyen ajoute Klarna à son offre agentique : premier moyen de paiement non-carte pour les achats faits par un agent IA, avec paiement en plusieurs fois possible.",
+     "url": "https://thepaypers.com/payments/news/adyen-adds-klarna-as-a-non-card-method-for-ai-agent-checkout"
+    },
+    {
+     "date": "2026-11-23",
+     "source": "The Paypers",
+     "texte": "Crossmint lance Menta, une extension open source qui permet à ChatGPT, Claude ou Grok d'acheter en ligne avec la carte du client, stockée dans un coffre PCI et encadrée par un budget.",
+     "url": "https://thepaypers.com/payments/news/crossmint-launches-menta-plugin-to-let-ai-assistants-make-purchases"
+    },
+    {
      "date": "2026-11-19",
      "source": "TechAfrica News",
-     "texte": "Le fabricant des smartphones TECNO, Infinix et itel et Visa ont signé un accord couvrant le commerce par agents IA, le paiement sans contact par téléphone et montre, et l'acceptation marchande via Tap to Phone, en commençant par l'Afrique. Une première transaction réelle via le wallet de Transsion et Visa Intelligent Commerce a déjà été validée.",
+     "texte": "Transsion (TECNO, Infinix, itel) et Visa ont validé une première transaction agentique réelle et commenceront par l'Afrique.",
      "url": "https://techafricanews.com/2026/11/19/transsion-and-visa-partner-to-expand-agentic-payments-and-digital-acceptance-in-emerging-markets/"
-    },
-    {
-     "date": "2026-11-17",
-     "source": "Lightspark",
-     "texte": "Lightspark propose des Agent Accounts qui permettent à un agent IA de détenir un solde en dollars, euros, monnaies locales ou stablecoins, de payer et d'être payé dans 65 pays via des rails comme SEPA Instant, Pix, UPI ou M-Pesa. Le titulaire fixe des plafonds et des validations.",
-     "url": "https://www.lightspark.com/news/lightspark/introducing-lightspark-agent-accounts"
-    },
-    {
-     "date": "2026-11-17",
-     "source": "Visa",
-     "texte": "Visa étend son programme de préparation au commerce par agents IA aux acquéreurs, PSP et marchands, avec plus de 140 participants dont Adyen, Stripe, PayPal, Checkout.com, Fiserv et Worldline. Il s'ajoute aux plus de 175 émetteurs déjà inscrits dans 45 marchés, et d'autres rejoindront le programme en 2027.",
-     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22986.html"
-    },
-    {
-     "date": "2026-11-17",
-     "source": "The Paypers",
-     "texte": "La fintech égyptienne Klivvr permet à son assistant K.ai d'exécuter des transferts vers d'autres utilisateurs directement depuis la conversation.",
-     "url": "https://thepaypers.com/fintech/news/klivvr-updates-kai-assistant-to-make-transfers-through-chat"
     }
    ],
    "fonctionnement": "Les réseaux créent des tokens dédiés aux agents IA, avec des limites (montant, marchands autorisés) et une preuve que le client a donné son accord. Le commerçant sait qu'un agent agit au nom d'un client vérifié.",
    "nom": "Commerce agentique (l'IA qui paie pour le client)",
    "opportunite": "Sujet idéal pour se positionner en experte : peu de personnes le maîtrisent encore dans la zone, et il repose sur la tokenisation que les banques mettent en place aujourd'hui.",
    "ordre": 10,
-   "situation": "Le commerce par agents IA entre dans le grand public : ChatGPT Wallet aux États-Unis, programme Visa Agentic Ready ouvert le 17 novembre à plus de 140 marchands et PSP, comptes dédiés aux agents chez Lightspark. L'Afrique arrive dans la boucle : Transsion (TECNO, Infinix, itel) et Visa ont validé une première transaction agentique et commenceront par le continent. Tout repose sur des cartes tokenisées.",
+   "situation": "Le commerce par agents IA entre dans le grand public : ChatGPT Wallet aux États-Unis, programme Visa Agentic Ready ouvert à plus de 140 marchands et PSP, portefeuilles d'agents à budget (Cashfree, Lightspark), extensions d'achat pour assistants (Crossmint Menta). Le modèle s'élargit au-delà des cartes avec Klarna chez Adyen, et UnionPay l'intègre côté acquisition à Singapour. L'Afrique arrive dans la boucle avec Transsion et Visa.",
    "statut": "mon",
    "termes": [
     "Agent IA",
@@ -4220,6 +4326,12 @@
    "client": "Le client envoie ou reçoit de l'argent d'un autre pays plus vite et moins cher, parfois sans passer par le dollar, directement vers un compte ou un wallet.",
    "exemples": [
     {
+     "date": "2026-11-23",
+     "source": "The Paypers",
+     "texte": "Aux Émirats, l'application de livraison talabat permet avec LuLu Exchange d'envoyer jusqu'à 50 000 dirhams vers des comptes bancaires de 14 pays, avec vérification par scan du visage.",
+     "url": "https://thepaypers.com/payments/news/talabat-launches-send-money-abroad-remittances-with-lulu-exchange"
+    },
+    {
      "date": "2026-11-19",
      "source": "Manila Times",
      "texte": "UnionPay et Bank of China relient facture électronique et carte commerciale UnionPay pour payer les exportateurs chinois en yuans.",
@@ -4236,12 +4348,6 @@
      "source": "PYMNTS",
      "texte": "Bottomline, fournisseur de logiciels de paiement pour banques et entreprises, a effectué ses premiers transferts transfrontaliers réels en USDC via son Global Payments Hub.",
      "url": "https://www.pymnts.com/news/cross-border-payments/2026/bottomline-marks-first-cross-border-stablecoin-transactions/"
-    },
-    {
-     "date": "2026-11-10",
-     "source": "Launch Base Africa",
-     "texte": "La fintech sud-africaine Lumepay annonce une levée de 6 millions de dollars et environ 10 millions de liquidités pour ses paiements transfrontaliers entre entreprises.",
-     "url": "https://launchbaseafrica.com/2026/11/10/south-african-fintech-lumepay-raises-6m-pre-seed-to-build-africas-institutional-cross-border-payments-rails/"
     }
    ],
    "fonctionnement": "Les banques se branchent sur de nouveaux réseaux (CIPS chinois, PAPSS africain, rails de Visa/Mastercard ou stablecoins) qui convertissent directement une monnaie locale vers une autre et règlent l'opération en quelques secondes ou heures.",
@@ -4262,30 +4368,6 @@
   }
  ],
  "echeances": [
-  {
-   "date": "2026-11-16",
-   "detail": "16 et 17 novembre 2026 : forum africain de la cybersécurité, avec un volet sur la sécurisation des systèmes de paiement numériques.",
-   "source": "allAfrica",
-   "titre": "Cyber Africa Forum à Cotonou",
-   "url": "https://fr.allafrica.com/stories/202610220156.html",
-   "id": "2026-11-16-cyber-africa-forum-cotonou"
-  },
-  {
-   "date": "2026-11-17",
-   "detail": "Le bandana sans contact Cash App x Nahmias est vendu 85 dollars, uniquement via Cash App, à partir du 17 novembre.",
-   "source": "Payments Dive",
-   "titre": "Bandana de paiement Cash App en vente",
-   "url": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/",
-   "id": "2026-11-17-cash-app-bandana"
-  },
-  {
-   "date": "2026-11-17",
-   "detail": "La CMA décidera ensuite si Apple doit ouvrir le sans contact de l'iPhone aux wallets concurrents à moindre coût.",
-   "source": "Tech Insider",
-   "titre": "Fin de la consultation britannique sur l'ouverture du NFC de l'iPhone",
-   "url": "https://tech-insider.org/uk-cma-apple-iphone-nfc-nov-17-deadline-2026/",
-   "id": "2026-11-17-cma-nfc-iphone"
-  },
   {
    "date": "2026-11-19",
    "detail": "19 et 20 novembre au King Fahd Palace, ouverture par le Gouverneur de la BCEAO ; annonces BCEAO et GIM-UEMOA attendues à l'ouverture, GIM-Awards le 20.",
